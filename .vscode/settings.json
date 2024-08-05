@@ -1,0 +1,19 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "cSpell.words": [
+        "bitermplus",
+        "biterms",
+        "csvfile",
+        "csvreader",
+        "dataframe",
+        "freqs",
+        "gensimvis",
+        "iloc",
+        "ollama",
+        "punct",
+        "stopwords",
+        "Tfidf",
+        "tmplot",
+        "yhat"
+    ]
+}

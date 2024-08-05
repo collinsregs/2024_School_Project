@@ -1,0 +1,2167 @@
+[
+  {
+    "id": "t3_19eraoe",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/Horhorist/wergera-alfabeyen-kurdi",
+    "title": "flaskpy in vercel",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19er6hf",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://berjon.com/chimeralogist",
+    "title": "Those Who Can't Be Named",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Here's a hint to decide on reading the post or not:\n\nThe post discusses a unique group of professionals he calls \"technologists.\" These individuals possess a hybrid skill set encompassing technology, policy, and user understanding, enabling them to develop solutions that consider the complex interplay of engineered systems, people, and institutions. Berjon notes that these technologists are not necessarily the best engineers or policy experts but have a keen understanding of how various domains interact. This perspective allows them to see beyond traditional methods and envision change in the technology ecosystem. The post emphasizes the importance of this role in navigating the digital world and shaping technology and policy for positive societal outcomes. Berjon invites readers who identify with this description to connect and help define this emerging profession.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19eqjfv",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/wpcarro/slx.js",
+    "title": "Gmail style querying in the browser",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19epuuk",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/zed-industries/zed/tree/main",
+    "title": "Zed editor went Open Source!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "See also https://www.reddit.com/r/programming/comments/19enm8m/the_zed_text_editor_is_now_open_source/ and https://www.reddit.com/r/programming/comments/19emfsn/the_zed_multiplayer_text_editor_is_now_open_source/",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Oops.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19eppbt",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/GreenmaskIO/greenmask/releases/tag/v0.1.1",
+    "title": "Greenmask database obfuscation tool release",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ep7j7",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/watch?v=T_4OlBpm8hc",
+    "title": "🚀 The Transition from Developer to Manager: Navigating New Challenges",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ep28v",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://sqlite.org/fiddle/index.html",
+    "title": "SQLite3 Browser Fiddle",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19eojn6",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.palantir.com/ontology-oriented-software-development-68d7353fdb12",
+    "title": "Ontology-Oriented Software Development",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19enm8m",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://x.com/zeddotdev/status/1750203594186350876?s=20",
+    "title": "The Zed Text Editor is now Open Source",
+    "points": null,
+    "comments": [
+      {
+        "comment": "58ms \"insert latency\" doesn't seem fast. I have no problem with it but using the word 'fast' I'd except 60fps on a 4K screen\n\nI'd like to know what happens if I open a 100MB json file or if I jump to a line in the middle of a large java file",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "That 58ms is to:\n\nOpen input.rs at the end of line 21 in rust-lang/regex. Type z 10 times, measure how long it takes for each z to display since hitting the z key.\n\nSeems like the whole round trip.\n\nNot as good most games, but their little chart reckons it's faster than Sublime, VSCode and CLion (at least for that specific benchmark...)\n\nhttps://zed.dev/",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "60fps is about bandwidth though, it’s not like each keystroke is doing 58ms of work on the main thread. I think the total accounts to like keyboard polling, compositor double buffering, display and gpu sync etc.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Honest question, does the speed of the text editor really matter that much to the average user? I've never opened a normal sized file in vscode and had noticeable issues.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "100mb json file?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "MacOS only, it's dead on arrival IMO.",
+        "points": "42 points",
+        "children": [
+          {
+            "comment": "Zed's dead, baby",
+            "points": "24 points",
+            "children": [
+              {
+                "comment": "It's not a motorcycle, baby, it's a chopper.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "Reddit is awesome",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Their borderline coy way of shutting down people who have pointed this out really doesn't spark much confidence either.\n\nI understand in open source maintainers have a bit more leeway about what they're willing to work on or not, but considering they're both intending to get a foothold in an already pretty competitive niche (VSCode, Vim, and Emacs practically completely saturate the \"IDE-like\" market) and make parts of the app proprietary, I really don't think this will do them much good in the long run.\n\nIt's a shame too, because saturated market or not, more choices are always good, especially if they bring good stuff to the table.",
+            "points": "9 points",
+            "children": [
+              {
+                "comment": "more choices are always good\n\nYou know I've always hated this sentiment. More competition is generally good, more garbage isn't good just because there are more choices. Look at the Google Play store, lots of choices but you'd be hard pressed to argue it's not detrimental to both the user and dev experience and ability to find the actual quality apps in that mess.\n\nI'm not saying Zed's garbage, I've never used it, but this is one of those things that gets repeated like it's gospel when really it's just nonsense.",
+                "points": "9 points",
+                "children": [
+                  {
+                    "comment": "Fair enough. I did mean \"choice\" as in \"something you'd reasonably want to pick\", but maybe I should've said competition to make that clear.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I think they would probably bring support to other OSes later. Would feel like too much of a hassle to launch on all operating systems right from launch.",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "Apparently they rely heavily on Metal so this thing won't be working outside of MacOS for a while.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "Someone on the team said on Hacker News that they’re planning a Linux release by end of year.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "By end of year we are gonna get AGI, ain't nobody gonna be excited about a text editor 😅",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "from the creators of Atom\n\nI tried to like Atom, but it was just so slow. Software needs good implementation, not just good ideas.\n\nI’ll pass for now, until I hear about this again.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do we know how much this different from VSCode? Extension and feature wise.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I don't think it is right now atleast(I could be wrong) since it is a bit new and has a smaller team working on it. But let's see what the future holds for them",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It doesn't have extensions (yet).\n\nIts unique selling point is real time collaboration features.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19enef4",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jerkytreats.dev/blog/hypothesis-driven-development",
+    "title": "Hypothesis Driven Development",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emrpy",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://flatlogic.com/blog/best-10-gpts-for-developers-flatlogics-list/",
+    "title": "found very nice article where collected best GPTs for developers",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emdxp",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://twoslash.netlify.app/",
+    "title": "Twoslash: Markup for generating rich type information in documentation",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emkjd",
+    "subreddit": "u/smallSohoSolo",
+    "dataType": "link",
+    "dataUrl": "https://illacloud.com/illa-flow?utm_source=reddit&utm_medium=ad&utm_campaign=fe_flow",
+    "title": "Visual workflow automation for developers. Integration with PostgreSQL, MySQL, RestAPI, or other popular sources.",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emi51",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://quuxplusone.github.io/blog/2024/01/23/capturing-lambda-deducing-this/",
+    "title": "Fun with “deducing this” lambdas",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emhqb",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html",
+    "title": "Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emhp4",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html",
+    "title": "Sensenmann: Code Deletion at Scale",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Yep, deleting code sometimes feels strange but I agree that it usually pays off.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19emhob",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.sjoerdlangkemper.nl/2024/01/17/mysql-mariadb-rand-random-number-generator/",
+    "title": "MySQL's random number generator",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emhew",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/",
+    "title": "The 286's internal registers",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emhb3",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.cassidoo.co/post/annoyed-at-react/",
+    "title": "Kind of annoyed at React",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emh6x",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html",
+    "title": "Parallel stream processing with zero-copy fan-out and sharding",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emfsn",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://zed.dev/blog/zed-is-now-open-source",
+    "title": "The Zed multiplayer text editor is now open source",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emfii",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://xuanwo.io/2024/01-why-sql-hang-for-exactly-940s/",
+    "title": "Why SQL hang for exactly 940s? TCP and Async Rust",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19eme0z",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html",
+    "title": "You (probably) don't need to learn C",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Counterpoint: you probably should, anyway.",
+        "points": "81 points",
+        "children": [
+          {
+            "comment": "Came here to say exactly that. It's worth knowing.",
+            "points": "12 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I will never sign up to write C. I'm terrible with pointers and memory management. But I'm glad I took a C class. Without being able to do the wizardry myself, understanding how memory is allocated and how that lower level stuff works helps me in the higher level lands to write code that is efficient.",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "No. You absolutely should. If you want to be an engineer, learn C. You don't need to become an expert, but it will teach you what's going on under the hood of pretty much every other language there is except for assembly.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Why?",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "Because it'll harden you as a programmer and force you to learn how software works on the low level.\n\nThe article claims that \"you don't need C to learn how x, y, and z work, you can just learn them from other resources\" is silly because forcing yourself to learn C has been the best way for someone to actually learn those concepts in my and most people's experience.\n\nThe further claim that \"high level languages abstract the details of memory, compilation, linking, etc, so you don't need to learn it\" is just inviting people to be ignorant and lazy. These things don't cease to matter in software just because high-level languages abstract them.\n\nA good programmer should be well rounded in all aspects of software. They should have a basic understanding of how digital electronics work, they should have a basic understanding of how the CPU works, and they should have a basic understanding of memory, compilation, linking, and loading. You will only benefit from learning it.",
+                "points": "10 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Thanks. You really should.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "counter-counter-point unless you are working with C code, learn Zig instead.",
+            "points": "-19 points",
+            "children": [
+              {
+                "comment": "counter-counter-counter point(er) the embedded tool chains for C are much more mature*\n\nspoken as someone who has never touched Zig",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Counter-counter-counter c has much more historical significance.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You know, I never understood this.\n\nAm I the only one reading library code? A lot of libraries, even in high level languages eventually become C.\n\nHeck, even yesterday I wanted to understand something in the go runtime, so I opened the code and guess what? it was written in C...\n\nAlso, I feel like when I'm doing performance stuff, I always end up reading a bit of kernel code, which is yet again... written in C.\n\nEDIT: forgot to add, IDA decompiler, for when you don't have documentation for a library, like cocoa (curse apple).",
+        "points": "42 points",
+        "children": [
+          {
+            "comment": "This is a skill that a lot of people don't realize is useful. Being able to read code in a variety of languages will help you understand what's going on in a system you link against or use as a component.\n\nI have someone working for me now who is dealing with performance issues of a system we've built. He just opened up the code and examined precisely what's going on. The docs only told part of the story and it's been insanely valuable.",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "May I ask which issue made you need to jump to pre version 1.5? I'm actually curious because I am currently writing a toy language and I want to find a way to marry the ownership model with Go's concurrency with a Zig-like syntax. So I'm reading code from the original versions of the three of them\n\nAlso, I agree with your sentiment but delving deeper into why people should learn C would be a less exciting topic since you already know its value.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "C is fast (when it is well-written).\n\nI think C is also a horrible language, but it is super-efficient.\n\nIt would be kind of cool if people could come up with a language that is as elegant as ruby or python, but as fast - or, at the least, comparable in speed - to C. (No, crystal is not at all what I have in mind. Go is kind of a \"simpler C\", but I also find it ugly when comparing it to Python. Java can not really compete with C and C++ despite claims of the opposite. It's an ok-ish language though.)",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Java can not really compete with C and C++ despite claims of the opposite. I\n\nI think it totally depends on the domain. For throughput constrained environments, Java is usually fine. But using garbage collected languages in a real time application can definitely affect it heavily",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Rust would like a word",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Theoretically there's nim, the only problem is adoption, like all the new C style languages.\n\nThe only real accepted low level languages today are zig and rust I think.",
+                "points": "-3 points",
+                "children": [
+                  {
+                    "comment": "And they don't have super good adoption. Especially zig. It's great though, almost ready for primetime.\n\nEdit: also C is fucked. The syntax is great but the package management is just...pure hell. Pure. Hell. People hating on JS don't know shit about bad package management",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "I was sold on zig when i learned that they have i2, i3, etc. - not for a good reason, but because it's very funny",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "What are those? A data type?",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "yeah, 2-bit and 3-bit signed ints",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "You should try writing something like this in PHP subreddit, they are going to be so happy to explain two things -> PHP is fast enough and \"I work with PHP for 200 years and I never needed to know internals\".\n\nThis is that happens then people do not learn C, they start working with PHP and love it.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "May I ask you about some easier (to read) libs to start learning?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I like libuv (the event loop node.js is built on)",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "you can write lots of great software without knowing C\n\nYes - but there is a limit. There is a reason why C and C++ are used for core stuff and many libraries. They are fast. How should python compete there?\n\nDespite all the counter-claims made, it's a no-contest.\n\nC is far removed from modern computer architectures: there have been 50 years of innovation since it was created in the 1970’s.\n\nWell ... Linux is C ... Microsoft is C++ or C#? So ... it's all about C really.\n\nA question I asked a number of people: what mistakes are JavaScript/Ruby/Python developers making if they don’t know these things (C, syscalls, pointers)?”. I didn’t get strong answers.\n\nYou can easily program without C. But, speed-wise, can you compete? An operating system in Python? Show me the code?\n\nYou (probably) don’t need to learn C.\n\nI highly recommend people actually master C first before using ruby or python. That is not realistic, of course, but it is MUCH harder to go from ruby to C. Ruby is a lot more fun and easy on the brain. C is not easy on the brain at all. Yet after learning Ruby, seriously learning C and using it is like hitting yourself on the head, when something is sooooooo super-trivial in Ruby, but god-damn awful in C. I absolutely hate printf() for instance; even C++ is nicer with the <<. C in many ways is awful, but there is also not really a way around it for many, many things.\n\nEven TIOBE, our GOLDEN STANDARD (everyone hates it), agrees with it:\n\nhttps://www.tiobe.com/tiobe-index/\n\nC ranks a bit below Python. Despite being such a horrible language. And there are good reasons why C is ranked so high.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "C forces you to think like a computer. Not in some vague, hand-wavy way of “the system thinks this”. No, C will only do what you tell it to.\n\nI think of learning C as the Real Analysis of programming. Learning C makes you understand and appreciate what comes on top of it, even if, outside of some very, very niche cases the actual knowledge you learn is dead weight. And while you don’t need it to be pretty good, being truly excellent without having bashed your head into some terrible nonsense involving pointers is kind of hard.",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "C without an OS is really interesting in that way. Running C on an FPGA implemented CPU was very cool to learn on… set up registers at exact address location and directly access them in C code. One of my coolest interview pitches out of college was doing that with other peripherals like DACs sitting out at those addresses!",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "C and python combined is awesome too. Write your code to interface with hardware in C, crest python wrappers for it, script stuff in python to use it…",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Microsoft is C++ or C#?\n\nMostly C++, a little C and I believe the graphics stack is C#.\n\nAn operating system in Python?\n\nNot specifically Python but an OS in a compiled, garbage collected language is more than possible.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Microsoft is still mostly C/C++. Some of the C++ was basically C to start with and they wrapped it in classes. And please don't get me started on Office.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I meant NT rather than userspace programs.",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "The highly-dynamic nature of Python makes it problematic as unless you're writing a strict subset, you need a runtime. And that runtime will be C or C++.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "\"Dynamic\" is a very broad word. But what's stopping you from making that runtime in Python?",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Because now your runtime requires a runtime.\n\nPython doesn't lend itself well to full AOT compilation. You can AOT compile a strict subset.\n\nOther languages like C# have similar limitations (and kernels have been written in C#).",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Not necessarily. Look at mbuild for Mezzano, where they make their own runtime to be able to compile to a freestanding target.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Their runtime is written in a strict subset of Common LISP.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "Is it? The package.lisp of their compiler is full of (:use :cl)s. But regardless, it results in being able to use the full language in the actual project.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "That was my point, though. At some point you have to use a subset. Your code for handling arrays can't depend on your code for handling arrays. You can use a subset to bootstrap a full implementation, but it still needs to be there.",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "They seem to already be using the full language for the runtime? Which is why SBCL is necessary in the first place I'd guess. In any case, your argument only works for interpreted languages.",
+                                            "points": "0 points",
+                                            "children": [],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I usually recommend that people start with python to learn very basic programming, then move to C to learn how things work, then move back to python again once they're more experienced.",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would argue that \"learning C\" doesn't teach you a lot of those things; developing projects in C gives you experience dealing with the system at a level that allows you to learn a lot of lessons you wouldn't get elsewhere. It's not that knowing C is valuable; it's that the experience you have working in C is valuable.\n\nFor example: anyone can read a book on malloc() and free() and get the idea that you should allocate memory and free memory; but that doesn't teach you about ownership of memory and how you design software around knowing who owns memory and being clear about that. The result of not knowing that lesson is that you get into C++ and suddenly you're throwing shared_ptr around everywhere because you're not thinking clearly about ownership. Sure it works, but it doesn't work well and some day you run into performance issues with shared pointers being thrown around everywhere causing lock contention.\n\nWorking in C gives you experience that informs the rest of your practice.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "I would never describe reading a book on the details of a programming language as 'learning the language', in the same way that I wouldn't describe reading a book of French grammar and a French dictionary as 'learning French'.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you're just using more abstract languages that don't run into the common problems caused by C's design, those languages still mostly use C to write things like extensions.\nEven if you write them in Rust or C++, you still need to write the extension interface parts in extern \"C\" and understand what that means.\nI also think you should have a rough idea of how much work the computer has to do to provide the abstractions that allow you to ignore things like pointers and memory management in the first place. Sure, there are languages like LLVM IR that are even closer to the metal, but does anyone really program in those?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "you still need to write the extension interface parts in extern\n\nOnly the declarations and exported symbol linkages need to be C-linkage. It really doesn't impact the code itself much.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No one is saying you have to get started with learning C as a beginner, but learning how to read C code has to do more good than harm, no? It’s not a particularly verbose language — for instance, it has a very small number of reserved keywords relative to something like Java or JavaScript. Writing C code forces you to think at the system level and make important decisions that can more directly impact performance.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For most people, learning C would be a waste of time that could be better spent on modern languages. Learn Go, or Haskell, or Elixir, or Rust. I was an early adopter of C, and it was a great advance in its time, but that time is long gone for most people. If you need it, great, have a ball. But most will never need it.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "why learn math if you can just use a calculator, right? /s\n\nseriously, the lengths people go to in trying to justify why they can keep being ignorant and lazy is astonishing. Just put half that effort into learning C and (reading) ASM and you‘ll actually benefit from it. It‘s not as hard as the mental gymnastics you‘re pulling off right now.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That's a very not unpopular take, since a large portion of devs are web/android devs, and most of them don't know anything outside there little environment of framework. Yet it's a terrible take. Learning more languages, libraries, paradigm... is rarely a need but it will definitely make you a better dev.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19emdsv",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html",
+    "title": "Making Rust binaries smaller by default",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emdru",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/Dicklesworthstone/introduction_to_temporal_logic",
+    "title": "An introduction to temporal logic and how it can be used to analyze concurrency",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ema53",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://devblogs.microsoft.com/oldnewthing/20230324-00/?p=107966",
+    "title": "The case of the jump into the middle of an instruction from nowhere",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19em9au",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://bernsteinbear.com/blog/scrapscript/",
+    "title": "scrapscript.py",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19em7p3",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/",
+    "title": "The rise and fall of the standard user interface — IBM's SAA and CUA brought harmony to software design… until everyone forgot",
+    "points": null,
+    "comments": [
+      {
+        "comment": "(By me on El Reg.)",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Well done. Thanks!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19em1c2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://news.opensuse.org/2024/01/19/podman-wasm-support/",
+    "title": "openSUSE Tumbleweed integrates Wasm: run Wasm workloads with Podman & crun",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19el6qk",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/BiagioFesta/wtransport",
+    "title": "A Web-Transport client and server written in Rust",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ekrs2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/SandroRybarik/lilvm",
+    "title": "lilvm - small virtual machine written in JS for fun!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Online playground to play with it: https://sandrorybarik.github.io/lilvm/\n\nImplementing parser for such thing was fun. Code itself is very easy to understand and extend. Adding new instruction is matter of picking name and operands.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ejepn",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://app.daily.dev/posts/iYUWdtKHa",
+    "title": "12 Modern CSS One-Line Upgrades",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Add the direct link to the article https://moderncss.dev/12-modern-css-one-line-upgrades/?ref=dailydev",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "why is this a link to a link",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ei6im",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/LrfYaxOVu_g",
+    "title": "🎥 Dive into our Stunning HTML & CSS Card Animation Tutorial – perfect for both pros and learners!",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19eh9mr",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.aklivity.io/post/zilla-hails-a-taxi",
+    "title": "Taxi Location simulator with Kafka, MQTT, Zilla, and Open Street Maps",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I built this demo for a conference last year. It simulates taxis sending their location via MQTT to the Zilla MQTT broker, which proxies them onto Kafka topics. The map UI talks to Kafka with Zilla's REST and gRPC endpoints. Check out my blog post or the repo to see how it works.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19eh06y",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/jpjacobpadilla/Google-Docs-To-Clean-HTML",
+    "title": "Google Docs HTML Cleaner Project! | Jacob Padilla",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19egzyj",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/pjlLe3XlytE?si=7cW4cc8WDvk4kAUN",
+    "title": "Python vs C++ Speed Comparison",
+    "points": null,
+    "comments": [
+      {
+        "comment": "yeah, you accidentally proved that C++ is magnitudes faster.\n\nBut this is complete bullshit code: with any kind of optimizations enabled, the C++ compiler would turn this into a single return instruction and completely optimize out the whole loop and it would take fractions of a millisecond. whole code boils down to an implicit constant expression after all. you can see that on godbolt by inspecting the ASM generated.\n\nhttps://godbolt.org/z/h3PrP6Enj\n\noh, and with proper initialization:\n\nhttps://godbolt.org/z/je6GzK4hb\n\nstill 1 mov",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Like comparing a prop plane with a jet plane. One is interpreted, one is compiled. no comparison.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I'd be interested in the corner cases where python does beat c++",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Loops are in the faster parts of the cpython. Python uses bignums as default, a better analogue would be using GMP on Cpp side.\n\nOn some realworld examples, the speed difference can be in multiple orders of magnitude. C++ compilers do so much magic.\n\nBut, on Python people likely to use optimized native libraries for bottlenecks; only use python as conveyor belts to move data in and out.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m gonna guess c++ wins",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"Simple yet impactful\". Uh huh. This is some real-world code, for sure.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Okay but now compare the speed of making a change to some obscure business logic in an ancient unmaintained application for which you have no build documentation, no standard build environment, and all the variables are named single letters.\n\nInterpreted languages definitely have speed advantages, just not in execution.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Now show me undefined behavior in python...",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Fun fact: Python integers are bignums, so C++ will win all benchmarks like this until you reach INT_MAX - 1, after which Python will win by default.",
+        "points": "-5 points",
+        "children": [
+          {
+            "comment": "Even when the numbers are small?",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "When all you have to offer is speed that means the rest of the language sucks",
+        "points": "-17 points",
+        "children": [
+          {
+            "comment": "filtered",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "cpp programers getting mad their language is unbearable and they keep losing marketshare",
+            "points": "-4 points",
+            "children": [
+              {
+                "comment": "OP's post and your comments are exactly why we shouldn't let python users write C++. Just take the L already.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "What L the shitty language here is cpp. Every senior tha makes a YouTube video the first thing they say is the dont recommend cpp. Dont be mad at me cpp sucks",
+                    "points": "-3 points",
+                    "children": [
+                      {
+                        "comment": "OK take it from a senior that is not on youtube (because i actually do real work) then: the lack of understanding C++ (and ASM) is the reason why you guys don‘t even begin to come close to understanding what you are doing and put out videos like this. Calling yourself a programmer should be a criminal offense.\n\nThe fact you have to refer to some youtubers for your opinion is laughable, you didn't even make it up yourself. OP's post perfectly demonstrates this: all this video shows is a complete lack of understanding how programming languages and compilers work in general, not even C++ specific. You want to trust people like that?\n\nC++ is hard yes, but so is any other similarly powerful language and computer science in general. Just because it‘s easy to whip up a few lines of python or js doesn‘t mean you‘re qualified to judge whether or not the complexity of C++ is merited. You are simply not qualified to make this kind of assessment.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19egghv",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/p/d8f820ca2af6",
+    "title": "Why Does Chrome Use a Lot of Memory?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I saw the medium link and thought “oh god, another medium article.” Then I took a step back and realized that I was making assumptions.\n\nThe article is essentially “chrome uses the V8 engine, it wants to go fast, it doesn’t limit memory. Try closing tabs or use another browser.”",
+        "points": "34 points",
+        "children": [
+          {
+            "comment": "I saw the medium link and thought “oh god, another medium article.” Then I took a step back and realized that I was making assumptions.\n\nDid the same, then read your comment to try it. Nope, still the reader hostile medium environment. So I couldn't read the article.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "Which bit do you consider \"reader hostile\" — the initial popup?",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "OP, just FYI this is a very common perception - I like to cross post to Substack since people are more tolerant of it\n\nThis is a nice article, I’d love to see a more in-depth followup based on questions you’re asked as a result!",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Substack is equally hostile to readers. No I will not make an account, I will not log in, no I don't want to log in with Google, no I don't like any of your tracking cookies, ...",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "I don't think you're appreciating the difference in hostility. It's orders of magnitude.\n\nLike all websites that operate in the EU, both have the annoying mandatory cookie banner.\n\nSubstack has a slightly annoying popup that asks you to subscribe, which is toggleable by the author. Generally, as well, paywalls are only found halfway down each article and this is also configurable.\n\nMedium on the other hand blocks you from even reading free articles unless you create an account. If the article is paywalled, everything past the first paragraph or two are blocked.",
+                    "points": "-3 points",
+                    "children": [
+                      {
+                        "comment": "Websites in the EU only need a cookie banner if they use cookies for non-essential reasons (most likely, for tracking)",
+                        "points": "7 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Both are shit. There is no good shit and bad shit.\n\nIf I can’t read it, I already know it isn’t worth my time.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "it's just giving an general answer behind the question \"WHY', simple as that ....",
+            "points": "-9 points",
+            "children": [
+              {
+                "comment": "The real answer is almost certainly: Screens are huge nowadays, the browser therefore has to allocate a lot of large textures to fill all that screen space (also multiple layers of them so they can scroll without individually having to be rerendered). JavaScript certainly plays a large part too, but it's less than half the memory usage on average. This Reddit tab for example right now takes 313 MiB, whereas JavaScript's heap only makes up 91 MiB of that. The textures make up around 125 MiB it seems (I didn't bother adding the 20 or so that were less than 1 MiB) and that's just the layers, not even the textures that make up the font and image cache.\n\nInstead of downvoting, just open dev tools and see for yourself? It's not like they hide this from you.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "For sure, but even the browser plays a significant role in managing resources, especially with the V8 engine's rapid execution. While the article emphasizes V8's speed as a reason for Chrome's high resource consumption, it doesn't delve into how the browser itself contributes to memory usage. Chrome's lack of strict limits on resource usage can lead to increased memory usage, particularly with multiple tabs open. So, beyond the V8 engine, Chrome's overall design also influences its impact on system resources.",
+                    "points": "-6 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Chrome’s high resource consumption, such as RAM, is mainly due to V8’s rapid execution.\n\nIf this really is the main cause, why isn't \"disable JavaScript\" one of the solutions? The two that are given — close tabs & use a different browser — are very common advice and pretty obvious, but the cause being JS is much more original and useful info.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Because it's a dishonest and reactionary take.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Certainly, disabling JavaScript wasn't explicitly mentioned as a solution, but it can be a viable option for those willing to trade off certain functionalities for reduced resource usage. However, it's worth noting that many modern websites heavily rely on JavaScript for dynamic and interactive features. Therefore, disabling JavaScript might hinder the full functionality and user experience of certain websites. The suggested solutions are just for poor people like me....",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "disabling JavaScript might hinder the full functionality and user experience of certain websites\n\nOh, sure, but no more than closing the tab would ;)",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "Totally different solutions!, disabling js will cause multiple errors, because each website relays on js on a different way...., but as I said its totally related to the user, if u have a nice config u don't need to listen to poor people hardware advice about this simple issues ....",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Closing tabs stops the website the tab was open to, but disabling JS breaks the websites you still have open.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "It'd be nice to be able to render the page with javascript on, then turn it off. There are very, very many pages I'd prefer not to be active once they're there.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because it does a lot of things",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The problem with \"consume a lot of memory\" does not means much, how much is high consumption, how other browser are doing, how do you quantify memory usage etc ...\n\nHaving 20 tabs open with YouTube and Spotify open and using 2GB, is it a lot, is it not much?\n\nPlus there is all the complexity on how you see memory usage vs what the OS is really using, pages in cache etc ...",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "You make a valid point; the article lacks specific figures for Chrome's memory consumption, making it challenging to assess its severity. The example with 20 tabs using 2GB highlights the need for context. The complexity of interpreting memory usage, considering factors like cache pages, is a crucial aspect not thoroughly covered. A more detailed exploration of specific metrics and benchmarks could enhance the article's comprehensiveness.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19egg15",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/p/6f9dc4c6d31d",
+    "title": "Understanding the Differences Between Web Packages",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emkjd",
+    "subreddit": "u/smallSohoSolo",
+    "dataType": "link",
+    "dataUrl": "https://illacloud.com/illa-flow?utm_source=reddit&utm_medium=ad&utm_campaign=fe_flow",
+    "title": "Visual workflow automation for developers. Integration with PostgreSQL, MySQL, RestAPI, or other popular sources.",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19egbka",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.dasca.org/world-of-big-data/article/which-programming-language-is-ideal-for-data-science-python-or-r",
+    "title": "Which Programming Language is Ideal for Data Science: Python or R?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "There's some weirdness going on, in R it lists \"open source\" and \"platform independence\" as pros (they are for sure), but these also apply to Python, do they not?\n\nAlso Python has \"database access\" as a con, I'm not actually sure it is, but does R really do it better?\n\nI agree that R is better at doing statistics, but I think on the whole the whole juxtaposition of these languages this way is not really useful.\n\nI'd put it this way: if you have maths, stats, or theoretical science background, start with R. If you're coming from a computer background (dev, sysadmin, DBA), or perhaps applied science or engineering then start with Python.\n\nBoth will get you there, and if you really run into any bottlenecks, switching with that amount of knowledge isn't that big of a problem.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "what makes R better with math and stats?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Well, \"better\" is obviously subjective here. I am not an R expert, but I'd say that it's mainly the built-ins. R has things like regressions and deviations built in, and has a lot of math packages available. Python does more string handling, file. and network stuff is built in.\n\nR is even more geared towards REPL use, and the syntax and expressions are more \"math-like\" than Pythons.\n\nBut as I said, both make excellent tools in the end.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Available libraries for something you want to do that’s niche.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It will be will rewritten it in C++ anyway, data scientist just need to provide that sweet weights and a brief algorithm if any not standard features used . So does not matter at all )\nYou did not thought code written by data scientist will be used in production, don't you? )",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Html",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Would choose python out of the 2",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "R Is only a letter.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19efx56",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://twitter.com/_msw_/status/1749999077100855638",
+    "title": "A new release of zlib emerges",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Is there a non-twitter link?",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "Twitter text: This source code distribution includes fixes in contrib/minizip for CVE-2014-9485 (fixed by Debian almost a decade ago and never sent upstream, see also ZipSlip) and CVE-2023-45853 (a CVE with a 9.8 base score in NVD)\n\nLink: https://github.com/madler/zlib/releases/tag/v1.3.1",
+            "points": "13 points",
+            "children": [
+              {
+                "comment": "fixed by Debian almost a decade ago and never sent upstream, see also ZipSlip\n\nOuch",
+                "points": "13 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Here's the link to and description of the CVE with a 9.8 base score:\n\nhttps://nvd.nist.gov/vuln/detail/CVE-2023-45853\n\nMiniZip in zlib through 1.3 has an integer overflow and resultant heap-based buffer overflow in zipOpenNewFileInZip4_64 via a long filename, comment, or extra field. NOTE: MiniZip is not a supported part of the zlib product. NOTE: pyminizip through 0.2.6 is also vulnerable because it bundles an affected zlib version, and exposes the applicable MiniZip code through its compress API.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19efpv4",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@kenny_v/developing-intelligence-a-roadmap-to-thriving-in-the-ai-era-part-1-951d35fc9599",
+    "title": "Developing Intelligence — A Roadmap to Thriving in the AI Era — Part 1",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19efpob",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html",
+    "title": "Making Rust binaries smaller by default",
+    "points": null,
+    "comments": [
+      {
+        "comment": "neat! this is something people have told me turns them away from rust dozens of times, so it's cool to see it fixed",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Rust dropped from 18 to 19 on the godly ranking charts (TIOBE - don't whack me me!!!) ...\n\nhttps://www.tiobe.com/tiobe-index/\n\nThe best thing about TIOBE is how angry people get at this awesome chart.",
+            "points": "-18 points",
+            "children": [
+              {
+                "comment": "Finding major enjoyment from other people's minor irritation is psychotic\n\nThis is a popularity index based off search engine queries and posts. That's about as good as using Reddit upvotes to determine if a programming language is good. It doesn't even separate by field, they're just thrown into one list. I don't think there's a lot of C programmers looking at this list and thinking \"our embedded system could really use Python.\"\n\nScratch and Rust are both up there for some reason. They're very different, but one thing you never hear about either of them is \"we should build our project on it\" unless it's one person talking to themselves.",
+                "points": "12 points",
+                "children": [
+                  {
+                    "comment": "The worst part is its determining popularity based on scraping for search queries and YouTube tutorials so it gets absolute nonsense like ranking Scratch top 10 which is literally a child’s learning language.",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Finding major enjoyment from other people's minor irritation is psychotic\n\nAnd being irritated because your language dropped a place on a list (much less TIOBE) is similarly psychotic.",
+                    "points": "-2 points",
+                    "children": [
+                      {
+                        "comment": "Rust isn't my language, but alright. It's a strawman at best.",
+                        "points": "-1 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I can’t take anything seriously that has Scratch ranked as a top 10 language. Not to mention FORTRAN and ASM as top 15. I should be considering those for my new projects at work? Give me a break.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thanks, that’s a great addition.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is a great example of what I think will continue pushing Rust to be a better language, it attracts devs who worry about the little optimization issues, and as a result creates a culture around trying to be as optimal as possible by default.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19eex9x",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://neuml.hashnode.dev/generate-knowledge-with-semantic-graphs-and-rag",
+    "title": "Generate knowledge with Semantic Graphs and RAG",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19eeloi",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.leetsolve.com/120-triangle/",
+    "title": "How To Find The Minimum Path From Top To Bottom Of A Triangle",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ee1ca",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.infoq.com/articles/cloud-computing-post-serverless-trends/",
+    "title": "Cloud-Computing in the Post-Serverless Era: Current Trends and Beyond",
+    "points": null,
+    "comments": [
+      {
+        "comment": "We've run out of wanted features. Now we're just playing the game of taking market share from each other by redeveloping features they already have but cutting the price and the quality.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19edphg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://gist.github.com/theabbie/0be86edab481af581c450a4cfeef6d69",
+    "title": "Random Graph Generation Algorithm",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19edoem",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@Mrudul_shah/why-choose-react-native-for-healthcare-apps-a65ea604c798",
+    "title": "Why Choose React Native for Healthcare Apps?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "There is basically no article here other than “choose React Native if you want cross-platform; otherwise don’t” and “obviously, that’s true for health care as well”.\n\nHealthKit isn’t even mentioned once, so presumably, the author hasn’t actually looked into integrating this health app with the OS. Or they don’t care and want something purely in its own ecosystem, which, eww.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why not flutter?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19edj5j",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://cloudnativeengineer.medium.com/decoding-http-networking-fundamentals-for-system-designers-42c454a76c46?source=friends_link&sk=bbdd181bd7e18ee6f9878f68e626b3f0",
+    "title": "Decoding HTTP: Networking Fundamentals for System Designers",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19edghy",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.meilisearch.com/postgres-full-text-search-limitations/?utm_campaign=social&utm_source=reddit",
+    "title": "When does Postgres stop being good enough for full text search?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Would be cool if they could finally make a postgresql integration like it was proposed here https://github.com/meilisearch/integration-guides/issues/71",
+        "points": "29 points",
+        "children": [
+          {
+            "comment": "That would be such a game-changer\n\nThere is an open-source project named meilisync that can help in the meantime, but I've heard mixed feedback",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Might have unexpected results as meilisearch has no consistency guarantees.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Hey! What do you mean by that? Meilisearch will process a tasks entirely or not at all. If you manage to send your database's updates at the moment they appear it will perfectly work.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "iirc, updates are not immediate but deferred and then done in batches. The update may be observable a second later or it might take minutes - meilisearch does not make any guarantees when that will happen.\n\nIts fine for a lot of use cases, but when used together with postgres, I'd at the very least want to see how the different consistency model is dealt with.\n\ntl;dr mongodb rant",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "But mongodb is webscale!",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Last time I’ve heard of meilisearch, it didn’t support horizontal scaling. Did this change ?",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "It still doesn't :( but the cloud offering offers somewhat of an alternative if load/availability is a concern",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Seems reminiscent of the redis open core model",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "For point 5, isn’t access to the search databases usually proxied via an API first? Isn’t it dangerous to just have your database exposed to the public? Even if you added some authentication on top of the publicly facing search database isn’t it simpler to route requests through the API first that already handles authentication? Im also assuming a monolithic architecture here",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ed9dl",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/techtofreedom/method-chaining-in-python-a-technique-for-elegant-coding-de44ab7fe249?sk=a74b9a096333eab49e9f713b37d3e0c0",
+    "title": "Method Chaining in Python: A Technique for Elegant Coding",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ecye2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet",
+    "title": "The Weirdest Bug I’ve Seen Yet (it's a GIF image)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Disappointment with the conclusion. The bug isn't even discovered. Yes, they solve the problem and stop the web page crash, but it's unknown whether this is Chrome, Grammarly, or the specific GIF. *Why* does that specific GIF cause the crash? Is it something inherent in the GIF? Was it actually a security attack with a specially formed GIF? You won't find answers in the article.",
+        "points": "212 points",
+        "children": [
+          {
+            "comment": "Invalid pointer usage somewhere within the proprietary part of Chrome, possibly related to media handling.\n\nThank you for coming to my Ted Talk.",
+            "points": "26 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "A browser crash is always a browser bug. The browser devs have the responsibility of controlling the errors and failing gracefully, printing to console instead of crashing the process.\n\nThis is what happens when your software depends on an innecesary layer of software. It is easier to develop, but there is always this risk of getting up one day under a pile of Jira issues. This can be catastrophic for the image of a company.",
+            "points": "22 points",
+            "children": [
+              {
+                "comment": "Not if a 3rd party app mucks with the browser. Then it’s the 3rd party app’s fault. Firefox had to do a bunch of special handling to allow Firefox to choose which DLLs to not load to prevent crashing. This shouldn’t be something a browser should have to do",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Could be related to this one https://bugs.chromium.org/p/chromium/issues/detail?id=509437",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "here have some satisfying debugging stories",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "\"What's the problem?\" I asked.\n\"We can't send mail more than 500 miles,\" the chairman explained.\n\nThat's a Usenet classic, I first read it on alt.sysadmin.recovery\n\nI miss the days my duty was to the servers and uptime, not the shareholders and accountants.\n\nhttps://www.adminspotting.org/Adminspotting-800x800b.png\n\nWell, maybe not 'miss', but there were good times.",
+                "points": "13 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "TIL about units, that's neat",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yes. In particular why does the install of grammarly changes the behavior?\n\nAnd they didn’t even give a link to the gif!\n\nThis is a major cop-out, and a waste of time. We still don’t know what the problem was.",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I was once brought in to help fix a bug that made some javascript stuff on a page act strangely, cause I was known to be able to problem solve sticky issues. I sat down with the dev and we tried to solve it together.\n\nThis was years ago, I can't remember the specific problem. This was probably jquery era. We quadruple checked every possible input, traced every line, checked every variable along the way, understood every bit of logic... and could not figure out why it would be happening. It made zero sense.\n\nA couple of days into this exercise in frustration, I opened a fresh browser and suddenly the stuff all worked perfectly. Holy shit. So I opened the browser debug tools. It was broken again. Closed them, fixed.\n\nWe had been sitting testing without ever having the debug closed. We never figured out why, but we could never replicate the error with the tools closed, so we took no action and closed the task.",
+        "points": "92 points",
+        "children": [
+          {
+            "comment": "This is called a Heisenbug, due to the influence of an observer.\n\non edit: I'm clever but not that clever.... https://en.wikipedia.org/wiki/Heisenbug",
+            "points": "108 points",
+            "children": [
+              {
+                "comment": "Can’t tell you how many times I have added a print log to debug something, only for the bug to disappear, and then reappear when I removed the print. I had several prints in my last project that printed “This print is useless but if you remove it everything breaks”",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Used to be a higgs bugson back in the day",
+                "points": "-8 points",
+                "children": [
+                  {
+                    "comment": "/r/YourJokeButWorse",
+                    "points": "9 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Resize the window so it's the same size as it is with the debug tools open. Bug comes back.",
+            "points": "45 points",
+            "children": [
+              {
+                "comment": "This is why I pop debug tools out into a new window.",
+                "points": "12 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Debug tool must have had some options set to inject and track something on the page, JQuery era ones (ie. Firebug) would add elements to the page DOM itself.\n\nBrowser ones would usually add things that would impact timing or de-optimize rendering layers (or even screw around with styles to highlight elements, etc.)\n\nA lot of async related processing going on too so debugging with breakpoints would potentially create race conditions (which is why logging was so popular and even today still is).",
+            "points": "18 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "We never figured out why, but we could never replicate the error with the tools closed, so we took no action and closed the task.\n\nYou found a bug in the JS interpreter or compiler.\n\nWhen you open debug tools, browsers are less likely to use JIT (and even if, with less aggressive optimizations), and more likely to switch to interpreter. This means that you effectively run two different engines depending on whether you have debug on or off, which results in different behavior in case there's a bug.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "There is a big difference between open console and closed on browsers\n\nThey usually activate some kind of tracking mode, for example, Wasm runs 2-4x slower with the console opened, same for Canvas API calls (drawing) and many more\n\nNow if you open the console and start the debugger, you're back to no tracking, which reverts the speed to its original one\n\nHappy debugging",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I worked for t-mobile developing their homepage in the era before smartphones... There was a threeish byte file that would completely crash ine phone (i cant remember which) and you basically had to wait about ten minutes for it to reset...",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I ran into this one as well, but was able to track it down to one of the DOM injectors that the debug tools use to capture logging data",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Sounds like one of the first bugs I fixed for an old version of IE. Our code had a console.log that someone forgot to take out for production. Trying to log something without the debug tools open would itself trigger an error pop up because console.log wasn’t defined yet (until the debug window was open). Removed the log, bug fixed.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Had a similar issue with Grammarly a decade ago. Our marketing team could not send out emails using one of their tools. Turns out grammarly was injecting their html into the wysiwyg to load their recommendations and it was exceeding message limits. Uninstall the plugin and it worked. I wouldn’t be surprised if something similar wasn’t happening here with a malformed gif.",
+        "points": "21 points",
+        "children": [
+          {
+            "comment": "grammarly was injecting their html\n\nCould this be similar? Grammarly messing with the gif? I guess the only way to tell would byte-compare downloads (if that is even it)",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The fact that a navigation bar needs a bunch of additional code is the kind of issue I have with web dev.\n\nWhy are websites so damn heavy now just to show some images and links? As an non-web dev it just baffles me. Webpages should be loading in microseconds nowadays.",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "The modern webtech stack is a tower of nightmares and horrors suffused with technical decisions made by non-technical managers.",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is examplery of computer problems today. The reality is: no one knows wtf is going on. Unless you're Raymond Chen, you will never figure out all of those weird issues with your computer.\n\nHell, while writing this comment, my keyboard froze for about 3 seconds. Why... how the fuck would I know?",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I got a bug before with Microsoft Edge in Mac because Silverlight was installed (I forgot to uninstall it even no application is using it)\n\nhttps://techcommunity.microsoft.com/t5/discussions/solved-microsoft-edge-freezes-for-few-minutes-after-start-up-on/m-p/3373960",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Executive Summary:\n\nThe post describes a challenging debugging scenario encountered by Gusto's internal tools team, where Google Chrome was unexpectedly crashing when accessing certain internal software pages, disrupting customer service operations. Not all users or pages were affected, and the issue didn't occur with other browsers. Initial suspicions, such as a specific Chrome version or extensions, were ruled out. The breakthrough came when an engineer's Chrome crashed after installing the Grammarly desktop app. Further investigation revealed that the crash was triggered by a specific gif file used as a placeholder in a dropdown menu. When this gif was removed or replaced, Chrome stopped crashing. This unusual bug showcased the complexity of software interactions and the importance of collaboration and persistence in problem-solving.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Loading a static html version of a crashing page did not cause crashing.\n\nThat makes sense after the fact.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best job advert I've read for a while.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Using GIFs like it's 1999",
+        "points": "-6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What is the evolutive advantage of having such colors? Being seen from 10 km so that you are eaten faster?",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "yikes.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I really hate blog posts.",
+        "points": "-12 points",
+        "children": [
+          {
+            "comment": "At least it's text. It could be worse, it could be a fucking video",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "They'd like that, they are visual learners dont you know.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "As opposed to ad-riddled-sponsored clickbait articles?",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "The best and only way I consume content is when a robot voice reads it over subway surfers gameplay.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do you have a copy of the gif? I'd like to see if it crashes my image decoding library and/or what is wrong with it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "First, how is grammarly not banned in this org? Grammarly is notorious for being crashy and slow, and is a security nightmare as it sends your keystrokes to the cloud. In my org the domain is blocked and installing it would result in an instant armed escort out the front door.\n\nSecond, why no analysis of the crash itself? Where is the crash happening? What function/library? What type of crash? How is grammarly involved?\n\nThis seemed like a pretty cursory analysis… you’ve isolated and reproduced the problem yes but made no effort to investigate or debug.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ec468",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications",
+    "title": "Self-contained Linux applications with lone lisp",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I posted that not because the idea to compile a Lisp program to a standalone executable is anything new (for example, Common Lisp / SBCL or Racket can do that since a long time), but because it give an interesting description and insights how it can be done.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I can't open the link on my phone",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is pretty cool. And using an ELF segment is an excellent idea, even if it did require a change in the linker.\n\nI think Clojure with GraalVM does pretty much the same but it sounds much heavier.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I expected \"application\" to be something GUI, not an \"env\" clone. But interesting nontheless",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ebot0",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/1Zou38Vp0FU",
+    "title": "Cloud, APIs, Wasm, Security, & More • Daniel Bryant & Matt Turner",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19eb8vf",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://olano.dev/2023-11-30-code-is-run-more-than-read/",
+    "title": "Code is run more than read",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Sure let's make a bunch of unmaintainable monoliths. Fuck it, let's just write everything in assembly.",
+        "points": "49 points",
+        "children": [
+          {
+            "comment": "I mean if the code is not maintainable so we never release anything and users get no new features, we probably are not serving a customer well anyway. I don't think the intent was to say that writing software that is easily changeable/maintainable shouldn't be done. It just talks about what to focus most on. And I mean that's fair. No matter how great you write your code, if it doesn't achieve what was needed in the first place it's probably not good code no matter how well constructed it is.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Nobody argues that readability should be put above code that functions though, obviously. It's also really easy to just write readable code from the beginning, then you don't need to go back over it and clean it up. It's 90% just picking clear names for things and formatting it in a clean way.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "What was in the essay that made you think that the author is in favour of \"unmaintainable monoliths\"?",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "A bunch of systems were built in APL years back.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "There’s a lot of software being produced that just doesn’t care about its users, or that manipulates them, or that turns them into the product. And this isn’t limited to social media: as a user, I can’t even book a room, order food, or click on the Windows start button without popups trying to grab my attention; I can’t make a Google search without getting back a pile of garbage.\n\nThere is not Cancel button, it is renamed to \"remind me later\", because companies make money showing ads, not providing service\n\nToday software is badly made in UI/UX terms that even IT people are complaining about the usability.\n\nIn the 80s only IT people were using the PC and those that needed to do a job.\n\nJust imagine IT people reading DOS manual, memorizing all DOS commands and still complaining that using the PC was hard.\n\nThere won't be PC industry today if that was the case in the 80s , but somehow UI/UX designers of today think they know better then a average IT person",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Man, the amount of times I get a UI presented and I’m like “don’t you think this is a bit confusing for the user?” Or “maybe if we do this instead we simplify the flow” and it’s always for very simple stuff.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The statement may be true, that code is executed more than read. However, in the long term, it doesn't benefit the user if the code is not well structured and readable, as the software is then hardly adaptable or expandable. In the worst case, there are numerous bugs that limit the productivity of the end user.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "in the long term, it doesn't benefit the user if the code is not well structured and readable, as the software is then hardly adaptable or expandable\n\nSee I always interpreted \"code is run more than it is read\" as saying \"... and therefore, a change by a reader is more significant than a run\". Aka, that code should be readable because it's easier to ruin user experience with a codechange than a bad run of the code.\n\nI don't know if I explained what I'm thinking well but I hope it made sense, I just spent 3 hours grinding out unit tests",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Condensed version:\n\nThe post discusses the evolution of perspectives in software development, emphasizing the shift from writing code for ease of reading and maintenance to focusing on its functionality and user experience. It argues that while maintainable code is important, the primary purpose of software is to serve the user effectively. The post introduces a model prioritizing users over developers and operations, acknowledging the importance of running code in real-world scenarios. Additionally, it considers the business aspect, highlighting the need to balance user needs with organizational goals and constraints. The post critiques common software development dysfunctions and urges developers to consider the broader implications of their work, especially in terms of ethical responsibilities towards users.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "This article, while long, isn’t bad in what it tries to do, but it needs more of an intro to what it is about.\n\nYour summary here should be at the top of the article itself, at least in terms of the overall premise.\n\nYour click bait title isn’t going to help you in Reddit - a lot of people are going to downvote without even opening it.",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "My click bait title? Please explain, I’m not the author of the post.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "gpt :(",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Yes https://www.reddit.com/u/fagnerbrack/s/SpW5ojGOGV\n\nAny issues with that?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "i automatically discount anything coming from chatGPT, based on its frequent habit of lying. chatGPT is not a general AI - its purpose is to generate text, true or untrue. i would frankly have no summary than a summary i have to read through and decide it is worthless, rather misleadingly. at least consider changing the header to say \"Condensed version (ChatGPT generated):\" or whatever?",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Dev/ops and users ain't really opposition, that'd be the suits in the middle.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sure, but the cost of running it is way lower than the cost of maintaining it",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I thought I was going to hate this article based on the title / preview image, but honestly it's a good article for explaining more \"real world\" software development.\n\nIt's somewhat simplistic and generalising but still good overall.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ah, the usual DX vs UX dilemma...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19eb5m2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jrdnh.github.io/posts/basic-financial-modeling-with-python/",
+    "title": "Basic Financial Modeling With Python",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ear2o",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://buzzpy.hashnode.dev/the-programmers-brain",
+    "title": "The Programmer's Brain - How it works and how to make it work",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Very very interesting! I struggle with cognitive load due to bad habits, this might be the breakthrough in looking for.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Yeah, that's interesting. My fav part is \"chunking\" and that flashcard thing. I have used flashcards for other subjects like science, but never thought it could work for programming.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19e9hxy",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://flak.tedunangst.com/post/strict-structs",
+    "title": "strict structs",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19e9142",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://kapilg.hashnode.dev/how-not-to-use-aws-athena",
+    "title": "How not to use aws Athena and lessons learned from real-world data processing...",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19e7h5g",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://myscale.com/blog/optimizing-filtered-vector-search/",
+    "title": "Optimizing Filtered Vector Search Based on ClickHouse",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19e5p8q",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://socket.dev/blog/socket-for-github-v2-introduces-diff-reports",
+    "title": "Socket for GitHub v2 Introduces Diff Reports, Speeds Up Scan Times",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19e5i2f",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.infoq.com/news/2024/01/doordash-service-mesh/",
+    "title": "DoorDash Uses Service Mesh and Cell-Based Architecture to Significantly Reduce Cross-AZ Data Transfer Costs",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Does this approach consider potential congestion in certain zones? And, reminiscent of the Titanic, while their Cell-Based Architecture is inspired by ship bulkheads for fault isolation, what happens if a 'cell' goes down? Does it affect the entire 'ship' or just one compartment? It's great they're saving on costs, but I'm curious about the resilience and performance trade-offs in this architecture.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "They don't really mention how they specifically implement it. But in general, the idea of a Cell-Based architecture is that you can detect failure in a cell from the outside (for example, measure request error rates) and close the \"flood doors\" on that cell, diverting traffic to other, healthy cells.\n\nThey don't mention how they specifically implement it. But in general, the idea of a Cell-Based architecture is that you can detect failure in a cell from the outside (for example, measure request error rates) and close the \"flood doors\" on that cell, diverting traffic to other, healthy cells.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You'll want to run N+2 cells. Each cell then has a capacity of 1/N > utilization of 1/(N+2), that is, each cell is running at N/(N+2) of peak. For N=4, that's 66%. This allows one cell to go offline for planned maintenance, and still have resiliency to lose a second cell to an outage. (As u/estiller points out, you can use external fault detection to fail out cells regardless of whether it was planned.)\n\nSince each cell can handle 1/N traffic, losing 2 cells brings you to that number. This is IMHO why Twitter's loss of two (of their three) DCs is dangerous- yes, when N=1 that's a very expensive overhead (only using 33% of resources), but presumably Elon is weighing that against the error budget. If time to recover that one cell is lower than the contractual allowed downtime, it's a justifiable cost balance. However, very few public risk models would allow that level of uncertainty in time to recover.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19e4ceq",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://newsletter.micahlerner.com/p/paper-review-xfaas-hyperscale-and",
+    "title": "XFaaS: Hyperscale and Low Cost Serverless Functions at Meta",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19e1eva",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@goenning/why-i-chose-tauri-instead-of-electron-e67b34f8857d?source=friends_link&sk=9bd6283cc64950bc744594dcd8594c5b",
+    "title": "Choosing Tauri over Electron",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I kinda think Electron and Tauri serve two distinct purposes.\n\nElectron is a bundled webview that you control and update yourself, with support for npm packages. (which may prove attractive for devs who specialize in front end development)\n\nTauri is a shim on top of the OS's webviews, with support for cargo packages and rust based plugins.\n\nI assume Tauri will have an easier time existing in Android and IOS, but you're still tied to Apple/Microsoft/GTK for rendering engine updates.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The problem with Tauri is the webview, and how inconsistent the experience is across platforms. MS uses Edge, Apple I believe Safari (based on Webkit), Linux Webkitgtk2 (based on Webkit). Linux and Apple (with its various OS's), both use a different release of Webkit, with apple products being more up to date. The result is that the availability of specified web API's and the implementation of newer web standards are not consistent across the board. Not too long ago WebGL 2.0 webview support was lacking on Linux, I think it is available now on newer distros. In addition I believe it to be the case that Webviews are updated few and far between if they are updated at all (with the exception Windows 10 and 11). So if someone is running an older version of Linux or MacOS the app may not function on older platforms. Tauri developers need to take this into consideration, query the navigator to see it is compatible and flag the user if the app features are not supported.\n\nOn the other hand the one good thing about electron is that it often supports the bleeding edge Web API's... but with that being said these newer API's may not run well on aging hardware. So whether to favour one or other is dependant on the application being made. A bookkeeping app then Tauri. An augmented reality online game, Electron.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I'd rather quit software development altogether and become a butcher before I'm forced to deal with the stupidity of python and any of its garbage frameworks",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Hacking on carcasses? Is that really a different job?",
+                "points": "16 points",
+                "children": [
+                  {
+                    "comment": "Savage, but true.",
+                    "points": "5 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I just assumed that the key advantage of rust isn't in application development, it's in building backends.\n\nIt's a programming language equivalent of concrete. Sure you could build an entire house out of concrete, but you might end up spending a lot of time and money on that when there are cheaper building materials, even if the payoff of a concrete house might be worth it down the line.\n\nRust is still fairly new enough that you might end up having to write more code or make crates or whatever because the existing solutions either aren't there, aren't updated, or aren't quite what you have in mind.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19emkjd",
+    "subreddit": "u/smallSohoSolo",
+    "dataType": "link",
+    "dataUrl": "https://illacloud.com/illa-flow?utm_source=reddit&utm_medium=ad&utm_campaign=fe_flow",
+    "title": "Visual workflow automation for developers. Integration with PostgreSQL, MySQL, RestAPI, or other popular sources.",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19e13yo",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://pradeepl.com/blog/data-mesh-architecture/",
+    "title": "Are developers really ready to start managing data assets too?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The more job duties you give developers the harder it will be to find developers for your precious little stack and the longer it will take for any one user facing thing to be done.\n\nNot looking forward to the days of full stack + DevOps + cloud + big data (+ AI?) developers",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "I'm already that guy, my friend.",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The term developer no longer fits. We are multifaceted technologists. We build and use dozens of complicated and sophisticated software tools and platforms every single day. The idea old school thought of developers as someone who writes code and develops a projects features. But today’s reality demands so much more.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Since I started doing API technical writing a few years ago, it's turned into technical writing + community management + product ownership + full-stack dev + devops ( + job searching since your contracts only last 3 months).\n\nBasically they want everything, want to pay you less, and want to give you less onboarding and engineering assistance than a full time developer to do it.\n\nI am fully qualified, but the job descriptions would make you think that nobody but docs framework creators who give conference talks are qualified.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I’m for once already getting my AWS Certification 😅",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "wtf is a data asset and why do i need to manage it?",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "Developers now.. not only write code to create applications and services but also infrastructure but looks like they will also start managing databases, database infrastructures and everything else. Life is becoming so much more easier :-)",
+            "points": "-7 points",
+            "children": [
+              {
+                "comment": "What",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I dunno but is this a new thing?\n\nIf the database is fucked up usually I fucked it up. So I would have an obligation to fix it.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "I dunno, but I’ve managed to steer mostly clear of the web/SaaS application layer. I’ve never been in a role where it would make any kind of sense for me to responsible for administering a production database.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Dunno, I guess I just break more stuff. ;)",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Developers have been managing database migrations for decades.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Holy shit this is needlessly wordy. What is it actually trying to say? It feels like they're trying to invent new buzzwords like \"data mesh\".",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "It has the vibes of someone writing the core ideas and asking an LLM to make it longer.\n\nHalf of what it says is very vague things like “foster collaboration between teams”, “promotes readability and scalability” blah blah.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Editorialised title, as the post is titled \"Data Mesh Architecture\" and reads like a white paper. That is, stiff, full of jargon, and not very readable.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

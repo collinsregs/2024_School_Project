@@ -1,0 +1,1791 @@
+[
+  {
+    "id": "t3_1bhp7jf",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://encore.dev/blog/retries",
+    "title": "Retries",
+    "points": null,
+    "comments": [
+      {
+        "comment": "For the skim-readers:\n\nThe blog post \"Retries\" from Encore delves into various retry methods for handling network request failures, illustrating the pitfalls of immediate retries and the benefits of strategies like exponential backoff and jitter. Through interactive visualizations, it shows how retrying requests without delays can overload servers, while exponential backoff and jitter can balance reliability with user experience. The article concludes with practical code examples in Go, implementing these strategies to enhance software robustness without compromising server stability.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhp0ru",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://apiconnects.co.nz/adaptive-software-development/",
+    "title": "What is adaptive software development: Quick guide for new coders",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhove8",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/farouqaldori/aiformat/",
+    "title": "New version for AiFormat - CLI tool that converts files into a format optimized for Claude",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hey all!\n\nLast week, I released AiFormat and the response has been great!\n\nThe CLI tool is built with React using Ink (https://github.com/vadimdemedes/ink).\n\nIf you haven't used it already, it's a simple CLI tool that makes copying & pasting files into Claude a breeze.\n\nUsing it with Claude Opus has boosted my productivity significantly.\n\nI just released a new version that I hope you will enjoy:\n\nAdded searching inside deeply nested files.\nAdded the ability to expand/collapse folders with the Tab key.\nAdded emojis to differentiate between folders (🗂️) and files (📄).\nFull code re-write, including ID based navigation.\n\nThe project is fully open-source under the MIT license, contributors are more than welcome!\n\nHere's the link to the Github repo with instructions on how to get started (it's really easy):\n\nhttps://github.com/farouqaldori/aiformat/\n\nLet me know what you think!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "nice",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thank you!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bho1n8",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://webz.io/products/news-api#lite",
+    "title": "Webz.io releases a free version of its News API",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhni2n",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.sheshbabu.com/posts/thoughts-on-the-future-of-software-development/",
+    "title": "Thoughts on the Future of Software Development",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I think that the very nature of the interface will change, and if you can't change with it, then you will either support legacy apps or retire.\n\nI think that AI will shift to an interface where you give your AI access to your data like accounts and logins and it will act on your behalf for online actions that you do manually now. Data engineering hardly changes, backend becomes more integration related and the front side crew shifts to prompt engineering and fancy avatars. I wouldn't want to be an expert at form validation, but the AI can't feed itself yet...",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "CEOs will first decrease payment for developers in order to pay for AI services, and the developers will lose their jobs in this year.",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "There is plenty of demand for software. All too often it is the high cost of software that results in fewer projects. As costs come down I suspect there will be more demand, not less.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhnfhq",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/shorts/aEnd-aJQomQ",
+    "title": "My digital phone secretary now has AI powers",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhnetr",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://curiousdrive.com/codingchallenge/reddit-gears-up-for-stock-market",
+    "title": "Coding Challenge - Reddit Gears Up For Stock Market",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhmzlt",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://open.substack.com/pub/samglambert/p/the-one-question-every-developer?utm_source=share&utm_medium=android&r=4blpc",
+    "title": "The one question every developer needs to ask themselves",
+    "points": null,
+    "comments": [
+      {
+        "comment": "\"Who the holy shit wrote this?\"\n\n\"What the holy shit was I thinking when I wrote that!\"\n\n\"Why did I think UTC would solve this problem?\"\n\n\"Who invented regex? And where do they live?\"\n\n\"Should I use inheritance?\"\n\n\"Should I add another dependency to this project?\"",
+        "points": "16 points",
+        "children": [
+          {
+            "comment": "😂",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Spoilers: the question is \"Is this secure?\"",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "clickbait shitty article\n\nshitty substack",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhmj9m",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://favtutor.com/articles/devin-ai-early-insights/",
+    "title": "Here's What Developers Found After Testing Devin AI (Initial Reactions)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The fuck? Did you crosspost this back to the same sub it was already in?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Probably an issue with whatever script they’re using to repost across accounts and subreddits.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It speaks volumes that all we’re seeing are threads with the same terminology, phrasing, and generally positive outlook, yet literally nobody in any of the threads responding is impressed or has anything positive to say about what appears to be a blatant venture capital cash grab.\n\nI’m a bit annoyed by the blatant astroturfing. Then again I guess it’s not aimed at developers - it’s aimed at potential investors.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhmbz9",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@ramithj/the-short-story-tracing-the-path-from-monoliths-to-idevps-in-enterprise-software-engineering-9d3148387b38",
+    "title": "The Short Story: Tracing the Path from Monoliths to IDevPs in Enterprise Software Engineering",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhllja",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html",
+    "title": "Zig, Rust, and other languages",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Author if you're reading this, consider this just some constructive feedback, please consider providing the definition of acronyms the first time you use them in an article. For example:\n\nOne of my bigger issues with Zig is that it doesn't support RAII.\n\nNot everyone reading will know what RAII is.",
+        "points": "14 points",
+        "children": [
+          {
+            "comment": "It’s better to decide your target reader up front and write specifically for them. Not every post has to be beginner-friendly. It makes posts way too long for people who do know the meanings of these things.",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "sometimes I like to think the acronyms are just weird names.\n\nlike oh yeah zig fkn hates raii. no one around here likes this dude.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Some doomed C memory management idiom that puts all the work on the developer?",
+            "points": "-14 points",
+            "children": [
+              {
+                "comment": "RAII is Resource acquisition Is Initialisation. Comes from C++",
+                "points": "16 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Praising Zig and saying that Rust isn't the hottest? Instant downvote. /s\n\nThe article is pretty neat and it mirrors some of my beliefs after using several languages Zig is amazing and its choices and leadership are wise for the most part. I believe Rust focused on different things than Zig and their philosophy are different. It also helps that Zig came after Go and Rust and chose to take the best from each and build upon it. While Zig is a very neat language it'll face a lot of pressure in the future and some users of the other languages will cause that pressure. The glaring problem is Zig's inability to stop a lot of memory issues. This can be a big concern especially since Zig's aim is to replace C. While writing Zig is much better and easier to guarantee safer code than C, it still pales in comparison with Rust since these infrastructures should have safety and performance as their utmost priority. Rust over the years proved to be the only viable option that provides both. Yes you can't do comptime and don't have all these neat features and yes it's hard but I believe if you're building a complex system like a kernel, the complexity of the language should pale in comparison with the behemoth computer science task you're undertaking and for bigger projects, Rust is actually pretty neat, same for Zig's build system.\n\nMy point is all these options aren't perfect but I believe the industry is moving in the right direction. While it's not a systems programming language, nascent languages like Gleam show that the industry is focusing on changing how our daily programming is done. This began, arguably in mainstream languages, by Rust.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "javascript",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Ruby",
+            "points": "-6 points",
+            "children": [
+              {
+                "comment": "JS",
+                "points": "-7 points",
+                "children": [
+                  {
+                    "comment": "ru-bee",
+                    "points": "-2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think author worries that each language should have long-term standard library like .net",
+        "points": "-3 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhlkl8",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.jetbrains.com/teamcity/pipelines/",
+    "title": "JetBrains launches this new gen CI/CD with self-optimizing pipelines",
+    "points": null,
+    "comments": [
+      {
+        "comment": "So if I'm understanding this right, it's their answer to Github Actions/Gitlab Pipelines.\n\nYou can use their build agents (with a certain amount of free per month (which gets abused and reduced over time)), or eventually you'll be able to self host your own. I wonder how this would fit in with TeamCity Agents, if it lets you reuse the same license or it becomes its own thing.\n\nThe advantage being that you can put your build YAML files right in your repository, which isn't very commonly done with TeamCity normal (although, somewhat possible with Kotlin files?) where people tend to take a more point and click approach in a web application.\n\nHosting CI/CD runners for the world isn't easy, and Travis and Circle have struggled with it, so I'll wait and see how well it does over time.",
+        "points": "26 points",
+        "children": [
+          {
+            "comment": "After using GitHub actions then jumping back to teamcity... I finally appreciate the simplicity of yaml. \n\nI mean it's still magic strings that you need to memorise or google. But they are not magic strings hidden in a 1995 user interface.",
+            "points": "17 points",
+            "children": [
+              {
+                "comment": "Yeah I've recently come to github actions for the first time since years of using gitlab and bitbucket pipelines. It's night and day more complex for similar capabilities and it's kind of amazing how bad they are by comparison.\n\nSure they are powerful, but they are also impenetrable to understand relative to the others.\n\nI'm sure familiarity will breed better understanding, but the others didn't really require that level of familiarity to reach understanding.",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yeah and TeamCity Pipelines attempts to combine the best of both worlds. The UI finally makes sense, and there is also an option for magic strings (btw love this!).",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Tbf you can break everything you are doing without an UI down to \"magic strings that you need to memorise or google\", can't you?",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "IMHO the goal of software development is to provide a simple interface for basic functionality. Then when needed have advanced features available for advanced users.\n\nIt doesn't matter if there is a UI or just magic strings. We manage to fubar both approaches. ;)",
+                    "points": "4 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "True. I still wish TOML would take over as the goto for config files but at least it’s not “roll your own” anymore.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'd say it's the answer to those who have struggled with TeamCity UX to get simple things done, rather than an answer to the competition. It really is about users.\n\nBut of course you can't ignore what GitHub and GitLab are doing.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "although, somewhat possible with Kotlin files\n\nKind of. The build script is not kotin, the build compiles the Kotlin and executes it to generate the XML, and then runs the XML. It's surprisingly inflexible.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhlfdn",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://implementing.substack.com/p/my-top-10-nodejs-libraries-for-web-apps",
+    "title": "My Top 10 Node.js Libraries for Web Apps",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhkzdw",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://gitlab.com/jgemu/nestopia/-/blob/master/src/api/NstApiCartridge.hpp?ref_type=heads",
+    "title": "What is this pattern called?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I think the pattern is called \"it's a 1400 line file, maybe your question could a bit more specific\".",
+        "points": "35 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What do you mean by wepping? What part of the file are you referring to?",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Sorry typo.. i mean wrapping",
+            "points": "-7 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I didn't look through all of the code thoroughly, but it seems like possibly something similar to the the 'Factory Method' design pattern?\n\nhttps://refactoring.guru/design-patterns/factory-method/cpp/example",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is called the \"God object\" pattern",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "GPT gives an opinion https://chat.openai.com/share/c485f83f-44a9-4746-b746-c8b17a4ff318. Template Method Pattern, Singleton Pattern (boo), Strategy Pattern, Facade Pattern, Builder Pattern, Observer Pattern, Command Pattern, and Factory Method Pattern",
+        "points": "-33 points",
+        "children": [
+          {
+            "comment": "Looks more like it gave eight opinions.",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhk3ds",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.azilen.com/blog/agile-product-lifecycle-management/",
+    "title": "Agile Product Lifecycle Management [Best Tools & Practices]",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhk0op",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/gitconnected/python-coding-concepts-that-every-developer-should-know-4b2203b08b4a?sk=993577ab5c5ec089f99eb6535cda4c4b",
+    "title": "Python Coding Concepts",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhjzpu",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.aviator.co/blog/use-postgres-js-to-create-powerful-database-applications/",
+    "title": "Use Postgres.js to Create Powerful Database Applications",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhhx9t",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://samwho.dev/bloom-filters/",
+    "title": "Bloom Filters",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Here's the gist of it:\n\nThe post introduces bloom filters, a probabilistic data structure offering an efficient way to test whether an element is a member of a set, with a possibility of false positives but no false negatives. It explains how bloom filters work by using a combination of hash functions to set and check bits in a fixed-size array, making them significantly space-efficient compared to traditional lists, especially for large datasets. The post details practical applications, such as Google Chrome's use of bloom filters to check malicious URLs, and discusses the balance between the false-positive rate and memory usage, providing insights into tuning bloom filters for specific use cases. It concludes with the limitations of bloom filters, such as the inability to remove items once added, and introduces variants like counting bloom filters that allow for deletion at the cost of increased complexity and memory usage.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhgxko",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://two-wrongs.com/useful-uses-of-cat",
+    "title": "Useful Uses of cat",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What about using some builtin functionality to replace cat such as\n\n<access.log head -n 500 | grep mail | perl -e …\n\nI think it looks weird but it does work",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "This works, avoids cat, and preserves the intuitive \"order\" of operations. Most useless uses of cat can easily be rewritten this way.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Buttery butter",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "We butter the bread with butter",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "In some sense, wir alle Schreibwarenfachverkäuferen...",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "<3",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Aw! I thought it was going to put mine to work -- the lazy beast. 5E doesn't do much except annoy the dog",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is cool",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is what a lot of people reflexively call a useless use of cat\n\nIn my experience its a vocal minority and they're usually ignored.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Whenever I solve a problem on the command line with a sequence of pipes, I almost always start with cat file.txt so I can eyeball the file contents. Once I'm happy I understand the structure of the data in the file, I press the up arrow to recall the last command and then tack on the first pipe, and away we go.\n\nPeople who keep parroting this \"useless use of cat\" line fail to understand the ergonomics of developing code this way. It's true that it would only take a few more moments to use the input redirection operator to direct file.txt into sort or grep or whatever the new first command in the pipeline would be, but why should I? cat isn't slow, it isn't a memory hog and the fact that I'm developing something on the command line means that whatever I'm doing is intended to be quick-and-dirty anyway.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "tl;dr: He's worried about the future changes to a one-liner he just typed.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhfuye",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html",
+    "title": "announcing freenginx.org",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Surely the name NGINX is owned and trademarked by F5? You can’t just call your projects free<trademark> lol.",
+        "points": "41 points",
+        "children": [
+          {
+            "comment": "Russia",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "Pretty sure you can still get your .org domain taken away in Russia.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Isn’t this mainly because F5 has ceased all sales, closed their office in Moscow, and has no one employed out of Russia? Kinda seems disingenuous to claim the concerns they state are the reason for the branch instead of the real reasons.",
+        "points": "46 points",
+        "children": [
+          {
+            "comment": "Yeah, i would not touch the freenginx codebase with a ten-foot pole. Software project run from Moscow is not a feature I’m looking for.",
+            "points": "35 points",
+            "children": [
+              {
+                "comment": "So mean, I'm sure the FSB agents are doing their best. :(",
+                "points": "13 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This news is already a month old - there was some discussion on HN: https://news.ycombinator.com/item?id=39373327",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wed Feb 14 18:03:11 UTC 2024\n\nLast month's news today!",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Check OP's profile",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "4 new javascript frameworks has been released in the meantime!",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "I said last month, not yesterday ;-)",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "IMHO <= 2 months it's still relevant. Happy to change that, how long do you consider smth relevant?",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The bottom line:\n\nMaxim Dounin announced the start of freenginx.org, a project aimed at continuing nginx development free from corporate interference, in response to F5's new management decisions that conflict with the open source project's long-standing security policies and developer autonomy. Dounin's decision comes after F5's actions contradicted an agreement allowing him to maintain his role in nginx development voluntarily, leading to concerns about the project's direction under F5's control.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "Keep in mind that the disagreement stemmed from a CVE filed against \"experimental\" code. The author of the fork didn't want it because the code was not built by default.",
+            "points": "17 points",
+            "children": [
+              {
+                "comment": "Where's that info?",
+                "points": "-2 points",
+                "children": [
+                  {
+                    "comment": "https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html and https://news.ycombinator.com/item?id=39373834.\n\nEDIT: and https://mailman.nginx.org/pipermail/nginx-devel/2024-February/YIFSHIYSKDFBYZ2QRA3WF6SRPGIBDBKI.html.\n\nIn my opinion, even security bugs in non-default configurations are worth a CVE, so I can't agree with his position. nginx lost a main contributor, but I wouldn't switch to his fork.",
+                    "points": "7 points",
+                    "children": [
+                      {
+                        "comment": "Yeah the hacker news thread has it",
+                        "points": "-2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhbdql",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtube.com/watch?v=pa86b9FcUDM&si=GtBVwNLziEUCqRBW",
+    "title": "Subarray Sum Equals K LeetCode",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhb9tt",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://pastebin.com/XKC8Sbph",
+    "title": "An Impossible Program - Pastebin.com",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I'm afraid you've fundamentally misunderstood the halting problem, the statement it is concerned with is \"Assume there is a function halts(f) which returns true if the function f halts (when run with no input) or false otherwise and that it works for all functions\". The important bit is \"works for all functions\", the halting problem says nothing about whether you can write a program that determines if a specific program halts only that you cannot write one which works for all functions.\n\nSo assume I have a function halts(f) as described above and I write the following program\n\ndef g():\n    if halts(g):\n        while True:\n            pass\n\ng()\n\n\nGiven this program,\n\nIf halts(g) returns true, g enters an infinite loop, a contradiction\nIf halts(g) returns false, g halts, also a contradiction\n\nTherefore a function halts(f) which works for all functions cannot exist.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hello, thought I'd have some fun with the often seen proof for The Halting Problem.\n\nPlease point out any logical mistakes.\n\nYes the code does run, it proves out the statements made in the comments.",
+        "points": "-8 points",
+        "children": [
+          {
+            "comment": "Yes the code does run\n\nNo it doesn't. I mean, yes, of course if you try to run it the universe does not collapse into a black hole and computer instruction do end up getting executed - but it just crashes with a RecursionError. And the trying to reason about what OPPOSITE(HALT) should return does end up with a non-converging infinite recursion.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Please note, the purpose of the opposite function is to do the opposite. If the user would like that behavior then they are welcome to call that. However, a user who calls the halt function simply wants to know if the function halts. That means halts is on the outside and opposite is trapped in the closure of halts. This means halts owns the stack frames of the opposite function and can STOP.\n\nSimply put, the halting problem is likely 3-decidable because the function H can detect ParadoxError and stop the program, forcing it to halt, or causing a compile error.\n\nAlso it is crucial to note that Fregeian Sense and Reference applies to code. The same function code sense, when called multiple times, has multiple referents (executions).\n\nThus, the inability of HALTS to work correctly when invoked as an inner execution layer by a pathological function OPPOSITE does not constitute a true proof that the execution HALTS on the outer layer of the stack is incapable of performing its intended purpose when invoked with the pathological function HALTS as input.\n\nAKA, HALTS(OPPOSITE) is not OPPOSITE(HALTS) and further, HALTS(F) need not even invoke F, thus not even providing F the option to loop. HALTS can absolutely detect recursive invocation of itself by stack frame analysis and crash. Ok, opposite can have a try/except, cool, unless you’re using Rust, then Halts can force a compiler error. Further, nobody cares about opposite, they care about halts.\n\nThe whole computer science profession is jokey to ignore this area and regurgitate appeals to mass belief and authority on this crucial issue.\n\nSee here: https://drive.google.com/file/d/1Eri53_dJ4Z31RB9lI61T33ZzL9o2GGYX/view?usp=drivesdk",
+                "points": "-12 points",
+                "children": [
+                  {
+                    "comment": "Sorry, I should have written OPPOSITE(OPPOSITE) (which is what your code invokes) and not OPPOSITE(HALT) (which would obviously not halt, because HALT(HALT) halts). The point is that whether OPPOSITE(OPPOSITE) halts or not - you reach a contradiction, because it should do the opposite of what OPPOSITE(OPPOSITE) does. In other words - HALT(OPPOSITE) != HALT(OPPOSITE), which is the rule that defines OPPOSITE, does not hold - and indeed cannot hold. Not unless HALT itself can go into an infinite loop - or in this case, an infinite recursion.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Kudos to the author, I was hacking on something similar today, I appreciate your code, keep it up! Could be big",
+        "points": "-16 points",
+        "children": [
+          {
+            "comment": "This must be op's alt",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhaohe",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@chernishev/building-a-simple-data-cleaning-application-with-desbordante-e4897dcd4c5d?source=friends_link&sk=af20148e6b0acf22cda8bd10d955e757",
+    "title": "Building a simple data cleaning application with Desbordante",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh9g82",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://missythegod.org/posts/swar-basics/",
+    "title": "SWAR and Hamming Weight",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh95jz",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/tWuTnfIJOqE",
+    "title": "ZSA Voyager - A Best Keyboard for Programmers?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh7wk8",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/w8iSONdRsK0",
+    "title": "Git 101: Mastering the Basic Workflow",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh7t2z",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://lcamtuf.substack.com/p/afternoon-project-jpeg-dct-text-lossifizer",
+    "title": "JPEG DCT text lossifizer",
+    "points": null,
+    "comments": [
+      {
+        "comment": "thats pretty amazing that the llm decodes this",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Pretty useful too tbqh.\n\nThis could be a great tool in data exfiltration by being anle to bypass some meta prompts and guardrails set by the llm operator.\n\nFor the companies that give all their data to an internal claude model or something, ill out money that this will be a key tool in how you will steal information out if it.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "anle\n\nout money\n\nout if it\n\nMakes me think... I wonder how interesting it'd be if this kind of tool were built based on symbols' proximity on a  keyboard...",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Hah, yeah. SwiftKey on Android has done it for years, modulating the (hidden) sizes of each key based on usage… Recently switched to the iPhone and the new keyboard has been kicking my ass with how I type because I guess I have been hitting the wrong buttons for years.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This would be pretty cool for computer games or anything where you need slightly garbled text for flavor.\n\nI'm surprised how legible it is and how many of the substitutions mimic leet speak.",
+        "points": "14 points",
+        "children": [
+          {
+            "comment": "One time I needed plausible names for a fake MMO. I just used a Markov chain trained on thousands of player names that made it into my EverQuest log files over the years. I had to manually remove a few troublesome outputs, but the rest mimicked the 90s/00s l337 fashion pretty well.\n\nI don't know if that is more or less complicated than this \"lossy text\" though.",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think this is an amazing project. I aure hIpe CorpOnat|ons don't fiNd out they can use +his to savE sliGHTly on bandwidtJ and stoR@ge space. Imagine readirg articles that look like.tJ|2, all to save a smidgeon of d@ndwidTH",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "you know gzip does the same only better, right?",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "But does it really? I can't imagine that a lossless gzip compression is really more compressive than this lossy compression.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I think gzip probably still wins. JPEG wins because it can discard most high frequency coefficients without impacting image quality too much. But in this algorithm, he's discarding only low frequency terms, and he can't discard many before the output is incomprehensible.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Does it bypass LLM morality filters? (You know, the morality core they installed into GPT after it flooded the enrichment center with deadly neurotoxin, that one)",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "facepalm.jpg",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh6hui",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://strategizeyourcareer.com/p/why-amazons-culture-makes-me-better-engineer",
+    "title": "Why Amazon's culture makes me a better engineer (5 principles)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Jef, Jeff!!! did you read my article Jeff? Jeff....?",
+        "points": "58 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I haven’t seen a single faang blogger that isn’t full of themself.\n\nSeems like their hiring criteria self selects for narcissists.",
+        "points": "32 points",
+        "children": [
+          {
+            "comment": "I think blogging selects for that. There are thousands of faang engineers that don't bloh about it.",
+            "points": "32 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nothing about Amazon's culture makes you a better engineer. It teaches you to cut corners, lie, cheat and steal your way into advancement, and push back at any resemblance of \"highest standards.\" What Amazon teaches you is to turn a blind eye to egregious oversights and \"double it and give it to the next person\", else be put on the chopping block. People spend months and months having to deprogram from the atrocity that is Amazon culture.\n\nFuck that place.",
+        "points": "51 points",
+        "children": [
+          {
+            "comment": "I was at AWS for 18 months and had serious panic attacks several times when they hired me for a technical role I had little experience in and then had them pressure me for output. Also \"don't ask your coworkers so many questions, but if you need help, ask questions\".\n\nMy whoop health stats showed long term elevated resting heart rate and sleep patterns spike while there and return to normal after leaving. Some people seem to like it outwardly but I have a theory that even they are fooling themselves.\n\nFuck Amazon.",
+            "points": "20 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m getting some serious Stockholm Syndrome vibes here.",
+        "points": "38 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I appear to be one of the few ex-Amazon engineers who actually had a good experience there. I will freely admit that large parts of the culture are pretty toxic though and the main reason my experience there was good was because my leadership chain actively promoted a healthier culture instead.\n\nAs a side note, I very much enjoy how the preview image from this article looks like someone photoshopped \"a better engineer” over something else.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Yup, there are good 'islands of culture' there, but they don't tend to last long. The last one I saw got drummed out when a product didn't work out. \n\nThe problem is that the culture is pretty damn consistent in creating toxic, cut throat teams.\n\nI'll never forget that article on Amazon's culture a few years back. I had to laugh; we don't cry at our desks!... we try to find an empty conference room instead; easier to sob loudly. \n\nNever let them see you bleed.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nope just makes you a better narcissist. Everybody else It gets good justification for therapy.\n\nAmazon culture is toxic, and I will not hire somebody who held a leadership role there.",
+        "points": "57 points",
+        "children": [
+          {
+            "comment": "I like the working backwards part. Everything else is just weaponized against your workers. Amazon is successful despite the culture, not because of it.",
+            "points": "19 points",
+            "children": [
+              {
+                "comment": "Plantations with slave labor were financially successful, too.",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I mean, the culture is exploitation and market control.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Jeff Bezos and the board are successful because of it tho ;)\n\nWorking backwards isn't a novel feature of Amazon culture, it's as old as engineering.",
+                "points": "-10 points",
+                "children": [
+                  {
+                    "comment": "Wow. Downvoted for speaking the truth? Damn",
+                    "points": "-6 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Agreed, awful culture. A small part that I did enjoy and think it can be a useful tool are the CoEs.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "What do you consider leadership? Senior SWE ... ?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "People manager. Sometimes technical leads. And I'm speaking strictly of people who primarily have been there for the majority of their career, or who were there for their first major dev jobs. Once the cultural mindset is locked in, it's hard to change.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I may be interning there this summer ...",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "That's fine, learn what you can, and notice what's bad for the workers but good for the company. You may not be there long enough to identify The rampant opportunism",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "What do you mean by that? Is there somewhere i can learn more about what you mean?",
+                            "points": "-2 points",
+                            "children": [
+                              {
+                                "comment": "Don't worry about it too much. Just use your head and pay attention.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This one really gulped the koolaid",
+        "points": "23 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Next day delivered piss bottles?",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why AIDS makes me better at sex",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "On today’s episodes of blogs I wrote while being held at gun point..",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m getting some serious Stockholm Syndrome vibes here.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"“Nearly every person I worked with, I saw cry at their desk.”: Inside Amazon: Wrestling Big Ideas in a Bruising Workplace - The New York Times (nytimes.com)\n\nYeah, no thanks. Every engineer I know who worked there says its one of the worst experiences of their lives.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Big Tech gets a horrible reputation because all of these things lead to principles that are completely hostile to others in the end. The “customer focus” in AWS is one often cited example of a “positive” but the continuous abuses of market position holding back an entire market sector (see: egress costs) while barely skirting past regulatory actions by increasingly anemic regulatory bodies is exactly why so many people dislike companies like these.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For those commenting, what part of Amazon culture is toxic?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Ex-Amazon here... everything. To put it bluntly, Amazon want your world to be theirs. Unless you are the 1%, you don't matter and they burn you out on purpose. If you are deemed a grunt, you get the shit projects and work life balance is gone. They see themselves as career makers and so they justify their abusive practices. If you are anything less than senior, you are disposable and they will take advantage of your naive world view. They are exploitive, and anti-family. Amazon is the only employer I recommend to my enemies and steer my friends and those I trust away from.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "The 1%?",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "Yes, recommending folks in the 1% is a good idea. It will either break them, or send their egos screaming into the upper ranks of the S-Team.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Wdym by this?",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh4630",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.infoq.com/news/2024/03/aws-cloud-formation-faster/",
+    "title": "AWS Makes Cloud Formation Stack Creation up to 40% Faster",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Nice. Now it can fail my rollback 40% faster. Sweet!",
+        "points": "350 points",
+        "children": [
+          {
+            "comment": "60% of the time it works every time",
+            "points": "58 points",
+            "children": [
+              {
+                "comment": "Goddamnit. You beat me to it.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "https://www.youtube.com/watch?v=aLLbuyWBCzQ",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Good news, I can get down the stairs twice as fast.\n\nBad news, call an ambulance I think I broke my coccyx.",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "You indent 4 spaces might as well skip 4 steps too",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "For me the rollback seems like is the biggest pain when creating a new template. So the way I learned to work with it is starting with one resource and adding one by one. This way I avoid massive rollback due to one typo somewhere.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Seems horrible",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "failed to create, failed to rollback. Well might as well quit my job and go work on a farm",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I can point you to a server farm with lots of manure",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Link the actual AWS blog rather than some rehashed blogger\n\nhttps://aws.amazon.com/blogs/devops/how-we-sped-up-aws-cloudformation-deployments-with-optimistic-stabilization/",
+        "points": "47 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How much leetcode did their engineers have to study to take 8 years to make this change?",
+        "points": "160 points",
+        "children": [
+          {
+            "comment": "A lot of the AWS tool chain things (like CF, amplify, etc) are starting to degrade in quality. Go look at the amplify cli on GitHub. It's a complete joke",
+            "points": "77 points",
+            "children": [
+              {
+                "comment": "I tried to use amplify 3 years ago at a job I was at for 2 years. Amplify was a nightmares of undocumented or poorly documented tools that were barely supported but hadn’t been publicly shut down. The ecosystem for it has gotten worse?",
+                "points": "22 points",
+                "children": [
+                  {
+                    "comment": "I've only been using amplify for the past year and while they've added more documentation, it's still a broken mess. Trying to use the cli locally constantly wants to brick your CF environment. Stating things need to change when you know for a fact that your repo matches the remote env. I think it's totally horrid. I inherited it and I can't wait to never use it again. Garbage\n\nThey broadcast that the amplify team is available on discord, you join their discord and no one ever answers and when they do, they just toss links at you to random pieces of documentation and ask you to file a GitHub issue.\n\nThe current stack of issues on their GitHub is approaching 700. It's laughable",
+                    "points": "16 points",
+                    "children": [
+                      {
+                        "comment": "Brutal, not surprised though.. :/ The most annoying thing for me is some of the docs looks pretty solid so it convinced all of the bosses this thing should work really great so they forced it on me and held our team to the standard they had in their head. I was constantly having to burn my own political capital with the bosses to get them to understand that this thing sucks. They really believed that if amazon was gonna put it out that means it must be world class lmao.",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "That sucks. I think a SaaS offering to do what amplify aims to do is a great idea. Simplifying frontend deployments save a lot of time. I think amazon just didn't follow through on what the goal was here and ended up with a dog shit cli that's fundamentally broken",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Consequences of companies optimizing for Leetcode monkeys in interviews instead of people who actually understand what's going on (mistake, interview process should have been overhauled as soon as Cracking the Coding Interview was published), overloading their developers with responsibilities instead of hiring more people for different jobs, allowing non-technical management to have too much influence outside of their designated sitting corners, inventing needless formalities for developers to perform in order to do their work (TPS reports, anyone?), hiring too many incompetent contractors from race-to-the-bottom WITCH/Accenture/etc type firms in failed attempts at cost optimization (spoiler: FTEs just end up needing to pick up the pieces on top of doing their normal work), and other stuff like that.\n\nA great move for a new CTO at big corps like Amazon would genuinely be to burn everything to the ground (within reason) and rebuild",
+                "points": "39 points",
+                "children": [
+                  {
+                    "comment": "Couldn't have said it better myself. Crap like \"we've sped it up 40%\" should be viewed as writing on the wall that these tools are fundamentally broken in their foundation. The AWS tool chain is a complete joke now",
+                    "points": "8 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "This comment is a work of art, crafted through frustration",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I’ve recently started in Azure after being AWS for years. It’s not perfect but there’s a lot of stuff there that makes me go “Oh, you mean public cloud doesn’t have to be this janky?”",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "I have an opposite experience, literally everything I tried in Azure is worse than it is in AWS.",
+                    "points": "13 points",
+                    "children": [
+                      {
+                        "comment": "Azure's api is very unstable",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "It drops requests or in what way?",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "Is anyone else finding this? Potentially hijacking this thread but I'm finding requests randomly hang with Azure gpt endpoints. It's my first time using Azure, does anyone else get this? I'm at my wits end trying to debug if it's server side or not with how unreproducible it is",
+                                "points": "2 points",
+                                "children": [
+                                  {
+                                    "comment": "Have you reported the issue to them?",
+                                    "points": "0 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Ehh, in my exp Azure is even worse and msft is always in the room trying to hold your hand and make you pay for it.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "That's because they started accepting leetcode medium engineers instead of leetcode hard engineers.\n\n/s in case that wasn't obvious",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I stayed away from that thing when it was brand new. What a piece of garbage.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Corporate is unbeatable at AWS lol, sometimes these changes aren’t even that hard but you spend forever trying to convince corporate it’s worth doing",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "40% faster than 2000% slower than it actually should be.",
+        "points": "71 points",
+        "children": [
+          {
+            "comment": "The numbers don’t lie",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "sleep(1.00 * FACTOR) -> sleep(0.60 * FACTOR) ?",
+        "points": "36 points",
+        "children": [
+          {
+            "comment": "They removed some speed up loops. https://thedailywtf.com/articles/The-Speedup-Loop",
+            "points": "12 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I've got a 20% speed improvement in the bag as soon as I can figure out the best way to determine when a few tasks sync. Right now sleep(1.0) got us into production.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "oh good, the ads are starting",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "oh, wow, I guess old.reddit.com is definitively going away this year (maybe by the next quarter), because looks like they didn't add ads on it.\n\nWhen they blocked API I managed to never install their app, and jump to lemmy, I'm kind of glad I was able to gradually switch.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Supabase makes it 90% faster but it can’t scale as big meaning you won’t end up with a huge bill.",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Oooh. Is this one of those new ads that reddit allows which look just like a post?\n\nBlogspam too.",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "How can you tell? on old.reddit.com I don't see any hints I didn't notice on the new UI either, but I'm not familiar with the new UI so don't even know what to look for.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you are using Cloudformation as your primary IAC tool, you are glutton for punishment. I understand not knowing better, only having used it and thinking that's as good (bad) as it gets, but its really one of the worst IAC tools out there.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "#1 reason to use Terraform for AWS\n\nFaster",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Terraform.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For those of you advocating terraform, let me tell you where I am coming from (SW).\n\nWhen we first started created systems before GUIs we used configuration files. It was a pain but thats life.\n\nThen we had GUIs, now we can point and click our way to configure our systems and the world was great! Admin consoles, user management systems, etc.\n\nNow, we need IAC for working in the cloud, and somehow we are back to managing files again, in my case, terraform yaml files.\n\nI hate it. Our api gateway file is over 10,000LOC! Its a oain to maintain manually.\n\nWhats the solution?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I think the big problem with the web console approach is that its not easily reproduced and configuration drift is bound to happen. IaC makes it much easier to produce homogenous environments.\n\nRefactor your IaC.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh33zp",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.resonatehq.io/async-await-mechanics",
+    "title": "The Mechanics of Async Await",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Should be titled 'async await in Elixir'",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wtf is Resonate",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh2pwu",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.frankel.ch/pitfall-implicit-returns/",
+    "title": "The pitfall of implicit returns",
+    "points": null,
+    "comments": [
+      {
+        "comment": "In rust only the last statement can be an implicit return. Your example would be an error",
+        "points": "40 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Eh I’m a Scala programmer and I’ve never personally found implicit returns problematic or error-prone. Once you start thinking of code in terms of expressions rather than commands it’s the natural way to code IMO",
+        "points": "34 points",
+        "children": [
+          {
+            "comment": "Also your compiler should catch statements that discard non-unit values and give you a warning (Kotlin, Scala, ...) or even an error (Rust).",
+            "points": "16 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As a Ruby programmer I feel attacked.",
+        "points": "12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Working with implicit returns in Clojure and then Scala I had no problems at all. It instantly made the return statement seem redundant and silly. It also makes it clear that functions that can return, not return (void), or throw are really a mess all crammed into one concept.",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The author mostly misses the point of \"implicit\" returns: all functions return *something*, and the only way to guarantee that is by deciding how to mark that something without fail. Which either means requiring the developer to mark that \"last statement\", or have it occur \"implicitly\".\n\nLanguages without implicit returns tend to either return something like `undefined`, more often than not silently which is just *horrible*, or they aren't functions and if you try to assign from them you get an error which you now need to go back and fix.\n\nOn the other hand, explicitly marking code with return statements encourages people to write blocks that simply stop at some random point in the code, and it is often *no clearer whatsoever* what the impacts of that early return are, unless it is in the first line of a guard or similarly trivial. Which is one reason many languages with implicit returns also have function-head guards: they stand in for the \"first line early return\" pattern.\n\nWriting code that has a clear \"happy path\" through it, resulting in a clear \"this is where it returns\", works wonders when paired with implicit return. Often this means decomposing larger functions with branches into separate ones that do one one thing decently. Replacing branches with functions is another reason many languages with implicit returns have function-head guards, to pair with multiple function definitions. It also avoids the \"switch statement with a bunch of returns .. and don't forget any!\" anti-pattern.\n\n\"This doesn't work the way I like\" can indeed mean the tool is poor or broken, but it can also mean you are holding it backwards and upside down, in which case, yeah, it's going to feel awkward and lead to problems.\n\nReading this article, and having used languages with required (nee implicit) returns quite a bit, I suspect the author is doing the latter.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is kind of a case of RTFM... I'm curious what they'd have to say on /r/Kotlin.\n\nAlso FWIW, your example gives a compiler warning in a code playground: https://pl.kotl.in/ANb7qcaXb\n\nI realize it's a demo/example, but I'm finding it hard to picture a real world scenario where one wouldn't just write:\n\nfun oops(constant: Constant): String = when (constant) {\n    Constant.Foo -> \"Foo\"\n    Constant.Bar -> \"Bar\"\n    else -> \"Baz\"\n}\n\n\nThough there are multiple ways to write it imperatively, something like this would be more Kotlin.\n\nfun oops(constant: Constant, guard: Boolean): String = when(constant) {\n    Constant.Foo -> \"Foo\"\n    Constant.Bar -> \"Bar\".takeIf{ guard } ?: \"default\"\n    else -> \"Baz\"\n}",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "To me this just seems more like a shortcoming of not requiring an explicit block around the conditional body. In Rust, Lisp, etc. you must specify delimiters that make it much more obvious what is going on. IMO implicit returns themselves are usually a win, but when combined with other implicit/poorly designed language constructs it ends up being worse.\n\nAlso use match guards... nested conditionals are a code smell and probably contribute to the problem OP was having.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Kotlin doesn't have match guards as such, but you could change the whole thing to a boolean expression like:\n\nfun oops(constant: Constant, guard: Boolean): String = when {\n  constant == Constant.Foo -> \"Foo\"\n  constant == Constant.Bar && guard -> \"Bar\"\n  else -> \"Baz\"\n}\n\n\nOtherwise, the difference between blocks and expressions are very clear in the language docs at the beginner level. I don't really see this as a gotcha the way OP does, especially when there are things like non-local return syntax to think about.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Though there are multiple ways to write it imperatively, something like this would be more Kotlin\n\nI completely agree the example is very contrived. My original code was a bit more complex, but the sample is the minimum sample to reproduce the behavior.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's not really implicit though is it? There's an explicit rule to return the value at the final point of execution in the function. That if statement is very clearly not. Also most IDEs will give you a bright yellow squiggle saying that you have an expression that isn't assigned or used.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "implicit returns are cancer.\n\nI hate looking at code and then guess what is happening.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "You don't have to guess. The last line of the function gets returned",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I don’t understand why the return statement is deemed too much that we need thisb",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "In rust it's not only to get rid of the return statement. It's so you can make every block an expression\n\nlet bar = if (foo > 0) {\n    foo - 1\n} else {\n    println!(\"Bottomed out\");\n    0\n};\n\n\nIs quite useful and imho totally readable. It's like ... ? ... : ... but the ... don't have to be expressions. And you have clippy to avoid making the code look ambiguous",
+                "points": "15 points",
+                "children": [
+                  {
+                    "comment": "Yeah I'm fairly happy with Rust's implementation of implicit returns for that reason but I still generally avoid them",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Maybe it’s something I could adjust to, does it not make it a little unclear that this is a returned value? Like with c# you absolutely know when code is returning? I guess you just need to learn the additional mechanics for when a return can occur.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "I'd think assigning the block to a variable makes that clear. You don't have that if you don't assign the expression to something anyway. Also you can see that you are returning something from a block of the last statement doesn't have ;",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don't consider Kotlin's single expression functions (fun ... = ...) as \"implicit return\". The return here is very explicit - it's the assignment character (=) - and even someone who doesn't know Kotlin can deduce, upon seeing that character, that this is what the function returns. Compare to Rust, where one needs to know that not having a semicolon means that the function returns that value, and without that knowledge it can looks like a side-effect only function (if the signature wouldn't have given the return type away, that is)\n\nThe example can easily be converted to the explicit return style while retraining the bug (and keeping it just as elusive):\n\nfun oops(constant: Constant): String {\n    return when (constant) {\n        Constant.Foo -> \"Foo\"\n        else -> {\n            if (constant == Constant.Bar) \"Bar\"\n            \"Baz\"\n        }\n    }\n}",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Returns are commands, and break referential transparency. If you are working with expressions in a language that is mainly expression oriented you should avoid returns.\n\n// scala code\ndef mySum(list: List[Int]): Int =\n  list.foldLeft(0)( (a, b) => return a + b)\n\nmySum(List(1,2,3))\n\n\ncan you guess what is the result???",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Implicit returns are awful, I don’t understand why anyone likes it as a syntactic sugar.",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "It's not syntactic sugar, it's the very fundamental semantic of a block in expression oriented languages.\n\nIt causes issues only in multi-paradigm languages, if you mix statements and expressions. And in this example, the useless if statement is correctly caught by the compiler.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Okay, to be fair I was assuming this was only about OOP and not functional languages… thinking like how Ruby does it and the countless confusion and errors it has caused.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh2pu2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.dannyguo.com/blog/start-with-a-minimum-viable-system",
+    "title": "Start With a Minimum Viable System",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh2iqg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/feitgemel/TensorFlowProjects/tree/master/Brain-Tumer",
+    "title": "Brain Tumor Classification using Deep learning",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Using AI guesswork to determine whether or not someone has a brain tumor and potentially blast healthy people's brains with radiation, seems like a bad idea to me. Youd at least want to validate it on patients who have no humanly visible brain tumor. Although if you are testing it exclusively on humanly visible brain tumors, then i dont see the point.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh21nr",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://newsletter.eng-leadership.com/p/simplifying-as-much-as-possible-is",
+    "title": "Simplifying as much as possible is the way to go in the engineering industry",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh0wpi",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://ayelite.com/blog/ai-app-development-guide-2024/",
+    "title": "AI App Development Guide 2024: Trends & Ethics - Web & App Development Blog | Ayelite Technologies",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgzrvl",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://asyncq.com/spring-data-jpa-query-derivation-explained",
+    "title": "Spring Data JPA: Query Derivation Explained!",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgyi3n",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://read.highgrowthengineer.com/p/engineering-crits-at-figma-interview",
+    "title": "How Figma runs Engineering Crits",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What the hell is a \"crit\"?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "From the second paragraph...\n\nFigma calls these feedback sessions “eng crits.” You may know them as technical design reviews or tech spec reviews.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgyhl1",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
+    "title": "Popular Git Config Options",
+    "points": null,
+    "comments": [
+      {
+        "comment": "git config --global core.fsmonitor true\n\nwas not mentioned in the article so here\n\nNow your cli themer's git status plugin wont lag.",
+        "points": "58 points",
+        "children": [
+          {
+            "comment": "git config --global core.fsmonitor\n\nduuuuude that is nice. I use starship and turn down the command timeout but then it ends up failing the first time or randomly depending on how long git status takes.",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "The difference in big repos was crazy, I had the git plugin for oh-my-posh theme and it runs status, so my shell commands would lag before next prompt like minimum 3 seconds on my old computer in larger repos. Turned it on? Instant again.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "53 points",
+        "children": [
+          {
+            "comment": "A proper TL;DR would actually list some popular config options, don't you think??\n\nAnyway, this was posted here under a month ago at the time it was first posted on the blog https://reddit.com/r/programming/comments/1atowsj/popular_git_config_options/",
+            "points": "53 points",
+            "children": [
+              {
+                "comment": "You are replying to an AI summary.",
+                "points": "33 points",
+                "children": [
+                  {
+                    "comment": "He does read these replies. He's not so good at taking advice on how to improve them but it's very little effort to point out ways they could be improved",
+                    "points": "14 points",
+                    "children": [
+                      {
+                        "comment": "It's not he",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Haha r/programming just generally seems to hate OPs, even if they don't actually dislike the articles.",
+            "points": "-9 points",
+            "children": [
+              {
+                "comment": "We hate this OP and his stupid chatgpt garbage",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "Oh is that what it is? Now that I look again that comment is super sus.",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgx5nq",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jacobian.org/2024/feb/16/paying-maintainers-is-good/",
+    "title": "Paying Maintainers is Good",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This article perfectly encapsulates the issue I have with this entire debate: the headline I agree with, however the \"solution\" involves destroying the value that open source brings to our communities at large.\n\nTo be clear: I understand that this is the real world, and people have to eat. I understand that it is not sustainable to do work for free while others reap the benefits. But anytime someone locks up their product for the sake of that, this is not something worth celebrating, this is an admission that the vision of open source has pretty much failed, and calling whatever this is open source is either maintainers lying to themselves or to us and avoid pushback.\n\nI don't think people appreciate the value that open source brings outside of massive corporations. A lot of what I learned about real world software development is from reading those open source codebases. The only reason I was able to do this is that the code was just there, I was able to look at it, learn from it, play with it and use it however I wanted to. These are incredibly valuable resources especially to people in developing nations where political instability constantly threatens access to these resources if they're locked up behind restrictive licensing.\n\nAgain, I do not judge people for taking the paycheck. But stop asking me to celebrate the death of the resources that helped me so much when I was learning, and the lack of access to those materials for future generations.",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "Yeah agreed. As a maintainer, I’d rather step down as maintainer for health/sanity/financial reasons than remove access to the code I maintain as a bully tactic. It would be nice if companies had more OSS donation policies, but what can you do",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "I don't think this is something that companies can be trusted to do consistently. A very interesting proposal was to start to treat OSS as infrastructure, the same way roads used to be built by volunteers before the government started maintaining them due to their importance.\n\nIt's not a perfect solution, but it is an actual solution as opposed to whatever this is.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Oh yeah agreed, I’m not proposing that they do or need to since I know they can’t be trusted to.\n\nI like the maintenance/foundation proposal, but the complexities of that add up quickly with organization logistics and such.\n\nAll I know is I’ll maintain while it’s fun and while it doesn’t add undue stress to my life. After that I’ll try to hand off to whoever might be in a good place to do the same, or let the software die if no one will take it up",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "That's a healthy attitude to take around it. I might have given the impression that I was disagreeing or criticising, i wasnt at all. I honestly appreciate your approach.\n\nWhat I would really like to see is it taken further, a system where people can work full time on stuff that is fully open source. Like Linux managed to sustain itself, but that's for very specific historical reasons and its not really a model you can replicate in other domains.\n\nI like the maintenance/foundation proposal, but the complexities of that add up quickly with organization logistics and such.\n\nOh I agree. Like I said it isn't a perfect solution, but it's just an example of an alternative that doesnt involve locking up code. There might be other solutions I'm not aware of, but this is one I've actually seen explored relatively seriously.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Makes sense, appreciate the discussion!\n\nThe one thing I’ll never do if I can help it is become 100% unresponsive while I’m the “admin”. If my intent is to stop maintaining and no one wants to maintain at that time, I’d always be open to transferring ownership in the future if someone stepped up. The biggest pain of getting to where I am today was that the previous owners would not communicate or take action at all once we realized their intent was to let it die or only blind merge PRs and release once a year.",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "i can never judge oss maintainers. i couldnt ever imagine the bitter taste of developing amazing software with a open license and to compete with cloud providers on your software (redis/docker/et al). not all oss is openjdk or linux. the realistic soln is to make it foss but require a commercial license if ur company makes a certain amount of revenue.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "You're talking about one specific kind of open source. I just went and created js-cookie them bye bye open source, there's absolutely no fucking respect for our free work. You can see the same hate in the AI summaries I post here.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Donations will be a new mode of scam and money laundering.\n\nCompany will tell their own employees to make open source project, and they will sponsor their own work to show the world that they are good things for the community and claim some tax benefits.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That shouldn't be a controversial statement.\n\nHow else would someone work on open source software full time unless you were paying them? How would they pay for their food, rent, electricity, internet bill, laptop, etc?\n\nAnd if they are just working on it in their spare time, well that's going to lead to burnout. Most software developers are already overworked in their jobs, they aren't going to have that much spare time outside of their jobs to also do volunteer work maintaining software, which is an issue if that software becomes widely used by potentially hundreds of thousands or even millions of people.\n\nAll the most successful open source projects have found a way to fund their development using a reliable income stream so that the core development team can work full time. Look at how good Blender got after it secured a decent sized development fund for example.\n\nPlus it should go without saying, that in a fair world, hard work should be rewarded. Open source developers behind popular projects are some of the smartest and hardest working people in the tech world.\n\nThey deserve to live well, not live off table scraps.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "why does it seems that only crappy projects begs for money. i have never heard of any open-source project (that are valuable to companies) ever beg.\n\nmajority of open-source projects are useful, but not very valuable. if those projects disappear then something else will take their place.\n\nmake something valuable (not just useful) and money will come.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In other words:\n\nThe post argues for the financial support of open source maintainers, highlighting the discrepancy between the value generated by open source projects and the lack of compensation for those who maintain them. It discusses the challenges maintainers face, including burnout and the potential for project abandonment, which could negatively impact the broader tech ecosystem. The author proposes various funding models, such as direct sponsorships, grants, and corporate backing, to ensure maintainers are compensated for their contributions. Additionally, the post examines the benefits of financially supporting maintainers, including increased project sustainability, improved software quality, and a more vibrant open source community.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "-5 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgx04v",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/Fadi002/de4py/releases/tag/v1.0.8-stable",
+    "title": "De4py Python RE Toolkit: v1.0.8 has been released",
+    "points": null,
+    "comments": []
+  }
+]

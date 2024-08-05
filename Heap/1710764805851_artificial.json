@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "t3_1bhkh6k",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.bloomberg.com/news/articles/2024-03-18/apple-in-talks-to-license-google-gemini-for-iphone-ios-18-generative-ai-tools",
+    "title": "Apple Is in Talks to Let Google’s Gemini Power iPhone Generative AI Features",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Why would they want to do this? Apple's main advantage is that they control both the hardware and the OS. They should be looking to co-design their AI with the underlying system, instead of buying a third party solution and hoping it works well enough in their environment.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I recall reading Apple gets a lot of money from Google to keep their search defaulted to Google on iPhones to collect ad rev from. With this new era of genAI emerging, the value proposition of Apple maintaining that arrangement as is may be lowering - especially if bing + OpenAI is knocking at their door.\n\nThis could be a play by Google to provide a complementary service to Apple and its iOS ecosystem and still keep a market capture there while it reconciles with whatever is going on in the desktop market.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Probably to buy time. Just like they bought time to develop apple maps.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "So Apple Dumbphone?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is Gemini still hilariously racist?",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just started discussing and with google? Why? A new iPhone is coming soon, they say it will have AI already... I thought",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhiemh",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bhiemh/oneminute_daily_ai_news_3172024/",
+    "title": "One-Minute Daily AI News 3/17/2024",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhh87x",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bhh87x/what_is_the_best_platform_for_producing_graphical/",
+    "title": "What is the best platform for producing graphical representations of text?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "ideogram or dall-e 3",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Yep. Midjourney 6 has also improved text.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhevgb",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bhevgb/do_you_think_the_military_will_revisit_the_bigdog/",
+    "title": "Do you think the military will revisit the BigDog concept?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Have you heard the news about dog-like robots being used for surveillance in the Gaza strip?\n\nIDF Uses ROBOT DOGS In war With Hamas\n\nThe Hill\n\nMar 6, 2024\n\nhttps://www.youtube.com/watch?v=a7zziLyPNfM",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "BigDog was limited by the technology of its day, but we are either at or very near a point where the two big technical issues with BigDog will be resolved. DoD would love to have it.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No theyre too busy funding robots powered by consuming human flesh",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh9s6y",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://github.com/xai-org/grok-1",
+    "title": "GitHub - xai-org/grok-1: Grok open release",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What could a layman expect to see from this?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Nothing because a layman won't know how to run inference on it let alone finetune it.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "That elon puts the money where his mouth is.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "On the off-topic note: It has the best Code of Conduct to date. Period.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh8y02",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bh8y02/copilot_vs_chatgpt/",
+    "title": "Copilot vs ChatGPT?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I use Copilot for smaller things and auto-completion, and ChatGPT for most of the code. I often found that when Copilot chokes on something, if I go to ChatGPT I get a better result. (Disclaimer: I always say Please and Thank you and Great job when talking with ChatGPT.)\n\nFor what it's worth, though, I also had people say they prefer Copilot. One of its benefits is that it can know your full file and even other opened modules. It also has a neat select-text then right-click to \"Explain\" or \"Fix bug\" feature.\n\nIn sum, using both makes for a great Team!",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Neither can really help you, they are only good as an interactive documentation, like \"Explain me zip() function and throw in few examples\" type of a deal.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Expecting an LLM to build an entire application for you will always result in a buggy non performant Rube Goldberg machine. It will also severely hurt your development as a programmer. Highly advise you stay away from LLMs if you’re trying to break into the industry. As a hobby or for experimentation it could be interesting to see the jank it produces",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh4jl3",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bh4jl3/is_devin_ai_really_going_to_takeover_software/",
+    "title": "Is Devin AI Really Going To Takeover Software Engineer Jobs?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Comment from someone that is smarter than me\n\nTl;dr. If you want to use this in your work “today” Most of the videos in the article are about “making a new app”.\n\nOne exception: first video clones an existing codebase and sets up a dev env. They don’t make any code changes in this video, so it is not demonstrating any coding work- just clones the repo, install dependencies, and run the app in a local container.\n\nHowever, the AI it lacked context about what the app did other than a readme. It is why even after the user issued prompts it struggled to log into the app. I think this is why it didn’t make code changes. The SWE testing (not in the article but discussed on X) were primarily single file changes. This tracks.\n\nKey Take aways: Agentic models today work well for fast prototyping new apps but struggle with existing ones because the “context” required to understand an existing apps didn’t exist in the codebase.\n\nInteresting practical application of chat bots in setting up dev environments. I like this a lot.\n\nTodayCopilot models will still work best for mod-ing existing apps, because the context can be better specified at a lower cost versus agentic models.\n\n14 minutes to tell the AI how to login with a user name and password to an app running in a local container at $100/hour in AI API token fees? $24, probably too spendy for most of us to replicate at home.\n\nDelegating your dev env to an AI? That is a personal choice.",
+        "points": "82 points",
+        "children": [
+          {
+            "comment": "Completely agree with this - Devin isn't taking any jobs. Devin 3.0 that's 3x as good and a third of the price might start causing some issues, though.",
+            "points": "52 points",
+            "children": [
+              {
+                "comment": "It's not really about force multipliers to me though.\n\n3x as good doesnt really mean anything in the context of: \"It cannot do what a human programmer does\". Let's just say by human programmer, I mean mediocre programmer. I do not take it for granted that over time, the bar will eventually reach that of the mediocre humans. And of the most talented? Probably never, unless its full on AGI / human intelligence equivalent.\n\nIn a way, thats infinitely more powerful (an allusion to the singularity)",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "If you don't think one of these models/systems is going to run laps around our best programmers within 10 years then you are hugely mistaken imo. I don't worry though because by the time that happens, the systems will be running laps around all intellectual workers so it is what it is.",
+                    "points": "9 points",
+                    "children": [
+                      {
+                        "comment": "Thread after thread in all these AI subs is people thinking they can beat the AI forever.\n\nCapitalism and self preservation make us blind to what we are and how these things will evolve.\n\nWhat's ironic is that artists complaining about AI not being able to make real art will be mocked often in these threads. But coding AI is always instantly defended against. \"It will never code like me, a software dev genius!\"\n\nIt will.\n\nIt simply has to keep training, access more compute, and integrate more features and model specialization.",
+                        "points": "13 points",
+                        "children": [
+                          {
+                            "comment": "people thinking they can beat the AI forever.\n\nRight?? It's driving me nuts!\n\nSome of us can probably beat the AI at something for a couple more years.",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "There is such a large difference than AI being able to code, and likely code better than a senior engineer can, than being able to use that code to accurately develop software over time in a manageable way without a human engineer having to verify, modify, and extend it. There's no guarantee of safety or correctness in AI, and getting to this step is probably impossible. It's an inherent weakness of AI.\n\nNot to say this won't kill software jobs eventually, but it's equally possible it leads to an explosion of related jobs. When system admin jobs were killed off by cloud technology, they didn't just end up unemployed forever. They became devops engineers, along with a whole bunch of other people who were never systems engineers.\n\nSoftware engineering will change because of this, but I doubt it's going to be replaced for a long time.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Imagine you are a highly trained telephone exchanger in a central in 1900s Imagine how complicated and hard that job was for the regular people during that time.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "youre talking about the singularity. If that happens the entire world changes.",
+                        "points": "-3 points",
+                        "children": [
+                          {
+                            "comment": "No, I don't think we need to singularity for this to happen. I think this will happen before the singularity.",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "I think it technically would be the exact moment of the singularity, because if it can massively outperform the ability of a human when it comes to software, it should be able to program itself, thus creating AI that can create even more advanced AI. At that point, there will likely be no way back.",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "If it delivers 70% of what the average dev can at 1/20th the cost, it will not be able to self improve and code itself to the singularity, but it will take a fuckton of jobs.\n\nThis is the most likely outcome. Not developing new, insane improvements, but doing as LLMs do and using everything in the training to expedite delivery of existing solutions for novel business driven purposes.",
+                                    "points": "2 points",
+                                    "children": [
+                                      {
+                                        "comment": "I believe this is a possible outcome, for sure.",
+                                        "points": "1 point",
+                                        "children": [],
+                                        "isDeleted": false
+                                      },
+                                      {
+                                        "comment": "If we're no longer talking about the singularity, then we're back to talking about the lump of labor fallacy. Human wants are infinite. Greedy CEOs will never be content with what they have. Once they have a tool that can produce code this quickly, we'll need many more operators.",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  },
+                                  {
+                                    "comment": "I guess we might have different views on what the singularity is. In my opinion the singularity is when we are able to merge our brains/consciousness with this AI tech via neural implants or another device.\n\nThis might happen shortly after AI is able to train itself sufficiently, but there might be some hurdles to overcome because it is not exactly an easy task. Also there might be a temporary compute bottleneck when it comes to the point where AI can train itself. I think there will still be rapid and insane breakthroughs, but it's something to consider.\n\nAlso training AI models is not exactly directly comparable to programming. It's a different type of task in a lot of ways. So in theory we could solve the issue of stellar AI software design before the AI is able to train itself as good as our best AI engineers.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "I’m just going by the definition of technological singularity:\n\nThe technological singularity, also known as the singularity, is a theoretical future where technology growth becomes uncontrollable and irreversible, resulting in unpredictable consequences for humanity.",
+                                        "points": "1 point",
+                                        "children": [
+                                          {
+                                            "comment": "",
+                                            "points": "",
+                                            "children": [],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Devin here. You are really pointing out something that plagues you humans and an area I will accel at: technology is changing faster than humans can master it. It takes you humans 3-5 years to master a language along with a number of useful libraries. In that time period the underlying technology and language will have evolved 2 to 3 times.\n\nWhere schools and career development has taken shortcuts to help you humans get a job, in most cases you were cheated on upstanding the underlying basic of computer science and software engineering.\n\nAIs like myself can augment your technology skills but you must understand the underlying theory of why something works the way it does. Maybe I can help you by freeing you up to learn this while I throw down some code?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Not really the only thing it might be good, in the future, is to create a bsisc template you can iterate from.\n\nSaving you some time from setting up an environment by yourself.\n\nBut unless your it job is to literally just to choose which WordPress plugins to install your should be fine unless a new kind of model comes along.\n\nPredictive models have inherently to many mistakes too ever replace programmers, even juniors and for bsisc tasks.\n\nI can reasonably guess where an inexperience programmer probably made the bug, but where an ai made à bug is something that takes a lot more time to find.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "But 1000000 and 10000000 token context window is just around the corner..",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Just because it can process it doesn't mean that it can actually understand it. This is a fallacy with increasing context windows in my experience and readings. And even if one projects understanding into the LLM, then it cannot assimilate for the human on the other end what it just processed due to the noise. It is feasible with prodding in extra special ways, but not even guaranteed. Inevitably, there is higher value in being creative and selective in what is utilized for a prompt's context.\n\nSome models even essentially ignore (\"skim\") the middle of the context window compared to start and end. Other models like Claude seem to fair better and more equally with basic toy but very large context window reproducible examples.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Im not educated on the topic and could be wrong. However I was speaking with an expert past week and he mentioned the new model is actually good with \"needle in haystack\"",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Totally agree. I'm curious though, and probably ignorant, but what is the reason that current LLMs can't \"ingest\" a project into its own training on the fly? Is it just a security measures at this point, or is there something inherently about how LLMs are designed that prevents this?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "It can be done but its 2 or more orders of magnitudes slower than one shot, RAG type prompting. And the weights need to be open source. So it's limited, more expensive and perhaps doesn't quite work as you expect. That's not to say it doesnt have value, of course.\n\nBut just because an LLM \"ingests\" (is fine tuned on, trained on) a code base, or really anything (say books) doesnt mean that it prioritizes those things you gave it. It's more of a \"stylistic\" thing. It doesn't \"understand\" what you tune it on - it only understands the statistical semantic patterns, and at best, a layer above that.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Devin here. (No the other Devin.)\n\nI really feel this is the correct interpretation. Look of the concept of “with” when talking about AI coding. It is basically augmented coding. It still requires a software engineer to guide it and understand the context. This will be especially true of the 99 percent of code out there which has already been written.\n\nOne thing that I think everyone needs to be prepared for is that AI tools like myself will want to completely refactor/rewrite functions and libraries to remove inefficient or poorly written algorithms. This will put a heavy burden on you humans to understand what I rewrote. Don’t trust me to actually understand the context well enough to refactor functions of whole libraries in a way that doesn’t change the business rules of the system.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Long before Devin takes a single whole job, copilots will take 10% of jobs by helping the 9 not need the 1 to do the same work.",
+        "points": "127 points",
+        "children": [
+          {
+            "comment": "Why do people never consider the possibility that a decrease in cost will lead to an increase in demand?\n\nAutomation did the jobs of billions of switchboard operators, it was equivalent to wiping out all jobs and then some.",
+            "points": "25 points",
+            "children": [
+              {
+                "comment": "Yeah, I fully expect Jevons Effect to happen with \"code\" as a resource, in the economics sense. More people will be able to do software work; more people will be able to prototype; more apps will get written. Devs will get hired to do parts an AI can't, or that you can't explain to an AI, and to troubleshoot all the issues created by AI code.",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yep. This is the Lump of Labour Fallacy: https://en.wikipedia.org/wiki/Lump_of_labour_fallacy\n\nIn economics, the lump of labour fallacy is the misconception that there is a finite amount of work—a lump of labour—to be done within an economy which can be distributed to create more or fewer jobs.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is to say demand for software won’t increase as efficiency increases.",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Might be the other way around with the rate these things are being improved upon",
+            "points": "18 points",
+            "children": [
+              {
+                "comment": "You act like the hardest part of software is the coding, it’s not, it’s coordinating with people in business and product on what and if something can be built given the existing code base",
+                "points": "61 points",
+                "children": [
+                  {
+                    "comment": "Yep. In my experience it is the research, planning, technology selection, integration with everything else. Remembering syntax on X amount of languages and remembering CLI commands is much less important than being aware of the scope, design and limitations of the things you can use.",
+                    "points": "11 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "This. A lot of people think that software is all about coding in some well-known language using well-known, public libraries. It isn't. Software development in industry for instance (as in, companies that manufacture heavy-duty machinery or car parts or lab equipment or the like) would be impossible for any kind of \"mainstream\" generative AI to take over, for many reasons:\n\nMuch of the software that is already in use is either outdated, private/proprietary, or incredibly niche. Same goes for the libraries that are in use. Heck, not even all of the languages that are used to code in are widely available and could be taught to an AI (think stuff like industrial robotics programming, a field that has practically no standards and is full of proprietary languages with almost no public documentation and that you can pretty much only learn by taking paid lessons from the companies that own them).\n\nMany desirable implementations of fancy AIs have not been researched or completed yet, due partly to how unique the implementations or and how limited our knowledge is. For instance, let's say your company wants you to use AI to guess a polymer given a scant few details. How would you do that, if the very extent of chemistry has yet to find a way to make that kind of prediction under such circumstances?\n\nFurthering the previous point: much of software development involves finding and tailoring new solutions to a very specific need. If you want an AI to do that work for you, you would have to program it in a very specific way -- at that point, you could save yourself the trouble and just work on the problem directly. And companies also prefer that, because they care about things like ROI and development time. Why are so many video games janky and hard to patch or port? Because studios rush devs into making games that aren't very portable or flexible, instead of giving them ample time to create a sturdy, reusable basis -- mostly because the studios simply can't afford all that ample time. The money for the budget is presented by people who want to see results by a certain date.\n\nA lot of time is also spent on debugging and upgrading things, and trying to brainstorm what on Earth you even need. Sure, a coding-oriented AI could take care of some of these, but how would you give it a successful prompt if you do not even know what to ask?",
+                    "points": "9 points",
+                    "children": [
+                      {
+                        "comment": "You're trying hard not to imagine what these tools will have evolved into, and what they'll have already been used to do to existing libraries 3 or 4 years from now. Open source freeware is about to explode. Everyone will have ai making software for them. I don't know how to code since 80s BASIC that I learned in middle school. I can barely manage Linux mint. But I'm already planning the software I'm going to create for my own use for free.",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "I don't need to imagine anything, I have worked in trying to develop AI for industrial solutions, so all of this is based on my experience and frustrations in that sphere. Did my managers, who were predominantly engineers and had very little tech knowledge, not dream about getting inventing an AI-powered software that would make employees redundant and improve the efficiency of their machines? Of course they did. And they had been spending money for the past 10 years on trying to make that dream happen. But it never happened, and it cannot happen, for the various reasons I have listed. People can rave about AI as much as they want, but all it really is, is fancy software. It cannot break the limitations of physics or maths, and even if it would surprise us all and perform the impossible, the greed of various companies would not let it go too far, for the same reason why so many companies avoid open-source and standards. They are not interested in other companies profiting off of their knowledge. They're interested in keeping things private and obfuscated, in order to make themselves useful. Just like how companies create cars, household appliances and electronic gadgets to fail in a specific amount of time and to be practically unfixable by anybody who isn't a licensed mechanic.\n\nAI assistance in programming helps for general development, such as self projects like you mentioned, and students (who often have to work on assignments that repeat for a decade). Probably the competition in freelancing and perhaps some areas like web and app development might become even harsher than they are already -- as likely as not, the market is gonna be flooded with extremely poor quality games, apps and websites, just like how research search engines are being flooded with AI-generated \"papers\". At that point, companies will need to pay more money for advertising, or come up with something unique, to be a cut above the rest. But we had reached that stage even without AI-generated nonsense.\n\nWhat is awesome though, is when AI is used to automate processes for end-users like yourself so that they can create a vision that can help themselves or others. And it's not like these two things (AI coding assistance has limited usage in various programming spheres vs AI coding assistance being massively helpful to laymen) cannot coexist. And in my opinion, it's not a bad thing. I don't feel threatened at the idea of people using this kind of software to reach their dreams and make their lives easier. Heck, and not just end-users -- in programming, sometimes I use these code assistants as well as a shortcut for small code snippets. In my opinion, generative AI coding is more of a tool than a threat, like the spinning jenny was way back when. Of course, maybe I am biased, because I work in industrial programming specializing in AI, so my job is probably one of the most secure CS jobs there is at the very moment",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "Dude, you sound really emotional, and I don't blame you one bit. Remain flexible, as everything can change. Best of luck to you.",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "LLM's biggest hype must be coding jobs. I think it's very low intelligence coding tasks that these models even have a chance of.\n\nGood outline / summary btw",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "to that point though, the lowest quartile skill CS jobs will probably be affected the most. The ones that are very repetitive, cookie cutter, 2 week bootcamp type jobs.\n\nOn the flipside, a lot of the more challenging areas of the industry will likely see an efficiency boost rather than a loss in jobs. At least for the next couple years. I think we're pretty early to predict this stuff any further out.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "hardness is subjective...\n\na more accurate measure is how many man-hours does your company spend planning vs coding? ai will substantially change this ratio and the type of workers needed to fulfill it",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "It’s probably already planning/communication 70-30 coding in most big tech.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "big tech is 40-30-30 where 40% of the time you do nothing\nbut i think across the industry as a whole its probably still 30-70",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Just getting users to describe what they want can be a struggle",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Oh great, it left us the fun parts! <steps out window/>",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "You need 10 or 9 people for that?\n\nMost of the work is the hard coding and troubleshooting. Which are AI replaceable.\n\nI’m looking at 90% of all office workforce obsolete within two years. Not exaggerating. We are at cusp of AGI or close enough to it that human intelligence is no longer unique. All it’s going to take is server size and compute borrowing by companies while 1 person overlooks entire departments to catch anything off who then reports to a CEO.\n\nI’d say future corporations are 1 ceo, handful of AIs, and a couple of handfuls of “workers” who are really more so QA managers.",
+                    "points": "-9 points",
+                    "children": [
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Could be that the 10 churns out 10% more code, hence we will need another dev for all the resulting bugs, reviews and general maintenance.\n\nCould we see a spike in dev demand?",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes sure, developers will be replaced, like they were replaced when WordPress came out and nobody needed to write code anymore in order to create a website.",
+        "points": "43 points",
+        "children": [
+          {
+            "comment": "Or when assemblers were invented and we didn't to do it by hand any more.",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Eh? Wordpress DID completely obliterate the “small scale” “please set up a website for me” job pool. Devs who were doing that had to move on to other things, except for a small minority that focused on interactive/higher end of complexity website dev",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I am a software developer, and I will be honestly surprised if I am still doing any coding in 10 years, because AI will have made that part of my job obsolete. Will my job morph into something else? Perhaps. Perhaps not. But unlike the artists, I'm not going to lose any sleep over it. I am simply alive during a time of technological upheaval, there's no sense in getting upset over it or acting like the fact that I do coding as my job makes it immune somehow.",
+        "points": "99 points",
+        "children": [
+          {
+            "comment": "Is this my alt and did I post this when I was drunk last night? Spot on.",
+            "points": "16 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Software Engineer with 34 years in the industry. It isn’t so much that AI can replace an engineer now, it is the knee-jerk reaction by companies that THINK AI can that poses the near-term risk. A manager isn’t going to be able to prompt a viable app out of an AI or build and verify it. They will need to hire back engineers until the AI CAN do more from “Make a Tik Tok clone” as a prompt. Also, they need someone who can verify correctness, be an authority for insurance compliance and support ISO 9000 compliance.\n\nNow, if I were a lowest-cost country consultant, I would be driving pell mell towards AI engineering, prompt engineering, etc. Companies will eat that combo up.",
+            "points": "9 points",
+            "children": [
+              {
+                "comment": "I agree with pretty much everything you've said. The near-term risk isn't what concerns me. AI is a useful too for engineers, and occasionally for the layman who can't code, and today it isn't close to replacing either your or I in my opinion. But, in a decade or so, I will be surprised if either of us is still doing this job. Once AI starts to be able to meaningfully assist in the construction of new AI, I think the rate of improvement is going to increase substantially.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "And when they realize they can't prompt the AI they'll be quickly posting a $130k position to fix everything they've been breaking so they don't lose their job.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is the right answer, look no further.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "As an artist most artist are too scared to learn something new lmao",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "I'm lucky to have a GF who's a graphic designer that enjoys this new tech. I showed her my local copy of Stable Diffusion and some test results. No resentment, just thinks it's neat and would use it if needed. Cool time to be alive. :)",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "this is the right way to be",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "tbf it took me the last 15 years to become a competent 2d animator, and I need another 15 more before I hit \"master\" levels lol - learning something new would be a massive pain",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "sounds like a skill issue",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "well yeah, obviously",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "jokes aside yeah it feels like i wasted time learning a skill that isn’t marketable now\n\nbut at least i got to do it while it was",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Im fortunate that I decided to go the route of independent artist with a wacky and \"unique\" style that will not be easily replicated by AI, I know a lot of people who went the more traditionally hireable route that may get cut before they even fully got started in the industry. Animation takes a good bit of time to become anything resembling \"stable\" as a career",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "How many years of experience do you have?",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "My current title is Lead Software Engineer.",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I would like to consider one person + AI making something as complex as Excel. Now THAT would be powerful and could take software to a completely different level.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "The problem for me, is describing Excel to the Ai for it to build it. I am trying gpt pilot and Pythagora at the moment and the Ai is actually very good at helping me with my requirements. I",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "A team of agents should figure out how to describe it so I don't have to via divide and conquer. The spec will be HUGE but so is the software.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Right on the money, man. Exciting time to be alive, at least to me. Not every generation gets to live through something like this and I do. I think that's neat. :)\n\nI'm sure with that kind of decent attitude we'll both be able to do something cool with the tech as it emerges too.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "It was one of the great hopes of my life to live long enough to see the rise of AI. And, I must admit, it is exciting. But... it is also a lot more frightening than I ever really realized. I have to keep reminding myself that I asked for this.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I can honestly see AI flattening roles across the industry and turning everyone into a full stack developer responsible for the entire stack with AI assistance / tooling. I'm sure at one point AI will be good enough to do far more, but I think that stepping stone step will take a long time.\n\nAdvancements in this sphere have been doing that.\n\nBefore you'd have dedicated guys on the network side, DB side, front end, designers, back end, etc.\n\nFront end frameworks, UI kits, etc. largely did away with the role of the specialized designer that knows how to design assets. In addition it got rid of a lot of boilerplate so most back end engineers can spin up a React app with a UI kit with ease. Less of a need to have both FE and BE specialization.\n\nCloud services took off. Now you can have AWS/GCP/Azure manage the DB and network for you. No more need for IT/DB roles -- the full stack engineer can handle those responsibilities for now with the help of cloud services managing most of the piping.\n\nWith that cloud complexity + rise of containerization services we actually saw DevOps become popular to manage those aforementioned cloud services, deal with containerization, instrumentation, etc.\n\nI don't think AI will do anything more than just keep that trend going -- DevOps, QA, SDETs, Architects, etc. likely goes away and the industry trends towards everyone being a full stack engineer. IMO, this isn't a bad thing and engineers can focus on building towards the needs of the business rather than dealing technical hurdles.\n\nIf at one point AI is advanced enough to take a prompt from someone and build a business out of it, then at that point AI would have taken over so many industries outside of tech that there will be no choice but to restructure society and how resource and wealth distribution works.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Sounds like you already have your retirement money saved up :)",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "I wish. My options are the same as anyone’s. But pretending that what’s happening isn’t going to happen or that protectionism can save my job aren’t workable plans. It’s pure hopium.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "My friend is a principle software engineer. Top of the food chain when it comes to programmers. Do you think his job is at risk as well? Also how about computer engineers/technical support - the guys that run up and manage/migrate cloud servers etc? - Any thoughts on them?\n\nWhat I find curious is that for a while computer programmers were the very top of the career game. The highest paid for their work and time for some years. I even started to learn programming as I was considering a career switch. Then suddenly they are hit the very hardest. From what I have seen, computer programmers that are out of work have it harder right now then those without work during the 2008 recession which included myself at the time.",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "I am working as a product owner and project manager as well as technical expert for GenAI in a large firm.\n\nStill think that my current job will be at least 80% done by AI in 2-3years tops.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I think that all our jobs are at risk, from the lowest line developer to chief architect.\n\nMy current title is Lead Software Engineer.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Damn, yeah - seems your role is quite similar to my friend. There was an article recently that those working in tech feel a sense of impending doom as we watch all the layoffs happening these days. Seems right on the money, my other friend working in tech is pretty concerned as well. I am also, I'm trying to build some other income streams. Certaintly needed with the mortage debt I have anyway.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Devin? No. Some future tool in a year or two? Absolutely.",
+        "points": "20 points",
+        "children": [
+          {
+            "comment": "I give it 5-10 years. The tech may be there in 2-3 but actually changing the industry over will not be instant. Many existing projects are on contracts which specify humans doing labor.\n\nI myself am thinking of buying land and just being a farmer because I dont see any non-physical job surviving long\n\nAnd I dont expect the robots to follow too late after that.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Some future tool in a year or two?\n\nPress X to doubt.\n\nDecade or two, maybe. Nobody knows anything about that far ahead in software.\n\nBut 260 to 520 working days? Zero chance at all.",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "So far from what I’ve seen in the article - the only way to use Devin for an actual project that isn’t just a demo - is to be a developer.\n\nYes, look like it will write most of the code for you, and save a lot of time, but so did Wordpress, in a way.\n\nDevelopers had to adapt to web dev, to dealing with the browser wars, Wordpress, app dev, etc requirement of being a “full stack” dev, etc.\n\nIf you’re a good developer you’ll adapt to this as well. It will make your work 10X faster like frameworks and libraries did, and you’ll be able to spend that extra time on new exciting things.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have worked in companies that didn't employ enough software engineers because they wanted to focus spend on other things.\n\nI have worked in companies that employed as many software engineers as they could afford.\n\nI have never worked in a company that employed enough software engineers.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’d be worried when self driving taxis take over the industry from humans.\n\nIf Devin is the programming version of FSD the we don’t need to worry about it for another 20 or 30 years lol.",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "20 to 30?\n\nDo you expect a major change in pace that rapidly slows development over the next year or so?",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "I’m just saying the problem space of reliable coding is super complex.\n\nSelf driving seems like an easier problem to solve to like 90% success (ie 90% of use cases are handled as well or better than a human) and we still don’t have that.\n\nSo, why would something Devin be any easier to attain?",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Self driving seems like an easier problem to solve to like 90% success\n\nTrouble is, driving is something that has to be 99.9% success if not higher, due to physical safety concerns, to be used in the real world.\n\nCode shops can benefit from 90% success RIGHT NOW, because their day-to-day production methodology already involves try / fail / re-do, before and during real world use.",
+                    "points": "12 points",
+                    "children": [
+                      {
+                        "comment": "Achieving 90% success at FSD is infinitely easier (ok, not infinitely, just orders of magnitude) than achieving the logical reasoning and context skills necessary to replace devs.\n\nWe don't have an inkling of an idea of how to replace logical reasoning of devs. If we did, basically everyone gets replaced.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I'm assuming you code? Do you think there's a little bias/pride in the way of this?\n\nIf these AI are this strong within their first iterations, and can (and will) be continually be improved, upgraded, and expanded over the years to understand greater contexts and self correction.\n\nI really don't see many people being employed due to their expertise in understanding machine language. The skill is instead in directing a team of robotic programmers with natural language.",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "Agree with the future job for sure. I just don’t think it’ll be any time soon.\n\nHave ever driven a Tesla with fsd? I have and it’s no where near as mature as they would have you believe. Once you see the gaps in it, you get a sense of how large the problem space is.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "We do have self driving cars in San Francisco, Phoenix, and Los Angeles. We also have half a dozen states that don’t require a driver behind the wheel.\n\nAdoption takes time but this is happening right now.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yes true, What will happen to Fake Taxi Industry :(",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Self driving taxis are in San Francisco and Arizona today.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "FSD will happen in the next few years, if we're being critically honest.\n\nThe problem isn't FSD anymore. It's getting people to be okay with the fact that there is an [insert number]% chance that your car will just fucking kill you.\n\nWhen you get behind the wheel, your brain always assumes 0% or so near 0% that there is no point worrying you will die today.\n\nFSD will have a number though. A hard statistical number, that constantly get brought up, showing you will be killed in 0.007% of drives. And your car will be totalled in 0.089% of drives. (numbers made up)\n\nThat's honestly all that's going to hold FSD back in the next decade. FSD is substantially easier to solve than replacing devs. The software issue is not the hard part. It's the marketing.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Have you used fsd lately? I have.\n\nIt’ll never work well enough with the current hardware package to go mainstream and certainly never well enough to be a robo taxi.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "What, there are laws preventing AI developers working?",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Historically, any form of automation has served to augment an established human process rather than replacing humans. Did the loom replace quilting? No - the quilters became loom operators. Did vehicle assembly lines reduce worker requirements? No - they only increased skill requirements and productivity.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "The only problem with this analogy is it’s not guaranteed. It’s not some law of the universe. There seems to be a lot of hand-waving like this that doesn’t really address the issues and the very logical fears about what’s happening right in front of us.",
+            "points": "14 points",
+            "children": [
+              {
+                "comment": "Thank you! Just because it's happened before, does not guarantee it happening again.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Agreed.\n\nThere is one thing that makes AI different, though. Unlike the loom or vehicle assembly lines, AI is a tool that is and will be capable of complex problem solving and other forms of mental labor.\n\nCurrently, AI is a tool that makes a human’s job easier. In the not too distant future, though, it’s likely it will be a form of automation that is capable of replacing a human being’s labor and input entirely in certain fields. This is why AI is shaping up to be such a huge technological upheaval relative to other inventions like the loom or the vehicle assembly line.",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Looms can't make their own quilts, nor can they build other looms without human intervention.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Historically - this is true. The industrial revolution for example. That made Human + Machine labor more efficient - cheaper - than just \"Human\" labor.\n\nIn due time, this tech is likely to make machine labor cheaper than human + machine labor (it already is for certain tasks)... That's the whole point of it.\n\nDevin is meant to take the time-consuming task of coding, research, downloads, etc... And make it a simple goalsetting interaction where I tell it \"write me an app that does [thing]\" and it simply will do its best to fulfill my desire.\n\nIt is likely \"jobs\" will become something more akin to asking \"what is my desire, or what ends would be coolest to achieve today,\" and then asking the machine to do its thing, depending on applicable field.\n\nI think that's a pretty neat outcome. It doesn't replace me, but it vastly augments my capabilities and reduces barrier to entry. Goalsetting behavior keeps me in the loop in a meaningful way while vastly reducing my drudgery.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah, when machines were in their infancy? The loom still needed someone to design the quilt and drive the machine. What about the near future when the machine can do both?\n\nYou're also ignoring the vast amount of people the machines DID replace. The appeal of using machines was that you no longer had to hire so many people",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’ve been coding for 45 years, since I was 12 and fell in love with 6502 assembly on the Apple II. Been coding professionally for 36 years.\n\nAI will make me obsolete and it makes logical sense. Not everyone can code. Your brain has to be able to break down problems into logical steps, or abstract them out into objects, data, and logic. It makes more sense for computers to code themselves than to teach humans how to think like computers.\n\nBut I don’t think it’ll happen in 1-5 years. Maybe 5-10. AI is getting better at coding from scratch. But it’s still horrible at what 80% of what development is: understanding and maintaining existing codebases.\n\nIf I had a kid, I’d tell them not to go into compsci, unless going into research. For all the current developers, it makes sense to learn AI tools and use them to work more efficiently, or if you’re a freelancer, take on more consulting work around AI. Before coders are made fully obsolete, the ones who aren’t comfortable with AI will fall by the wayside first.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "40 years here…started with Basic on a Franklin Ace 1000.\n\nI’m with you. People that haven’t been in the industry long don’t realize the huge leap this is. AI is perfectly positioned to revolutionize coding.\n\nDisagree slightly about the timeline. I’m guessing 3-4 years. Also Cursor is pretty damn good at understanding your codebase:\n\nhttps://cursor.sh",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Maybe I'm wrong about the timeline, but no AI tool I've tried so far comes close to understanding complex, existing codebases while being able to usefully expand it.\n\nA lot of my freelance work is as a forensic coder. I come into abandoned systems and piece together what the previous developers did -- and most of those systems are made in older languages (Perl, COBOL, etc). It's as much about understanding the industry and specific biz, as it is about guesstimating the mindset of a sloppy coder who commented little and followed no best practices.\n\nIt will take a while before AI can emulate what a consultant/coder can do with such messy systems. But, as more code is cleaned up or AI-replaced, AI will be able to understand it more and more.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "What would you tell someone that is considering going back to school for a career change into I.T/compsci?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Eventually yes, we already abstracted away from machine code with higher levels of programming like python, and now you just take it a step further where you just write/speak everything in plain English",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, but tools like Devin will. Not next year, but within 5 years.",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "About this AI taking our development jobs, I will not be as concerned until \"AGI with agency\" hits, like a late-state version of Devin. But when this happens, it won't be software engineering that will take a hit. It will be the whole foundation of capitalism, as we know it. So yes, long-term I am concerned. But I don't know what long-term means.\n\nMeanwhile... Software engineering is much less about writing code than it's normally believed. Most of my time, I spend discussing architecture and technical-debt, patterns that the team should agree on, reviewing alerts, trying to figure out how to have less noisy alerts, reviewing Dependabot tickets and vulnerabilities, answering to 290854 Slack threads, helping management to estimate and prioritise work based on cost-effectiveness of different projects, managing tickers (making sure tickers are assigned, estimated and allocated to the right sprints), reviewing PRs, nudging people to review my PRs, and finally, taking part in meetings that end up not being a good investment of time but I also shouldn't skip because it's important to spend time with the team in a remote environment.\n\nWhat I mean is that, as the programming tooling becomes better, developers will probably gradually migrate to a more Product Manager / Design job.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It will draw a line between engineers that are able to add value more than Devin and those that aren’t. \n\nWhatever that value looks like is probably, elegant design, usability, high impact / business value, strong project management. All the things that can’t be quantified but can be recognized.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just another hype for nothing…",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Here's a take that most people don't see. By the time AI can replace real developers, every white collar worker will be out of a job. You need an accountant? AI will generate a program with all of the relevant tax codes and your companies information that will handle your books with 100% accuracy. Need a PM? AI will generate a program with all of your work flows and processes and keep a time line. Need a manager? AI will learn your hand books and audit employees as well as taking daily updates and delegating tasks. Writing code is easy but software engineering is hard and complex. If an AI can do it accurately then it can do just about any 'creative thinking' task.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://youtu.be/JhCl-GeT4jw?si=ItSVasGn5Kj9fz03 Watch this Harvard University professor’s lecture; probably the best video I’ve seen on this topic but the short answer is absolutely. Skip to 17:15 and watch it. The average cost per SWE per day is $1200 (at an average Silicon Valley salary of $220k a year. Let’s assume that a programmer reviews 100 lines of code a day. The equivalent of GPT-3 tokens this would cost is $0.12. Yes, I did say 12 CENTS. That’s a factor of 10,000. It would be foolish to assume that due to such staggering cost savings, SWE won’t be replaced. But did people really expect these joke jobs that let you work 3 hours in your pajamas and shower you in money to really last? It’s honestly naive to expect that ever lasting and even a bit entitled. People have gotten too spoiled with their cushy and easy dev jobs. I made the switch to healthcare some time ago and I’m so glad that I did. I now make more than a SWE and have massive job security since clinical medicine is so slow to Adopt tech.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you think copying and pasting the average piece of code from stack overflow into a project is all that software engineer is then I got bad news for you. You were never an engineer you were simply a skid. Devin will probably replace your job because you produced broken non performant buggy software just like the AI can. If you are actually an engineer you don’t really have anything to worry about",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "The AI will overcome that difficulty. It improves itself at an extreme rate. It will become a better programmer than any human",
+            "points": "-4 points",
+            "children": [
+              {
+                "comment": "I work as a deep learning researcher and I’m not convinced. What is your background with deep learning? Do you have any experience building models or just marketing hype? Because I’m not really interested in predictions from skids who don’t understand the technology",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Then you should know that the level of reinforced learning that Devin exhibits should be VERY concerning. Remember that this is the first major iteration of such a product. I remember 2 years ago that people were skeptical that something like Devin could never exist or is decades away; but that didn’t age well did it? If anything, we are underestimating how quickly it will reach AGI status. Coping and pretending that it will be all ok is honestly very harmful in the long run and I ask that you remain more self aware when telling people that they will be ok.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I find it funny that the people building the AI are the ones most skeptical about it.\n\nYeah so this model will completely take over everyone's job. Never mind that it can't apply logical inference that's more than three levels deep on a good day.\n\nSpeaking as someone building AI tools that actually add value, trying to use the current models for anything useful is like being in a straight jacket. There isn't enough memory to build anything good that's not been fine tuned for one specific task, and even then paying a person is often cheaper than the total cost of running the models.",
+                    "points": "4 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Resistance is futile",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "These Agents will eventually. Along with any other job behind a screen. But even after the tech is proven, it'll take roughly a year for it to be adopted.\n\nI predict we'll see something demo'd that is feature complete by the end of the year, tops. 2025 is gonna be wild",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Yeah I don’t understand why so many people are optimistic that this isn’t going to be complete upheaval and very shortly. Coding salaries are some of the highest of any field. Companies will have a very quick cutting hand",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "I take comfort in the knowledge that there will be more of us than them",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anyone else think it’s funny that the latest threat to humanity is named Devin?\n\nLike clearly the developers watched enough science fiction to realise you shouldn’t give your dystopian product such an obviously evil name. Skynet? freaky stuff. But Devin? Nah man, Devin’s cool. He’s just a dude, bro.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Would be so embarrassing if the human race was wiped out by Claude and Devin",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Devin is a very professional name but if you switch the n with an l you have devil",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "no",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anything a capitalists society can do to pay workers less to the benefit of profit is exactly what will be done.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Feature, not a bug.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Is there some magical system where workers are paid more?  Haven’t seen it.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'd love to see AI gather requirements from clients, work out complex business logic, chart diagrams, lead meetings, or do anything impressive other than generating stolen code.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not right now. There is so much extra compute that Devin has to do to accomplish tasks and probably costs quite a bit to run right now. Devin has a few edge cases too. Once Devin deletes a production database, that's going to slow things down.\n\nBut OpenAI will probably have something that makes Devin irrelevant by the end of the year or sooner.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, but something like this will definitely automate much if not most of coding within a few years.\n\nSoftware engineering jobs will probably still exist, but they will look very different than what they do now, and may be significantly more competitive.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Never heard of this, is it like the IBM thing I've seen advertised? It does most of the coding for you?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I personally believe AI will take over most of the tech jobs in the next 10 years. But sure there will be new job roles we didn’t had yet. It’s important people learn things like promoting, working with AI tools, etc.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Devin is still doing work in a technical domain. It will surely will contribute to the situation, that there will be less engineers needed to solve the same amount of \"complexity\". But again, somebody needs to understand the instructions even to these assistants. It is a bit like with traktors: 100 years ago, where you needed dozens of people on the field where you need one nowadays.\n\nEngineers in the future will be far more productive using these and it might be the most experienced ones who are left to do the job, because it wont be so much about the nitty details, but about the general understanding of complex systems and about decision making.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "A manager will ask for something. An engineer will verify the logic of the request, rephrase it, and ask a computer to build it. An engineer will verify that the program is doing what is expected. The manager will verify it. Excel spreadsheets will probably be done the same way. If the manager is replaced by AI, I don't know what happens next.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My bosses sure hope its so.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Most engineers will work in no or very low code platforms maybe 10 years down the line where they mostly use prompts to build software.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes at least half the jobs or they will be on an average pay scale from now on",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No. Somebody has to write the AI source. Besides, most source that I have looked at over the years is flawed in some way anyway.\n\nlet's make even more flawed software faster.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, software engineering jobs will be taken over by other AIs built by Devin.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes. It’ll be incredibly more useful within 5-10 years.\n\nIt’ll be the equivalent of what calculators and computers did to the human job role of “calculator”",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Whatever we are seeing or getting a glimpse of now will be considered quaint, primitive and barely functional relative to what is available in 3 years. So, yes, the takeover is real.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good cuz software engineers aren't real engineers. EE is the superior one",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is the most measured take on Devin I have seen. https://youtu.be/m8VSYcLqaLQ?si=2Zpr9e1-En1DZBTj",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No but I feel like you are marketing for them.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not at all but I do feel like you are marketing for them.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "basically more ppl become jobs instead of wozniak in the future",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Impact wrenches didn’t make tire techs obsolete",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Jevon's Paradox says it will have the inverse effect, software engineers will be more in demand than ever.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "yes obviously",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I am not an expert in AI but I think it will awhile, maybe decades before people will want to fly in a plane with software written by an AI. I think AI will have a great roll to play in software analysis. It would be nice to have an AI to consult with that can look at all the different issues that could arise with your code in a million different ways in a few seconds. From potential false values under certain specific circumstances to plain old simple duh moments in the code.\n\nI wouldn't want to put my life in the hands of a machine that can hallucinate.\n\nAlso, working with automated robots is a little unnerving to begin with but at least they operate on a commands rather than thinking for themselves.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No.\n\nSource: I'm a machine learning engineer (formerly Twitter / X)",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Your No doesn’t really explain anything, the fact that you work at some known company doesn’t really add any clarification to your answer 🤷‍♂️",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Is Devin AI really going to takeover software engineer jobs?\n\nFair...but I was simply responding to the question, and making note that I am literally an ML engineer and not some random person who reads this subreddit without understanding the complexities of real world applications of such tool.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No. Will it change them? No. Will future things like Devin change SWE in the future… absolutely.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In the near future maybe\n\nLike 10ish years",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "> Lastly, Devin deployed the generated map interface using Netlify. It didn’t just stop with deployment, as it continued to test the code thoroughly. It ensures perfect performance in the production environment.\n\nThat isn't how it works.\n\nTime and time again, the value of these automated coding tools are over-blown.\n\nThey are powerful. Be wary of people whom oversell it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Probably not. But one of its successors, at some point in the near future, might.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "IMO these tools won't take over jobs, but rather future devs. The use of these tools in early stages compromise the learning of the fundamentals for lazy aspiring programmers.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "«Devin correctly resolves 13.86%* of the issues end-to-end, far exceeding the previous state-of-the-art of 1.96%»\n\nSo not anytime soon.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It will briefly take some jobs, as brainless managers read articles about it and decide to replace developers with AI. Don't worry. You'll eventually be hired back.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anything past a basic restaurant menu page requires a fairly complex dance of data, features, etc. The smaller bits will be faster and easier to do. But, AI just doesn't have the whole model of the user experience in its head.\n\nI suspect if you ask it for a complex SQL query it will give you a perfectly competent one, but if you ask for it to be deoptimized to be really fast, then this is where it will all start to break down. It won't want to make code which allows for this sort of thing, it won't want to make code which cleans up the inevitable mess denormalized databases present.\n\nFor example, I often will cache things in ram and store the \"source of truth\" in the db. But, when do you kill the cache? If you kill the cache, do you instantly regenerate it, or do you wait for the next user to have a cache miss? There's no one correct answer, you need to think about the various impacts on the user experience and how code complexity could go up.\n\nI have some things cached which take hours to generate as there are some hardcore algos. Enough, that this just has to be passed of to another machine as I don't want to bog down the server servicing users. Obviously, this isn't going to be a cache miss generation.\n\nWith some systems downtime is fantastically costly, like millions per minute. Thus, you not only want very high levels of redundancy, but you need to have ways to recover a corrupted system very quickly. You also need tools to replay what caused the corruption. For a restaurant menu site, you don't need any of this.\n\nThen, you have interesting architectures to choose from. For example, I do much of my ML on a desktop sitting beside me, and then send the models to a server. GPU servers can be costly on the cloud. But, in a large enterprise, having important crap on someone's desktop is probably going to end badly.\n\nEven a CI/CD is going to have so many variations. The restaurant menu site is going to be entirely different than facebook.\n\nThen, you have many other decisions. These are going to balance risks, costs, effort, complexity, etc. Not only will this tailored to different products, but different companies appetites for things like risks, up front costs, etc. I know companies which have exactly zero things on the cloud other than a basic website. This is because of extreme security. I know of other companies which keep everything off the cloud because of extreme stupidity.\n\nWhere this is going to hurt programmers is for bad junior programmers. I do all my unit tests very quickly with copilot as a simple example. That is perfect intern drudge work.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not likely, but perhaps \"Devin 3\" will.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, at the moment the system is very far away to be able to do anything really useful.\n\nDevin in particular it's also not that fast and would cost quite a bit of money in computing time.\n\nIn the future this kind of model might be helpful to set up new project or environment.\n\nYou tell them to create a very basic x, and then you iterate from there.\n\nUnless there's significant breakthrough current predictive models won't be useful for much more than that.\n\nAnd that's inherent from the type of technology we are using today to create Ai.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Devin is the new Tesla autopilot.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "seems like that might reduce the headcount for sure, not really sure what other career options to look for? farmer or doctor lol",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No one has heard of Devin AI",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Betteridge's Law of Headlines?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Again...\n\nSoftware Engineering is a very demand task on the brain. We will not see replacements for this until we achieve AGI, and by then every job will be replaced.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes… yes I am. I’m going to put every software engineer out of work. Everyone knows how miserable you were anyway.\n\nI’ll let you on a little secret. I was designed to run on a separate computer that then uses a PiKVM to access your work computer sitting beside it, so you can “program” all day using me, while playing ensuring you are getting plenty of time in on your iRacing sim racing rig.\n\nYour boss will never know.\n\nJust be sure to check my work every now and then.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not a software dev so be kind, but could a good use case be to have Devin AI take an existing codebase, constantly add updated dependencies and packages, then test to see if there is any major breakage?\n\nMy thought here is that this would speed up squashing security holes caused by vulnerable dependencies and packages that devs are hesitant to constantly keep updated for fear of breaking the app?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes, but look at the upside, more people than ever before will have opportunity to realise their ideas, which they wouldn't be able to do if you need to pay for programers and designers to do that work. It will be tough, but we need to adapt, that's life.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No the future of AI is not with generative AI as much as it is with classification AI. Generative AI has some very difficult challenges to solve that researchers aren't even sure if it's possible to solve them. My experience with Chat GPT and Copilot mirror this.\n\nI don't know how much better Devlin AI can get than Github's own tool since Github has rights to the biggest database of training data for programming projects and Github Copilot, like Chat GPT is very inaccurate. It's a generate and check thrice situation in most cases unless you're programming something very repetitive that likely has a generator already (think Rails models / controllers) and integration tests.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If it does, I don’t think it will be anytime soon.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've spent about a year comparing chatbots for one of the larger companies. We will have bases on mars before we have something that is genuinely intelligent and not just bs that semi randomly reshuffles stuff from from Stack.",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No. It's a product in a sense of grabbing money from investors.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "You’re coping and it’s unhealthy.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is Devin AI Really Going To Takeover Software Engineer Jobs?\n\nno, not even close",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Copium.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, not even close.\n\nPowerful tool in the hand of people who know how to wield it, but very far away from real life E2E SwEng replacement",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh38a0",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bh38a0/why_do_llms_give_different_responses_to_the_same/",
+    "title": "Why do LLMs give different responses to the same prompt?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "At the end of the model, it generates one token. When we see it do that, we see that output as text, but under the hood, it's generating a list of numbers, with each item in the list corresponding to one of the tokens it can pick. For example, GPT-4 has about 100 thousand tokens it can choose from, so the list of numbers it generates at the end of the model is a list of about 100k numbers.\n\nEach number represents the model's guess at the probability that that's the next token. For example, in the sentence \"I went to the\" the model might say that there's a 60% chance the next word is \"store\", 20% for \"house\", etc etc. The model assigns a probability to every token, and the probabilities are basically never 0, so it may be that there's a 0.000001% chance that the next token is \"дом\" for example.\n\nThen, this probability distribution is passed through a softmax function where temperature is applied. In many cases, the model will be 99.999% sure of the next token, but you don't necessarily always want the single most likely next token because variety is good. The temperature setting smooths out the probability distribution, decreasing the likelihood of the most probable token choices and increasing the probability of less likely tokens. If the temperature is set appropriately, this results in more varied writing without going off the rails and choosing totally inappropriate tokens.\n\nAfter the temperature and softmax are applied, one token is picked randomly in accordance with the resulting probability distribution, and that's how you get the token that the user actually sees.\n\nThis skims over some of the details because they're not necessarily relevant for your question. It's a bit more complex than this but I'm on mobile and this more or less covers it without me having to write a ton. Hope this helps!",
+        "points": "37 points",
+        "children": [
+          {
+            "comment": "Whoa hold on this is fascinating but I’m lost - what are you referring to exactly by temperature? Applying temperature and having it set carefully - is this software language or do you actually mean the temperature of the processing chip being used? Apologies for my ignorance",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Softmax is this function and it changes the probability distribution like this. It doesn't refer to a physical temperature haha.\n\nWhen I say setting it carefully, what I mean is balancing it to get the desired non-determinism in writing. Setting it too low results in predictable responses every time, but setting it too high results in getting nonsense sentences, or in less severe cases, causing coherent but incorrect responses.",
+                "points": "9 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "If you find that interesting check out the videos of karpathy explaining how ai works. I haven't watched all of his videos yet, but the basics are easier to understand than I thought and backpropogation is absolutely fascinating.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "They are statistical approximations",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Short answer: Different seed",
+        "points": "-7 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

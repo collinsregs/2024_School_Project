@@ -1,0 +1,2237 @@
+[
+  {
+    "id": "t3_1afagrs",
+    "subreddit": "r/gadgets",
+    "dataType": "link",
+    "dataUrl": "https://www.tomsguide.com/phones/samsung-phones/just-got-a-samsung-galaxy-s24-here-are-the-13-features-to-try-first",
+    "title": "Just got a Samsung Galaxy S24? Here are the 13 features to try first",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aesjat",
+    "subreddit": "r/gadgets",
+    "dataType": "link",
+    "dataUrl": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-mini-desktop-pc-has-a-3d-printable-case-and-plays-dos-games",
+    "title": "Raspberry Pi mini desktop PC has a 3D-printable case and plays DOS games | Classic gaming with a taste of Pi.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I want to just buy this without having to print.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "A raspberry PI is only 100 bucks and you can buy the cases separately and there quite cheap",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "$100?? You can get a Pi4 for around half that",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "Been a while since I looked to be honest",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I can just get a refurb thinkpad for that pricetag",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Maybe Pi5?",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Pi5 4GB is $60",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I have several pi’s, it’s the custom case and monitor I want to buy.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "eh I like just using a Raspberry Pi 400 instead. Makes it feel like im using an Atari 800 or C64",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Blake Stone was the shit.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "MEDIC!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lot a desk space and plastic for a nostalgia hit.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Love that they chose Blake Stone: Aliens of Gold to be on the screen.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Leisure Suit Larry plz",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "<blows dust off Kings Quest>\n\nI’ve been saving these.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Kings Quest was great!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aerm5z",
+    "subreddit": "r/gadgets",
+    "dataType": "link",
+    "dataUrl": "https://www.engadget.com/japan-will-no-longer-require-floppy-disks-for-submitting-some-official-documents-212048844.html",
+    "title": "Japan will no longer require floppy disks for submitting some official documents",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Japan entered the early ‘00s in the mid ‘90s, and they’ve been there ever since",
+        "points": "148 points",
+        "children": [
+          {
+            "comment": "It's not uncommon for industrial users to be using very outdated technology for years on end no matter what country you're in. I remember not too long ago that there were some Boeing planes still in service that had software updates on floppy disks. There are PLCs and CNC mills that manufacturers use that are controlled by PCs with Pentium and 386 CPUs.\n\nThe news here is not that they were requiring floppy disks, per se, but that they were requiring physical media. The problem with rejecting physical media is that there needs to be a way to submit the data via network, and that's a much harder problem to fix than it sounds. A huge number of government offices around the world will not let you use digital files at all, instead requiring you to submit them on paper, which is in some ways worse. The company I work for does occasional construction work, and getting permits for them often means hiring a company with a wide-format printer so they can make the diagrams to the required scale.",
+            "points": "31 points",
+            "children": [
+              {
+                "comment": "It's not just industrial users, government offices do too, and I've even personally seen hospitals that are still using WindowsXP to interface with some of their medical devices, presumably because they don't have modern drivers for anything else.\n\nBanks also known to rely on very old Windows versions for ATMs, and retailers/stores all across the globe still use MSDOS Point of Sale software (on occasion, others exist) because it's simple, reliable, low-cost, and the security risks for offline systems are mostly irrelevant.\n\nThere's probably more old hardware and software running across the globe than we may think if we look at online statistics. Because those are often gathered with online fingerprinting, and those old systems remain offline at all times.",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "The medical industry seems to be rife with out-dated tech, i remember trying to source Smart Media cards for a cpap machine the camera industry phased them out a decade before this thing was made.\n\nEdit: my spelling sucks :)",
+                    "points": "6 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yep. Waffle House still operates internally using AS400 from 1988.",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Sure, changing the interface for a CNC machine is complicated. But why is submitting data by network to a government agency more difficult to fix than it sounds?\n\nWe’ve already got extensive infrastructure for secure file transfer over the Internet.\n\nSeveral major cloud providers are government security certified and make the problem almost completely trivial, and if we’re talking about the amount of data that fits on a floppy, a single server could easily handle tens of millions of submissions per day.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "You can't just use \"the cloud\" for this. Sure, you can partner with a cloud provider to provide the compute resources, but you have to build the systems that would actually handle the data as well as the interfaces with which end-users would interact with and authenticate themselves and their accounts. That takes skilled labor and effort, and it has to be continuously maintained to prevent hacking. Anything put on a network is insecure by default.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I’ve you’re ever tried to read a construction drawing on a PDF 30 years after something is built, you’ll understand why we keep paper drawings. Sure, if I get the digital copy I can print it and scale it myself but it’s easier to just file a paper copy and keep an index.\n\nWe’ve tried to digitize for years but I typically end up finding the drawing number on the digital file and going to pull the paper copy. And I’m only in my mid-30s",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The US Air Force was using floppy disks for their nuclear arsenal until June of 2019",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Some large mining machinery still uses compact flash",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Our nuclear silos still run on diskettes and I think tape to a lesser degree.",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Aren't they still using faxes and seals for everything? Floppy disks are not the only obsolete things that are required officially.",
+        "points": "47 points",
+        "children": [
+          {
+            "comment": "They were still using telex and manual ledgers not that long ago...",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The seals have been largely replaced during Covid, as people still had to come to the office for approval stamps. They have digital seals now.\n\nFax machines on the other hand are still everywhere. I once had someone wanting me to fax them my e-mail address.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Seals are just the Japanese version of signatures. it’s not that strange considering how Japanese and East Asian words/letters work as well, there isn’t much room to create a unique signature without altering the names meaning.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "lol not a thing in China",
+                "points": "-10 points",
+                "children": [
+                  {
+                    "comment": "It is. Local ARM branch director in Hong Kong used the company seal to go rogue and effectively steal entire chinese branch of the company, its finances and intellectual property. By local laws its the holder of the seal that has a say, even if they are just hired CEO. Crazy stuff but yes, ARM was too stupid not to have a failsafe.",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "True, company seals are kinda weird. Though I didn’t know the US had company seals too until I registered mine. Personal seals are a Japanese (and Korean) thing though, more out of tradition than “there isn’t much room to create a unique signature without altering the names meaning” like the other person said. People in China just use scripted / stylized versions of their names.",
+                        "points": "-1 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Faxes have a legal protection that other forms of electronic communication don’t",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Knew it! He should have faxed the hush money",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Some local, state, and federal government agencies still force you to fax documents. I literally have no idea where to find a fax machine except maybe drive to an office max or download some malware infested fax app.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Most of the medical system runs on faxes. Trying to get my medical records from a previous dr required it as well as every referral I’ve had. It’s insane",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Here prisons are still fax only, no e-mail.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is devastating news for BigFloppy",
+        "points": "14 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You mean save points?!",
+        "points": "18 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And Japan leaps into the 21st century!",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Amazing, maybe in the next ten years they will switch to USB Drives instead of CDs",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So advanced",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "SOME",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "probably moved on to CD-Rs, then. heh...",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They still use denpo though, how useless...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Are they switching back to Stone/Clay tablets?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "About time they upgraded to the superior Zip disk",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "But but snapping the little metal covers back and forth is sooo awsome. How can they take that away?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "/raises hand to ask a question\n\n“We know what you’re going to ask. It’s too obvious a question, so don’t even bother”\n\n/puts hand down",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm curious HOW one records information on floppy disk these days. Where one even gets fresh floppies. And don't they hold, like, 200 Kb??",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "1.44Mb double sided",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I mean many governments still require paper documents and copies and whatnot. I do miss me a good ol' floppy disk tho ngl.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aemeqv",
+    "subreddit": "r/gadgets",
+    "dataType": "link",
+    "dataUrl": "https://www.pcgamesn.com/amd/8700g-fortnite-performance",
+    "title": "AMD’s new CPU hits 132fps in Fortnite without a graphics card | Also get 49fps in BG3, 119fps in CS2, and 41fps in Cyberpunk 2077 using the new AMD Ryzen 8700G, all without the need for an extra CPU cooler.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "These are great APUs. I built a PC for my niece but all she does is play Roblox, so I put a 3400G in there. It actually runs amazing. Anything else would have been overkill. There's definetily a solid market for these.",
+        "points": "1294 points",
+        "children": [
+          {
+            "comment": "But not this one. It's so expensive you could just buy a CPU and GPU that perform better instead without hitting the price of this part. I think people overestimate it's usefulness. At least at that price point.",
+            "points": "419 points",
+            "children": [
+              {
+                "comment": "What new, available from a major source (new egg, microcenter, etc) combo of graphics card and CPU makes this a bad purchase? There are a couple configurations that do a little better or worse for a little more or less money, but I haven’t seen a $330 combo of CPU and GPU that makes this look silly.",
+                "points": "79 points",
+                "children": [
+                  {
+                    "comment": "an I5 12400F and AMD 6600 clock in at $348. If you wanted to be picky, knock the 12400 to an i3 12100F to make it $300 and get Fortnite at 94 FPS on Epic settings.\n\nUnfortunately, it's difficult to 1 to 1 this, as they've chosen to benchmark this APU specifically at the minimum graphics settings for each game, and benchmark sites often use the highest settings, but I'm confident that pairing would do better than this APU, at or below the price.",
+                    "points": "55 points",
+                    "children": [
+                      {
+                        "comment": "Looks like that combo is quite a bit better, even the 12100f. Got excited with the 8700g but when settings are equal, looks like even a 6500xt on the 12100f crushes the 8700g. Techspot just released its results with the 12100f/12400f and 6500xt/6600 and the 8700g gets crushed by basically all of those combos. As long as the 12100f/12400f are available at $100/$150 the 8700G is going to get smoked for the money.",
+                        "points": "34 points",
+                        "children": [
+                          {
+                            "comment": "Dedicated graphics are pretty much always going to be better for more use cases than integrated.\n\nThe lack of VRAM is a dealbreaker for me for example",
+                            "points": "25 points",
+                            "children": [
+                              {
+                                "comment": "The AMD 3000 series APUs were priced competitively enough that they were good buys for many use cases (ie the cheapest that got usable results).",
+                                "points": "7 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Any chance you checked the PSU difference? I haven't, but an APU generally takes significantly less power than a CPU+GPU.",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "It’s quite a bit more energy and thermally efficient to use an APU. And that’s what’s important for these builds. They work great for small form factor prebuilts. And in that case, they’re much more cost, space, and energy efficient for the user. An APU will easily save you its premium in electricity bills, if nothing else.",
+                                "points": "-1 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "If you have no plans to upgrade further, that’s definitely a reasonable enough route. Noteworthy is that it draws double the power, but I think most people would prefer the better performance.\n\nThe 8700g does have its place in SFF though, and it’s also an interesting route for upgradeability. You could pair it with a mid tier GPU down the line and turn your rig into a pretty capable machine. Further down the line, the AM5 board will also likely be able to slot a much better replacement CPU in and get even more life.\n\nThat’s a pretty appealing upgrade path, though it’s still a bit silly to build a rig that’s much less capable than possible with your budget.",
+                        "points": "6 points",
+                        "children": [
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Zwormz on Youtube has got you, he found the 6600 gets above 60fps average in Cyberpunk where this pathetic APU notches that 41 on low, and the 6600 was using the high preset. This APU really only offers compelling performance in an extremely tiny SFF PC.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "You need to consider the premium you are paying for DDR5 RAM and motherboards too.\n\nRyzen 7 5700G + Radeon RX 6500 XT + RAM + MB is $475.\n\nRyzen 8700G + RAM + MB is $594.\n\nThe 5700G build gives up multi-threaded CPU performance for significantly better GPU performance and saving $100.",
+                    "points": "9 points",
+                    "children": [
+                      {
+                        "comment": "You also don't even really need the 5700G either, the 5500 would work fine for a build with a dedicated GPU and saves another $60 or so that you could put towards an even stronger card. If I were buying in this segment I would definitely buy second hand too, with margins like those you could just about afford a 3070 for an equivalent price to the 8700 APU build and that'll run laps around it.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Didn't read the article but if it doesn't need any extra cooling it's probably a laptop focused apu",
+                "points": "188 points",
+                "children": [
+                  {
+                    "comment": "It's 7840HS/7940HS(the only difference between the 2 is 7940HS can boost an extra 100MHz due to better silicon bin) with extra power delivery.\n\nAnd by extra cooling, it's more that the OEM cooler is enough, not that it doesn't need cooler fan.",
+                    "points": "40 points",
+                    "children": [
+                      {
+                        "comment": "that 100mhz isn't going to make a difference compared to faster RAM. The APUs are bandwidth starved.",
+                        "points": "6 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Didn't read the article but [...]",
+                    "points": "59 points",
+                    "children": [
+                      {
+                        "comment": "I think they did read the article, but claimed not to for more credibility!!",
+                        "points": "9 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Ya know, fair point. If it's that efficient it's probably also useful for running under battery, so an application with tiny form factor and battery life considered might be it's one realistic home.",
+                    "points": "71 points",
+                    "children": [
+                      {
+                        "comment": "I've got a ASUS mini pc with a 5300U in it. Daily drive it with 2 1080p monitors. Probably the happiest I've been with my main pc in a long time, if ever. Thinking about an upgrade but I don't really need it at all. This next gen is looking pretty promising from amd with APUs",
+                        "points": "22 points",
+                        "children": [
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Throw a undervolted version of that sucker in my ROG Ally 2 and I'll be happier than a pig in shit 😂",
+                        "points": "6 points",
+                        "children": [
+                          {
+                            "comment": "It's basically the exact same processor. The 8700g just has a much higher tdp. But same cores, same gpu, and same boost clock.\n\nThe z1 extreme has a lower base clock for power efficiency",
+                            "points": "2 points",
+                            "children": [
+                              {
+                                "comment": "",
+                                "points": "",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "These are their desktop grade APUs, the H models are usually for laptops.",
+                    "points": "8 points",
+                    "children": [
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Or hopefully a steam deck",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Read the fucking article.",
+                    "points": "-2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Yeah and for AMD the evenly-numbered generations are usually laptop/mobile focused. Lots of laptops and handheld PCs with 6XXX APUs.",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Where tf are you finding a cpu and gpu that could match this for $329",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Newegg. An I5 12400F and an AMD 6600 should do.\nMake it an I3 12100F if you want to make it $300.\n\nThe article uses Minimum settings for their benchmarks. Most sites use max. The config I mentioned pulls 94FPS in fortnite for example - on Epic rather than low.",
+                    "points": "17 points",
+                    "children": [
+                      {
+                        "comment": "That’s wild, kinda crazy how good low end hardware has gotten. Still kinda nuts you can squeeze this out of an apu tho",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "That’s wild, kinda crazy how good low end hardware has gotten.\n\nMore like Fortnite could run on a smart fridge.",
+                            "points": "8 points",
+                            "children": [
+                              {
+                                "comment": "",
+                                "points": "",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "What does the A stand for?",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "Accelerated Processing Unit. These are CPUs which also have a GPU built into them. The PS5/Xbox consoles have one, for example.",
+                "points": "24 points",
+                "children": [
+                  {
+                    "comment": "Also to add on, APU is more or less a brand from AMD describing their processors that do this. Intel doesn’t really call their integrated gpus anything outside of “w/ ARC or w/ IRIS or w/ HD Graphics ”",
+                    "points": "14 points",
+                    "children": [
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "An APU that can actually play games will always have a huge market, the fact it’s getting decent performance on big name games will make it a go to for people who are starting out, why cheap out on all the parts when you can just hold off on a graphics card and still play until you can afford to upgrade.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I actually first had a 3200G, but now a 5600G because of my casualness of gaming just Path of Exile. Great savings on electricity costs if you're just a low-level, occasional gamer that mostly does some browsing/e-mailing/developing and want a PC but not a goddamn wrist-wrecking/RSI-inducing laptop all the time.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The Ryzen 3000 series APUs were great. They also cost significantly less. I used a 3200G in a DeskMini for our son when he started playing games with me to run Deep Rock. The processor was $88. The cheapest 8000 series APU (to consumers) is the 8500G at $179.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I can see the low end graphics card become redundant in the future. Mid and high end are certainly not under threat.",
+        "points": "841 points",
+        "children": [
+          {
+            "comment": "Feels like what happened to digital home cameras like the Nikon Coolpix that many of us remember from relentless cable advertising. Once smartphone cameras took off, nobody needed a camera anymore, so the only ones that survived were actually good photography cameras.",
+            "points": "267 points",
+            "children": [
+              {
+                "comment": "Excellent analogy.",
+                "points": "51 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I miss my CoolPix, flip phone, and Tom Tom. Not sure why but life felt like it moved slower back then.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "As a camera hoarder who picked up a Coolpix from a charity shop for $5 this past summer, I can confirm things definitely did move slower back then.",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "I pressed the shutter button yesterday, still waiting for the busy light to stop flashing! /s\n\nI loved that period of photography in the 2000s. I had a Canon PowerShot G2, slow as hell but great pics!",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Absolutely this!!",
+                "points": "16 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "That's always been the holy grail for budget and laptop gamers",
+            "points": "33 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "They been redundant, people keep throwing money at them. If you don't care about graphics go APU, if you do care about graphics drop the extra $50-70 for a card that's 3x as good. There's no good case for buying a low end card.",
+            "points": "146 points",
+            "children": [
+              {
+                "comment": "Counterpoint, if you had an old PC needing some extra monitors then a low end card is a viable option",
+                "points": "93 points",
+                "children": [
+                  {
+                    "comment": "Not to mention there is a lot of specialized software that requires stand alone graphics processing even if it’s not powerful.",
+                    "points": "40 points",
+                    "children": [
+                      {
+                        "comment": "It would be the processor to go for if your into very small form factors, IE: NUC's",
+                        "points": "11 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "What specialized software? An iGPU like the 780M is the same architecture just fewer CUs than say a rx 7600. You can usually do everything on the CPU, it'll just be significantly slower. Like AI work can be done on the CPU, it's just slow. An APU is appealing as well as you can easily upgrade RAM, which AI workloads need a lot of. AMD's Zen 5 is suppose to have an APU with 40 CU vs the 12 CU this APU has and 36 CU the PS5 has.",
+                        "points": "6 points",
+                        "children": [
+                          {
+                            "comment": "Hardware Video Encoding/Decoding",
+                            "points": "8 points",
+                            "children": [
+                              {
+                                "comment": "You don't need a GPU to have those encoders on a chip.",
+                                "points": "7 points",
+                                "children": [
+                                  {
+                                    "comment": "",
+                                    "points": "",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "you can't encode on an igpu?",
+                                "points": "3 points",
+                                "children": [
+                                  {
+                                    "comment": "Absolutely can. In fact for a long time the only way to get hardware encoding on intel chips (QuickSync) was to run it without a discrete GPU.",
+                                    "points": "4 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  },
+                                  {
+                                    "comment": "",
+                                    "points": "",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Anything that needs CUDA needs a Nvidia GPU.",
+                            "points": "3 points",
+                            "children": [
+                              {
+                                "comment": "If you're running software that requires CUDA, why are you using a GT1030 exactly?",
+                                "points": "7 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "That still wouldn't work with a dedicated AMD GPU though, it's software locked to Nvidia not dedicated GPUs. And Nvidia doesn't make iGPUs. Other than their SBC Jetson boards that have CUDA cores specifically to be able to use that software in a mobile situation.\n\nAMD also has equivalent software with DirectML and ROCM, but that would require companies to add support for that and not be Nvidia exclusive, which would then work on AMD's iGPU.",
+                                "points": "-1 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "",
+                                "points": "",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "a shit ton of dental and other medical software for a start.",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "For AI the unified memory could even be advantageous. You just designate your arrays as GPU memory and omit the high latency transfer to the GPU.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "",
+                                "points": "",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "my main tv / media center pc is a secondhand piece of crap that has a NVIDIA GeForce GTX 560ti & AMD Radeon HD 7400 in it just so I can have two tvs plugged into it lmao",
+                    "points": "5 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Yeah not everyone has the money to play current games at current prices anyway. There's nothing wrong with waiting, building an obsolete machine, and enjoying previously new games (with all their extensions and patches) at sale price. Still new to the user, still a wonderful experience.",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Counter counter point, buy a used card for even cheap than a new low end one.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "$50-70 for a card\n\nMore like $500-700 for midlevel cards",
+                "points": "69 points",
+                "children": [
+                  {
+                    "comment": "You can get a used 3070 Ti for $350 these days",
+                    "points": "-28 points",
+                    "children": [
+                      {
+                        "comment": "The \"ZOTAC GAMING GeForce RTX 3070 Ti 8GB GDDR6X Graphics Card\" on eBay right now?\n\nThat's not a 3070 Ti. It's a half length card with 2 fans. The 3070 is a 3-fan card. This card pictured is a 3060",
+                        "points": "5 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I do legitimately see RX 580s for under $100 locally. I bought my buddy a $50 Cyber Power refurb one this summer and he loves it. I feel like APUs are more for newbies with no knowledge, people who want something simple with some ability to do light gaming, or for ultra SFF builds. The used market is just too decent everywhere.\n\nStill absolutely loving the innovation and competition. I'd love to see them surpass a used card build at the same price point!",
+                    "points": "-10 points",
+                    "children": [
+                      {
+                        "comment": "I see people make this kind of comparison a lot but isn’t comparing used prices vs new prices kind of like apples and oranges?",
+                        "points": "13 points",
+                        "children": [
+                          {
+                            "comment": "Depends on the person I suppose. I think that buying brand new when you can buy used for better and cheaper is absolutely a no brainer. I think the people that buy new for worse and more are just lazy or prudes about having new stuff. That's where I think the APUs have their purpose in different areas, but if it's just someone gaming on a budget with no other variables then they're typically not the best option.",
+                            "points": "-5 points",
+                            "children": [
+                              {
+                                "comment": "I’d agree with the mindset of frugality and willingness to take a risk. But I think it’s still not a like for like comparison if you’re not looking at prices for items with similar wear histories.\n\nThe second hand market just isn’t exactly developed yet for a brand new top of its class product.",
+                                "points": "6 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "",
+                                "points": "",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "I do legitimately see RX 580s for under $100 locally\n\nI would hope so, that was a $199 card when it was new SEVEN YEARS AGO",
+                        "points": "12 points",
+                        "children": [
+                          {
+                            "comment": "What a steal!!",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "RX580 is not a card I think of when someone says “I care about graphics” in 2024\n\nI sold a 980 ti hybrid for £150 like 3 years ago",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "What GPU are you buying for $50-70? APU/CPU price differences aren't particularly wide.",
+                "points": "23 points",
+                "children": [
+                  {
+                    "comment": "*$50-70 extra over a low end card.",
+                    "points": "14 points",
+                    "children": [
+                      {
+                        "comment": "Add a zero to those numbers",
+                        "points": "22 points",
+                        "children": [
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Didn't know a mid-end card like the 7700xt is 50-70 more than a 7600xt. Same goes for nvidia lmao",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "7600xt isn't a low end card. We're talking about real low end card here. The ones that cost $150-220, don't need a fan, and have a bunch of cutbacks.",
+                            "points": "4 points",
+                            "children": [
+                              {
+                                "comment": "",
+                                "points": "",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "RX 580s. They're local for usually sub $100. Those and occasional 1660s. I don't live in a big area either.\n\nThis summer Cyber Power had RX 580s for $50 on refurb and 5700xts for $100. I bought my buddy the 580 and it has been great.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Those aren't low end anymore, those are e-waste at this point.",
+                        "points": "-5 points",
+                        "children": [
+                          {
+                            "comment": "What the hell are you talking about? RX 580 can still run a ton of games at 1080. E waste my ass 🙄",
+                            "points": "4 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "honestly a 5700xt for $100 isn't that terrible.",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Give me something that can play last generation games at 1080p, that runs quietly in a HTPC form factor, and is cheaper than a PS5 to build and I’ll never buy another graphics card. This would probably qualify if DDR-5 memory and decent AM5 motherboards weren’t so expensive.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Yeah I'll second this. And it needs to stay cool too.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Define low end.\n\nAll new GPU's that start at $100+ are better than this. $200 GPUs are more than 2X the performance.\n\nAlso every year that iGPU performance increases, so does the requirements for games. People had the same thought you did like 8 years ago when APUs first started coming out, and they never replaced low end GPUs",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "tell that to the GT710 that’s still chugging for decades",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "I'm tired, boss.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Unified chips definitely put higher end GPUs under threat in the future, the closer the GPU is to the CPU the lower the latency. There is definite benefit being seen in mounting components closer to each other, especially getting to the speeds we’re achieving now, every reduction in latency is going to become more and more beneficial",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "Physics will restrict what integrated graphics can do compared to a high end discreet graphics option.\n\nYou will never be able to make an integrated graphics chip beat out the current high end cards. If they created a new tech that allowed it to beat out the existing cards, the new cards would just use the same tech and pack in better cooling and more VRAM. APUs can't compete with that.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "Actually the opposite is true - physics will be the ultimate cause of integration because at some point the bottleneck will come down to the physical transfer speeds which can only be increased by a reduction of distance between components",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "PCIe bandwidth isn't that important for graphics. There are barely any games where a 4090 benefits from a PCIe 4 16x bus instead of an 8x, and PCIe 5 is already available on consumer systems and gen 6 hardware is expected this year.\n\nIn the applications where it does matter you are seeing the CPU functions moving to the GPU as much as you are seeing the opposite with 400gbps blue field nics etc.\n\nI think however we will see more memory moving closer to the CPU and 3 tier memory models, where consumer chips are likely to be stuck with non expandable tier 1 memory like apple.",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "High end GPUs are built for rendering primarily not just games. Real time rendering uses quite a different pipeline and therefore isn’t actually where you’re going to see much extra benefit until games are designed around the higher bandwidth systems. In rendering, bandwidth is extremely important and is essential to achieving the best performance",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "Barely. They are now designed almost exclusively for cuda compute workloads. They don't even ship with rendering hardware. Those systems ship with as much PCIe bandwidth as memory bandwidth, now they are even moving memory into the PCIe bus.\n\nThe lower tier cards with outputs are primarily sold for gaming, would like a source stating otherwise.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "So this would be great for notebook gaming?",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I think there's plenty of applications for low end GPU/APU's not in the gaming market.\n\nFor example, a local device connected wirelessly to an additional eyewear or audio device that translates or transcribes nearby conversations using OCR and tts for the blind or deaf.\n\nImagine being able to walk through a public square as a deaf person or as a tourist in a foreign country and read the conversations happening.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Always this shit take when a new APU get released.\n\nFor some reason you guys take for granted that low end graphics cards never advance in performance and only APUs get faster.\n\nFor the price of this APU you can get a Ryzen 7600 and a RX 6600 which is a setup several times faster.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "8700g is more expensive than 5700g+6500xt which does 200+fps in fortnite and better in other games as well. Go watch Hardware Unboxed Video on it. No doubt it's a great Product but the price is not justified.",
+        "points": "320 points",
+        "children": [
+          {
+            "comment": "Good for a mini pc that can’t fit a gpu",
+            "points": "111 points",
+            "children": [
+              {
+                "comment": "So is a mini pc using the mobile chip this desktop chip is based on… cheaper too.",
+                "points": "24 points",
+                "children": [
+                  {
+                    "comment": "I like nice and mini pcs but it’s interesting to think of one where you can actually upgrade the cpu and ram.\n\nMaybe this cpu in a mini itx in a case with a pico psu would be pretty close to a nuc.\n\nBut upgradable.",
+                    "points": "-5 points",
+                    "children": [
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I see this being useful for HTPC builds rather than having the best price to performance.",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "Saves you a PCIe slot too",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Unless you use your HTPC for gaming its not a good option. Plex still doesnt officially support AMD iGPUs/dGPUs, AMD's hardware encoder is the worst of the three (Intel>Nvidia>AMD), and you are way overspending on a CPU/iGPU for transcoding, a $200 (total) refurbished office PC with a several year old Intel iGPU can transcode a 4k stream no problem, even Intel's $50 CPU's come with iGPUs capable of 4k transcoding.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "But you get better CPU and upgrade potential",
+            "points": "32 points",
+            "children": [
+              {
+                "comment": "Not how this works.\n\nYou buy what you need NOW and then upgrade when you need LATER. Cheaper and better that way.",
+                "points": "15 points",
+                "children": [
+                  {
+                    "comment": "No, YOU buy what you need NOW. I buy for the future so I dont have to go through selling off parts (a pain/timesink) and keeping up to date with the latest hardware (a pain/timesink). I'd rather spend a bit more so I dont have to worry about upgrading for another 5-8 years.",
+                    "points": "22 points",
+                    "children": [
+                      {
+                        "comment": "no YOU buy for the future\n\ni buy wahtever i want cause i throw out the whole pc/resell the lot at firesale and just build a new rig when its time",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Why buy something with the plans to replace it? Just save up more and get the one you want. Yeah you can say you want something now but this is just poor financial planning, you will end up spending much more.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "The potential upgrade is adding some graphics without replacing another GPU",
+                    "points": "12 points",
+                    "children": [
+                      {
+                        "comment": "So you’ve now wasted money on the apu",
+                        "points": "-2 points",
+                        "children": [
+                          {
+                            "comment": "It's built into the CPU... at the price of a cheap CPU... so you got a deal, you saved money...",
+                            "points": "-1 points",
+                            "children": [
+                              {
+                                "comment": "It’s not at the price of a cheap cpu? It costs much more than regular cpus. The 2200g was cheap, this is not.",
+                                "points": "3 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Less than $50 difference though, and you’re getting the new AM5 socket and motherboards that support newer pci gen and upgrade potential down the road. Seems a no brainer to get the 8700g",
+            "points": "22 points",
+            "children": [
+              {
+                "comment": "The 8700G has 16MB L3 cache and 16x PCIe 4.0 lanes vs 32MB L3 and 24x PCIe 5.0 lanes on the Ryzen 7700.\n\nFor the same price, it is a slower CPU and has less support for GPU + storage. The iGPU is impressive but it comes at a cost.",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "It’s like people here didn’t see the same reviews… it’s such a stark difference from r/hardware where most everyone is rightly calling them overpriced for what you get. These should have slotted in at no more than $50 or so higher than the 5000g series to make sense.",
+                    "points": "3 points",
+                    "children": [
+                      {
+                        "comment": "Because all the popular tech subs like this one and r/pcmasterrace are full of idiots or the uniformed making assumptions based on what they've heard regurgitated from said idiots",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "Yeah but you could still say all that without directly calling people idiots. It’s not like they’re gonna catch on…",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Bingo",
+                "points": "-2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Smaller things packed with more features and capabilities tend to cost more in general. I would not be surprised to hear that there's no APU out there that couldn't be beat price-wise by a CPU and GPU combo. Different markets I think. If you're building a tower PC with one of these and gaming is important to you, then yeah... I don't know why you'd go with an APU. To me, an APU in this context should be for very tiny builds, like Mini-ITX (though to be fair, depending on the case a GPU is still an option for a Mini-ITX build), or something more custom... like if you were to make a handheld like a Nintendo Switch or any number of these PCs in handheld form where there may be no space whatsoever for a GPU, then an APU's the ticket. Otherwise... barring some weird planning via upgrade paths, I just don't see it if gaming's a real interest.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "But why would you run a 5700g and a GPU together?",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "8700g is $329, 5700g was $359. Wtf do you mean?",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "5700G was “$359” for all of about 2 months before the price collapsed because even with massively inflated dGPU prices at the time it still was a bad deal. It’s current price of $170 is much better. I’d pay $170-220 for an 8700G.\n\nTake a look at the Amazon price history yourself. https://camelcamelcamel.com/product/B091J3NYVF",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Exactly.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "5700g was $359\n\nWhat is it now?",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "Exactly.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Exactly this, needs to be like 6600xt performance on a 5600/6500 budget to actually be competitive.",
+            "points": "-6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "An ‘extra’ CPU cooler? How many coolers do you guys use? I only ever have the one.",
+        "points": "115 points",
+        "children": [
+          {
+            "comment": "I use 5 guys to fan my PC",
+            "points": "22 points",
+            "children": [
+              {
+                "comment": "That must be expensive, but at least you get a massive side of fries...",
+                "points": "14 points",
+                "children": [
+                  {
+                    "comment": "and peanuts for some reason",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "You get the default cooler with the CPU, but most of the time, it’s so bad that you need to buy a separate one. And then you have 2",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "I’m sure this will upset people, but I hard disagree. I’ve always used stock AMD and Intel coolers in my gaming rigs and have never had a single issue. That said, I only overclock minimally if at all.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "You don't see any issues because it will throttle.\n\nYou will get increased performance from adding a better cooler. Whether that's worth the cost is up to you",
+                    "points": "15 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "You are braver than most",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "If the CPU comes with a cooler, then the cooler is good enough for the stated specs. With the turbo boost/stock OC speeds, overclocking isn't even needed these days IMO. Do it if you want to, for sure, but it isn't the juice it was 10 or 20 years ago.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I gotta water cooler on top of my air cooler...",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "Pfft, i watercool my watercooler.",
+                "points": "12 points",
+                "children": [
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's nice and all, but it's very expensive.",
+        "points": "46 points",
+        "children": [
+          {
+            "comment": "its also a straight-up terrible value CPU the moment you throw literally any graphics card into the mix made in the past 7 years thats not bottom bin garbage like the 1050Ti or RX 550.\n\nIts good for very small form factor desktops terrible for anything else. No reason anyone not constrained by space should buy one of these\n\n7000 series was supposed to fix the issue the G series CPUs had where the iGPU took up cache space. This is still a 16MB L3 CPU thats gonna be absolutely gimped in modern games.",
+            "points": "19 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "For those wondering the GPU is a well-known Radeon 780M.",
+        "points": "14 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For the developing handheld market, things like the Steam Deck, this will be great!.",
+        "points": "41 points",
+        "children": [
+          {
+            "comment": "lol. No. This processor consumes close to 80W in single core (gaming mode). A steam deck with a 40Wh battery would get < 30 min of play time.\n\nThis is an evolution for consoles, mini PCs, and in the future for laptops (still likely plugged in).",
+            "points": "58 points",
+            "children": [
+              {
+                "comment": "That is true, I guess it still paints a good picture for the path ahead. Once it's voltage / clock speed / wattage / core count is cut down for a future model and other improvements from the newer generation remain, hopefully it's a good contender. Probably can get a good portion of the performance when using a fraction of the power budget.",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "AMD Z1 Extreme has a max TDP of 30W with 12 GPU cores and 8 CPU cores. The custom valve AMD solution is 8 GPU cores with 4 CPU cores has a max TDP of 15W.\n\nDesktop grade APUs like this one would be very brutal on the steam deck battery.\n\nI don’t think we will be seeing these APUs in a form factor beyond just NUCs and tiny machines that are battery independent.\n\nThe laptop equivalent being the R9 8945HS and 7940HS with “same” GPU runs into issue with >45W becoming difficult to cool with the exception of heavy laptops that offer vapor chambers or brute force heatsinks and fins.\n\nI would eat my words if anyone manages to shove a mobile R9 7940HS or a 8700G in a normal handheld and it has a battery life that’s measured in anything but minutes",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Stupid question. Could I combine the graphics power of the cpu with my existing nvidia graphics card?",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Not really no, at least not in a way that would be similar SLI with multiple GPUs running a single app/game.\n\nIt is possible to run seperate processes on the integrated & discrete graphics but there's few real world applications you'd use it for, you can see an example of it with crypto miners that are designed to run multiple threads for multiple cards though.",
+            "points": "28 points",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Probably the biggest barrier would be optimization / software layer.\n\nIt is such a small market that might do this that surely no game dev would code their game to factor this in.\n\nProbably similar ot when multi core CPUs started to take off and the first gen of games after that still only ran on one core, or maybe used a second core for a bit of processing. It wasn't truly distributed or leveraging the full power",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I suppose AMD CPU with iGPU + AMD dedicated GPU might. Might.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "No. Some labtops do this though",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "They can swap between, not combine",
+                "points": "26 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Laptops*",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wonder how well it would do as a dedicated streaming machine",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can someone explain what is ment by an extra CPU cooler? Was the expectation you’d need two different CPU coolers?",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "it comes with a stock cooler that keeps it cool. So you dont have to buy an extra one to stop overheating.",
+            "points": "16 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I.e just using the stock cooler in the box",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"The temperature of the sun... In my case\"",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This makes me wonder: is it possible to build a desktop that has power savings similar to a laptop when idle (or doing menial tasks)?\n\nFor example, if I want to game, I'd like it to used as much power as needed... but when it's idle it throttles everything down and uses practically no power (perhaps turning off power to the GPU).\n\nWhat I'd really like is for all fans to turn off when at low usage.\n\nAre there power supplies out there that can be decently efficient both at full blast and also when sipping energy?\n\nHaven't built a new machine in over 10 years. Maybe this has been possible for a while?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Yes. You can choose which GPU to use for different apps and basically reserve the dGPU for intensive tasks.\n\nFans can turn off based on temps if you have fans that support 0db mode. Or just use normal fans and disable stall prevention and drop the voltage low enough on your bios fan curves. Just watch out that you’re doing accidentally stalling them too much. But also very few systems can support passive cooling without explicitly being set up for it. Even on my 360mm AIO I can’t really keep my fans idle. But what I can do is disable 1 or 2 fans below a certain threshold. And as long as at least 1 fan is running it stays at an safe but toasty ~60°C.\n\n80+ platinum or titanium power supplies can be 90%+ efficient even at 15% load.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can't wait to see how good these are for emulation. I sure do like to collect and configure a bunch of stuff for games I never play.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah but what quality setting",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "“Medium detail settings”. Might as well buy a console at that point.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think they went too far with the CPU cores and overpriced this one. 6/12 cores with the same iGPU for less would perform exactly the same and greatly help push the value. The CB score is close to my 5900x, lol. Even the 5600g has more CPU than it could ever need for iGPU gaming. \n\nI see these being more like a HTPC that can actually run games rather than an ultra small workstation that can. If you need CPU compute for your workstation, you are probably fine getting a 7900 non-x and give up on the GPU performance or accept something slightly bigger for way more power.\n\nThis does show that the next set of handhelds can be really awesome though once they balance out the CPU/GPU configuration.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's all good, but can it run Crysis?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "probably, my dinky $250 intel i3 laptop with that iris UHD integrated can run it. Hell it can run almost anything 20-30fps with enough tweaks and ai upscale crap",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The meme that keeps on memeing",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I dont kow much about comps but a few years ago I got a lenovo laptop im still using ow and typing this on. Its got a amd ryzen 5 with 16gb of ram and I paid 600 for it. No graphics card, and it can play GTA online and THPS 1+2 great. Im pretty happy with its gaming capabilities even though I know it cant run new AAA stuff, its pretty solid for a 600 dollar 3 year old laptop imo",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Needs to be at least $100 cheaper on the high end.\n\nA Ryzen 7 5700G ($170) + RX 6500 XT (ITX Sized) ($120) + 32 GB DDR4 3200 ($65) +AM4 MB ($120) is $475.\n\nThe equivalent 8700G setup is 8700G ($329) + 32 GB DDR5 6000 ($115) + AM5 MB ($150) is $594.\n\nThe 5700G is less performant than the 8700G at CPU tasks (15k vs 8k geekbench score), but the 6500XT more than makes up for that on the GPU front (175 FPS vs 119 FPS), and you are rarely CPU limited on games anyway.\n\nAnd the ARS review balances their budget on the non-8700G build to use an even better video card, which would lap the 8700G even harder.\n\nSources:\n\n8700G benchmark https://www.techspot.com/review/2796-amd-ryzen-8700g/#iGPU-CS2\n6500XT benchmark https://www.techspot.com/review/2789-amd-radeon-6500-xt-revisit/#CS2-o\nArs review: https://arstechnica.com/gadgets/2024/01/ryzen-8000g-review-an-integrated-gpu-that-can-beat-a-graphics-card-for-a-price/",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Wow. I hadn’t realized that ram and decent GPUs were at such good prices.\n\nI guess the only draw to the 8700G w/o a graphics card is being on AM5 rather than AM4.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "The 6500 XT is the budget model of the previous generation. It just goes to show how relatively weak the IGP really is in the APU.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "At what settings though?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "At what resolution? Could be 240p for all we know",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "1080p",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cant they, at this point, slap a full-blown graphics chip onto the CPU?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Too much heat.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Yep heat. How about on a big die. 100 mm square. Lots of opportunity to dissipate the heat. Anyway, I'm rambling.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "In 480p ultralow setting?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "(in 800x600)",
+        "points": "-9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Real question: can it run Minecraft?",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What potato resolution?",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Article says 1080p",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "OK so it's at 1080p medium settings. Not really that revolutionary except for people who want to game for real cheap but want a PC and not a console.",
+        "points": "-31 points",
+        "children": [
+          {
+            "comment": "people who want to game for real cheap but want a PC and not a console.\n\nThis is pretty revolutionary I'd say. There was a time when you could get a performant PC for roughly the price of a console, but those days seemed long gone, since even low end GPUs were damn near that whole budget. This advance means that maybe it'll happen again.",
+            "points": "19 points",
+            "children": [
+              {
+                "comment": "But this apu costs so much you can buy a better performing CPU and GPU pair for less money, so it's launching already obsolete unless You're going for some micro form factor a GPU won't fit in.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Considering how expensive and stagnant gpus are just now at the low end, I would say it's a pretty great product and a good step forward for gaming machines for say, children who just want a PC or to play some games with their parent.\n\nI can definitely see the appeal.",
+            "points": "37 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Hey you shut up some of us don’t have 4K eyesight . 1080p is just fine.",
+            "points": "15 points",
+            "children": [
+              {
+                "comment": "Not at all what I'm saying. I don't have 4k either. I literally say that it's good for low-medium end games who don't want to spend big bucks on a gaming PC. I'm not sure what's difficult to understand about that",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It's not even good at that. It's so expensive you could buy a CPU and GPU for the same amount of money that performs better that this does. I think people are overestimating it's usefulness.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "For Fornite it's 1080p all low settings.",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "[deleted]",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "Yeah. And a GTX 1650 was a low-medium end card 4 or 5 years ago. You're confirming exactly my point.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This just shows how bad CS2 is Optimized.",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "Almost 120 fps with no GPU is poorly optimized?",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "you used to get more than that in csgo using 5600g",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "csgo is also a 10+ year old game on an even older engine lmao",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "You didn't have interactive smoke bombs in CSGO.\n\nPeople act like the added graphics and physics in games is zero cost.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yeah, considering fortnite has more fps while having better graphics",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes that's all good and all but at what settings? My car also goes from 0 to 60 in four seconds if I push it off a cliff but that's not the normal use case so I don't tell people it does. I really dislike the straight up lying companies do when advertising. Don't tell me the best possible scenario. Tell me a realistic one.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nah, at $330 you can have a dedicated gpu with even better performance. Also, can anyone tell me what they mean by an \"extra cpu cooler\"? Do you ever need more than one?",
+        "points": "-5 points",
+        "children": [
+          {
+            "comment": "They mean that the cooler that comes with the cpu is enough, I think.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wish I could use it with the dedicated GPU to gain a few fps.",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "Why would you buy this then if you’re going to buy a gpu separately?\n\nCPU is worse than the 7000 series.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Also it can brick your entire system. Worth every penny.",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aejxbn",
+    "subreddit": "r/gadgets",
+    "dataType": "link",
+    "dataUrl": "https://www.notebookcheck.net/Honor-Magic6-Pro-with-5000-nits-display-and-180-MP-periscope-telephoto-camera-to-launch-globally-at-MWC.798268.0.html",
+    "title": "Honor Magic6 Pro with 5000 nits display and 180 MP periscope telephoto camera to launch globally at MWC.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "5000 nits for 2 seconds before phones overheats and goes down to 300 nits",
+        "points": "23 points",
+        "children": [
+          {
+            "comment": "I’m more curious about what happened to burn in? And this sudden rush for nits. Did they solve this, or just another opportunity for people to destroy their purchase and replace another one",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "I think they are running out of metrics to brag about so they just made it brighter.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Hahah, probably. I mean, worth it id think. If there is no damage. But gimmicky. For 1300$ or whatever.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Now I'm blind.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Last I read, it can only produce nits this high in lab conditions and not during actual use.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Imagine the random full brightness restart animation at night.",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "Accidentally leave it at max blast, put it in sleep mode, wake up at 4am, get flashbanged",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is what comes to mind",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Dont want to experience that 5000 nits during night while checking my phone..",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "On the bright side you may qualify for one of those seeing eye dogs after you blind yourself.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I feel like that s24 plus should have had a periscope sense given the price of $1k. Especially if cheaper can do it also well",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is the 5000 nits available during regular viewing ? Do you get 5000 nits of specular highlights when watching hdr content ? Or is this just like Samsung's s24 and can only achieve that in direct sunlight",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is this what we're doing now? Forgetting actual upgrade needs to focus on brightness?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All I need is sub 6 inch phone to be mainstream again..",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Zenfone and iphone se exist. But people don't really buy them.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "180MP… just a few years back my 1020 Lumia was King of the Hill, and kinda still is as my “you can’t bring a camera in here” phone.\n\nThing is, the 1020 had a floating optical array… and amazing low light capability. I wonder how 180MP will look today in a phone.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

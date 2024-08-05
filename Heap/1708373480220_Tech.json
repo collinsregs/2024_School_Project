@@ -1,0 +1,313 @@
+[
+  {
+    "id": "t3_1ausn6w",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://newatlas.com/energy/domes-solar-cells-boost-efficiency-two-thirds/",
+    "title": "Bumpy solar cells could harvest up to 66% more energy",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It’s actually just magic spells written in braille to improve efficiency",
+        "points": "35 points",
+        "children": [
+          {
+            "comment": "This person solars.",
+            "points": "11 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Braille runes is a dope concept",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "lol yeah look like braille ! so what is this ? a clickbait ?",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "No, it’s just a stock image",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Man, so many new things with solar, it’s hard to know when to jump in. I want panels, but live in the north without a huge amount of direct, south facing sun areas to put them. If they were more efficient, I’d jump in. They may be good enough now, but I don’t want to spend the money and then find I could have done better a year later",
+        "points": "29 points",
+        "children": [
+          {
+            "comment": "You will always find q better way to do stuff when you did it. Just don’t try your first movement to be the only one, you will be able to adapt based on newer technology",
+            "points": "12 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I took the plunge last year. Got financing for 1% interest and my monthly solar loan payment is less than the electric bill it’s offsetting.\n\nAbout to file my taxes and get that sweet 30% credit.",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Definitely jump in now. ROI is 5-7 years (at least in Europe) and by the time they drop off (25-30 years) you’ll have moved to a different home.",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "How do I know there won’t be embarrassing phrases written in Braille on my new solar panels?",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "There will be.",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Having a zigzag-like at the bottom surface inside the solar cell also helps tremendously. Light that enters near perpendicular to the surface can end up reflecting off the bottom surface and go right back out before being absorbed. Having a bottom surface that isn’t flat causes the light to travel back toward the surface at an angle which can help create total internal reflection. This design costs too much to be worth the cost at the moment. I wonder if that design was a motivation for this research.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Clickbait.\n\nWhile the team hasn’t actually built physical versions of these solar cells yet",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "“could”",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "\"up to\"",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "We all know that but the big dirty energy oligarchs like bp, shell, gazprom just to name a few will try to suppress this as long as possible.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What about magnifying glass or would just increase heat?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And more heat",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Each bump is a lens?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "crunchy peanut butter is also better than smooth",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Does that thing have a (bunch of) HEMI(s)?!?!?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auov5o",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://news.mit.edu/2024/tiny-tamper-proof-id-tag-can-authenticate-almost-anything-0218",
+    "title": "This tiny, tamper-proof ID tag can authenticate almost anything. MIT engineers developed a tag that can reveal with near-perfect accuracy whether an item is real or fake. The key is in the glue on the back of the tag.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "From the article:\n\nThey mix microscopic metal particles into the glue that sticks the tag to an object, and then use terahertz waves to detect the unique pattern those particles form on the item’s surface. Akin to a fingerprint, this random glue pattern is used to authenticate the item, explains Eunseok Lee, an electrical engineering and computer science (EECS) graduate student and lead author of a paper on the antitampering tag.\n\nVery clever, IMO.",
+        "points": "35 points",
+        "children": [
+          {
+            "comment": "This is a high end version of what we used to do at work: glitter nail polish swirls over screws. We'd take pictures of them and then periodically compare the ones present to the pictures to see if it had been messed with.",
+            "points": "14 points",
+            "children": [
+              {
+                "comment": "Since the glitter consists of flat reflective surfaces, oriented randomly, you can’t spoof this with, for example, a high-rez photo. Glitter looks different at different angles.",
+                "points": "9 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Oh that's awesome! I love seeing cool ideas work like this!!",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "terahertz waves, which are smaller and travel much faster than radio waves.\n\nWhat? “Radio waves, which are smaller and travel faster than radio waves (light)”??",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "They’re all radio waves in the sense that they’re all light, but THz is around the IR or microwave area of the spectrum, far greater frequency than “radio” radio waves used in technology like RFID",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "I understand the concept of wavelength but I’m confused why they’re saying terahertz frequencies are “much faster” than “radio waves”.\n\ntldr: as a computer engineer with radio networking experience who reads physics papers for fun, I want mit.edu to define “faster”…",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Good point. Faster at transmitting data, I suppose.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "i do not understand how this helps to authenticate anything but the tag itself.\n\nif i acquire an 18th-century berry spoon, this tag will not help with anything. similarly, if the tag is put on a box, a fake item could still be put into said box.\n\nthis is very interesting, but i do not see how it is actually useful.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Presumably, an authenticator authenticates, then sticks the tag onto the actual item e.g. the back of a painting canvas directly. This tag just proves that it's the real thing that the tag was stuck on, because the pattern is (currently) not imitable. But yes, it must somehow first be authenticated anyway. More problematically, this pattern might become replicable at some point in the future with new technology, at which point you'd have slapped a useless glue tag onto some extremely valuable object, marring it forever while providing no guarantee of authenticity.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It authenticates whatever the tag is stuck to, because you can't remove it without destroying the fingerprint. That's all this is designed to be. It's basically an anti-tamper authentication tag that definitely can't be spoofed.\n\nMy concern is primarily that just manipulating the tag a little (e.g. pushing on it with a thumb) could break this.\n\nIt also depends on whether this is actually a useful thing to have. Often it is as you say, you want the contents of something to be authenticated, but not the thing itself (e.g. expensive whisky)",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It's not, this is just a fancy ID tag.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "There are a lot of fashion brand knockoffs and Bill of Lading is easy to fake. This would be applied during manufacturing process so the distributors or resellers could validate it came straight from the factory.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can’t wait to see what Deviant Olam thinks about how tamper proof this product is.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Put tag on counterfeit product. Profit.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Counterfeit glue market booming",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "You could replicate the glue but it wouldn’t give the exact arrangement of metal particles. Imagine this being applied at the factory, the chip would snapshot the metal matrix at application. If the chip was tampered with the RF echo would no longer give the same results. If the chips have unique identifiers tied to an online database the tracks of the supply chain custody it would be difficult to fake.\n\nBetter workaround is making fake chips that give a valid response when the reader tries to authenticate.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Fake chip market absolutely booming",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I guess the problem is the kind of item that justifies this you won't want this glued on to, so you'd be gluing it to the frame or box etc. at which point it's easy to fake again.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "So I’ll make a tag that says “I’m not fake” all of the time.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This really sticks out",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I know someone who worked on a project just like this for years over a decade ago. The main backers were big liquor (Diageo, etc.).\n\nOne problem they ran into was it was possible to refill bottles. The sticker remained attached to the bottle. They tried to work around this by putting the sticker on the seal, so the seal would be broken when you opened it. But then the bottle couldn't be validated after it was opened, which matters in some outlets like bottle service clubs.\n\nAnyway, their money ran out. I could see why the companies liked this idea though.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can it authenticate ur mom",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "And/or deez nuts",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Manufactured in China… Fakes are also made in China. Ironically the Fakes are also made in the same factory as Authentics.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

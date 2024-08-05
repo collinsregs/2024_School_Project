@@ -1,0 +1,45 @@
+[
+  {
+    "id": "t3_1bj9uap",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/p/10b01af9d9e9",
+    "title": "Collections in Java",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bj63br",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://singhsukhpinder.medium.com/day-1-of-30-day-net-challenge-boolean-expressions-0389d2f08ae9?sk=194d01eb816804773010613fa10ae6fe",
+    "title": "Day 1 of 30-Day .NET Challenge: Boolean Expressions",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bj3pb9",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://www.codium.ai/blog/unlocking-code-quality-excellence-essential-metrics-you-must-track/",
+    "title": "Code Quality: Essential Metrics To Track",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bijdhi",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://itnext.io/short-read-clean-as-you-code-dont-leave-a-mess-for-future-you-4c97cabba9c2",
+    "title": "Short Read: Clean as You Code, Don’t Leave a Mess for Future You",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Sometimes called the \"scouts rule\": leave things tidier than you found them. This rule can be dangerous with beginner programmers as they may \"tidy up\" a few functions by adding a lot of boilerplate style code, design patterns and other frivolities where YAGNI is often a more pertinent take.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

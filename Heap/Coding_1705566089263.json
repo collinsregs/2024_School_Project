@@ -1,0 +1,201 @@
+[
+  {
+    "id": "t3_199kck0",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://scientyficworld.org/how-to-optimize-supabase-edge-functions/",
+    "title": "How To Optimize Supabase Edge Functions For Low-Latency Applications?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_199dvi0",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://www.plotteus.dev",
+    "title": "Plotteus | The JavaScript library for data storytelling",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Simplified Synopsis:\n\nPlotteus is an open-source JavaScript library designed for data storytelling. It allows full control over animations, enabling more natural and engaging data-driven stories. The library supports seamless transitions between different chart types and elements, including colors. It includes six chart types like bar, bubble, and scatter, and offers features like config-based operation, grouping support, and theme adaptability to any background color. The focus is on empowering the audience to interact with the data at their own pace, making stories more memorable.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19994cg",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3",
+    "title": "The Shocking Secret About Static Types",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Elevator pitch version:\n\nThe post challenges the popular belief that static types significantly reduce bug density in software development. It references studies showing the limited impact of static types on bug reduction, compared to the more substantial benefits of Test Driven Development (TDD). The post also argues that while static types offer certain developer tools and can be useful, they provide a false sense of security regarding bug prevention. It concludes by advocating for TDD as a more effective method for reducing bugs while recognizing the ancillary benefits of static types. NOTE: This is not related to the actual summary, but this shows more that types have an effect on the wider programming market than an effect on a highly proficient team. So if you have control of the hiring, go for TDD and hire those skills, if you don't, typescript will probably be a great plumbing tape to get delivery going.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1998dwh",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://github.com/jkool702/forkrun",
+    "title": "Presenting 'forkrun': the fastest pure-bash loop parallelizer ever written",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1997a08",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://a0.to/reddit-webauthn",
+    "title": "WebAuthn - A Short Introduction",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1994t0s",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@bhattarai.alex402/distributed-data-done-right-a-golang-journey-with-consistent-hashing-49125707165b",
+    "title": "Distributed Data Done Right: A Golang Journey with Consistent Hashing",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1994p1m",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://oxc-project.github.io/blog/2023-12-12-announcing-oxlint.html",
+    "title": "Oxlint, a future replacement for ESLint?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Here's the summary:\n\nThe blog post announces the general availability of Oxlint, a JavaScript linter that emphasizes performance and simplicity. Oxlint is designed to be faster and more efficient than ESLint, capable of running on large codebases in seconds. It focuses on identifying problematic code without the need for extensive configurations. The post highlights Oxlint's significant speed advantage, demonstrated by its rapid linting of Shopify's codebase. Oxlint aims for ease of use with zero-config setup, leveraging Rust and parallel processing for performance. It prioritizes identifying erroneous or redundant code, and simplifies understanding lint messages. The post also notes ongoing work to read from ESLint configurations and considers future plugin system possibilities.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1993wxo",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "http://Google.com/coding",
+    "title": "Recommended inexpensive coding kits for newbie/age 10 and up. Or your alternative to a kit. TY!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What are you looking for when you say \"coding kit\"? A book that you'd pair up with software? Some physical item like a robot that you'd learn to program? Something like a Micro:Bit? Basic programming classes through an online course?",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Really, I’m just completely clueless about coding minus some html I did for MySpace back in the day. Lol. I would like to introduce all my kiddos so I give them the opportunity to dabble in what could potentially become a career for one of them. That site looks pretty great though. Will dig into a bit deeper. Thank you. :)",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "The Micro:Bit was designed by the BBC for computer education in the UK, so it's going to have a lot of material available, and some tangible results like making the little lights on it react to button presses and stuff. I know it by reputation, but haven't used one. But I believe you would write the programs on a PC, hook it up via USB to transfer a program to it. So there's the implicit requirement of having some kind of computer available.\n\nSomeone else mentioned Raspberry Pi's. Most of those are actually full computers on their own, with USB, HDMI, and network connectors. You typically run Linux on them. Education was one of the original missions, so there should be a lot of material out there targeting that, along with a lot of use by hobbyists. They've been around for about 13 years now, with a range of different models and prices (everything from a $4 microcontroller to a $100 computer built into a keyboard that includes everything but the screen).",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm tempted to say the Raspberry Pi is tailor-made for this, though I'm not sure if 10 is maybe a year or two too young.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Thank you. I did hear about them. Will check out their pricing. Hopefully it’s not too crazy. I have 4 kids and things add up very quickly. ;)",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Obsolete computer + linux",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1991em6",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/aJc62h5nhJg",
+    "title": "If you're a POS game dev like I am episode 4: Code Comments!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Part of the whole package of being a solo dev is maintaining a YouTube presence, and these new series of videos are my attempt to practice my video production skills for this very reason.\n\nHope you enjoy them.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1990wdd",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://github.com/merwin-asm/April",
+    "title": "GitHub - merwin-asm/april: A programming language for making APIs",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_198z66u",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://youtube.com/watch?v=Gv1ooaGP-yA&si=qfFdp5I2Uz99ToWH",
+    "title": "HTML Body Tag | HTML Tutorial | Web Development",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_198uuci",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://rogueliker.com/dev-hell-announcement-trailer/",
+    "title": "dev_hell wants you to stare deep into the corporate void, roguelike-style",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I mean it’s an interesting idea I guess, but the last thing I wanna do after working all day is go home and play a game about working.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "That thought crossed my mind, too.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198u37u",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/techtofreedom/8-uses-of-sed-in-linux-e61678b04114?sk=37ff3317cbfd3e6c0efe41747bba966b",
+    "title": "8 Uses of sed in Linux",
+    "points": null,
+    "comments": []
+  }
+]

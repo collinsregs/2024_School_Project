@@ -1,0 +1,127 @@
+[
+  {
+    "id": "t3_1adate6",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://blog.frankel.ch/improve-otel-demo/",
+    "title": "Improving upon my OpenTelemetry Tracing demo",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad7a83",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "http://www.google.co.uk",
+    "title": "Freecodecamp a good resource for learning and does it hold weight with potential employers? Or do I need to build a portfolio?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I think of all the self learning platform this is one I really like.\n\nYou will complete projects as you go and it will let you download the raw code and this will help you form the base of a portfolio.\n\nWhat I would say is use it to learn more skills and then do undertake some projects to show an employer what you’re capable of.\n\nYou can absolutely get a coding job without qualifications if you know how to code, imo.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Thank you for your comments I've been working through the HTML section and I like how you can see what your doing to the website in real time. I've also seen the little certificates in there too which is a nice touch.\n\nSay if I built a website how would they even know I made it and it's not someone else's stuff?\n\nI guess the hardest part is getting to the interview to demonstrate you know what your talking about at some level. I've noticed software developers make like three times as much as ones in the UK is that simply the huge demand in the USA?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sorry for the random Google link wouldn't let me make a post without a link.\n\nSo is learning yourself not going to get anywhere as I would have no qualifications per say?",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Learning on your own is an option to get into the field. Entry level jobs are very tight right now though. People with no experience and no formal education are going to have a hard time breaking in unless you have some connections. Not to discourage you from going down the path, it’s just a lot harder than it was just a few years ago. It might get easier again in the next few years but who knows.\n\nFCC is a great learning resource. But mentioning it in applications won’t likely mean anything to potential employers. Showing you can build stuff via a portfolio never hurts for entry level though.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad2yar",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7154943022562979840/",
+    "title": "A text editor that always stays on top so that you can follow coding tutorials easily",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Or just use the options given to you by the windows manager, to put a windows always on top...",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "There was something tingling in the back of my mind... how did we do that back in the day? A quick search led me to remember PowerToys, which are still around. Cool stuff!",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Or use Linux (or your choice of supported OS) with the KDE Plasma desktop environment; right click on any window titlebar or in the taskbar and choose More Actions -> Keep Above Others.\n\nSo many of the things that are \"how do you do that?\" on other platforms are easily within reach on open source systems.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I was also going to comment this. I use Debian testing with KDE, it's great, it has a lot of options to change every aspect of your desktop.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad0he7",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://pxplang.org/blog/dreaming-of-a-strong-and-statically-typed-php",
+    "title": "Dreaming of a strong and statically-typed PHP",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Dreaming is a strong word",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad02hu",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://snyk.io/blog/dish-network-security-comeback-story/",
+    "title": "4 takeaways from DISH Network’s security comeback story",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad010u",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://loft.sh/blog/a-complete-guide-to-kubernetes-cost-optimization/",
+    "title": "A Complete Guide to Kubernetes Cost Optimization",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acyvnn",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://www.datacenterdynamics.com/en/news/intel-collaborates-with-umc-to-develop-new-12nm-process-node/",
+    "title": "Intel collaborates with UMC to develop new 12nm process node",
+    "points": null,
+    "comments": []
+  }
+]

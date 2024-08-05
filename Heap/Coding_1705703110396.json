@@ -1,0 +1,139 @@
+[
+  {
+    "id": "t3_19av357",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://blogs.oracle.com/mysql/post/introducing-javascript-support-in-mysql",
+    "title": "Introducing JavaScript Support in MySQL",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Briefly Speaking:\n\nThe blog post from Oracle announces the introduction of JavaScript support in MySQL. This new feature allows developers to use JavaScript directly within MySQL, aiming to streamline database operations and increase flexibility in application development. The post details the implementation process and the benefits of integrating JavaScript into MySQL, including enhanced data manipulation capabilities and simplified database interaction for web developers.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19atlhl",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://youtube.com/watch?v=zWO64sdei8s&si=-cILPSmXejH2TqB5",
+    "title": "Create matrix engine GUI editor PART CODE HELPER",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19as5ak",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://news.ycombinator.com/item?id=39057005",
+    "title": "Voxos.ai – An Open-Source Desktop Voice Assistant",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19apbgj",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://macarthur.me/posts/with",
+    "title": "Let's Bring Back JavaScript's `with()` Statement",
+    "points": null,
+    "comments": [
+      {
+        "comment": "No, let's not.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Let's not.\n\nhttps://www.reddit.com/r/webdev/comments/18u0ntc/lets\\_bring\\_back\\_javascripts\\_with\\_statement/kfhh2l8/?context=3",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Summary below:\n\nThis post advocates for the reintroduction of JavaScript's with() statement, despite its current deprecation. The author compares it to Kotlin's scope functions and appreciates its syntactic simplicity. Criticisms of with(), such as readability issues, scope leak, and performance challenges, are discussed. Alternatives like destructuring assignment are considered less effective from a readability and semantic perspective. The author suggests a modified version of with() that doesn't search the prototype chain to improve performance. Historical context and potential use cases are also explored, arguing against universally discouraging with().\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19antvy",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://a0.to/reddit-read-edit-metadata-python",
+    "title": "How to Read and Remove Metadata from Your Photos With Python",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19aljfb",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://priyashpatil.com/posts/laravel-vite-deploy-assets-to-global-cdn",
+    "title": "Laravel Vite Deploy Assets to Global CDN",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Nitpick here\n\nLaravel Vite Deploy Assets to Global CDN S3",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ahnp3",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features",
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Here's the gist of it:\n\nThis article delves into seemingly illogical features of JavaScript, exploring their origins and practical implications. It examines peculiarities like the unexpected results of floating-point arithmetic and the nuances of type coercion. The piece also discusses automatic semicolon insertion and the presence of multiple 'bottom values' in JavaScript, such as null and undefined. It aims to provide a deeper understanding of these features for more effective JavaScript coding.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19agqoe",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/techtofreedom/5-levels-of-using-context-managers-in-python-8a3c6c3531ba?sk=61faf77c88b732b1011f03a79d6c0df1",
+    "title": "5 Levels of Using Context Managers in Python",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19aghgi",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://nptel.ac.in/courses",
+    "title": "Can anyone suggest me NPTEL courses to enrol for Computer Science",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19a7yjy",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://refine.dev/blog/what-is-htmx",
+    "title": "Ajax Requests with HTMX",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Here's the gist:\n\nThe post explains how HTMX enhances user interfaces by simplifying AJAX requests directly from HTML. It details various HTMX attributes, like hx-get and hx-post, that trigger AJAX requests using standard HTML elements without needing JavaScript. The post covers advanced HTMX functionalities, such as event-trigger modifications, request filters, and request indicators, demonstrating how HTMX offers a streamlined approach to creating dynamic, interactive web pages using HTML attributes.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

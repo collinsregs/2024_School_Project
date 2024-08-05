@@ -1,0 +1,1141 @@
+[
+  {
+    "id": "t3_1acj7nj",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/",
+    "title": "In major gaffe, hacked Microsoft test account was assigned admin privileges. How does a legacy test account grant access to read every Office 365 account?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acivih",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.cnn.com/2024/01/13/sport/peacocks-nfl-game-analysis-spt-intl/",
+    "title": "Forget Taylor Swift: Peacock’s NFL game is the real talking point of America’s favorite sport",
+    "points": null,
+    "comments": [
+      {
+        "comment": "So why are the NFL and Comcast, the parent company of Peacock, doing what they’re doing?\n\nThis move is likely all about money. The NFL is getting paid $110 million to allow this game to be exclusively streamed on Peacock. That’s a lot of money for one game, so you can understand why the NFL is willing to lose viewers and “experiment.”\n\nFor Peacock, the same is true but for a different reason: they’re trying to build up the audience to a paid streaming app that is losing billions of dollars in an era where people are dropping cable. A number of analysts have called Peacock a “struggling” service in an era where everyone is trying to figure out ways to generate revenue and audiences from streaming.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah it’s trash they can do this",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac991q",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.techspot.com/news/101661-japan-crashes-slim-spacecraft-upside-down-moon-calls.html",
+    "title": "Japan crashes SLIM spacecraft upside-down on the moon and calls it a \"success\"",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It got there and is functional. Who wouldn’t call that a win?",
+        "points": "252 points",
+        "children": [
+          {
+            "comment": "It's more successful than any of my moon probes that's for sure",
+            "points": "84 points",
+            "children": [
+              {
+                "comment": "Ideally, you send a probe during a full moon.",
+                "points": "23 points",
+                "children": [
+                  {
+                    "comment": "Up there it’s always a full moon.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "That's no moon!",
+                        "points": "6 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Don’t you tempt u/howdyzach",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "We're going to need a bigger probe",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Ya he did",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I have only successfully probed uranus",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "All mine land right-side up but none of them make to the moon.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I’ve never sent a moon probe that was as unsuccessful as this Japanese one.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "And got a lot of data out of it. Anyone who doesn’t consider this a success knows nothing",
+            "points": "14 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm actually more impressed it landed on its head in tact and functional.",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Mexican probe recently failed to even get to the moon. This is an absolute win in comparison.",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "tell me more please",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Seppuku success!!",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "wabi sabi win 😙🤌",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I have this humorous strange image of a mini-me upside down on the surface looking confused, and then wandering around wondering where everyone is. That’s until he learns the lack of gravity.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "They hit their target within 50ish meters, that’s insane. The accuracy required to land something that close to their target from earth is crazy, it’s also fully operational so I would also call it a success.",
+        "points": "151 points",
+        "children": [
+          {
+            "comment": "I never really thought about this but now im curious how accurate the Apollo missions were in terms of hitting their target landing zones.",
+            "points": "28 points",
+            "children": [
+              {
+                "comment": "I think because the Apollo missions were manned, they had the ability to land where they wanted or where felt the most safe and free of obstacles so they were probably pretty close.\n\nperseverance landing on mars had a landing ellipse of 4.8 x 4.1 miles, which means the lander hand a much larger area to land. Mars Pathfinder had a landing area of 124.3 x 43.5 miles. That’s pretty accurate in terms of making it to mars and landing on the surface but 55 meters is super accurate for an autonomous lander.\n\nI work on autonomous underwater vehicles and we have a threshold of 5-10m navigational accuracy, getting more accurate is really tough.",
+                "points": "27 points",
+                "children": [
+                  {
+                    "comment": "Get yourself a few ring laser gyros and put your navigational accuracy issues behind you!",
+                    "points": "12 points",
+                    "children": [
+                      {
+                        "comment": "Underwater lasers! Don’t let the sharks get them!",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Just watch out for ITAR, if required.",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "makes me think of wall-e and the landing spaceship",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "What are y’all using for INS? I used to work for a company that built ROV gyros. We used to calibrate them on our boat. The INS that we made would only pass if it reported a position of <1m over a 1km run after calibration(versus dgps position). That consisted of a ring laser gyro integrated with a DVL. The same equipment was used in AUVs that another company in our group sold.",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "You got spare batteries for your logitech controller?",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "They definitely managed to land right-side-up, at least.",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The first moon landing was a significant ways away from the originally planned landing zone due to its uneven and rocky topography, so they had to manually change the landing zone upon arrival.",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "For context, the Circular error probable (where 50% will hit) of some modern guided missiles is in the tens of meters. And they have the benefit of an atmosphere and GPS.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Maybe we should stop having a “top” and “bottom” so we don’t have to say it’s “upside down.”",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "This! This is the way",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "“Thrusters, check. Navigation, check. Internal emissions sink engaged. All systems online. Drift... just over 1,500 K.”\n\n“1,500 is good. Your captain will be pleased.”\n\n……\n\n“I hate that guy.”\n\n“Nihlus gave you a compliment, so you hate him?”\n\n“You remember to zip up your jumpsuit on your way out of the bathroom? That's good. I just jumped us halfway across the galaxy and hit a target the size of a pinhead, so that's incredible!”",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Any landing you can walk away from…",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "I love how they made that line Launchpad Mcquacks life motto.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "From the article: Its two rovers are operational, and the craft seems intact but is without power until February 1\n\nJapan's SLIM lunar lander crashed into the Moon last week. The \"Smart Lander for Investigating Moon\" was supposed to touch down on January 20, which it did. Unfortunately, it landed on its head. Japan's space agency still considers the mission a success.\n\nThe SLIM was a joint effort between Japanese toy company Takara Tomy, Japan Aerospace Exploration Agency (JAXA), Sony, and Doshisha University to design a craft capable of \"super-precise\" moon landings. In that regard, it succeeded. Aside from landing nose first, the SLIM touched down 55 meters east of its landing zone (LZ). Usually, scientists are happy if they can land within several kilometers of their intended LZ.",
+        "points": "49 points",
+        "children": [
+          {
+            "comment": "TOMY board meeting. -“we need to expand from just toys”",
+            "points": "18 points",
+            "children": [
+              {
+                "comment": "from toys to moon rovers sure is an expansion",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "They were actually approached by the space agency which is even more bewildering.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "I actually collect TOMY. They probably saw their Stoomdorm or Floomdorm and wanted in",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Wait until you hear who made the Javelin anti tank missile",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Can the two rovers launch if the entire unit is upside down? And if they can launch them, can't we use the rovers to flip the lunar lander over? Guess we'll find out in February.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "I mean, something launched and then took the photo in the article, right?",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Pretty sure it can flip itself over and they're just waiting for sunrise.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Per the article, they detached from the lander before touchdown.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "They’re like a tennis ball and a cube that a a small fraction of the size of the lander. They were deployed prior to the lander’s landing but won’t be able to do much (except do their own missions and photograph the lander’s Situation). Here’s a Scott Manley video about it: https://youtu.be/7bFiJvbKyPs?si=CBv8P57ZyRgyELCm",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Its just bowing to accept the moons business card.",
+        "points": "14 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cuz it was! Congrats to Japan for sure",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They deserve bonus points for an epic landing and it’s still working! Extra 10 pts for difficulty and style",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Successful landing, everything in one piece. Unsuccessful, everything in pieces.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "“Any landing you can walk away from is a good landing!”\n\nLaunchpad McQuack",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "If you can walk away from a landing, it's a good landing. If you use the airplane the next day, it's an outstanding landing.\n\nChuck Yeager",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds like a success to me. Fuck yeah!",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Doesn’t matter, touched moons.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Click bait title",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well, yes… but also, no.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah, well how many spacecraft have you crashed into the moon?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Two",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Task failed successful",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Japanese spacecraft: thunk\n\nEveryone: “Sorry about that, better luck next time”\n\nJapan: “Are we a joke to you? Not ideal landing, but all is good”\n\nEveryone: “Wait… since when have you had the ability to make a spacecraft orders of magnitude more precise than ours… that can survive landing upside-down????”",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "More than that, one of the two main engines suffered a major failure resulting in 90%loss of thrust, and the control system compensated for. Its descent rate was within spec, but it had a lateral velocity that was out of spec. Pretty amazing.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The media’s complete inability to even remotely comprehend different levels of success especially when it comes to EXTREMELY complex goals such as spaceflight absolutely blows my mind.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Crashed or landed, you guess",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "being the first one to land upside down is great achievement",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Certainly better than my attempt",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "A modern art masterpiece voila.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Job done.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Upside down achievement unlock..",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Aint much but its honest work",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "OP is an astrophysicist with expertise in orbital mechanics so he (and its a he) can confidently judge and criticize JAXA's major fail of \"crashing\" their probe in the Moon, without any need for context and/or nuance ... 🤡",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It was supposed to land on the back side.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "More than I've accomplished this week.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "To save “face”?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They got there. Good job Japan! 🇯🇵",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“We landed on the moon!” Lloyd Christmas",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Oh I’m sorry techspot, what all have you landed on the fucking moon?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Are we judging orientation now?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'd probably fuck up an attempt to crash a bottle rocket into the side of my house.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well, they did land something on the moon….",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Scientific progress goes BOINK",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "🙃👎🏻",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So…they put trash on Americans moon?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They shot for the moon and got there. I’d like anyone who’s judging them to prove they can do better because COME ONNNN",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They did way better than my attempts.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They reached a specific location 243,000 miles away. We have people getting lost going to their car in a parking lot.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They also taught so much to everyone else. Learning from failures although expensive, is still learning. Imagine if Apollo 11 did that.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Who or what took this photo??",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They probably landed on the South Pole of the moon so makes sense",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well, hell Ya! Better than anyone else has done.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "all this comments are so enjoyable",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Space X blows up Starship regularly, and they also call those successes.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac7yq1",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.nytimes.com/2024/01/24/style/ai-spotify-music-playlist-algorithm.html",
+    "title": "That Spotify Daylist That Really ‘Gets’ You? It Was Written by A.I.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "no shit it’s ai, it’s obvious",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "do they really expect humans to write names for each and every playlist thats made like what",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac4szp",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.theverge.com/2024/1/26/24052196/satya-nadella-microsoft-ai-taylor-swift-fakes-response",
+    "title": "Satya Nadella says the explicit Taylor Swift AI fakes are ‘alarming and terrible’",
+    "points": null,
+    "comments": [
+      {
+        "comment": "…and he studied them vigorously in a closed room.",
+        "points": "37 points",
+        "children": [
+          {
+            "comment": "Oh my",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Their Bing AI Generator is a pain in the ass to use because of the over sensitive word filters, yet people always find a way around then with “jailbreaks” I don’t think there is a true way to stop these explicit pictures from happening. AI is like a gullible kid, it’s not that hard to trick if you’re creative. These companies are just begging to be regulated, but our government is ran by geriatric imbeciles.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "AI regulation for sure.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why is he alarmed? Microsoft has it's own picture generator, they would be well aware this stuff is being created.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Boomers picked up several year old technology",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m more alarmed at the child images that are being generated this way.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Let's get Ja Rule on the phone to get his opinion. Can anybody find Ja?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "did the tech industry miss deepfake completely?",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Disclaimer: Paid for by Taylor Swift.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Were they alarming before they looked like TayTay?",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I love all these idiots clutching at their pearls over something that has been out for a decade.\n\nI have no doubt that this person knew deep fakes and deep fake porn was something that has been out for a long time now.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aby1ji",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.smithsonianmag.com/smart-news/nasa-ingenuity-mars-helicopter-taken-final-flight-180983667/",
+    "title": "NASA’s Ingenuity Mars Helicopter Has Taken Its Final Flight. Originally designed for up to five flights on Mars, Ingenuity performed 72 over three years, until one of its rotor blades was damaged during landing on January 18.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Talk about going above and beyond.",
+        "points": "111 points",
+        "children": [
+          {
+            "comment": "Not the hero we deserved, but the hero we needed.",
+            "points": "41 points",
+            "children": [
+              {
+                "comment": "NASA can sure build stuff that lasts when they want to.",
+                "points": "19 points",
+                "children": [
+                  {
+                    "comment": "There was an episode of Startrek TNG where they rescue Scotty (Relics). Picard and crew get into a battle shortly after losing sheilds or warp or some other critical system and Geordi tells the captain it will be 5 hours until the system is fixed.\n\nScotty asks Geordi how long it will actually take and says 5 hours.\n\nScotty basically calls him dumb and then says you always over exagerate how long it will take so when you come in under the deadline you look the hero.\n\nI imagine these NASA engineers going this should last at least 50 flights... tell the brass it is good for 5.",
+                    "points": "35 points",
+                    "children": [
+                      {
+                        "comment": "LOL!! I remember that episode! Great interpretation.",
+                        "points": "8 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Good old Scotty time. Under promise and over deliver is good advice in general.",
+                        "points": "6 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "That's exactly what they do. Ain't nobody spending billions for just a few short flights.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "They can also make it blow up if they want to",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Talk about setting expectations as well :)",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Yeah, it wasn’t ‘designed’ for 5 flights. The requirement was for 5 flights.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Heh above",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wow, 3 years damn. Seemed like yesterday they were taking off for the first time. Time has moved so fast during these last 2 administration's.",
+        "points": "67 points",
+        "children": [
+          {
+            "comment": "Almost choked when it said 3 years. Feels like yesterday. Oh my god the James Webb has been up there a while too…",
+            "points": "25 points",
+            "children": [
+              {
+                "comment": "“Covid time” I call it. Feels like 2019 was yesterday",
+                "points": "12 points",
+                "children": [
+                  {
+                    "comment": "Yeah things haven’t been the same since 2019/2020. Highly depressing actually.",
+                    "points": "6 points",
+                    "children": [
+                      {
+                        "comment": "Things really haven't been the same since 9/11. I remember the pace of life still being a bit more casual then despite having all the same distractions we have now. Covid just added a fuckton of time disorientation to that pile.",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "Every time I have to step foot in an airport I remember the time before 9/11. I was explaining to my kid how we used to just be able to walk to the gate with our families after getting our boarding passes and hugging them goodbye before getting on the plane. No need to show up 3 hours prior to deal with lines and the TSA, no limit on liquids and keeping shoes and jackets on if you didn’t pay for pre-check.\n\nI long for the simplicity of yesterday with the advancements of today.",
+                            "points": "3 points",
+                            "children": [
+                              {
+                                "comment": "Wholesome",
+                                "points": "1 point",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Wait what? James webb was launched just this last December, right? RIGHT? ….fuck",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "James Webb was launched OVER two years ago. I swear it was a few months ago.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah same. It got quite a bit of coverage here because the pilot is Norwegian. I thought it was like 1 year ago now 😳",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "God speed, you magnificent bastard. May future explorers recover your electronic corpse, and weep in the presence of your glory. 🫡",
+        "points": "34 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Amazing what NASA does in the same of furthering knowledge despite their funding being dangled like a carrot on a stick.\n\nGiven that they get a fraction of a percent of the USA budget. I wouldn’t mind my taxes getting increased by 1% so long as all that money ends up funding NASA and their ambitions.",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "And the return we get from NASA funding in the form of technological advancements bettering our everyday lives is immense. They’re the only agency to consistently “return” more than they take in. I think it’s something like every $1 spent on research generates about $40-$50 of economic growth. We get that with less than 0.5% of US spending allocated.\n\nEdit: fiscal 2021 budget was $23.3 billion and the return generated was $71.2 billion in total economic output. I don’t think any other agency consistently works this hard for the good of humanity",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "And yet you still have thousands, if not millions, of people complaining about the government \"wasting\" money on \"useless\" endeavors like rovers, telescopes, etc. I know so many people who act as if the tiny amount of money spent on NASA would be able to solve huge global issues like poverty, hunger, and climate change.\n\nThen you also have the crazies who believe NASA is some evil organization secretly lying to people.\n\nSo few people can truly appreciate how much NASA and the people working there have done for the US and humanity as a whole.",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "Yep. I always shake my head at those “feed the hungry” or “concentrate on problems on our own planet” as if they haven’t directly benefited from decades of NASA research",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "people complaining about the government \"wasting\" money on \"useless\" endeavors like rovers, telescopes, etc.\n\nLike everything I own doesn't have a piece of NASA research somewhere in it",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Since I was a kid in La Crescenta (right next to JPL), I’ve always looked up to the quality of the engineering work that comes out of that place. If I’m not mistaken, pretty much every probe/rover/helicopter has out performed its mission goals. Pathfinder was particularly influential for me… it landed on Mars the summer before I was applying for college and pushed me towards pursuing engineering.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Most likely they low ball the estimates to illicit this type of response, I wouldn’t read too much into it. Smart folks over there. They know the power of perception especially when it comes to funding. Realistically, if they’re consistently “overachieving” then the bar needs to be raised.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "My thoughts exactly. It’s a good strategy when dealing with non-technical ppl writing the checks.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Same here. Makes me feel proud!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good robot.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "NASA is very good about under promising and over delivering. This should be universally noted.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "🫡 you did well little explorer, you did well.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Rest well, sweet prince.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why am I sad like it’s dying",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "“My battery is low and it’s getting dark”",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "O7",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Scotty: \"You didn't really tell him how long it would really take, did you! Och, laddie! You've got a lot learn if you want people to think of you as a miracle worker!\"\n\nNASA: <taking notes>",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don't think it can communicate without the rover nearby but I hope they figure out a way to continue collecting some data with it and maybe the rover can swing by later and uplink it.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So glad some idiot politician hasn’t said, “Wow NASA’s funding needs to be cut because their shit works way too good.”",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That'll do little helo, That'll do...",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Mars 1st junkyard (maybe)",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Already some junk on mars from some failed missions, it’s a pretty precarious planet to land on",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Ah yeah never been",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Mark Watney's gonna need that junk.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Gonna science the shit out of it",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "After polluting the hell out of our own planet, we’re starting to trash another.",
+        "points": "-7 points",
+        "children": [
+          {
+            "comment": "Been leaving dead robots on mars for a while now. We used to just plow them into the planet after not converting imperial to metric",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah, really ruining a lot of that irradiated, toxic, near vaccum, cold, completely dry planet.\n\nWe could do nothing that the sun and time hasn’t already done to mars",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Oh, won't somebody please think of the red dirt?!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "F",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "o7",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So what/when is the next mission to Mars?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wonder what cute messages they are sending the things on mars.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They probably knew it could do more than 5. Just didn’t want to oversell to the people setting the budget in case it failed. Anything passed five justifies getting a budget for another one!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Vale ingenuity",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It was Tom, wasn’t it? Tom crashed the copter, didn’t he?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In a stunning move of disrespect NASA gave ingenuity a Meets expectations for the year. When ingenuity asked why it was told , there is always room to improve.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What a lil hero, thanks for all your efforts buddy!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have a stupid question! If the Ingenuity is there to take pictures of the surface of mars, what, or who, took this picture of the Ingenuity?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s joined Opportunity, Spirit, Sojourner, and Cassini (Saturn probe) in robot Valhalla 🥺",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "(Aggressive, dramatic, tearful salute)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ingenuity: “Help! I’ve fallen and I can’t get up…”\n\nJPL: “F*#k!\n\nJPL answers phone: “Hello?”\n\nPhone caller: “Hi! We’re calling because of Ingenuitys soon-to-be-expiring warranty….”\n\nAll silliness aside, NASA has been in beast mode with its Martian exploration probes. I’m a 68 y/o man and I hope to see a similar series of probes to the Jovan moons, starting with a Jupiter orbiting data relay station…",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac5b4n",
+    "subreddit": "u/lazyturtlegames",
+    "dataType": "link",
+    "dataUrl": "https://store.steampowered.com/app/2797220/Necroforge",
+    "title": "Unleash your dark side in this Hexen and Heretic inspired game! Wishlist now on Steam!",
+    "points": null,
+    "comments": []
+  }
+]

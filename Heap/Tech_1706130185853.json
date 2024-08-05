@@ -1,0 +1,601 @@
+[
+  {
+    "id": "t3_19ep5wv",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://www.nature.com/articles/d41586-024-00168-8?utm_source=Live+Audience&utm_campaign=1dc11435fc-briefing-dy-20240124&utm_medium=email&utm_term=0_b27a691814-1dc11435fc-49648364",
+    "title": "Computers make mistakes and AI will make things worse — the law must recognize that",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19eg3rh",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://www.nytimes.com/2024/01/23/health/deaf-gene-therapy.html",
+    "title": "Gene Therapy Allows an 11-Year-Old Boy to Hear for the First Time",
+    "points": null,
+    "comments": [
+      {
+        "comment": "That’s science and technology!\n\nCan you imagine how far we would collectively be if certain religious and political groups weren’t busy destroying books, immigrants, healthcare, social security, abortion… or undermining masking and vaccine programs, etc?",
+        "points": "100 points",
+        "children": [
+          {
+            "comment": "Stop, I can only get so depressed.",
+            "points": "25 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Should’ve just prayed for a bigger donation\n\n/s",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Or if other countries besides a handful of mainly western ones started also investing in medical research instead of leaving things in gods hands (and then using western medicine)",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "China, Japan and Saudi Arabia are investing billions into healthcare and gene based therapies. A combination of aging populations and the economic importance of young workers has made technological advancement mandatory if they wish to remain economically competitive. In comparison, the same research in America was effectively crippled during the presidency of George Bush.\n\nThis is not an endorsement of the research practices in those countries. The only research I will endorse is that which had my direct involvement. I only speak because the situation is more complicated than you know.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "Saudi Arabia\n\nlol, I'm pretty sure Saudi Arabia is investing in gene therapy for a different reason than the other two...",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "What is the reason? I'm always keen to learn new things.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "High rate of inbreeding (almost 40% of marriages in Saudi Arabia are consanguineous) = lots of genetic defects",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Same as it ever was",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Same as it ever was",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I’d say it’s actually certain segments of the Deaf community who’d be most likely to try and stop this.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As an audiologist, articles like this are frustrating. This one particular case is remarkable. Miraculous even. I'm overjoyed this kid can hear so much better...\n\nBut out of all causes of hearing loss, genetics account for (very roughly) 3% of cases. Out of those 3%, only about 3% are related to the otoferlin gene, as in this article. Otoferlin disease is special in that the hair cells remain intact. For almost all other cases of hearing loss, the hair cells are not intact. If they're not, you can't just flip a genetic switch and get the ear working again. And there's very little hope for hair cell regeneration in the foreseeable future, through any means. The structures are just too small. We would need some kind of hypothetical surgical nanobots to repair them.\n\nSo for the 0.09% (or less) of all hearing losses that this technique could help, it's great news. But then Joe the Army veteran reads this article, makes an appointment to see me, and tearfully asks if I can help get him this treatment. I have to explain it couldn't possibly work. His otoferlin gene is working fine, and his hair cells are decimated by noise from thousands of gunshots. He gets sad that he had false hope for a moment.\n\nI do see that the article mentioned this was a very rare form of deafness, but popular science publications want to get people excited, so they hype up how groundbreaking it is (and it is) and say, \"Yes this only works on otoferlin gene deafness now, but think of the possibilities on the horizon as this technique is refined!\" Only there really aren't very many. When the hair cells are destroyed, they've gone forever. It would take a vastly more groundbreaking development to help the other 99.9%. I just wish that were made clearer by the authors.",
+        "points": "35 points",
+        "children": [
+          {
+            "comment": "Earlier in the article—\n\nWhile hundreds of millions of people in the world live with hearing loss … His is an extremely rare form, caused by a mutation in a single gene, otoferlin. Otoferlin deafness affects about 200,000 people worldwide.<\n\nAnd then a pinch further—\n\n”There has never been a biological or medical or surgical way to correct the underlying biological changes that cause the inner ear to not function,” Dr. Chan said.\n\nAlthough otoferlin mutations are not the most common cause of congenital deafness, there is a reason so many researchers started with it. That form of congenital deafness, said Dr. John A. Germiller, an otolaryngologist who is leading the CHOP study, is “low hanging fruit.”\n\nThe mutated otoferlin gene destroys a protein in the inner ear’s hair cells necessary to transmit sound to the brain. With many of the other mutations that cause deafness, hair cells die during infancy or even at the fetal stage. But with otoferlin deafness, hair cells can survive for years, allowing time for the defective gene to be replaced with gene therapy.<\n\nNot sure you read the article to go off on your screed… but this sounds as if Joe the Army veteran isn’t going to ask you about whether he qualifies for this treatment.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "I did read the article, and I saw them make the necessary statements to temper expectations, but I also know Joe's reading comprehension skills, and because they did not make it blindingly obvious, with repeated statements at an 8th grade reading level or below, that this condition is not just extremely rare, but also fundamentally unlike other forms of congenital deafness, I do know for a fact that some Joe will ask me that question at some point in the next year. I know this because I get a question from some Joe every time an article like this is published, even though they all make the same disclaimers somewhere down below the headline written for maximum emotional impact.\n\nAnd when they make statements like,\n\nAlthough it will take years for doctors to sign up many more patients — and younger ones — to further test the therapy, researchers said that success for patients like Aissam could lead to gene therapies that target other forms of congenital deafness.\n\nIt's technically true that it could, maybe, help a few more people than just the 200,000 people with otoferlin-related hearing loss. Even then, this phrasing looks a little bit irrationally optimistic to me. And you think Joe knows what the word \"congenital\" means?",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "It’s the NYTs .. the article stated the global number affected, that the defect was present at birth, and what made it unique with regards to hair cells vs due to an accident which caused hearing loss ~ how much more blindingly obvious do you want them to be or are you saying the quiet part out loud that you don’t think Joe the vet knows what congenital means?\n\nBy 8th grade, whether they have a sibling or a relative with an ailment from birth or not, the word congenital should be present in a person’s vocabulary, and if they are a parent it most definitely is a part.\n\nThe thing is if patients are inquiring about new techniques it is your job to explain to them what they are and are not qualified for.",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "I know he doesn't know what that word means (and/or he never made it to that section of the article), because he does, in fact, ask questions that he would not ask if he understood the full text of the article. I'll say that \"quiet\" part out loud all day long. The same is true for Jane the plumber. And Bob the chef. And Mary the CEO. People generally don't read news articles beyond the headline and first couple of paragraphs, and they often don't understand what they do read.\n\nWilber Schramm, who directed the Communications Research program at the University of Illinois interviewed 1,050 newspaper readers in 1947. He found that an easier reading style helps to determine how much of an article is read. This was called reading persistence, depth, or perseverance. He also found that people will read less of long articles than of short ones, for example, a story nine paragraphs long will lose 3 out of 10 readers by the fifth paragraph. In contrast, a shorter story will lose only 2 out of 10 readers.\n\nIn 1948, Bernard Feld did a study of every item and ad in the Birmingham News of 20 November 1947. He divided the items into those above the 8th-grade level and those at the 8th grade or below. He chose the 8th-grade breakpoint, as that was determined to be the average reading level of adult readers. An 8th-grade text \"...will reach about 50% of all American grown-ups,\" he wrote. Among the wire-service stories, the lower group got two-thirds more readers, and among local stories, 75% more readers. Feld also believed in drilling writers in Flesch's clear-writing principles.\n\nBoth Rudolf Flesch and Robert Gunning worked extensively with newspapers and the wire services in improving readability. Mainly through their efforts in a few years, the readability of US newspapers went from the 16th to the 11th-grade level, where it remains today.\n\nhttps://en.m.wikipedia.org/wiki/Readability\n\nIt is absolutely my job to clarify the misunderstandings that resulted from people's attempts to read science journalism, and I do it gladly. Nevertheless, that discussion would not be necessary, and people would not feel so let down by the deflation of false hope, if lay science publications were even more explicit about key facts, and prioritized them even more in both placement and emphasis, and defined words which could potentially confuse people, even when you, u/ksixnine, personally believe those words ought to be in their vocabulary. \"Ought to be\" isn't the same as \"is.\"",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This might be the world’s stupidest question, but can you transplant follicles from a donor (alive or otherwise)?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Probably the greatest common misunderstanding about the inner ear is that when we talk about hair cells, you tend to picture literal hairs. They're not, though you're far from alone in getting that idea from the name. The \"hair\" in question in the inner ear is around 0.12 micrometers in width. A hair on your head is around 70 micrometers. A real hair is therefore close to 600 times thicker than a cochlear \"hair.\" So to answer your question, it might even be possible to transplant them in theory, but at that scale, how would you even maneuver the donor cell into the right spot? How could you move it without breaking it? Those are the kinds of challenges in play.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Maybe it would be more of a skin graft than individual follicles, but grafts also seems like something that would be difficult to pull off. But thank you for the answer.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "And then there's the challenge of getting the graft/transplant to interface with the hearing nerve of the recipient, which is a whole other kettle of worms. What I think is a more realistic approach is tricking the body into doing all the work itself. We know that the body is capable of turning stem cells into hair cells and putting them all in the right place with all the right nerve connections. It happens every time a baby is born. It's all accomplished by chemical signals. If, somehow, we could learn the chemical code well enough, and deploy those signals precisely and accurately enough, then it's within the realm of possibility we could send a programming command to a mature inner ear saying, \"You are actually a fetus. Build healthy hair cells and put them in the right places.\" A monumental task, but probably still easier than attempting it via any kind of surgery that would be imaginable for the next several decades.",
+                        "points": "5 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "We have to start somewhere. Nothing wrong with being inspired by a first big step.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Who the heck downvoted you? As someone in R&D you always have to start somewhere and people will complain about the first step being useless. How insufferable.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "That isn't complaining about the first step. It's complaining about media acting like a miracle treatment is now available.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "It's not that the first step is useless. It's not. This is wonderful news. But this doesn't look to me like it's a \"first step\" toward anything other than helping the 200,000 or so total people in the world who have this extremely specific condition. Many of the other 99.9% of people with hearing loss will read this and think, entirely in error, that maybe, someday, with further research and development, that this particular technique will be able to help them. It almost certainly will not.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "This is the first gene therapy in the ear. Just stop for a second an think about what it's taken to get here. Step out of your weirdly small world view.",
+                        "points": "-1 points",
+                        "children": [
+                          {
+                            "comment": "In my weirdly small world, patients will walk into my clinic with unrealistic hope, and they will walk out sad. It could be avoided if this kind of article made it even more explicit how small the number of even theoretical candidates are. Sorry for sharing I guess.",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "And you can explain everything and have a dialogue, answer some questions, do your part to educate so they feel inspired by where we're headed. You should know better that most that science is incremental, it's not wham bam tada cure.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "I do. And where we're headed is good in general. This specific type of treatment will just not help them personally. Not even with years of research and development.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "You have no way of knowing that. The people making this stuff will learn - science, manufacturing, drlivery, etc. there's simply no way to know what might get unlocked in the future. That's why we have to celebrate this.",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "In my capacity as a doctor of audiology, I can say conclusively that this specific type of treatment will never benefit more than a very small fraction of the total number of people with hearing loss. Otoferlin related deafness is almost unique in that hair cells can remain intact for years, providing a window to administer treatment before they are lost. Any hypothetical therapy to regenerate lost hair cells would be orders of magnitude more difficult than the accomplishment described in this article, and hair cells have been lost in the vast majority of cases of hearing loss. Believe me, I'm all for hair cell regeneration, but this research is unrelated to that problem.",
+                                            "points": "0 points",
+                                            "children": [],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Do you really think hair cell regeneration is far away? With the increasing speed of research and AI, a solution seems closer than we think. I talked to a few researchers who say there is big probability that a hair cell treatment will be available within 10 years.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You mean made clearer like.. clarifying? Like they do early in the article?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Although it will take years for doctors to sign up many more patients — and younger ones — to further test the therapy, researchers said that success for patients like Aissam could lead to gene therapies that target other forms of congenital deafness.\n\nIt could. Maybe. A very small number. But many people don't understand the word \"congenital,\" and will take this statement to mean that there's a chance it will work on them eventually. For 99%+ of people with hearing loss, it will not. Even more clarity would be helpful, yes.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "What are the most common ototoxic drugs you see that cause tinnitus?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "In approximately descending order, high doses of over the counter pain medication, opioids, loop diuretics like furosemide / Lasix, aminoglycoside antibiotics (the ones that end in -mycin or -micin), platinum-containing chemotherapy drugs (cisplatin and carboplatin).",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "As a deaf person, what is dispiriting is that the Cochlear implant that is promoted heavily destroys any remaining hair cells which negates the possibility of any gene therapy. Admittedly it is still slim that it would work but it’s not like Cochlears are changing the game for Deaf folks.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "How is this new treatment being received in the Deaf community?",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Yet despite the promise of otoferlin gene therapy, finding the right patients for the trial was difficult.\n\nOne issue is the very idea of treating deafness.\n\n“There is an internal Deaf community that doesn’t see itself as needing to be cured,” said Dr. Robert C. Nutt, a developmental and behavioral pediatrician in Wilmington, N.C., who is deaf.\n\nSome Deaf parents, he added, celebrate when their newborn baby’s hearing test indicates that the baby is deaf too and so can be part of their community.",
+            "points": "27 points",
+            "children": [
+              {
+                "comment": "Thank you. I didn’t read the article through the paywall. But this was the response that I thought might be the answer.",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "Sadly, to get the full benefit it needs to be done at a very young age. This is not something where the decision can be delayed until some later date where the child decides for themselves:\n\nThe mutated otoferlin gene destroys a protein in the inner ear’s hair cells necessary to transmit sound to the brain. With many of the other mutations that cause deafness, hair cells die during infancy or even at the fetal stage. But with otoferlin deafness, hair cells can survive for years, allowing time for the defective gene to be replaced with gene therapy.\n\nBut:\n\nno matter how well the gene therapy works, the researchers recognize that Aissam may never be able to understand or speak a language, Dr. Germiller said. The brain has a narrow window for learning to speak beginning around ages 2 to 3, he explained. After age 5, the window for learning spoken language is permanently shut.",
+                    "points": "8 points",
+                    "children": [
+                      {
+                        "comment": "If they can cure his deafness, a feat previously unimaginable, there may be a miracle in that he learns to speak even at this late age",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "Especially because didn't he already know a signed language?",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I was an audiologist. The last thing you mentioned has always blown my mind.",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "Why? It makes perfect sense to me that a parent would feel more confident/comfortable raising a child within their community and known experience.",
+                    "points": "-3 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Same. Pure nonsense. It’s not because you’re okay to be Deaf that you’re child have to be deprived from this precious sense.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "That’s disgusting.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "It’s psychotic to be happy your child is disabled\n\nThis is going to become an actual social justice issue soon and I’m dreading it. As blindness and deafness etc can be cured, people are going to actually argue they have the right to leave their children disabled. Ugh…",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "I think attitudes might change as cures become a thing. Ya gotta remember these communities grew up in a time when they were told there is no hope and never will be. Even cochlear implants are kinda trash. I totally understand why someone would choose quiet over the sounds those things make. Admittedly it's been like 10 years since grad school when I learned about them so maybe they're better.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "They are definitely not trash lol. Do you have one or did you just listen to a simulator once and decide it sucked?",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "They're a great invention, but I thought it was pretty undisputed that they don't provide anything like the same audio quality as natural hearing?",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Yeah I agree trash is a little over the top. But they're not what a lot of people think they are...\n\nI went to audiology school. Back in my day they only had 12 channels. With a lot of training you could make out speech sounds and have environmental awareness. But for a lot of Deaf people, that's not enough benefit because they will face a stigmatization in the community.\n\nMy knowledge on all this is over a decade old by now. Could've changed by now.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Actually, they were told there were hope, most all the hope were false or still badly need accommodation they aren't getting.\n\ncochlear implant is a tool to help you hear something, but will still probably need accommodations for most of them. that's the difference.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Blindness is even worse. Nobody should have to live in the dark.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "you forgot one thing. history.\n\n1910: We found a cure for deaf people: hearing aid. you don't need accommodation anymore and we will deny you them. Deaf people: we still need accommodation.\n\n1990: We found a cure for deaf people: cochlear implant. You don't need accommodation anymore and we will deny them. Deaf people: we still need accommodation we aren't getting.\n\nright now: we found cure of whatever. deaf people: rolling their eyes. we still need accommodation we aren't getting.\n\nI am sure you don't get it. But majority of deaf people can see this bullshit of you. We all love to have the cure, but we know they don't work the way we wanted. We will still probably need accommodation that you don't think we deserve.\n\nthat's the problem.",
+                    "points": "-3 points",
+                    "children": [
+                      {
+                        "comment": "This profile is a pretty great case study in the exact form of extremism being discussed, complete with the standard dehumanizing in-group lingo, like \"oralism\" and \"hearies\".",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "This profile is a pretty great case study in the exact form of extremism being discussed, complete with standard dehumanizing in-group lingo, like \"cure\" and 'deafie'\n\nThank you for proving it 😜",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "This is my first post on the topic. I've not used the word \"cure\" in this context, and I've never written the word \"deafie\" in my entire life until this very reply. What a bizarre comment.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "Then why get offended with 'hearies\"? Aren't you a hearing person with absolutely no experience of being deaf?",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "You're not making any sense. Why does never having said \"deafies\" mean I shouldn't be offended by \"hearies\"?\n\nYou're also assuming that I'm personally offended by the term — I'm not. It's just a great example of how some insular groups subject to the echo-chamber effect tend to create obscure in-group terms to 'other' different groups of people. Think of words like \"femoids\" for incels, or \"libtard\" for right-wingers, or any number of other similar examples. Sometimes it's harmless shorthand, but often they are used to stoke division and hate.",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I would highly recommend you look into the history of the deaf community in the US. The argument for whether or not deafness should be cured (assuming perfect circumstances- prelingual child, no other health concerns, money is sorted, etc) is something you just cannot really understand until you learn about the culture where the anti-cure arguments are coming from. Whether or not you agree, understanding where people are coming from is vital in figuring out a plan to help as many people as possible.\n\n(I personally won’t make any statements leaning one way or the other since it’s been a while since I’ve done a deep dive into deafness, but I did do my thesis on ASL in undergrad and deaf culture fucks so honestly everyone should learn more about it)",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I get the impression it's stronger for the deaf community because they have their own languages (by logistical necessity) and therefore more strongly their own culture than people with any other disability, and they worry that curing deafness would result in their language, and therefore their culture, going extinct.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Cured is a loaded word. Deafness is a disability, not an illness. And that disability is largely based on what accommodations are available. More and more, our cities and schools are built with deaf and hard of hearing people in mind. There was that AT&T commercial about Brandon Washington, a deaf football player and a specific helmet so he could see play calls without having to hear.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Cured is a loaded word. Deafness is a disability, not an illness\n\nIf we're going to get definitional about it, an illness is \"a specific condition that prevents your body or mind from working normally\". The issue being discussed here is genetic mutations in the OTOF gene, which cause dysfunction in certain cells in the cochlea (illness), which creates a disability (partial, temperature-mediated, or complete deafness).\n\nWe can improve the lives of people with disabilities by building a more accommodating society. We can also develop treatments that reduce the occurrence and severity of disabilities. Both are forms of moral progress and I feel similarly negatively about anyone who would oppose either one, especially if they are making irreversible decisions on behalf of infants.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Warning: Not deaf, but I know people who are.\n\nIt’s like that one scene in the (3rd?) X-Men film with Storm and Rogue. Being deaf actively hinders some people’s lives, so they’re obviously very happy. There are others who don’t see it as a disability, however.\n\nIMO, it’s great. If you want to be cured, go for it. If you don’t, good for you.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "The tension is that it is parents making a decision. Not the individual.",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "This",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "They can’t wait to hear about it",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "I think they heard enough",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Poorly lol. They're....oh heavens. One coping mechanism is to basically identify with your captive, in this case deafness. Some will see this as a threat to their community.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "It kinda is a threat to their community- curing deafness would most likely result in signed languages going extinct, and therefore in deaf culture (which is a separate culture to a greater extent than most disabilities because of their logistically-necessary separate languages) no longer existing. The question in dispute is whether that's a price worth paying.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Of course it is lol they have a severe disability. A lot of them have just identified with it as a coping mechanism. The alternative is to lose your mind because jfc it's second only to vision in how we perceive and interact with the universe",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It’s falling in deaf ears",
+            "points": "-3 points",
+            "children": [
+              {
+                "comment": "Har",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I don't think they've heard about it",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m curious, when gene therapy is done, does it alter a person’s DNA in a away that would carry onto their future children? Basically, does this little boy’s future children have a lower chance of being born deaf because he was treated with this technology?",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "That’s a good question! There are a few concepts here - even if a therapy did alter the DNA of the cells it was treating (like the inner ear / eardrum ‘hair’ cells in this case), those wouldn’t be passed on to future children. Only alterations to germ cells (egg, sperm) impact offspring. The former is a somatic gene alteration, the latter is a germline gene alteration.\n\nNext, this particular therapy (adeno-associated viral delivery) doesn’t alter the DNA of those particular inner ear cells; it introduces a separate copy of DNA that has the sequence for a functional otoferlin gene, which allows this particular patient to hear. The cells still read this DNA and translate it into functioning otoferlin protein.\n\nThis is in contrast to lentiviral based therapies or CRISPR technologies, which can directly alter a cell’s genome.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Thank you for the very detailed answer. That makes sense now. This sounds like updating someone’s computer that has a broken printer with a driver copied and pasted from another computer and installed. Even though it came from a different machine it still works because they are compatible systems, but, if the computer was reformatted and the original software installed, the error would come back because the driver on the original disk was corrupted. Every time you’d do an install from from that disk you’d have to replace the driver again.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I bet the therapy still allows him to selectively tune out his parents.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do you think we are closer from retinal (eye) regeneration or hair cell (hearing) regeneration?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That’s amazing",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nice",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looks like he’s enjoying what he’s hearing in the world as much as I am.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This Gene guy sounds cool.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why were we not funding this?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thought this said “Game Theory” for a second",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "…and his taste in music is already terrible?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thanks Gene! You’re the goat!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Interesting I wonder if we are closer to regenerating brain and nerve cells that were damaged.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m legally blind thanks to a rare gene causing cone rod dystrophy. I just saw a report saying the eyes being self-contained makes them one of the easiest organs to treat with CRISPR. I’m on the edge of my seat waiting.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

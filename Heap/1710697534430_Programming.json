@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "t3_1bh33zp",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.resonatehq.io/async-await-mechanics",
+    "title": "The Mechanics of Async Await",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh2pwu",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.frankel.ch/pitfall-implicit-returns/",
+    "title": "The pitfall of implicit returns",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh2pu2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.dannyguo.com/blog/start-with-a-minimum-viable-system",
+    "title": "Start With a Minimum Viable System",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh2iqg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/feitgemel/TensorFlowProjects/tree/master/Brain-Tumer",
+    "title": "Brain Tumor Classification using Deep learning",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh21nr",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://newsletter.eng-leadership.com/p/simplifying-as-much-as-possible-is",
+    "title": "Simplifying as much as possible is the way to go in the engineering industry",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh0wpi",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://ayelite.com/blog/ai-app-development-guide-2024/",
+    "title": "AI App Development Guide 2024: Trends & Ethics - Web & App Development Blog | Ayelite Technologies",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgzrvl",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://asyncq.com/spring-data-jpa-query-derivation-explained",
+    "title": "Spring Data JPA: Query Derivation Explained!",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgyi3n",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://read.highgrowthengineer.com/p/engineering-crits-at-figma-interview",
+    "title": "How Figma runs Engineering Crits",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgyhl1",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
+    "title": "Popular Git Config Options",
+    "points": null,
+    "comments": [
+      {
+        "comment": "git config --global core.fsmonitor true\n\nwas not mentioned in the article so here\n\nNow your cli themer's git status plugin wont lag.",
+        "points": "12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you want a TL;DR:\n\nThe post explores various Git configuration options that enhance user experience, highlighting settings for aliases, improving command outputs, and personalizing the workflow. It emphasizes the importance of customizing the Git environment to suit individual needs, such as setting up shortcuts for common commands, configuring the default branch name for new repositories, and adjusting the merge behavior. Additionally, the article provides insights into less-known config options that can significantly improve efficiency and comfort when working with Git repositories.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "-31 points",
+        "children": [
+          {
+            "comment": "A proper TL;DR would actually list some popular config options, don't you think??\n\nAnyway, this was posted here under a month ago at the time it was first posted on the blog https://reddit.com/r/programming/comments/1atowsj/popular_git_config_options/",
+            "points": "13 points",
+            "children": [
+              {
+                "comment": "You are replying to an AI summary.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "He does read these replies. He's not so good at taking advice on how to improve them but it's very little effort to point out ways they could be improved",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgx5nq",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jacobian.org/2024/feb/16/paying-maintainers-is-good/",
+    "title": "Paying Maintainers is Good",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This article perfectly encapsulates the issue I have with this entire debate: the headline I agree with, however the \"solution\" involves destroying the value that open source brings to our communities at large.\n\nTo be clear: I understand that this is the real world, and people have to eat. I understand that it is not sustainable to do work for free while others reap the benefits. But anytime someone locks up their product for the sake of that, this is not something worth celebrating, this is an admission that the vision of open source has pretty much failed, and calling whatever this is open source is either maintainers lying to themselves or to us and avoid pushback.\n\nI don't think people appreciate the value that open source brings outside of massive corporations. A lot of what I learned about real world software development is from reading those open source codebases. The only reason I was able to do this is that the code was just there, I was able to look at it, learn from it, play with it and use it however I wanted to. These are incredibly valuable resources especially to people in developing nations where political instability constantly threatens access to these resources if they're locked up behind restrictive licensing.\n\nAgain, I do not judge people for taking the paycheck. But stop asking me to celebrate the death of the resources that helped me so much when I was learning, and the lack of access to those materials for future generations.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Yeah agreed. As a maintainer, I’d rather step down as maintainer for health/sanity/financial reasons than remove access to the code I maintain as a bully tactic. It would be nice if companies had more OSS donation policies, but what can you do",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I don't think this is something that companies can be trusted to do consistently. A very interesting proposal was to start to treat OSS as infrastructure, the same way roads used to be built by volunteers before the government started maintaining them due to their importance.\n\nIt's not a perfect solution, but it is an actual solution as opposed to whatever this is.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Oh yeah agreed, I’m not proposing that they do or need to since I know they can’t be trusted to.\n\nI like the maintenance/foundation proposal, but the complexities of that add up quickly with organization logistics and such.\n\nAll I know is I’ll maintain while it’s fun and while it doesn’t add undue stress to my life. After that I’ll try to hand off to whoever might be in a good place to do the same, or let the software die if no one will take it up",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "In other words:\n\nThe post argues for the financial support of open source maintainers, highlighting the discrepancy between the value generated by open source projects and the lack of compensation for those who maintain them. It discusses the challenges maintainers face, including burnout and the potential for project abandonment, which could negatively impact the broader tech ecosystem. The author proposes various funding models, such as direct sponsorships, grants, and corporate backing, to ensure maintainers are compensated for their contributions. Additionally, the post examines the benefits of financially supporting maintainers, including increased project sustainability, improved software quality, and a more vibrant open source community.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgx04v",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/Fadi002/de4py/releases/tag/v1.0.8-stable",
+    "title": "De4py Python RE Toolkit: v1.0.8 has been released",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgw3ho",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/watch?v=Zf8vyc9q0Os",
+    "title": "Leetcode 1672. Richest Customer Wealth",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgw220",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://webup.org/blog/the-high-risk-refactoring/",
+    "title": "The High-Risk Refactoring",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Imo, refactoring is part of all changes to minimize the overall system complexity,  so that the system is maintainable. \n\nIn areas where refactoring is avoided,  the system will become more more difficult to maintain.  This is even more of a problem for high risk code, as the complexity will lead to higher chances of production issues going forward, and avoid improvements to areas that may be more advantageous to the business. \n\nIt's certainly worth being more careful in such areas, and find ways to minimize risk: good tests,  thorough QA, feature flags,  etc., but never avoid refactoring to lower system complexity.",
+        "points": "39 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Stop making in-place changes when you have high risk, both in likelihood of event and in severity of impact.\n\nRefactor in parallel and feature flag the code path.",
+        "points": "34 points",
+        "children": [
+          {
+            "comment": "Refactor in parallel and feature flag the code path.\n\nThis rhetoric gets trotted out a lot, but sometimes the blast radius of a refactoring isn’t limited to something atomic like a single method, class, component, or module.\n\nIt becomes unwieldy to start wrapping many individual lines of code in a conditional check for the state of a flag. On top of that, if you do this enough, you get a combinatorial effect where the system state becomes difficult to nail down while debugging due to all of the permutations affecting so many code paths.\n\nI’m not saying don’t use feature flags—quite the contrary. They’re just not always suited to the changes at hand. There is no silver bullet.",
+            "points": "55 points",
+            "children": [
+              {
+                "comment": "You are totally right. In most situation feature flag can be detrimental. There are better ways to make your code to be validated.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Feature flags when used in refactoring should be marked with deprecation dates or milestones. If you aren't removing old feature flags that have no chance of ever being changed in the future they are tech debt.\n\nIf you have a lot of old feature flags sitting around and your config is in git or at least in a artifact repository just see which ones haven't changed in a quarter and have a day dedicated to ripping out the old code.\n\nIf you are doing trunk based development Feature Flags are almost a requirement to not cause blocking.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I agree but that’s not the point I’m trying to make. Not all code changes can easily be wrapped in one (or a few) flag checks. If you need to wrap many call sites instead of swapping out whole implementations, then I would argue feature flags are a poor change-hiding choice.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "but sometimes the blast radius of a refactoring isn’t limited to something atomic like a single method, class, component, or module.\n\nI've never seen this in reality.\n\nI've seen people who are incapable of planning stages of a refactor and who only want to do big bangs.\n\nI've constantly seen people who when they start refactoring want to start rebuilding the entire system.\n\nThat is where the engineering adults in the room need to step in.\n\nIt becomes unwieldy to start wrapping many individual lines of code in a conditional check for the state of a flag.\n\nIt's ok to repeat lines of code that don't change.\n\nFor sites of calling the unit of change, yes there is a cost, but when you are doing high risk refactors the cost is justified.\n\nOn top of that, if you do this enough, you get a combinatorial effect where the system state becomes difficult to nail down while debugging due to all of the permutations affecting so many code paths.\n\nI thought it was implied, but you don't leave the feature flag in. It's there to give you an \"oh shit\" lever you can pull to put end users back on the old code path that worked if you see unexpected behavior without having to roll extensive changes back that may now introduce conflicts due to the code merged in the interim.\n\nIf you don't have a reason to pull that \"oh shit\" lever, you remove the feature flag and the deprecated code path.",
+                "points": "-7 points",
+                "children": [
+                  {
+                    "comment": "How would you go about refactoring a template class in C++ that's used by 80% of your codebase?\n\nJust copy the entire codebase to a new folder, change it all, and feature flag it?\n\nYou're right that most of the time a refactor that is too risky is a refactor that can be broken into a series of smaller refactors, but sometimes there just literally is no other way.",
+                    "points": "3 points",
+                    "children": [
+                      {
+                        "comment": "How would you go about refactoring a template class in C++ that's used by 80% of your codebase?\n\nThat is probably one of the most complicated cases because you're now talking about what is essentially a compile time macro and are likely working on something with a long lead time to production.\n\nI will take a step back though and admit I'm thinking mostly in the context of web applications and not desktop software or physical device software.\n\nSince you asked a direct question I'm going to answer how I would approach it even though my C++ is rusty, but will agree my advice for high risk refactors makes less sense in this context.\n\nFirst thought would be to preserve the public API of the template and branch inside the implementation to minimize how many places we need to change to rip out the deprecated code path.\n\nIf you can't preserve the API, then you're down to call-site branching. That does cost more, and as an engineer to you would need to evaluate that against the risk you ship something broken and how much it will cost in time and money to rectify.",
+                        "points": "-2 points",
+                        "children": [
+                          {
+                            "comment": "So for full disclosure here, I'm a lead engineer working on a very large (multi-million line of code) C++ codebase.\n\nWe have a lot of template code, both because that's just how C++ is, but also because the history of the codebase starts around (maybe just before, I wasn't there so it's hard to tell exactly) when C++98 was standardized. So the codebase grew it's own traditions on how to accomplish various things that are, in many situations, identical to the standard library, and in many other situations are entirely disconnected and incompatible with the standard library. It just is what it is. But this involves lots of tricky templates.\n\nOne use case (out of many that could be used as an example...) that I am working with right now is an implementation of a reference-counted smart pointer. The design is similar to std::shared_ptr, but with the class being reference counted needing to inherit from the \"refcount\" base class, instead of the smart pointer holding the ref-counting machinery externally.\n\nBecause the codebase has a history that started before the standardized smart pointers were added to the standard library, as well as before things like r-value-references were part of the language, the smart pointer class itself has quite a few \"features\" that quack like and walk like standardized things (e.g. rvalue-references, API of other smart pointers) but are not exactly the same.\n\nFor example, instead of the notion of a \"move\" we have the notion of a \"transfer\", where the \"transfer\" returns a TransferSource<T> instead of a T&& to indicate \"you can steal the guts from this thing\". There are other weirdnesses.\n\nIn this case, it's possible to add support for r-value-references without interfering with the \"transfer\" mechanism, and have both live side by side. I originally added r-value-reference support to this smart pointer sometime between 2014 and 2016, I don't really recall exactly when. And we still have thousands upon thousands of places where it's used. I've been trying to chip away at this to get the whole codebase transferred over for close to 10 years now. I think we're maybe 2/3rd finished transitioning.\n\nSo given that this class was used in such a huge amount of code, it's not practical to do either of:\n\nFlag day, cut everything over all at once -- just too much code impacted.\nFeature-flag and copy-pasta -- just too much code impacted.\n\nAnd the only choice is \"offer both in parallel slowly transition.\" But that comes at a substantial time, training, and QA cost.\n\nTime cost: Well, it simply takes more time, total, to slowly transition instead of do a flag-day. But it's better for the business because it doesn't stall the rest of the >50+ person development team working on their own tasks.\nTraining cost: Every new hire, every time, has to be explained what's going on, why to use std::move instead of TransferSource, when to still use the old thing, what the underlying reasons for either are, so on and forth.\nQA cost: Every time more code is transitioned over, we risk a regression, QA gets grumpy, someone has to fix things, so on. Again, we would have seen more breakages when doing a flag-day all at once but it would have been one-and-done. We do it this way so that we aren't blocking the whole team for potentially several months.\n\nBut notably there's no way to feature flag this. It's inherently an API change, and so any feature-flagging would mean adding checks for the flag in every place that the thing is used, that would be overwhelmingly worse than doing a gradual transition like we've been doing.\n\nSo yea, transitioning to the built-in language provided mechanism has cost my employer something on the order of a person-year when distributed across my development group over the last ten years, and this is an easy one!\n\nAnother example is a framework class that executes at process startup. It's a mechanism for constructing types at process startup (before main() is called) that are then destructed just before main() exits in the same order that they were constructed.\n\nC++ has something called the static-initialization-order-fiasco. And it's broadly ignored sibling the static-deinitialization-order-fiasco. The order that static global variables are initialized is not standardized, it's entirely up to the implementation of the C++ runtime and compiler on what order to do things in. This means you can have a variable that depends on another static variable which is constructed before it's dependencies are constructed, resulting in reading from uninitialized memory. Similarly, you can have things destructed before the other things that are using them destruct, resulting in reading from de-allocated memory or whatever.\n\nThis framework class had been in use for a long time, roughly since the codebase started. Was working just fine until we started to adopt some new features from C++ standards released recently.\n\nSpecifically, the C++17 feature of inline variables, which allows a variable to be declared and defined in a header file, and the linker will go and de-duplicate them at the end of the build.\n\nThis resulted in some surprising behavior with headers included from multiple libraries / executable.\n\nThe inline variable would be duplicated into all translation units which included the header, both in the library that \"owned\" the variable as well as in the libraries / executable which used it. Then the linker would eliminate all of the duplicates.... for the current library/executable.\n\nThis would result in double initialization, which for our purposes was a serious bug that only manifested at process shutdown.\n\nWe really did not want to forbid using inline for these, because without inline developers needed to jump through quite a few hoops. So instead we re-worked the framework class entirely. We were able to keep almost the same public API, but the ABI changed entirely, and we added a whole crapload of internal error checking to catch the same kind of thing (duplicate initialization) happening immediately instead of after process shutdown.\n\nBut to use the new implementation did require changing every place the class was used to construct a variable (we needed to do some DLL export macro shenanigans). The blast radius wasn't terrible enough that finding them was hard, but I had to sit and chug through a few hundred files to double check everything went according to plan.\n\nThis change could not have been feature flagged for a couple of reasons:\n\nPublic interface change (however small)\nRequirement to also adjust places where it was used to make the public interface change actually function correctly\nHaving two parallel implementations would have required even larger implementation changes and probably required a much larger public interface change.\nchanges how process startup occurs before main() is run, there's no way to check program arguments or query a feature flag service at this stage of startup.\n\nAs result, we had to just do it all at once, though accomplishing that was a much smaller amount of code churn than my original example.\n\nUltimately my point of these two examples is to demonstrate that in many situations there's simply no way to use a feature flag, and you're left with either \"flag day\" or \"Slow, decade-plus, transition\".\n\nMore importantly you have to have really solid QA (e.g. unit testing, integration testing, continuous integration, so on), to help you catch problems before they can make it to customers.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Doesn't this add complexity that is basically technical debt on it's own?",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "my 2 cents on this are.. in most cases you end up deleting half of it in the end, so as long as the refactor is successful it should be a net positive. if it fails you delete the refactor, and the original code usually keeps some significant improvements, which is not a total loss.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yes, but it's minimal. A successful release and you have a dead conditional code path that you can immediately remove.\n\nYou take on debt to get value. When the value is high, e.g. high risk refactor mitigation, the very ephemeral small amount of debt you are taking out is a great bargain.",
+                "points": "-2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "If I understand correctly. I'm so against this.\n\nYou now have more code which means more bugs, more to understand, more to refactor in future, two paths to maintain/test, two paths that will diverge.\n\nThat might be acceptable debt in very specific circumstances. Massive, live service, where you need to test something to limited degree/slowly roll out. But even then I'd prefer doing that with release/rollback. If that's not practicable, nuke one of the paths as soon as possible.\n\nBut as a general rule to follow, hate it.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "That might be acceptable debt in very specific circumstances. Massive, live service, where you need to test something to limited degree/slowly roll out. But even then I'd prefer doing that with release/rollback. If that's not practicable, nuke one of the paths as soon as possible.\n\nStrongly agree. The old code path shouldn't live past the successful release. Those high risk situations are the context of this conversation.\n\nBut as a general rule to follow, hate it.\n\nI strongly agree. This is not a general rule though, the context here is high risk refactors.\n\nIf your service servers Ann and Bob in accounting who work Monday through Friday 9-5, yeah, don't do any of this, apologize and fix it while they are on lunch.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I got fired for doing this ..no joke.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Did you introduce a dependency on a 3rd party feature flag service to your on-prem government contract customers?",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "That’s so specific. Haha.",
+                    "points": "8 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah, this basically. It's (often) so much easier if you just leave the current code untouched. You then have both it's source and the behavior to always refer to.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "You always do in version history too though. But ya, complex logic you’re not familiar with, best to create a new path.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Agreed, but it's not so much about the reference as you have that in VC.\n\nThe point is that you have some empathy for end users and don't break the system with a high risk refactor for an extended period of time.\n\nReverting significant refactors is also quite hairy because changes immediately following significant refactors tend to be code that depends on that refactor.\n\nSo you end up struggling to see which commits you have to roll back and which you can't, and this turns into conflict resolution hell while production is burning to the ground.\n\nHaving that flag that you can just flip a bool and you're functional again lets you roll a fix forward at a calm and orderly pace that can think about the root cause.",
+                "points": "-2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have definitely seen a few big refactorings cause new problems. A refactoring is a long term investment. There may be some errors due to the refactoring, that you will hopefully deal with, or should be small. However you should end up with something that is easier to maintain and extend over time.\n\nI definitely enjoy smaller refactorings, where you solve a here and now bug, and simplify the logic at the same time. I am a bit averse to big refactorings, the extreme cases is where we replace/exchange an entire system or pattern with something new. Something new that the entire team needs to understand and have experience with, to work properly. It could be something like changing your templating language, going from jquery to something modern, changing the simple search to elasticsearch, etc. Something where you don't want to use 2 systems at the same time. In other words, it is just often underestimated how long it takes, how many problems we are risking, and overestimating how much value it gives the business compared to working on other areas. Often it is something that is simple/modern/attractive to a few people in a team, where the rest thinks it is complex, that is a sign it is not a good idea.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You haven't lived until you've replaced libc dependency in >10kloc project.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Condensed version:\n\nThe post discusses the inherent risks and strategies associated with high-risk code refactoring. It highlights the potential negative impacts on business, team trust, and feature development when refactoring is done improperly. The article offers a checklist for addressing risks, emphasizing the need for defining constraints, isolating improvements, writing extensive tests, and having visual confirmation to mitigate the risks. It advises against skipping tests, relying too much on code reviews, and mixing significant cleanups with other changes. The importance of evaluating the risk and proving the system works before and after refactoring is stressed, alongside practical examples illustrating the challenges and considerations in refactoring coupled with feature development.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgvksi",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@shyamsundarb/blazingly-fast-web-services-with-zig-lang-using-the-zap-library-d64cf9e6129b",
+    "title": "“Blazingly Fast” Web Services with Zig Lang using the Zap Library",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Additionally, Zig offers compile-time memory safety\n\nWait, since when.\n\nZig is certainly simple, and certainly compiles to fast code, but last I checked it wasn't safe. Instead, there were the possibility to compile with run-time checks to enhance safety, though even that wasn't foolproof.\n\nThe very Zig website mentions Runtime Safety Checks in the ReleaseSafe profile, and no check in ReleaseFast nor ReleaseSmall.",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "It doesn't. A degree of compile time checks are meant to be there at 1.0 but currently the GPA does some checks but not as extensive or even close to Rust. Ultimately Zig's safety will be like race detector from Go. Very good but not 100% guaranteed",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You can use the TestAllocator (along with actual tests) to do all your memory checks at compile time, without having to worry about the overhead of runtime checks.\n\nFor things like microcontrollers, I strongly prefer Zig to Rust. But a web server is probably more Rust territory if I were doing the implementation.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Having worked with C++ code with extensive tooling before (Valgrind, Sanitizers, Static Analyzers, Linters) I definitely applaud the idea of providing tooling.\n\nBut testing, ultimately, doesn't prove the absence of bugs. It's helpful, it should be used!\n\nStill quite short of \"compile-time memory safety\".",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Good observation. What I meant by compile-time memory safety, are features that the Zig compiler offers to check memory leaks using some compile-time checks. While this is nowhere near the strict compile time check that Rust offers, it still is quite good. Please refer to https://rustmagazine.org/issue-3/is-zig-safer-than-unsafe-rust/#:~:text=Compile%2Dtime%20checks%3A%20The%20Zig%20compiler%20performs%20many%20checks%20during%20compilation%20to%20catch%20potential%20memory%20errors%2C%20such%20as%20array%20out%2Dof%2Dbounds%20access%2C%20null%20pointer%20dereference%2C%20etc.%20When%20the%20Zig%20compiler%20detects%20these%20errors%2C%20it%20stops%20the%20compilation%20and%20reports%20the%20error",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Shame that theres no Windows support.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Can just run it in a docker env or WSL2.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "This is definitely the way to go regardless",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I believe it does support windows. Please see https://ziglang.org/learn/getting-started/#windows\n\nEdit: My bad, yes at the moment the library Zap does not support Windows.",
+            "points": "-3 points",
+            "children": [
+              {
+                "comment": "Yeah Zig does but Zap doesnt because its a wrapper on facil.io :)",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"Blazingly fast\" with no performance numbers?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why would you ever use something built in C for an http server. Does not inspire confidence.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgv8lz",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html",
+    "title": "Parsing URLs in Python",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgup8m",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.mylocloud.co.uk/blog/migrating-to-isolating-function.html",
+    "title": "Migrating to isolated worker Azure Functions (2024)",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgu7zi",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@codingflower/java-21-is-kotlin-dying-a26d4c757742?source=friends_link&sk=8363be66d87e4f867d964050eb7a3172",
+    "title": "Java 21 - Is Kotlin Dying?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Short answer: Kotlin is not gonna die.\n\nLong answer: Sure Java is a bit farther in respect to pattern matching (guard clause, record pattern), string template (full-blown lazy interpolation and more), virtual thread (stackful coroutine), please note that not only Java does evolve. There will be many more language improvement in Kotlin in the near future after Kotlin 2.0 releases (which is likely to be this May), and Java will never catch up with more elegant solution due to backward compatibility. Extension function, top level function (Java will stick to class contained static method forever despite unnamed main class is a thing), parameter default value, inline function with lambda (much lower overhead), operator overloading (controversial but it's almost always from Java people). These are just function related features which none of them is even considered from Java designers.",
+        "points": "29 points",
+        "children": [
+          {
+            "comment": "Sure Java is a bit farther in respect to pattern matching (guard clause, record pattern)\n\ni believe the kotlin team is working on both of these actually. they had a survey go out mid febuary about \"guard clauses\" as extensions to when statements (there was multiple syntax options hence the survey, but they were essentially all of the form \"if <clause or else> and <other clause>\" and in the comments on twitter one of the designers said\n\nAlas, Java’s solution is not ideal:\n\nIt requires you to use records if you want to get pattern matching\nIt’s positional, so changes in the type are not forward compatible\n\nand\n\nNote that even with pattern matching, you still need guards for side conditions. Why not benefit from having it earlier?\n\n(https://twitter.com/trupill/status/1756304559251640481 and https://twitter.com/trupill/status/1756305168285487207)",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "That’s a stupid response on twitter. It is records-only for now. There is a scala-like unapply/deconstructor like solution in the design phase that could let any class opt into proper pattern matching.\n\nPositional? Like, yeah, that’s the pattern you want to match against? Nonetheless, you can just write case MyRecord mr and then just refine on mr with guards to avoid that, but at that point you can just have ifs as well.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm pretty sure Java designers have considered most of those features. But even so, they have discarded them (or have not considered them a priority) and have expressed their reasons repeatedly.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I know this wasn't the point of your comment but I'm glad Java doesn't have operator overloading. It makes code hard to read.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "Yes nothing is better than having a bunch of add and mul calls by hand while manually sorting them for OOO to do 3d math. Saying some code may be unreadable due to it is absolutely idiotic because shitty operator overloading isn't the only way to get unreadable code.",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "shitty operator overloading isn't the only way to get unreadable code\n\nyour point?",
+                    "points": "-2 points",
+                    "children": [
+                      {
+                        "comment": "Operator overloading makes code more readable when used sensibly. Bad coders will still write bad code even if the language lacks operator overloading.\n\nWhat is more readable:\n\nComplex a = ...  \nComplex b = ...  \n(a.plus(b)).mul(Complex.PI);  \n\n\nor\n(a + b) * Complex.PI",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "Adding to this, since the guy you're responding to brought all this up in Java, the following code works as expected with C++ std::strings but extremely not with a Java Strings:\n\n a = \"Hello!\";\n b = \"Hell\";\n b += \"o!\";\n\n return a == b;\n\n\nDefinitely seems more readable with the overload, rather than having == be an identity comparison in this situation.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I recently inherited a C# project that’s full of implicit conversions and operator overloading.\n\nLet’s just say that JavaScript makes more sense than this garbage project.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I think Rust actually made a good tradeoff here. Pre-define on the language level a few, special operators (add, subtract etc), and then your own “classes” can implement that special “interface” (trait), because for BigDecimal/matrices and stuff like that, these basic arithmetic operators are almost must haves. But yeah, I really wouldn’t want !!> as a custom operator a la haskell/scala.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Overriding a very limiting set of operators in ad-hoc and slightly incompatible ways is going to make things worse.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Java doesn't have operator overloading because C++ does.\n\nDoes anyone actually use operator overloading in C++ anymore?",
+                "points": "-2 points",
+                "children": [
+                  {
+                    "comment": "I can’t tell if you’re joking? C++ would be broken immediately if operator overloading was removed.\n\nImplementing an iterator mandates defining an overload for increment (++), dereference (*), and arrow (->) if you need to access pointer-to-member.\n\nDefining safe numeric libraries requires defining overloads of all arithmetic operators.\n\nWriting to ostream requires overloading operator<<\n\nReading from istream requires overloading operator<<\n\nglm is a popular library for graphics which defines vec2/vec3/mat3/mat4 operations based on operator overloading so code written in C++ looks more similar to shaders.\n\nI could go on but I think you get the point.",
+                    "points": "11 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I think you guys are conflating the disgusting uses of operator overloading you'd see in C++ 98 to \"remedy\" deficiencies in the language, and genuine operator overloads (for example, overloading operator+ on a mathematical vector). You don't see the former anymore because it's unnecessary. You still see the latter because it's a perfectly reasonable thing to do.",
+                    "points": "15 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "While I agree with your short answer, here are my takes on yours:\n\nTop level function is useless gimmick, static functions inside classes are just namespacing basically, with zero downside. Is Math::sin somehow more OOP, than include math, and then sin() ?\n\nInline function: that’s what the JIT/AOT compiler is for. It’s another useless feature imo (unfortunately scala also went this way), like even in C where you want very high level control, it is almost always useless, or even harmful. Let the compilers do their job, they have much more context, and may inline it at some place, and not others.\n\nThe others have some utility, but I’m not convinced I would switch from Java for those alone.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "A couple of comments:\n\nIt feels like there's a real self-fulfilling prophecy in the Java community about not adapting Kotlin because Java will eventually \"catch up\" with functionality, hence Kotlin not picking up critical mass to make it a much more widely-adapted language. That it's still viewed as \"just an Android language\" is especially frustrating given that Kotlin's been a first-class citizen in Spring Boot, JUnit, and Gradle for years now.\n\nKotlin not producing many new visible features for the JVM language for the past few years is not helping in that aspect. The play has been to bet heavily on the multi-platform aspect and the new compiler that will come with Kotlin v2.0; we'll see if that pays off.",
+        "points": "15 points",
+        "children": [
+          {
+            "comment": "Spring folks make any JVM language first class that might bring them revenue.\n\nBefore Kotlin, they adopted Groovy, Scala, Clojure.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Looking at guest languages on JVM - it is never a good idea to drift away from Java. All of them failed to live up to hype and businesses are left with maintaining tech with niche languages.",
+            "points": "-6 points",
+            "children": [
+              {
+                "comment": "Yeah, it took until Kotlin 1.5 IIRC to adopt InvokeDynamic based string concatenation which existed since Java 9. Likewise all lambdas were compiled into separate class files until that version, yet Java lambdas used InvokeDynamic since 8 with lambda bodies existing as a method in the calling class, so much less overhead.\n\nKotlin adopting JVM and JDK features very late means it's constantly on a uphill battle with performance.",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Idk. Kotlin seems solid. I've used it in production before. If I were to return to the JVM world it would likely only be with Kotlin on my side. It doesn't feel comparable to other available alternatives.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "I mean, goddamn groovy is also solid even for prod, but that is all due to the JVM being a beast.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "At some point, that starts becoming an indictment of the JVM dev community if absolutely nothing can get traction. One could make the argument that Scala was trying to be Java and a functional language simultaneously and didn't really achieve movement in either, that Clojure was too intimidating to get into, etc, but here's a language that was specifically designed to be easy to transition into; have compatibility with existing Java code; and fixed several \"original sins\" of Java (e.g. lacking non-nullability as a type), yet even this doesn't pick up steam? \"It's a good enough language\" will only get you so far, then you'll eventually paint yourself into a corner.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "What kotlin gave Java is a roadmap. Thats the true value of the other jvm languages.\n\nI have switched back to java from kotlin (android) and I don't miss kotlin that much and am grateful for the slower evolution of java for my long term career.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "I've used Kotlin and Java both quite extensively, and one thing I love about Java is that the language designers are much more critical, methodical, and thoughtful about language features.\n\nKotlin implements lots of cool features, sure, but there's so many downsides to how they do things, and so many upsides to how Java does things, that it's clear to me where the future lies.\n\nKotlin could fix some of these things, and even lift features from Java, but they don't seem interested in doing this. I mean, so many people argue that they don't need records because Kotlin already has data classes, even though data classes are not the same as records and don't have the same benefits. It's also apparent to me that Java is just plain better for group projects unless you have a very strict Kotlin schema that you adhere to.\n\nI love some Kotlin features, but right now I think Java is evolving on a much better path than Kotlin is. I think Kotlin will always have its place, but it's not a replacement for Java and never will be.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "What roadmap? There is absolutely zero Novel feature in kotlin, they were all known since ML",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Replacing Java simply is not/should not be the goal of a guest language. I think Clojure has the correct approach, it really is just a hosted language, never claims to be there to replace java. That’s the strength of the platform. And all of them are big, like many JVM guest languages themselves are part of the top 10. So it’s not like they have it bad",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is there a way to filter this subreddit to only receive posts that adds value?",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "If you block all the karma farmers posting low effort clickbait you might eventually get a decent feed out of this sub, although given the proportion of them, it might cause it to disappear from your main feed altogether.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "It that case nothing of value is lost. Great idea though. Is this a reddit feature or would I have to build a chrome extension?",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "Blocking accounts is a reddit feature but it would be nice if there was an extension that filtered spammers from a list.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "You could make a browser extension filtering anything linking to medium.\n\nWhich I would suggest as an automod option for this sub. If you cannot set up a blog, you likely have nothing worthwhile to add about software development.",
+                    "points": "-2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The examples mentioned failed to convince me, even though Java is improving it’s still far from Kotlin in terms of verbosity and expressiveness.\n\nIn all of these examples I still prefer the Kotlin version.",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Everyday the same nonsense. Neither will java or Kotlin disappear in the coming years. Yes, java catched up on some features. But as often java doing it halfed assed due the backward compatibility and limitations on language level as well as under the hood. Kotlin isn't neither perfect. It have its own flaws in tooling and isn't in par with the size of its native Kotlin eco system. However, I as a long term java developer enjoy Kotlin more as well as the colleagues that I convinced to give Kotlin a real chance. There are still countless people out there that look down on Kotlin for only the wrong and superficial reasons.",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Kotlin is an awesome programming language that mostly lives in the Android app space. And this is partially for legal reasons - see the whole Oracle <-> Google lawsuit about Java. Also, some bits of Kotlin are probably very hard to replicate, like its focus on immutability, or its pervasive type inference. Kotlin code is noticeably less \"noisy\" than Java code. Even in the shown example, there's Point simplePoint = new Point(1, 2); , which in Kotlin would be val simplePoint = Point(1, 2).\n\nAlso, I just noticed that Java still lacks string interpolation 😐",
+        "points": "15 points",
+        "children": [
+          {
+            "comment": "Not really. \"var simplePoint = new Point(1, 2);\". Literally only extra word is the \"new\" operator. You'd also define that class as \"public record Point(double x, double y) {}\" or something.",
+            "points": "27 points",
+            "children": [
+              {
+                "comment": "Even then, the Java code is missing:\n\nInferred immutables, i.e. val.\n\nNamed arguments (and default values).\n\nMutable fields for the record class.\n\nBrevity in not having to declare empty class body if there are no functions that need to be defined.\n\nA built-in copy function.",
+                "points": "10 points",
+                "children": [
+                  {
+                    "comment": "Records are already immutable, so this is not necessary in this case. If you want an immutable version of a class, this is most common with Collections, which Java already provides. If it's your own classes, you should be considering your architecture instead.\nNo argument, though I would note named arguments are personal preference and have their own downsides.\nIf you want mutability, use a class, not a record.\nTwo less characters is 'brevity'? Really?\nNo argument, though in the case of records it's not necessary to copy an immutable class. If you want a modified version with different values, that's where you'd use withers.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "1 final var\n\n3 Is a feature\n\n4 Oh man, all the time you will spare by not writing {}\n\n5 You mean like copy, but change one of their fields? Withers are planned, and they will be really cool.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Why not use var in your example? I remember the days when people were comparing Kotlin data classes with Java simple class and showing the verbose aspect of it. Now when that is gone (Java records), this is seriously an example you've picked?\n\nAnyway, I rather have things explicit than go Scala route. But I like golang philosophy so it says a lot...\n\nP.S. Immutability is being heavily discussed under project Valhalla.",
+            "points": "11 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Well, they technically added String templates in Java 21, it's just that is has the ugliest, least convenient, most Java Syntax imaginable: https://www.baeldung.com/java-21-string-templates",
+            "points": "27 points",
+            "children": [
+              {
+                "comment": "Which has been retracted and the new one is actually sensible.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "Oh? Sorry, I didn't hear about it. I'm apparently not using the right google terms, either - do you have a link for me by any chance?",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "There’s no mandatory template processor anymore. Simple formats are just:\n\n var name = “Bob”;  var greeting = “Hello \\{name}”;",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I've said before that the Java language developers seemingly have a pathological aversion of straight porting of features from Kotlin, and at times, it feels like they just need to piss on things to mark their own territory rather than concede that the Kotlin developers made a genuinely good feature. It's obvious that they wouldn't have been able to use the dollar sign as a signal for string interpolation, but man those templates look incredibly ugly.",
+                "points": "19 points",
+                "children": [
+                  {
+                    "comment": "I have a similar impression as a Scala developer. They could just steal syntax from Scala, but do something shittier for whatever reason. And of course they will never clean up the outdated ideas and unify the language and standard library because of backwards compatibility guarantees.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "JetBrains is free to create their own platform instead of depending on the JVM.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Because many times Kotlin just develops some fancy feature, without thinking how well it fits with the whole ecosystem/platform/language. This is fine when these are not too big, but java is one of the 3 biggest languages, it can’t just willy nilly experiment.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "They need to walk a fine line between features and clumsiness. It doesn't taste like Java when you can code without pulling your hair",
+                "points": "12 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Its ugly for the first 3 times you use it, then you get used to it; its actually a good choice because / is already a reserved character and it also can't break any existing code. Was not a fan initially but now I like it.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Good Jesus Christ and virgin Maria and Jose.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "That proposal has been retracted. The current one is simply\n\n \"This type's object is String Template because we found: \\{interpolated}\"\n\n\nAnd most common consumers get a method to handle these things.",
+                    "points": "8 points",
+                    "children": [
+                      {
+                        "comment": "Much better. Also more concise than whatever monster was being explained in the site.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Wow. That really is as Java as it can be..",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Tbf, in Java you can just make everything you instantiate a var now and it'll be much less verbose.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Ah, great, that's a big help.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "In my experience Kotlin is often more verbose than modern Java. Of course quite a bit of it is due to interop with existing frameworks and code.\n\nJava virtual threads avoiding the async/await is a huge win in readability as well. It's surprising that the language that avoided checked exceptions and the coloring problem gets the same problem with async/await.",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "I use Kotlin coroutines, not async/await (unless you meant the coroutine async/await features). For IO, Kotlin coroutines are great, since I can do handshaking processes (which have a number of suspension points) with very readable straightforward code, and I benefit from its structured concurrency model. Small example:\n\nval initialMessage = receiveMessage()\nval initialMessageResponse = processInitialMessage(initialMessage)\nsendMessage(initialMessageResponse)\nval confirmationMessage = receiveMessage()\nval confirmationMessageResponse = processConfirmationMessage(confirmationMessage)\nsendMessage(confirmationMessageResponse)\n\n\nThe receiveMessage and sendMessage suspend the coroutine, allowing me to do blocking IO in a controlled and properly cancellable manner. Under the hood, this is transformed into a state machine that looks a lot like a reactor pattern based code you'd normally write in C/C++. Such code scales badly, while the coroutines scale nicely. My only complain is that the calls that can suspend the coroutine don't have to be marked with something like a suspend keyword. That would otherwise add readability, since then, you'd know at which places suspension can happen.\n\nFrom what I recall, Java virtual threads accomplish something similar, but they are not exactly the same as Kotlin coroutines. In particular, I don't see that suspension points can be controlled in virtual threads to the same degree as in Kotlin coroutines. To me, such an ability is very valuable, and in some cases, one big advantage of coroutines over regular threads (which can be switched away from by the scheduler at any point).",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "That is nonsense, Kotlin is 100% dependent on Java ecosystem using it instead of Java does nothing in regards to the lawsuit.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wonder what prompt was used to make that image, looks like network beasts are emerging from their corporate cocoons to destroy the city. I guess it was “virtual threads”?",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "gotta love these \"eyes opening\" articles :D a few days back i saw a similarly named one \"kotlin, is java dying?\"",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No language every really dies -- people are out there that are still using APL, Fortran and Cobol. They just decrease in usage numbers. That said, much of Kotlin's push came from Google. If Google were, and I'm not saying they are, supporting Rust or Swift as their new target, that would be what everyone ran to.\n\nPeople use languages to work with a platform, not to promote the language itslef.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Kotlin is a much nicer language but I fear it moved too fast and is now a bit stuck.. no significant features were added for some time and the compiler is still slow as hell. Java is slowly copying Kotlin's best features, avoiding its bad choices, and all without compromising the Java compiler performance.\n\n.. Given a choice I'd still pick Kotlin on the backend, but sometimes I don't have that choice and honestly, Java 21 ain't half bad & future releases are looking quite good. Kotlin has become a bit boring .. and while boring is not necessarily bad, I'd welcome some Kotlin excitement 😁",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Kotlin only matters on Android, because Google says so, and for a long time has stagnate Java on purpose.\n\nIt is no accident that most of their samples selling Kotlin to Android devs use Java 8, instead of something more modern where Kotlin wouldn't be as relevant.\n\nYet they were forced to backtrack on that, as otherwise Android would lose access to Java libraries moving into more recent versions.\n\nHence why since Android 12, ART is updatable via Play Store and is currently set to Java 17 LTS. I expect Android 15 to update it to Java 21 LTS.\n\nAnyone mentioning Oracle's lawsuit as motivation for Kotlin usually overlooks that without JVM, Maven Central, InteliJ, Gradle, all from Java ecosystem, there is no Kotlin.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looks like Java just basically copies C# these days, except for project loom which is more like goroutines.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Java and C# having been copying each other for the last two decades.\n\nWhere do you think C# got its version 1.0, code generators, default interface methods, using static, MEF framework?\n\nThey are now copying Spring with Aspire.\n\nUnfortunately WinDev is still stuck on their C++ ways instead of giving C# a center stage role on Windows like Java on Android.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Early days yeah, but since C# got generics a few years later and since then it’s been ahead. So no I wouldn’t create an equivalence between them for the last 20 years, that’s missing a lot of nuance.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "lol new java syntax is so horrible it will never match kotlin",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, mobile phone programming is dying",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "WASM technologies have gotten surprisingly good over the last year or so. Once it fully matures and we see all of our tools targeting that platform, I think you're probably right. They'll be very little need monolithic runtimes.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgu7tf",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://mdalmijn.com/p/velocity-theater-produces-awful-meals",
+    "title": "Velocity Theater Produces Awful Meals",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I recently got told that I hadn't created enough PRs last month, so I definitely feel this metaphor.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgtqft",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://research.kudelskisecurity.com/2024/03/14/passkeys-under-the-hood/",
+    "title": "Passkeys – Under The Hood",
+    "points": null,
+    "comments": [
+      {
+        "comment": "\"PIN code\"\n\nPersonal identification number code.\n\n'With passkeys, the private key is decrypted and stored in memory at some point and thus maybe accessible by an attacker with access to the machine. This change of threat model needs to be known and chosen accordingly to the requirements of the user.'\n\nIt may be stored in memory. The ideal is that your device has a secure element in it. This works like the USB key and decodes and employs the private key within its own memory. Memory that is not accessible even to a hacked main OS. However, we would like to hope the user knows whether they have a secure element or not. Apple tries to make it plain. But the server cannot enforce this. The server cannot be sure what steps the client took to store and employ the private key. In the case of a secure element or USB hardware key the client main OS can't even be sure what steps the secure element or USB hardware key took to store and employ the private key.\n\nThe statement at the end:\n\n'We noticed that the threat model has changed between hardware security keys and passkeys since at some point the user private key is present in the user’s system for passkeys.'\n\nIs thus perhaps a little bit confusing. If you have a secure element then is is part of your system. But also a USB hardware security then should be considered part of your system. It is connected to the main CPU while in use and so there is no reason to think it is easier or harder to get it to break its own laws of computing and divulge your private key.\n\nIn short, if you don't have a secure element or hardware key (and know it) then you know that your private key makes its way into memory and can be accessed. If you have a secure element/hardware key then you can't really be sure that your private key doesn't make its way into memory and can be accessed. It's not supposed to. But hardware security is to a large extent about \"I want to make this completely impossible for software to do and hacking is to a large extent about \"what if I can make it happen even though it isn't supposed to\" and\n\nNow that being said, since Apple and Google puts your keys in your cloud account how do they involve the secure element in a way that keeps the passkey private key out of main memory? I don't know. Does anyone else know?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgroed",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://lucvandonkersgoed.com/2023/12/08/the-single-tenancy-to-multi-tenancy-spectrum/",
+    "title": "The single-tenancy to multi-tenancy spectrum",
+    "points": null,
+    "comments": [
+      {
+        "comment": "In Short:\n\nThe post explores the transition from a single-tenancy to a multi-tenancy architecture, using the example of the Event-Broker e-Commerce platform. It discusses the simplicity and small blast radius advantages of single-tenancy, alongside its scalability limits. The article highlights the constraints encountered with single-tenancy, such as AWS resource and concurrency limits, and presents multi-tenancy as a solution for unbounded scale despite its increased complexity and potential for larger blast radiuses. It concludes that the choice between single and multi-tenancy depends on specific application needs and business contexts.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That's a lot of words describing how the author put everything into a single account, something against AWS best practice since I started using it 10 years ago.\n\nI understand a lean business wants to avoid NAT gateway stamp costs as they scale out, but for most people reading this single-tenancy doesn't actually need to mean 1 account... shared infrastructure and databases benefit tremendously from isolation no matter how many tenants might use it.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgqoir",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://open.substack.com/pub/thehustlingengineer/p/driving-11-with-your-manager?r=yznlc&utm_medium=ios",
+    "title": "Driving 1:1 with your manager",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I've done the big company thing, and been involved in the growth culture at both ends as a manager and as being managed.\n\nI like the idea that engineers should grown and become every more useful and employable, pick up new skills and so on. But the growth culture is somehow corrupted in ways I can't exactly put my finger on.\n\nThere's definitely some sort of thing where if you're a level 4 engineer, you need to start working on L5 things to prove you're a L5 and growing into that role. What's L5, well, no matter the amount of documentation, L{N+1} compares to L{N} by always working on \"bigger\" things somehow and having \"more stakeholders\", and of course everyone's favourite, \"scope\".\n\nIt's never really picking up a new skill. An L{N} who becomes an expert also in CMake is now an L{N} who has to do all the soul crushing build system work as payment for fixing a nasty problem.\n\nThe way it's measured, there is always a tension between \"growth\" and gettin' shit done. And in order for people to grow there's always a tension to avoid the important day to day work to look at bigger things, with more scope (which means more meetings!!). I was always meant to have regular growth conversations, but the thing is shit needs to get done, so I had the dual tensions of being told I needed to get X project delivered and \"growth\" which somehow involved my people doing less of the actual work for X. Bonus points for taking an engineer you've hired for a really deep expertise on a niche, highly technical topic and making them do more \"product\" because execs believe that product managers and project managers are a waste of money when engineers can just figure that out in their spare time.\n\nOf course that's \"growth\" because it involves more meetings with \"stakeholders\".",
+        "points": "20 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I usually start the meeting with a personal conversation. Then we talk about any blockers or issues they are discovering as they work on tickets. Then we close on updates on their goals and if they need any help. Occasionally, we might have to talk about a topic that doesn’t fall into that flow and so we add that stuff to the 1on1 discussion points list.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I had an engineer that just wouldn’t talk,\n\nwhat you get up to last week? Nothing\n\nany plans? Nope\n\nOk, what’s happened this week? What have you been working on? Not much, just requirements and tickets\n\nI could get him to talk about gaming, i’m not a gamer it was pretty much all he did. Each and every fucking week.\n\nGood coder, shit at comms, I was literally reading his commits to figure if he was good or not",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "So tough having a report who wouldn’t share.\n\nMakes the job of manager even more difficult",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgopk1",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html",
+    "title": "The Return of the Frame Pointers",
+    "points": null,
+    "comments": [
+      {
+        "comment": "When I last taught \"Systems Programming\" (which includes how to read, interpret, and even reverse-engineer machine code that is probably the output of a compiler), I entirely ignored the issue of frame pointers and just presented %rbp (since we were dealing with x86-64) as a general-purpose register, perhaps with a historical note. But, if I ever teach the course again, I might reconsider that.\n\nEdit: If I taught Compilers or Programming Languages, I would definitely point out the uses of frame pointers, but also how they can be avoided if you don't care too much about debugging or profiling; and how debugging symbols can partially eliminate the need in many of those cases; and how those debugging symbols might not quite be enough in all situations.\n\nEdit2: Admittedly, I did teach a Compilers course recently, but I had my students target LLVM rather than any specific ISA (I couldn't assume they had experience with any specific architecture), so the topic didn't arise.",
+        "points": "20 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The ORC stuff is interesting but on a small system, like a microcontroller you can't afford to keep any tables around at all. There's just no space. So if you are to create a crash backtrace you need to be able to do it with no support tables.\n\nThere are a couple ways to do it. My favorite honestly is to bring back the frame pointer and eliminate the stack pointer. Everyone knows that the frame pointer is redundant because there is a fixed relationship between the BP and SP that the compiler knows when generating code. So every BP-relative reference it creates could be SP-relative instead. Which is the reason justification everyone uses when omitting the FP.\n\nBut it works in reverse too. Couldn't you eliminate the SP and just do everything FP relative? The answer is yes. This is what PowerPC did. Just use the FP for everything. The only real trick is that at function entry and exit you may need to save a few registers before you've created a FP. And that means saving data below the current FP. To work around this PowerPC just declared this legal and created a \"red zone\" below the FP where it is legal to save a little bit of data. Any interrupt taken would have to thus bump down the FP before using space in the stack, just in case there was data in that red zone. But called functions don't have to do that (other than their normal frame making) because it is illegal for a function to call another function without creating a new stack frame first and thus ceasing to use the red zone. Once they did this they also made it legal for leaf functions (that never make a stack frame) to just use the red zone for all its stack space needs.\n\nOnce you do all that, you end up with a fully workable frame pointer only system which retains the feature of a frame pointer which is that it the FP points to a linked list of function stack frames. FP is the first one, *FP is the 2nd, **FP is the third, etc.\n\nAnother way that worked no a project I was on was to just use a SP, no FP. And to realize that when you look at the valued pointed to by SP there will be a PC (return address) next to it. And then you also notice that the compiler uses a similar function prologue to make each frame. So if you look at the SP, find the PC and then look at a fixed offset from the PC you will find the instructions that ran to create the stack frame. You then can pick out the stack frame size from that code (essentially find the immediate subtract value) and use that to walk back up the stack and find the saved registers and the previous stack frame. It's not perfect but it can be made to work, at least on the architecture we used.\n\nRISC-V seems to omit fp by default so there are surely a few people investigating ideas like the one above. I don't know the progress of those efforts.",
+        "points": "34 points",
+        "children": [
+          {
+            "comment": "Its 2024 microcontrollers can have a lot of memory now if you want for very little money.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Or you can have 2004 levels of memory for even less money.",
+                "points": "13 points",
+                "children": [
+                  {
+                    "comment": "Quantity has a quality all its own (as in quantities of cheap CPUs)",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Indeed.\n\nMicrocontrollers are called so for a reason.\n\nSome companies which do projects using microcontrollers require thousands to dozens of thousands of those per large project.\n\nIn this case, every single $ per microcontroller can affect the budget.\nIs it huge, compared to the budget of such projects? Not at all.\nHowever, it may still be much more costly than the time it'd take the embedded SWE to just write more efficient code.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "No. They can't. They still use SRAM as memory and that means you cannot have \"a lot\". A few megs maybe at most.\n\nAnd any ORC tables would have to be in flash and you don't get a lot of that either.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "If you're writing code to run out of ROMs and/or which utilize SRAMs and other small tightly-coupled memories, then memory is still quite expensive. Those are the types of \"small systems\" he's referring to.\n\nNot everything is DRAM, basically.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Stack pointers should never have been made optional in the Sys V AMD64 ABI. I'm glad they're coming back to Linux.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Debugging data can make up a significant amount of space. The biggest offender for this is Go, which dumps basically the entire source code into their own table. That table is apparently also needed for their GC, so it can't be removed either. \n\nOn a few Go apps I'm using this table makes up 50-60% of the final executable. I'm talking 20MB of executable and 10MB of that is just that one table. Or 50MB of executable and 35MB that one table. \n\nThis doesn't matter that much per application, but when you think about a typical OS installation and think it takes ~4GB (or w/e) of disk space, and then it'll take 8GB, then that's already a significant increase. \n\nI would still like meaningful stack unwinding, but I don't really know why 1) these tables aren't compressed and 2) why there's not more focus on better ways (like DWARF or .NET symbol packages) instead of function/frame pointers dumped into the exe. I've actually picked up running find / \"*.so -exec strip -a because it can make a pretty meaningful difference when you need it.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "DWARF tables give away things about your code. Things that closed source software might not like to give away.\n\nFor a lot of crash reporting just having the guid of the linked executable and the offsets within the code segment for the PCs is enough to recreate a symbolic backtrace on the developer's end (using the DWARF symbols that were never given out) and so this may be the most desirable way for the developer.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "The concept of UB exists precisely because it would be too much to ask from the compiler to do the static analysis required to prove that every optimization is globally correct even in the presence of suspicious code like reading uninitialized memory. It’s not even possible in general (Rice’s theorem and all that). The optimizer mostly reasons about code very locally, often in ways that would seem stupid to humans, ignoring obvious context. People still want those optimizations, and don’t want to pay for run-time checks inserted everywhere, so UB is what we got.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The aggressive optimizations done by the compilers are another example: instead of removing parts of code because of UB, shouldn't the compiler abort and tell about the UB? Because essentially the programmer thinks they coded some logic, and now the optimizer is just going to ignore it?\n\nThis fundamentally misunderstands UB. Or do you think that when it inlines\n\ntemplate <typename T>\nvoid debug_print(T* ptr) {\n    if (ptr) { print_impl(*ptr); }\n    else { puts(\"null pointer!\"); }\n}\n\n\ninto\n\nstd::string lowercase(std::string const& str) {\n    debug_print(&str);\n    ... actual logic ...\n}\n\n\nthe compiler should start yelling at you? Or would you prefer to just not optimize the inlined function?\n\nSimilarly, without UB this function has to do multiple memory loads on each iteration (for the vector's ptr, to recalculate the size, and of course the element we are indexing), instead of just loading the element we indexed\n\nvoid modify(std::vector<int>& data, F f) {\n    for (size_t i = 0; i < data.size(); ++i) {\n        data[i] = f(data[i]);\n    }\n}",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "I think OP is referring to signed integer overflow UB. Compilers started to silently remove overflow checks. Whie UB allows that, it would also allow emitting a warning or abort compilation. What gcc did was reckless, and I hope now that C mandates two's complement they will also define signed overflow in the future.",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "The optimizer pretty much can’t give good error messages when it’s elbow-deep in some transformed graphicule that maps to exactly no source code, and are we expecting that builds worldwide would start failing based on whether the compiler can surmise that overflow is possible? Not a chance.\n\nMight see the shift rules relaxed and normalized—e.g., to where << can’t trigger overflow and >> sign-fills—but most of the UB cases are fully ingrained and have been for 30some-odd years, so C programmers just need to know them (and the kinds of transforms they permit) and plan accordingly.\n\nThe signed overflow rules in particular are there in large part so the compiler can apply algebra to integer expressions in loop conditions, a + x < y ↔ a < y - x or a * 4 < y ↔ a < y/4 sorts of things. Probably not actually a good idea to forbid that, and you’re certainly welcome to force -fwrapv should you wish to, either at the command line, via #pragma GCC optimize (GCC 4.5+), via __attribute__((__optimize__)) or [[gnu::optimize]] (GCC 4.5+, Clang, IntelC 8.1ish+), or via #pragma clang attribute applying optimize (Clang, obv). You can also do things like (int)(0U+x+y) to avoid the problem explicitly.\n\nMoreover, the compiler isn’t working with magic, perfect info; it can’t necessarily detect UB cases, and would have to stuff in a bunch of extra run-time checks to diagnose them.\n\nE.g., how ’bout this:\n\nint add1(int x) {return x+1;}\n\n\nDoes this overflow? It certainly can, of course, but without knowing every possible argument a priori and simultaneously, there’s no way to know whether it ever will. It’s quite possible that x is protected from overflow by the caller, or that circumstances happen to combine to prevent it from happening implicitly. LTO can do this to a limited extent, but most distributable libraries are dynamically linked, and I/O is still a wildcard. Should the compiler insert code to fault? Does overflow necessarily matter enough to the rest of the program to bother?\n\nOf course, if I had my druthers we could pick overflow behaviors for numeric types directly (modular, fault, ISB, UB), but C is not a “druthers” language, never has been.",
+                    "points": "8 points",
+                    "children": [
+                      {
+                        "comment": "and are we expecting that builds worldwide would start failing based on whether the compiler can surmise that overflow is possible? Not a chance.\n\nAnd intruducing real-world security vulns when upgrading the compiler is acceptable? The problem is not that this optimization exsists, the problem is that it was enabled by default.\n\nmost of the UB cases are fully ingrained and have been for 30some-odd years, so C programmers just need to know them (and the kinds of transforms they permit) and plan accordingly\n\nThis caught even kernel developers by surprise about 10 years ago.\n\nI have seen no real-world application where this optimization has any measurable performance impact. To me, this seems like optimizer wankery to beat the competition in some synthetic benchmark. I think compiler authors have a blind spot on how knowing the average language user is. It doen't matter if they should know, they don't. And in this case I see absolutey no reason to enable this potentially dangerous behavior by default.\n\nEdit: The standard could specify something along the lines that adding two positive integers may produce a negative result. That would leave plenty of room for optimization without mandaing overflow at type width.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "To be fair to the other side, for C++ we keep standardizing more and more unsafe-by-default interfaces and it sucks ass.\n\nBut hey, in 30 more years, when the olds die out, we might start using the short names for safe operations and unsafe ones get long names.",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "C++ has been getting safer from my perspective. This is one example\n\nhttps://www.reddit.com/r/cpp/comments/1bdpho6/iteration_revisited_a_safer_iteration_model_for/\n\nI'm biased though as I'm developing a C++ code generator.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Should the compiler insert code to fault? Does overflow necessarily matter enough to the rest of the program to bother?\n\nI feel Rust's solution is pretty fair here, inserting overflow checks in debug mode and omitting them in release builds (+ an ergonomic api to explicitly allow overflow).",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "To me the removal of the frame pointer sounds like yet another example of the misguided obsession with speed.\n\nIt made a huge amount of difference in 32-bit land, but getting people to give up on 32-bit has been proving to be a very long tail. Omitting the frame pointer should have been reversed very early on in 64-bit architectures or 32-bit archs with enough registers, but this is just plain ol' software inertia, nothing more or less than that.\n\nYour other comment's kinda silly and fundamentally misunderstands the problem, so I'm not touching that.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Can't you just turn warnings on when you compile?",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgo5av",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html",
+    "title": "Parsing URLs in Python",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgmyu6",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.infoworld.com/article/3714445/open-source-is-not-insecure.html?utm_source=twitter&utm_campaign=organic&utm_medium=social&utm_content=content#tk.rss_all",
+    "title": "Open source is not insecure",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It has nothing to be insecure about",
+        "points": "27 points",
+        "children": [
+          {
+            "comment": "Log4j would like a word.",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Dumb title for a reasonable article. No one thinks OSS is insecure and no one has since 2011 or so. But the article does highlight the huge vulnerability of OSS which is package management systems and the inplicit trust we give them despite them not having great security models.\n\n3/5 acceptable article.",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "“Supply chain” attacks have been carried out against closed-source software for years as well. This is not at all specific to open source or its repositories. A look back at Solarwinds is all the reminder we need.\n\nAt least with open source, the projects have little incentive to cover the incident up or otherwise fall short on transparency to their affected customers/users.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Closed source does make it more difficult to find specific vulnerabilities… but having the binaries is almost as bad. There’s a reason that some standards aren’t publicly published: It’s just another layer of security. Yes, you lose the eyes of experts who may want to donate a patch.. but it raises the bar for those starting out hacking your product and that might be enough to persuade them not to. Or, maybe they’re like me and love a good challenge! Who knows! It really depends how popular you are too.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "IMO it’s a major issue. So far we’ve been lucky it’s just been low-effort attacks or griefers trying to be annoying. Someone with the resources to plan and carry out an actual attack could do serious damage, and the response from package systems has been, “Eh, it’s probably fine.”",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Agreed. My 3/5 rating is for the overal quality of the article and its writing, not an assessment of the importance of its point.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have a customer arguing with me over security because someone might use a USB stick to copy data off a computer, meanwhile dude has flashed the companies root and intermediate CA, their github admin token, and their Okta password in a single meeting, while not using a password manager. As long as people like this exist, security measures don't matter. This is a well known technology company too.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“97% of all software is open source”\n\nThis seems unlikely (but what do I know?). I clicked on the link and found that actual claim is that 97% of the worlds software uses open source - a very different claim (and still suspiciously high, but again, what do I actually know). A more interesting statistic would be the proportion of lines written which are open source, or even better, the proportion of lines executed. Not sure we’ll be seeing numbers for these anytime soon.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I think that's high too but could that be because most used systems for servers are unix like and so, they provide oss standards, apis. On top of that language, basic libs... And then frameworks...\n\nIf you count react websites around, all the OSs libs used... I write less code than I actually use and by far. So my production code may be running mostly OSS code and a few lines of mine. (Still amazed by the fact that in 2018 I was having 450k dependencies on a single react project...)\n\nI guess that would align with the statistics you are asking for.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm getting a lot of questions already addressed by my \"open source is not buggy and insecure\" T-shirt",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m not disagreeing with the article, probably agreeing really but I can’t release my software if it has CVEs in the OSS it uses, and I get CVEs at least once very month. This is problematic. It means that I have to be very choosy about which libraries are included.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgmo1s",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.infoworld.com/article/3714268/feds-seek-attestation-on-secure-software.html?utm_campaign=organic&utm_medium=social&utm_content=content&utm_source=twitter#tk.rss_all",
+    "title": "Feds seek attestation on secure software",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgkha2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://javabulletin.substack.com/p/engineering-with-java-digest-13",
+    "title": "Engineering With Java: Digest #13",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgjmx3",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://udemy24.com/javascript-algorithms-and-data-structures-masterclass/",
+    "title": "JavaScript Algorithms and Data Structures Masterclass",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgjkk3",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://udemy24.com/javascript-20-projects-in-20-days-html-css-javascript/",
+    "title": "JavaScript 20 Projects In 20 Days HTML, CSS & JavaScript",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bghn2f",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/",
+    "title": "Finding a New Software Developer Job",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If you want a summary:\n\nThe post describes the author's experience of being laid off and the ensuing job search in the software development field. Initially caught off guard, the author engaged with 30 companies, faced rejections, and eventually received offers from three. The journey highlights the importance of preparedness, utilizing LinkedIn and other job search platforms effectively, and the rigorous process of applications, interviews, and negotiations. The author shares insights on navigating layoffs, leveraging connections, and the significance of continuous learning and adaptability in securing a new role. The experience culminated in securing a satisfactory position with Swissblock, underscoring resilience and strategic job hunting in a competitive market.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Man this sub fucking sucks now with all the AI generated posts and content sharing. What a joke.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bggtuf",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://arxiv.org/html/2403.08299v1",
+    "title": "AutoDev: Automated AI-Driven Development by Microsoft",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bggdx7",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://yamlscript.org/",
+    "title": "YAMLScript — Program in YAML",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hell is empty and all its demons are here",
+        "points": "93 points",
+        "children": [
+          {
+            "comment": "It's fucking wild. I read the title and thought it was a hilarious parody/toy project. I went in for laughs, came out crying. For the love of God, enough with the Yaml programming horseshit already :(",
+            "points": "29 points",
+            "children": [
+              {
+                "comment": "My reaction when reading the docs: \"say psych right now\"",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No",
+        "points": "29 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thanks for the helpful tag at the start of the file ... I have added some logic to our Pull Requests to auto-reject anything that comes in using it.",
+        "points": "17 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've been complaining that I was a yaml dev recently, with all our kubernetes config. Now, instead of building config to tell code how to run declaratively, I can code in my config lang, while using config at the same time!",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Yo dawg…",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Feels like jinja templates with extra steps. Jinja can do what this does and more with yaml plus also with: xml, json, etc. I don’t know why I’d use yamlscript. Seems like a framework with too much risk.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can functions have more than one line?\nHow do functions with multiple lines calling the same function work?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Shoot me.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Fuck YAML, and fuck HomeAssistant for deciding that was their best choice for config and scripting.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thanks, I hate it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Welp, that seems hellish.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It claims “YAMLScript is also a new, complete, full featured, general purpose, functional and dynamic programming language whose syntax is encoded in YAML. YAMLScript can be used for writing new software applications and libraries.” But everything else seems to indicate it exists to emit json or yaml - by default to stdout. If it was full featured I’d expect to be able to make a simple webapp with it, or maybe see a for-loop example in the home page",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Oh I dunno, I kinda like the idea of generating yamlscript from another language.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Jurassic park, Jeff Goldblum... Something about being so caught up thinking about if we could nobody stopped to think if we should.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I mainly wonder if it has any sort of similarity with what \"XSL is to XML\" or they are doing their own thing.\n\nRun or Load?\n\nYAMLScript programs can either be \"run\" or \"loaded\". When a YAMLScript program is run, it is executed as a normal program. When a YAMLScript program is loaded, it evaluates to a JSON-model data structure.\n\nAlso, a bit weird they are using a JSON-model data structure rather than a YAML structure when evaluating a YAMLScript",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My eyes are bleeding.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgg3c8",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.cloudquery.io/blog/understanding-aws-config-cost",
+    "title": "Understanding AWS Config Costs",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If you have to understand AWS costs at this level of detail, you are not rich enough to use AWS. Outside of S3, which is best-in-class, why do people prefer to use it?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "With AWS, Asure and others services, it's easy to scale compute and other resources up and down without capital expenditure. CapEx is a big concern in budgeting and keeping hardware on the books while it depreciates might be an issue for smaller companies. Cloud services like AWS allows for quick scale up without capital acquisition. This is also useful if a kind of resource is only needed sometimes, like for periodic content ingestion. Eventually, a company may want to have a hybrid or even purely on-premises hosting once they figure out what they really need. AWS itself allows for resource tagging and reporting on tags which should be good for anyone starting out to keep track of where costs are going.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "You can rent dedicated servers by the month.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgecw6",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://tomstu.art/hello-declarative-world",
+    "title": "Hello, declarative world: how relational programming takes functional programming to the next level.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Better still are functional languages, which introduce the idea of first-class functions: procedures become values which can travel around your program like any other data.\n\n\"Functional\" means computation is expressed by defining and composing pure functions (ie no side effects).\n\nYes, this means passing around functions as \"data\".\n\nBut plenty of languages have \"first class functions\" in the sense that you can pass around \"callable\" things, but that doesn't make those languages functional.",
+        "points": "63 points",
+        "children": [
+          {
+            "comment": "\"Functional\" means computation is expressed by defining and composing pure functions (ie no side effects).\n\nThat would be a purely functional programming language. There are impure, but still functional programming languages as well (e.g. clojure).",
+            "points": "39 points",
+            "children": [
+              {
+                "comment": "It’s kind of wild to me, who started programming in the late 90s/early 2000s, how much people these days take the idea of functions as first class values for granted.",
+                "points": "10 points",
+                "children": [
+                  {
+                    "comment": "Functors have been around for as long as c++ though. Right? Having a lambda notation is just syntactic sugar for a functor.\n\nWhat's the difference?",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "There’s a difference between “first-class objects can be functions” and “functions are first-class objects”. Of course you can add any of various kinds of indirection to wrap or emulate function-like behavior into something that is directly supported by the language, but that’s not the same thing, is it?",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Other than having a different syntax, is it very different?\n\nIn Java it is literally just syntactic sugar.\n\nOf course, I'm being disingenuous. The whole point of first class functions is the syntax! I might as well say that all of c++ is just c because any assembly code that I could generate with c++, I could also do with c!\n\nFirst class functions are a feature of the language that make it easier to write some code patterns. But they didn't invent anything in the underlying machine code.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "And even Java has been for a while.\n\nLike so many things there's a spectrum and you can go hard on one end or the other. But I have found generally life is best when you mix concepts and use the tool for the job. I lean functional these days but sometimes you have stateful stuff that objects model well and that \"pure\" functions don't always perform best for.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "you moderate",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "It really imo depends on the problem space. Some concepts are inherently easy to express functionally, others with objects. My usual domains map to objects well; and here I've found that as long as you treat objects as a transaction boundary, there is little to no problem; and at the same time what helps is to write most class private methods as pure functions.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "But plenty of languages have \"first class functions\" in the sense that you can pass around \"callable\" things, but that doesn't make those languages functional.\n\nYup. You often pass around pointers to functions in C. You would not call C a functional language tho.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "void * has entered the chat",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yes I would put JS closer to \"Hell\" than \"Functional language\"",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Articles like this are great for exploring the concept but not good at communicating the base need for relational languages. It's one of those things where if you understand it, you understand it and it's really hard to explain because there are very few good examples.",
+        "points": "16 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I can't help but think Declarative Programming should make for smaller code, this looks more exhaustive than normal Procedural code?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "The article has shown an implementation as internal DSL in another language. Think how much work you'd have to do to likewise emulate a procedural language.\n\nThe Wikipedia article uses simpler pseudo code. A dedicated language would probably look more like that. https://en.wikipedia.org/wiki/Logic_programming",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "That was interesting. Thank you",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "declarative relational functional imperative procedural programming",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ohhh boy I hope no Haskell weirdo purist reads this",
+        "points": "-9 points",
+        "children": [
+          {
+            "comment": "There are at least twenty implementations for Haskell.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "I will tell you a crazy story, back in my college days I had to see this course, Formal Languages and Compilers. Crazy stuff, metalanguages, Syntax Trees, Compiler Theory and to make it way crazier, a new professor came to give the lessons.\n\nThis guy was full Rambo into functional languages, and Haskell and Currying, can you imagine our final test. A freaking compiler using Haskell. It is 15 years since that, and man, I hope to never touch a single line of Haskell again.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgdn0s",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/awslabs/llrt",
+    "title": "LLRT (Low Latency Runtime)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Short and sweet:\n\nLLRT aims to significantly enhance the performance of Serverless applications with its lightweight JavaScript runtime, boasting over 10x faster startup times and up to 2x lower costs on AWS Lambda compared to other JavaScript runtimes. Built using Rust and leveraging the QuickJS engine, LLRT ensures efficient memory usage and swift startup times. Despite its experimental status and recommendation for evaluation purposes only, LLRT supports ES2020 and offers detailed guidance on configuring Lambda functions, ensuring compatibility, and integrating AWS SDK (v3) for optimized Serverless applications performance.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "-5 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgcjx8",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://morintd.medium.com/build-an-expressjs-application-with-clean-architecture-fd1288d83af1?source=friends_link&sk=46543aac103a0d9534f54926836d97aa",
+    "title": "Build an ExpressJS Application With Clean Architecture",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I'd really rather not, thanks. What I like about Express is that I don't have to follow garbage architectural patterns like Clean.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is actually (unintentionally, I'm sure...) a great demonstration of how rigidly adhering to an architectural pattern can get ridiculous. You just way over-engineered a *solved game*, turning a perfectly readable demo with 4 files were anything of interest happens in under 200 lines into a confusing mess of models, controllers, whatever \"use-cases\" is... with at least twice as much code.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "”Build express app with chatgpt”",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgcc4d",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/",
+    "title": "How I write HTTP services in Go after 13 years",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I disagree with some minute details but overall really appreciate this article. Something like this is very useful for those who come from a system that is much more opinionated than go. Even though you have freedom, it’s important to be consistent and testable.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The bottom line:\n\nThe post delves into the author's evolved practices for writing HTTP services in Go, reflecting on insights gained from a previous viral post and extensive experience in the Go community, including hosting the Go Time podcast. It covers structuring servers and handlers, optimizing startup and shutdown, handling common request types, and in-depth testing strategies. Changes from previous methodologies include moving away from methods on server structs for handlers, preferring http.Handler over http.HandlerFunc, enhanced testing opinions, and a detailed walkthrough of constructing a NewServer function, emphasizing dependency injection and clear routing setup in routes.go.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "-17 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgbwv5",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/EzgiKorkmaz/generalization-reinforcement-learning",
+    "title": "Reinforcement Learning",
+    "points": null,
+    "comments": []
+  }
+]

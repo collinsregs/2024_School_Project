@@ -1,0 +1,1816 @@
+[
+  {
+    "id": "t3_1at1ez2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://newsletter.techworld-with-milan.com/p/how-to-select-a-design-pattern",
+    "title": "How to select a Design Pattern?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1at1a57",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/Mati365/ts-c-compiler",
+    "title": "C compiler written in TypeScript that targets X86 Real Mode",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1at1992",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://verbosemode.dev/p/setting-up-a-spanner-emulator-in",
+    "title": "Setting Up a Spanner Emulator in Spring Boot 🌐🔧",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1at0vwg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://twitter.com/KYL9038/status/1758822023122284933",
+    "title": "Why is the domain Scam.ai routed to Vercel?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Somebody doesn't like Vercel, registered the scam.ai domain name, and set up a DNS record to point the naked domain to Vercel.\n\nEdit: I'm mistaken. This isn't what's happening at all. It's not pointing to Vercel. It's pointing to an empty skeleton site on Vercel's hosting service.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Vercel.sucks must have been taken…",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Turns out it's not.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "See my edit.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I got a date set for 6 months to check it out 😎",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just trolling vercel because they refused to host my other website : legit-refund.callcenter.aws.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because somebody has set up an empty next.js project at that domain you muppet",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Check back in 6 months?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because the .ai TLD is actually the TLD for Anguilla and is basically managed by one guy, Vincent Cate, who may or may not actually give a shit as long as he gets paid.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Vince is a good guy, we use to blaze that shit up every single day",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1at02p7",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/plotly/transitioning-excel-users-to-python-the-power-of-mito-and-dash-34c30f0891af",
+    "title": "Transitioning Excel Users to Python: the Power of Mito and Dash",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aszpnz",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://wirekat.com/the-history-of-http-and-the-stories-behind-status-codes/",
+    "title": "The history of HTTP and the stories behind status codes",
+    "points": null,
+    "comments": [
+      {
+        "comment": "That was unfortunate. The \"story\" behind the status codes according to the article is that the first set of 2xx, 3xx, and 4xx codes were introduced in HTTP 1.0. No word on why those ranges were chosen, who came up with the idea, or anything else.\n\nDespite not delivering the story, the article manages to drag the reader past what seems like dozens of ad segments.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aszpcn",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/GreenmaskIO/greenmask/releases/tag/v0.1.5",
+    "title": "Greenmask release v0.1.5. Dump obfuscation tool",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asy0wx",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://kristerw.blogspot.com/2016/01/more-turing-completeness-in-surprising.html",
+    "title": "More Turing-completeness in surprising places",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asxiwm",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://makemychance.com/how-to-make-a-slider-in-tailwind/",
+    "title": "How to Make a Slider in Tailwind",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asutwy",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/Wit8nv1ZorQ",
+    "title": ".NET 8 WebAPI & Angular 17 Role Based Authentication with JWT Tokens Part - 1",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1astzv6",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/aqxiy/treesort",
+    "title": "I made a script that augmented in-browser benchmark performance by ~30%",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1assx10",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/jpjacobpadilla/Share-Articles-On-Instagram-Stories",
+    "title": "Create Beautiful Instagram Stories to Share Articles/Websites With!",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asr3db",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.pcloadletter.dev/blog/agile/",
+    "title": "Agile is a tainted term",
+    "points": null,
+    "comments": [
+      {
+        "comment": "At one time it wasn't, but it was abused by people who wanted to do agile and cut resources at the same time -- Fragile Development as I call it (Fail fast, fail often). Even the Agile methodology says it doesn't reduce resources -- it often increases them -- but companies are greedy.\n\nIt's the same thing we see with AI now -- \"We can get rid all of those programmers and have middle-school kids code for ice cream bars!\"",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Agile is a wonderful example of what I call \"solution without the problem\".\n\nAgile was invented to combat 1000 page design documents that were to be followed by the letter for three years. It's not a holy grail, it's a solution to a specific problem.\n\nBut like so often nowadays the solution got adopted and people forgot the problem, only to reintroduce the problem. Now we have SAFe projects with a 5-year roadmap.\n\nI have actually been asked in a PI-Planning what my plan was should the goals of the current increment not work. MF, then we adapt! That's the idea. Making plans for three months is already close to astrology, but making backup plans on top is insane.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "SAFe is making me depressed.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I just don’t like how we ended up at the most stripped down “efficient” version that is devoid of all the parts that actually made iterative improvement work well and produce quality. Like Independent, empowered, self managing teams. Planning days, scoping, retrospectives, properly evaluating what you’re producing and adjusting based on it. So often now we just have tasks we’ve never heard of before, provided no input to, that we didn’t scope, bucketed into 2-weekly spans and told to “commit” to it. It’s like…….",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asqrph",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/watch?v=cEhc6vMFTh4",
+    "title": "Cool video explaining how passkeys actually work",
+    "points": null,
+    "comments": [
+      {
+        "comment": "why the fuck are you just using multiple account to promote these videos? cmon lad, it's incredibly obvious",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Okta. Lol.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asqi4d",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://werat.dev/blog/learning-about-debuggers",
+    "title": "Learning about debuggers",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Snapshot summary:\n\nThis post is a comprehensive resource for learning about debuggers, discussing their functionality, underlying technologies, and associated challenges. It includes a wide range of materials, covering the basic principles of debuggers, their implementation across different operating systems, and topics like stack unwinding and debugger trivia. The post provides links to articles and papers that delve into the technical aspects of debuggers, such as reverse debugging, function calls in GDB, and the intricacies of stack unwinding. It also explores related topics like linkers and system calls, offering insights into the broader context of debugging tools and techniques.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asplel",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://world.hey.com/itzy/how-much-uptime-can-i-afford-3130e605",
+    "title": "How much uptime can I afford?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Two redundant services with 99.5% uptime do not make 99.75% uptime. That isn't how the math works, at all.",
+        "points": "15 points",
+        "children": [
+          {
+            "comment": "Yeah they definitely screwed up the math there. Funny cuz they mention Amazon’s math which is correct. If each center has a .5% chance of downtime at any given point in time, the chance of both being down at the same time is .0025%. They must have screwed up on the decimals.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Will you stop spamming your articles already? You've posted this to seven or so subreddits, and none of the submissions created any discussions. Take a hint dude.\n\nhttps://www.reddit.com/search?q=%22How+much+uptime+can+I+afford%22&restrict_sr=&sort=relevance&t=all",
+        "points": "21 points",
+        "children": [
+          {
+            "comment": "Then downvote instead of comment spamming, that’s what upvote/downvote is for",
+            "points": "-61 points",
+            "children": [
+              {
+                "comment": "Please, do not ever post on Reddit again. It will be better for everyone.",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "Nah, I’ll keep doing it 😘",
+                    "points": "-18 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "A system with 99.99% guaranteed uptime must be 50 times(!) as reliable as one with \"only\" 99.5%.\n\nThis sentence just doesn't work well. You should have just said that the allowed downtime has to be be 50 times less, but the uptime and reliability don't have a linear correlation in my eyes.\n\nThe cost of building and operating a system in a way that guarantees 99.99% uptime is several times as expensive as 99.5%.\n\nWell? Show us the numbers then? Is it really? Because all I see is a napkin-level graph for a source. I'm not convinced to say the least.\n\nI'm very soon receiving my Pharmaceutical Business Ops diploma, in pharma 99.99% is unacceptable; I feel like 99.99% in web is easily possible with good infrastructure planning and process validation. Not just crash-proof, but crash-expecting, so to speak. I've heard that Erlang/OTP is built for this, in a way.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just the essentials:\n\nThe post discusses the cost-effectiveness of aiming for different levels of system uptime, especially for startups. It argues that engineering for 99.5% uptime is more economical than striving for 99.99%, considering the exponential increase in complexity, costs, and resources required for higher uptimes. The article emphasizes the importance of evaluating business impacts of downtime, and not just technical aspects, to determine the appropriate level of reliability. It highlights operational and organizational challenges, including administrative single points of failure and the cumulative effect of downtime across different services. The post also addresses the misconceptions about cloud providers' uptime guarantees and the practicalities of achieving high uptime in one's own code and infrastructure.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "-29 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asp8gg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://docs.google.com/spreadsheets/d/1hzP8j7matoUiJ15N-RhsL5Dmig8_E3aP/edit#gid=1377915986",
+    "title": "Most popular programming interview questions of all time - good luck everyone",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I have never asked a leetcode type question in any interview I've done. What is even the point? What are you really assessing with these? Just feels like gatekeeping for not a lot of benefit.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asl4au",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jacobian.org/2024/feb/16/paying-maintainers-is-good/",
+    "title": "Paying people to work on open source is good actually",
+    "points": null,
+    "comments": [
+      {
+        "comment": "was there any debate on it? Is the code better if the developer is not paid?",
+        "points": "191 points",
+        "children": [
+          {
+            "comment": "There's not so much debate so much as there is just flimsy support for it. As mentioned in the article under the Instead, Criticism section, and as seen in the Mastadon link. People like to think open source maintainers should get paid, that is, until they actually do.",
+            "points": "63 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Plenty of people complain about maintainers getting paid because of how they're getting paid.\n\nThe article goes into more details about how various members of the public complain about each.\n\nSo yes, there is debate on it. It's probably not a majority of people (the majority probably don't even think about it), but it is a very vocal minority.",
+            "points": "26 points",
+            "children": [
+              {
+                "comment": "I work on making Avalonia sustainable. One of the most frustrating parts of my job is dealing with the vocal minority in the community who demand that everything should be free. Some people's entitlement and rudeness are shocking.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Oddly I care more about the unpaid open source work that I do than my job that pays me. I’m addicted to it actually. I’m going to get fired if I keep it up.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Everyone knows unpaid, open-source, grain-fed code is the best.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Paid contributions can sometimes (often) result in misaligned incentives that you don't get in volunteer work. But it also means more work gets done.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Or aligned incentives, use skill to get money and pay mortgage.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "That’s fine, I think people misunderstand what open source software is\n\nOpen source software isn’t just freely available because people do it for fun or to benefit everyone- while this is a good thing that’s not the main point- open source software exists because everyone benefits, including the maintainer. Especially the maintainer.\n\nEg. If I run a paid web service it is in my incentive to make a nice easy to use FOSS Python library to interact with my API endpoints (in addition to documenting how to use the endpoints directly) that my customers can just drop into their products to get it to work, which works with whatever weird build tooling they have which might require compiling from source, and which they can put in any downstream software they want without worrying about weird licensing or needing to pay for a commercial use license or whatever because the costs of people paying to use the service will probably outweigh any small amount of money a paid closed source version would make.\n\nTwo good real world examples of this- Ubuntu makes a shitload of money off of maintaining the most popular free Linux distro. Also, the open source LLM community started with a Meta model and its weights being leaked online, so all of the open source LLM development by the community, including for profit companies who wanted to monetize it, was done on top of Meta’s model. This means that they can much more easily implement big changes being done by the open source community than Google or Meta could while spending a tiny fraction of the budget on expensive AI engineers, AI hardware, and compute time. This is how Linux got as big as it is- it’s a conglomeration of people developing selfishly for it by adding things they want it to have for their own benefit and if everyone does this your product supports everything\n\nThere are totally major software projects that are just like one retired guy in their basement but usually they’re far smaller scale and scope than something huge like Chromium or the Linux kernel",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Generally, coders need food and shelter and such, so I imagine paying them improves the code.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Is the code better if the developer is not paid?\n\nIt does not have to be worse if delivered for free.\n\nAnd there are cases that paid product gets worse - entshitification or something...",
+            "points": "-12 points",
+            "children": [
+              {
+                "comment": "Tell me you didn't read the article without telling me",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Tell me where it says every comment must be about the article.\n\nYour comment included...",
+                    "points": "-7 points",
+                    "children": [
+                      {
+                        "comment": "Never said it did, but oh no, your comment is about the article. That's what I'm pointing out. You have brought a verbatim criticism listed in the article.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm considering trying. A full remote, full async, open source would probably be an intellectual step up compared to my job. Too much fake sync/meetings and limitations...",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "Same boat. Any luck finding paid positions where u contribute to OSS?",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "I'm just starting planning how to shift my life around this. Beside that i'm gonna poke at github hosted projects or opencollective.\n\nGood luck.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I want to see more experimentation and variety in licensing options, and if that means introducing some additional restrictions beyond “anyone can use this for any purpose” I’m pretty okay with that.\n\nThat's totally cool, just don't call it Open Source. That has a well-defined meaning.\n\nif my sloppy use of these terms bothers you in the context of talking about how people make their living,\n\nNo problem at all with people trying to make a living. Just be honest about it and call your thing a different name.\n\nInstead, every time a maintainer finds a way to get paid, people show up to criticize and complain. Non-OSI licenses “don’t count” as open source.\n\nI mean, that's not what people are complaining about, is it? It's almost always that the vendor is not using an OSI license but is marketing themselves as OSS.\n\nThe other criticisms–well, hate to say it, but there are a lot of cranks out there who will criticize anything and everything, but the vast approving majority will stay silent. That's how approval and criticism always work in any endevour 🤷‍♂️",
+        "points": "37 points",
+        "children": [
+          {
+            "comment": "That's totally cool, just don't call it Open Source. That has a well-defined meaning.\n\nGPL has been around for 30+ years so it's not a new concept at all. MIT is permissive enough that people can take the code, change and then close it. That's a feature and grants maximum freedom in one sense but GPL ensure it stays open which is freedom along a different axis.",
+            "points": "20 points",
+            "children": [
+              {
+                "comment": "There's still a large difference between open source (you can modify the code and publish your own version) versus source-available (you can read the code and play around with it on your own, but it remains protected by copyright and you can't distribute it). The article referred to one example of a source-available license, the BSL under which MariaDB Maxscale is licensed.",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "The whole argument about definitions is one that the article proper deftly avoids by being clear about what they mean up front and sticking to those definitions.\n\nHowever, the fact that several paragraphs are spent on said clarifications should give you a hint at how thoroughly the well has been poisoned. We can't have a conversation about software where the source code is publicly visible without someone on a hair-trigger with an \"Ak-shully, it's Source Available!\" When RMS does this with \"GNU/Linux\", it's copypasta-worthy, but somehow we're entertaining this conversation when it comes to open source?\n\nAfter seeing this conversation happen enough times, I stop thinking that it's being brought up in good faith, and is more of a way to avoid addressing the problems with sustainability in open source development.",
+                    "points": "-2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I disagree 'open source' has a well defined meaning in common parlance, it's true the OSI and the adjacent FOSS movement has a specific and detailed definition, but the term as used in practice is far broader with a plain meaning - 'software where the source is accessible' - and it's not clear why the OSI et al gets to monopolize the term?",
+            "points": "14 points",
+            "children": [
+              {
+                "comment": "'software where the source is accessible'\n\nPeople usually call this \"source available\" or similar, right? Not \"open source\"?",
+                "points": "9 points",
+                "children": [
+                  {
+                    "comment": "I should have clarified 'source is accessible and usable', but in my experience in common usage the term means 'software where the source is accessible and you can produce your own build, submit modifications or fork the code', but without being specific about what kind of licenses are permitted.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Which puts stuff like Unreal Engine as open source even if there are usage restrictions.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "As the term is used in practice it means software where the source is accessible and usable. Unreal Engine is not open source in even the most general notion of the term, although its source code is accessible.\n\nSame thing for every website you visit. The source code is just a \"view source\" away—but that isn't enough to make it open source. (Even ignoring minification/etc.)\n\nWhat makes open source special is that it is a software commons where programmers can not only see but also modify and reuse each other's code. The OSI definition is the most common formalization of this idea but, even moving away from that, the freedom to do more than just read the code is a critical part of what makes open source open source.",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "Yes the usable part might also be implied by the term, but what's not implied in common parlance is what kind of specific licensing is permitted on other software making use of the source code beyond that it can be used.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "'Open Source' has a well defined meaning in the software industry, and OSI is the one who defined it. Hence they get to monopolize the term.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I've mostly seen the term \"visible source\" used during the past decade or two. It's been visible source if you can see but use is restricted, open source if you can use it without much trouble, and free software if it's got a copyleft license imposing restrictions in the other direction. That is, or at least was, the common parlance.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "\"open source\" is a term that existed before the OSI - why should they have a monopoly over the term? I think something can be called \"open source\" if the source is open.\n\nAnd if someone specifically means the OSI's definition of \"open source\" they need to say that. It's a pretty good definition, just not the only one.",
+            "points": "9 points",
+            "children": [
+              {
+                "comment": "\"open source\" is a term that existed before the OSI\n\nReally? Who was using it and where? Any citations?",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Just curious if you have references for that... I mean before Stallman's use of the term, and his description which seems to align with OSI definition.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "That's totally cool, just don't call it Open Source. That has a well-defined meaning.\n\nNo problem at all with people trying to make a living. Just be honest about it and call your thing a different name.\n\nI mean, that's not what people are complaining about, is it? It's almost always that the vendor is not using an OSI license but is marketing themselves as OSS.\n\nNailed it.\n\nI believe open source should be free. Literally free as in cost, volunteer only. That's how I operate, that's how my projects operate.\n\nYou want to make money off your \"open source\"? Fine. Then STOP CALLING IT THAT. Be intellectually honest about what you want.\n\nBut they don't want to, because the words \"open source\" and \"free software\" carry social cloud that they simultaneously want to cash in on, while - clearly - not actually believe in the ethos that spawned the social cloud.\n\nAdd commercial features? Well then you don't actually care about giving everyone the full source, and you don't actually believe in the open source ethos. You just want to have your cake and eat it too. Pick one.\n\nWork for a giant corporation? OK, cool, do you have a defined agreement with them that they're not going to take your work and fuck over the community of users at a whim? No? You just want to have your cake and eat it too. Pick one.\n\nTakes investment? Well, now you have misaligned incentives, because your #1 priority is now to pay back investors (with profit!) rather than do what's best for your users. You just want to have your cake and eat it too. Pick one.\n\n\"Open source\" became big because of the exact things that these mentalities destroy: the idea that, yes, it literally is a selfless act of giving away the entire program for the benefit of others. Now that it has the social clout, they want to pull the ladder up.\n\nThe other criticisms–well, hate to say it, but there are a lot of cranks out there who will criticize anything and everything, but the vast approving majority will stay silent. That's how approval and criticism always work in any endevour 🤷‍♂️\n\nSure, some of them are valid. Some of them are strawmen. But every time this sort of article is posted it's the same sort of song and dance. It's someone who, by their own words and admissions, would much rather be making proprietary software and charging for it, but want the cloud of \"open source\" and the free labour of other contributors to enrich themselves. That's scummy, and that's the place where 99.95% of the criticism I've seen comes from. That is a very legitimate concern.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "I believe open source should be free. Literally free as in cost, volunteer only. That's how I operate, that's how my projects operate.\n\nYou want to make money off your \"open source\"? Fine. Then STOP CALLING IT THAT. Be intellectually honest about what you want.\n\nWhile it's true that open source often equates to volunteer work, all OSI-approved licenses and GNU's definition of free software do permit selling it. The moment you slap a \"non-commercial\" clause on them it starts being something else. And plenty people are paid to work on OSS.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "You really have no idea what you're talking about. Free as in libre != free as in beer.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "social cloud\n\nclout is the word you want here",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Open Source had a meaning, then people conformed to that in ways that allowed folks to make money, then a bunch of other people coined the term \"source available\"\n\nIf you notice, OP actually emphasizes a lower case open source, which is to distance from the pedantry you're bringing on their post.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "They do say that, but then they explicitly talk about how they want to use the term despite being aware that it's not the intended definition. And let's be honest, lowercasing the words and claiming 'it's different' is a pretty flimsy excuse.",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "Let's agree to settle a mutual ground on this one. It is what it is, some will want to see it for what it isn't and that's something you can hardly change about other's perception about what open source actually means.",
+                    "points": "-2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "That's totally cool, just don't call it Open Source. That has a well-defined meaning.\n\nSorry, but I'm not buying this. The term \"open source\" has many meanings, and if you mean OSI-compatible open source you should be clear on that point - or capitalize it, as you have so dutifully done yourself.\n\nHowever, if you are implying that the OSI should have complete domain over the definition of the term \"open source\" in any context, I can't help but observe the great irony of carrying water for a label that was expressly chosen as a way to water down the meaning of Free Software to make it more palatable to businesses.\n\nThe conferees decided it was time to dump the moralizing and confrontational attitude that had been associated with \"free software\" in the past and sell the idea strictly on the same pragmatic, business-case grounds that had motivated Netscape.\n\nAnd of course, it's also worth pointing out who benefits the most from the OSI's definition of \"Open Source.\"",
+            "points": "-5 points",
+            "children": [
+              {
+                "comment": "The term \"open source\" has many meanings\n\nOnly if someone is interested in muddying the waters on what it means so that they can benefit from its branding and reputation while not actually conforming to its requirements.\n\nor capitalize it\n\nWell, I don't buy that capitalizing makes such a hard distinction that people can reasonably distinguish between them. It sounds like an attempt to muddy the definition to me. Like, if people are speaking the words aloud how do you tell which definition they're talking about? There's no way to differentiate.\n\nthe great irony of carrying water\n\nThis argument would carry some water if the OSI did not explicitly define Open Source licenses as including the Free Software (GPL) licenses.\n\nit's also worth pointing out who benefits\n\nSo literally the people who are paying for it derive some benefit from it? That's a shocker. Colour me shocked.",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "I’ll put it this way: if my sloppy use of these terms bothers you in the context of talking about how people make their living, it implies that you care more about terminology and definitions than about the people, and I’d like you to sit in that discomfort for a while.",
+                    "points": "-4 points",
+                    "children": [
+                      {
+                        "comment": "\"If you find my deliberately obtuse word games annoying, maybe you just hate workers???\" God, I love Jacobin so much.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I once tried to roll out an initiative to start paying developers who worked on open source libraries my company depended on. All of the engineers that I worked with (who also had extensive experience in open source development) viewed is it as heresy to the purpose of open source. They believed that people should build open source out of the goodness of their heart, not for money.\n\nI was never able to convince them that this is a privileged mindset from people who had the opportunity to work for free. I believed that most open source devs could use the income and we should feel obligated to support them, but that was far from the standard perspective.",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "I think if you’re able to and the projects you use accept donations that would be completely reasonable",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It also makes business sense. If a person can make money from it, then they can dedicate more time to it. Which in turn gives you more improvements faster. A feature request by your company can get priority. You can also save Dev time letting that Person do the work instead of doing it yourself and making a PR.\n\nThe most important one is of course that your company might be fucked, when the project gets abandoned. It can make business sense to not hire a person and instead give open source projects that money. Depending on what you do it can make you more productive if 3rd party persons do a job that one from your team would have done or hacked around the limitations of the library\n\nValve does a great Job at this. They need Wine to get better, so they pay the devs to get their features priority. A lot of Proton stuff is backported, so that they have an easier time maintaining their fork.\n\nThey use KDE and want specific QoL improvements for it? You get a say when you give people money to work on these things.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "It makes a lot of sense even if you have no empathy at all. If you need a new feature or a big fixed, it's much easier to ask the sole dev/maintainer if you have a fat stack of cash with your ask if you want to see it done within months and not years.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Dammit, if only this had been posted just 20 years sooner it would have been the perfect opportunity promote my radiouserland blog.\n\nSeriously though on the everything-old-is-new-again front this was a hot topic for a while on the early tech blogosphere at the turn of the millennium. Since I do happen to have an archived copy of something topical I posted at that time handy, maybe some will be interested in this little time capsule.\n\nFor context:\n\nThis was around the time that the initial wave of Red-Hat-style paid-support approach to open-source-for-profit began to be supplanted by the community-edition/premium-edition-with-enhanced-features approach. The latter model was especially favored by closed-source enterprise software vendors, arguably trying to cash-in on crowdsourced development and/or usurp the no-longer-controversial-for-enterprise-deployments open source movement.\n\nThat is, closed-source vendors first tried to push-back on open source with FUD. When that failed they shifted to \"no one ever chose open source except for price\". And when that failed too some pivoted toward \"see, we're open source now too\".\n\nThe open source community was not amused, and there was a lot of discussion at the time about the proper way to \"pay\" for open source development, both in an ethical/moral sense, in a software quality sense, and in the sense of what is best for the health and sustainability of the software ecosystem.\n\nMy point at the time was that most open source contributions were coming from people who were being paid for their contributions, but not by the open source projects themselves nor by the users of the software. Those contributors worked for companies that used the software, and the occasional upstream contribution back to the project was part of the implicit cost of maintenance involved with using any enterprise software component. (Moreover this was a good thing, since the same work was needed to use the close-source alternative, but harder to implement and maintain in virtually every way.)\n\nI'm not sure if that point is as valid now as it was then. The ecosystem has definitely changed in many ways, and one of those changes is that the ratio of contributors to users is much lower among many popular projects today - even software library/framework projects - than it once was. (Look up the etymology for the name \"Apache Web Server\" for an amusing anecdote on that topic for instance.) There's definitely still something to that argument IMO, but it may have been supplanted as the dominant way in which people \"pay\" for open source but (for example) by FAANG/MAMAA/whatever-we-call-em-now companies that provide open source software as a packaged, consumable product not to share development costs but to win indirect influence over things that bring them profit in other ways.\n\nThe silent majority pays for open source (July 2003)\n\nWhen you think of a writer, you probably imagine a book author, a journalist, an essayist, or even a script writer of some sort, but it's generally someone who makes a living selling their words. But the majority of text isn't produced for direct or even indirect sale: it's used to remind your spouse to pick up a gallon of milk at the store, or to thank Aunt Rita for that lovely sweater, or to point your friend to that really funny website you saw this morning. Even the majority of text someone gets paid to write isn't written for sale: it's in business correspondence, or restaurant menus, or on mortgage applications, or bus schedules, or in instruction manuals, or on the back of cereal boxes. Practically everywhere you look you can find the written word. Someone was paid to write much of it, and yet hardly ever are you buying the words themselves.\n\nMost of the time text isn't the end product, it's a tool for communication. Lots of folks are paid to write something, very few of them view the text itself as the product. It's a means to an end.\n\nYesterday Alan Williamson asked \"Who pays for open source?\" and answered his own question with \"The great belief, as sung by pretty much all companies involved in open source, is 'we charge for support'.\"\n\nAndy Oliver suggests this is but one open source business model, but goes on to define four \"forms\" that all pretty much come down to \"we charge for support\".\n\nI think Steven Berkowitz, in a comment to Alan's post, gets much closer to the truth: \"Open source projects that somehow make money for someone, be it through support, consulting, etc., are the exceptions.\" I'll take that comment one step further: Modulo outsourcing, software projects that directly make money for someone, be it through sales, support, etc., are the exceptions.\n\nI'm going to make an assumption here, but I think it's an assumption I can safely make. The majority of software developers aren't selling software, or even software support and services.\n\nLiving as I do, in Chicago, where I'm told both the per capita and absolute number of software developers is higher than the Silicon Valley, I think this observation is a bit more obvious. I know a lot of software developers, but practically none of them build software for direct sale to consumers or businesses. When a \"software development\" firm is hired, it's often for custom (or at least customized) development. Even when we sell shrink-wrapped software, as my company does, it's not the software that customers are really buying.\n\nFor most companies and for most developers, software isn't a business, it's a tool for getting the real work done.\n\nIn this scenario, it's easy to see why a company might use open source software: just find me the best tool for the job. It's also easy to see why a company might allow its IT staff (internal or outsourced) to contribute to open source development. Critical as it might be, and as disastrous as it can be when it fails, few companies rely upon software for their competitive advantage. I don't care if my competitors use the same web or database server that I do, or for that matter the same XML parser, caching engine, unit testing framework, or database connection pool that I do. Indeed there is some advantage to me if the non-proprietary parts of my infrastructure become commodities.\n\nWhile the public face of open source software might be the folks that are trying to build a business around it, I suspect that's because, well, they're selling something. Who pays for open source development? My guess is that the answer is the same as it is for most software development: the folks who are trying to get something else done.\n\nAs might be obvious, originally that would have pointed directly to the conflicting or alternative perspectives at all of the obvious places. Maybe this is less interesting without those parts of the conversation.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Getting payed for software projects is nice, but this just seems to be a lot of hot air.",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "Getting paid for software\n\nFTFY.\n\nAlthough payed exists (the reason why autocorrection didn't help you), it is only correct in:\n\nNautical context, when it means to paint a surface, or to cover with something like tar or resin in order to make it waterproof or corrosion-resistant. The deck is yet to be payed.\n\nPayed out when letting strings, cables or ropes out, by slacking them. The rope is payed out! You can pull now.\n\nUnfortunately, I was unable to find nautical or rope-related words in your comment.\n\nBeep, boop, I'm a bot",
+            "points": "43 points",
+            "children": [
+              {
+                "comment": "Good bot",
+                "points": "20 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "fuck off",
+                "points": "-26 points",
+                "children": [
+                  {
+                    "comment": "Stay illiterate, shitbrain",
+                    "points": "12 points",
+                    "children": [
+                      {
+                        "comment": "this comment can’t hurt me if i can’t read.",
+                        "points": "13 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I wonder how the designer of this bot thinks words get their meanings in the first place",
+                "points": "-4 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "getting payed for\n\nDid you mean to say \"paid\"?\nExplanation: Payed means to seal something with wax, while paid means to give money.\nStatistics\nI'm a bot that corrects grammar/spelling mistakes. PM me if I'm wrong or if you have any suggestions.\nGithub\nReply STOP to this comment to stop receiving corrections.",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Shameless plug, but I already came up with two terms describing the author's vision of open source. https://gavinhoward.com/2023/12/is-source-available-really-that-bad/",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "I think for B2C software the following compromise might be good, which I'm intending to release under:\n\nThe source code is available and free to modify.\nThe source code and binaries can be shared with anyone who has bought the software (UE5 uses this), including modified versions.\n14 years from release, this version will become public domain.\nIf the software stops selling for 30 days, it will become public domain.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The author seems unwilling to contribute to the already open discussion of how to pay open source developers, instead devolving into a rant about how communism would solve the world's problems.\n\nYes, open source developers should be paid, but as astute of an observation that is, it's not very helpful.\n\nWhen I talk about “sustainability”, though, I mean something very specific: “can maintainers live a decent-to-comfortable lifestyle writing free software?” If open source was “sustainable”, to me, it would mean that people could chose to make writing open source their job, and be assured that they have at a minimum their basic needs met – housing, food, healthcare, etc. Ideally, more than that; I’d love it if writing open source afforded people a comfortable or downright luxurious lifestyle.\n\nWhat is \"decent-to-comfortable\"? What is a \"lifestyle\"? What is a \"maintainer\"? What is \"writing\"? What are \"needs\"?\n\nIf I maintain open source software nobody uses, should I be paid? What if Microsoft uses it? Should Microsoft support my \"luxurious\" lifestyle? Or do I need two big companies supporting me? How many individual end-users maps to one big company? Should 100 users feed me for the month? 10,000? Should people be obliged to pay me for my software? Is it optional? If so, how is that any different to the status quo? If not, am I even writing open source software?\n\nNone of these questions are answered, because they're the only questions on this topic that would require some actual thought.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "All great points. It's almost like we have a system already where you build and maintain software and then let people use it in exchange for money, more money the more useful and more people it serves, that solves these problems.",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah, I mean the author is just talking about a full command economy for software which involves the government (central planner) making all the decisions about who gets funding and who doesn't. Tons of things that people (the market) want, but are unable to get across to the grant givers that it's wanted, would go unfunded.\n\nIf we had full automation and post scarcity then sure, FALGSC would be great. But we don't, thus it's still a 20th-century disastrous idea. And government grants for free software is a great idea (Public Money Public Code), but it shouldn't be the only viable option.\n\nWhy is Mastodon so full of political extremists... capitalism being zero-sum? Really? \"Most transactions are non-zero-sum games because the end result can be beneficial to both parties.\"",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you’re good at something never do it for free",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I disagree, sort of.\n\nDoing some for free is a great way to become good at something, or better at something, or learn a different way of doing something.\n\nI think I'd argue that you should never let something you did for free become a burden, rather than saying you should never to it at all.",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I kind of disagree with the author. Politics always follows money. Open source development usually lacks politics because of the lack of money.\n\nThe open source way of developing is very much going from point A to point B in a straight line. When you're being paid to develop, you don't go from point A to point B in a straight line. There are many other political factors at play that prevent you from going \"in a straight line\". What I like about open source development is that I can just write the damn software and ignore what anybody else thinks.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "For that matter, it's also gotten easier to her business to allow one to work on open source as at least pay off their day job. I've been able to release and maintain a few libraries and tools from work adjacent to my job.\n\nIt's stuff that isn't monetizable directly, but others can find use in and the cost is going to be spent anyway. That's how I consider paying for the use of others' open source work. By giving back.\n\nIt also comes by way of pull requests... Often I'll fix in a fork, make a PR and use my fork until the upstream gets fixed.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is an incredibly poorly written article. The author for some reason insists on using their own private definition of open source that doesn't mean what everyone else takes it to mean, and consequently has to spend half the article putting out spot fires that are entirely caused by this decision. Article would be about half the length and twice as clear if they just used a different term instead of fighting whatever linguistic holy war they think they're fighting.",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "Yeah, like just call it source available, it's not really that bad unless you want to use \"open source\" as a marketing term.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is a dork debate. Pure dorkery. A new breed of idiots is formed every generation purely to \"debate\" this shit. You guys are fucking idiots. I am telling you this because when I was a kid we fucking had BSD v GPL fights and they were just as bad. It takes one to know one. You are just as stupid today as we were then. You will one day grow old and look at the hours you spent arguing pure dumbfuckery on the Internet instead of writing code. Net result is that you'll be great at arguing the obscure details of some situation where a paid developer put something in that was shoddier than otherwise.\n\nMeanwhile real engineers will write code while you dork groupies run around like guppies with your mouths gasping. I call you dumbass but it's out of love. Don't do this to yourselves.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Paying people to work on Open Source is wonderful, but will it be realistic and competitive pay rates? Almost never.\n\nI would gladly work a side gig on Open Source if it paid the same as my day job, but it won't come anywhere close.",
+        "points": "-6 points",
+        "children": [
+          {
+            "comment": "I work on open source and I’m paid very competitively and enjoy my work. The jobs are out there! Build up a track record of accepted PRs on Github.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "and, how is your work funded... why leave us with a mystery",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "I would assume by their employer",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It is, but for who and how much? Also who decides who gets paid? It really is a question of details.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The opensmalltalk-vm (a.k.a. the Cog VM) is the virtual machine beneath the Cuis, Pharo and Squeak Smalltalk dialects.\n\nThe lead programmer gets paid for his work. Gone are the days when Dan Ingalls can whip out a virtual machine for Smalltalk-76 in a few months or a year's time and eventually receive the ACM Software System Award for basically inventing the tools and techniques everyone else has used for the last 50 years when working with virtual machines.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Oh noo, other people I don't know it's being paid for the work they do, how could they! /s\n\nSeriously. Whether it's a company sustaining an OS project, domains, or paid tiers... Why the f people think their opinion matters to anybody?\n\nIf you don't like it, leave, touch grass, and begin a new life.",
+        "points": "-3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "yes it is. and? companies need todo that and that's where the preaching needs to happen.\n\nto just some other programmers? not gonna get you anything.\n\nI, personally, am not gonna pay a developer to work on their open source project. A corporation? Sure, yes, it may benefit them to do so.",
+        "points": "-5 points",
+        "children": [
+          {
+            "comment": "Did you read more than the title?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "absolutely not. this is reddit not a wendy's .",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes, I thought this was obvious.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No way, who could have thought of that!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is what I would do if any of my open source projects had a large influx of cash. I would share some of that with my library dependencies.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1askzux",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/watch?v=Plx-cJik2n8",
+    "title": "pretty cool comedy short film about non-psuedo random number generation",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Did not see that twist coming.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "But whats the number? Whats the most random number between 0 and 10?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asjdtk",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "http://blog.mattstuchlik.com/2024/02/16/counting-syscalls-in-python.html",
+    "title": "Tracing System Calls in Python",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asj8mi",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409",
+    "title": "If you're just going to sit there doing nothing, at least do nothing correctly",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Don't prevent me from installing printer drivers on my Xbox just because you think I shouldn't be using my Xbox to print documents",
+        "points": "229 points",
+        "children": [
+          {
+            "comment": "Microsoft failing at sitting there doing nothing correctly.",
+            "points": "29 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "When you make it print black and white without cyan then we would be impressed.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is sort of a similar idea to \"Define errors out of existence\" from Ousterhout's A Philosophy of Software Design, for some cases to gracefully do nothing (or even succeed) rather than erroring.",
+        "points": "16 points",
+        "children": [
+          {
+            "comment": "I keep trying to explain to my product designers that system errors are just use cases they didn't think of.",
+            "points": "12 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I agree with the solution, but also at the same time hate it and the circumstances that led the world to this point.",
+        "points": "89 points",
+        "children": [
+          {
+            "comment": "This. Apple approach was to own the ecosystem. Ah, this is part of the reason I left the career.",
+            "points": "12 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "See also: https://en.m.wikipedia.org/wiki/Null_object_pattern",
+        "points": "20 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think I disagree? He’s basically saying ‘buggy code doesn’t need to fast fail when the bugs aren’t that bad’",
+        "points": "30 points",
+        "children": [
+          {
+            "comment": "Ironically, to quote Linus:\n\nWE DO NOT BREAK USERSPACE!\n\nThe scenarios in question isn't necessarily buggy code as it's the kernel that's changing underneath. You should try to minimize the impact to programs that might not even be supported anymore.",
+            "points": "128 points",
+            "children": [
+              {
+                "comment": "The bonus chatter at the end is important if you're not familiar with the API. The existing API contract says that asking for the number of printers cannot throw an exception. So it's just upholding that.\n\nTo provide an oft repeated joke: WinAPI is the most stable userspace API on Linux.",
+                "points": "57 points",
+                "children": [
+                  {
+                    "comment": "Windows 10 is also the best Linux distribution these days.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "yes, exactly this.\n\nHe's not saying 'buggy code doesn't need to fast fail', he's saying \"We provided an API. Think carefully how it might be used before you change it, because you don't want to accidentally break clients that used to work perfectly reasonably well based on your own specifications\"",
+                "points": "62 points",
+                "children": [
+                  {
+                    "comment": "The bit at the end sums it up: The answer to “how many printers are there?” cannot be “how dare you ask me such a question?”",
+                    "points": "31 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "But it's not a kernel change in the way that you updated your OS and things are different. It's a different platform with different hardware and capabilities. You should expect your application to behave differently if you release it on it.",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "There is no \"release on it.\" My understanding is that when you release for Windows, Microsoft is saying that your app will probably work fine on Xbox.",
+                    "points": "21 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "As a user, I expect the same program that worked on an older version of Windows to work the same on a newer version of Windows.\n\nThat’s what this is speaking to, no?",
+                    "points": "13 points",
+                    "children": [
+                      {
+                        "comment": "No. It's about PC versus Xbox.",
+                        "points": "-4 points",
+                        "children": [
+                          {
+                            "comment": "That was an example, yes.\n\nBut in general, Windows APIs should be designed so that if there is a change in a new version of Windows, it won't break apps that ran just fine in old versions of Windows.\n\nThe point being, the rationale here isn't to make life easier for application developers, but to make life nicer for users of those applications.",
+                            "points": "17 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "In the alternative scenario, where the program just crashed or refused to run with the error “No printers available”, you’d have just as many if not more people complaining about programs that don’t run just because they support printing, even though printing isn’t necessary to use the app.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "WE DO NOT BREAK USERSPACE!\n\nDoes anyone follow this mantra anymore?",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I mean the Linux kernel absolutely does when it comes to the system call interface and with standardized stuff in procfs/sysfs.",
+                    "points": "10 points",
+                    "children": [
+                      {
+                        "comment": "Right, but what about other than Linux people?",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "The system call interface of Windows, provided by ntdll.dll and kernel32.dll, is mostly backward compatible, and you can use shims (compatibility mode) to get full backward compatibility.",
+                            "points": "4 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Why? It's not supported by definition.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "this isn't exactly what I took away from the article\n\nthe premise is that Xbox apps have access to a printing API because it's part of a larger API suite provided to both Xbox and Windows (because apps could be written to run on both). so unfortunately it's possible for an Xbox app to attempt to print something\n\nthere are a handful of ways to handle this scenario:\n\ndon't provide the app layer access to the printing API (not actually possible)\nthrow an error if an app tries to print (not user-friendly)\nreturn an internally inconsistent state from the API call (error-prone)\nact as if there are no printers and hide the feature that allows adding one\n\noption 4 is preferable because it\n\nis technically true - there aren't any printers as far as this use case is concerned\nhas the intended functional effect\nis congruent with printing failing in a non-error scenario\nrequires no further user input\nbehaves in a predictable and consistent manner for both users and app developers\nrequires no new flags or state that would introduce additional complexity and risk on the part of app developers or API maintainers\n\nyou could classify usage of the printing API as a bug and go with option 2, but what's the benefit? if app developers were going to test this scenario and handle that error they might as well suppress the print action in the first place. but there's no way to ensure this happens across all apps\n\nthe inert API behavior here is ultimately a form of graceful degradation at the system level, rather than a \"failure to fail\"",
+            "points": "47 points",
+            "children": [
+              {
+                "comment": "It's actually: act as if there are no printers. If the app tries to open the dialog where the user can add one, act as if the user pressed \"cancel\".",
+                "points": "14 points",
+                "children": [
+                  {
+                    "comment": "good catch, thanks!",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "It depends who your users are.\n\nIn the context of the blog post, I see where he is coming from and I basically agree.\n\nIn the context of many of us, where API consumers are coworkers, I'd rather see a stack trace in the error log than get a bug report that some random user said \"I tried to print and it didn't work.\"",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "yeah that's fair. even in the Xbox scenario, there's an argument to be made for popping up a message, throwing an exception, or logging an error when running code in debug mode",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "did we read the same article? Basically saying make unsupported things inert instead of confuse people, generate support tickets, or throw exceptions",
+            "points": "20 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "There is no bug in the code. Microsoft promised the user that the program would work on Xbox without crashing and they are delivering on that promise. There was no bug in the original code.",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Windows is in a universe where there are lots of buggy applications doing lots of buggy things, and much of it will never be fixed. Their approach is that it's better to build fixes into the OS than break things that were buggy but happened to work.\n\nRaymond Chen's blogs are always an interesting look into this world and the amount of effort they go through.",
+            "points": "11 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "\"When the user asks for something that doesn't make sense, should the program crash, or tell them it doesn't make sense?\"\n\nNO, THIS THIRD THING! - that article",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "But is there any chance that an Xbox-compatible printer will be developed in the future?",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Only if Microsoft added printing to the Xbox version of Windows.",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I thought this article was a personal attack.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I thought this is some kind of tips of doing nothing at work guilt-free\n\nSo far i'm just rebuilding latest jenkins job but it gets real old quick",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Got a chill from reading the title. Glad it was about an API. Ahem…",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah, I don't know. I prefer a NotSupportedException, because it's a reality that the operation is not supported on that system. Returning an empty list or a false user cancellation seems more confusing to me. \"Why don't it detect anything?\" or \"No I didn't cancel, let me try again\". You shouldn't work around software not doing proper error handling, if they call a method that makes no sense that's on them. And bubbling up the error message to the user is needed will be very clear that the operation is not supported, and that's fine.",
+        "points": "-8 points",
+        "children": [
+          {
+            "comment": "You shouldn't work around software not doing proper error handling, if they call a method that makes no sense that's on them\n\nWould your customers buy your OS which possibly breaks all of their programs, for which they have no source code and whose companies might not even exist anymore?\n\nBecause that's the choice Microsoft had, and they chose to support these programs.",
+            "points": "18 points",
+            "children": [
+              {
+                "comment": "I know what you are saying and agree… but at the same time I wanted to point out that MacOS exists and does break legacy applications at will. And yes people still buy it.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah, the nonchalant solution of \"just commandeer some other functionality that's kinda like what we want\" immediately gave me prophetic visions of the indecipherable user-hostile experience it would create. That solution is not \"inert\" at all, it's actively poisoning the interaction. We've shifted the problem from \"badly-written programs will crash\" to \"even well-written programs will behave incorrectly\".",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do not use exceptions as error codes. PERIOD.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "(doing = 0 || doing = NULL || delete doing)?",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How about dont worry about weird edge cases because you never promised to support them anyways. If you are in the case where it is valid/required to do so then do t make exceptions. The idea that one should be flexible with input has always been jank and that applies to the lense where your platform is input into your program as well. Leave the quiet to the client and instead focus on being consistent.",
+        "points": "-10 points",
+        "children": [
+          {
+            "comment": "Congratulations, you have just summarized why the majority of open source projects are unusable trash.",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asj8lv",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://web.eecs.umich.edu/~taustin/papers/IJPP-mren.pdf",
+    "title": "Memory Renaming: Fast and Accurate Processing of Memory Communication (1999) [pdf]",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I just go to leetcode, search for a hard and ask away. usually works",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "hn repost garbage. I dont even have to go to hn to know this was reposted from there",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asi11w",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://danlevy.net/contribute-to-open-source-the-easy-way/",
+    "title": "Contribute to OSS: The Easy Way - Dan Levy's Blog",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asgzwm",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/mihneamanolache/MockAPI",
+    "title": "MockAPI - An Open Source Dynamic Mock Data API",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asghy1",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.developing.dev/p/how-to-influence-without-authority",
+    "title": "How To Influence Without Authority",
+    "points": null,
+    "comments": [
+      {
+        "comment": "TLDR; read “How to Win Friends and Influence People”",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asg7cq",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://webkit.org/blog/15036/how-to-use-media-source-extensions-with-airplay/",
+    "title": "How to use Media Source Extensions with AirPlay",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asfuu2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://m.youtube.com/watch?v=Gd5OVXiRcJ4",
+    "title": "[FTSCS23] Does Rust SPARK Joy? Safe Bindings from Rust to SPARK, Applied to the BBQueue Li...",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asfrsh",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/watch?v=23pw42b4Xd0",
+    "title": "Memory Safety with Formal Proof Webinar",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asfodr",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://coursegalaxy.newzenler.com/courses/python-programming?coupon=GOODDAY30",
+    "title": "Python Programming In Depth",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asfaab",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html",
+    "title": "Why Python's Integer Division Floors",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Also, mod is different in Python than C/C++ for negative numbers. As I found out just yesterday.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Oh yeah, there's a table on Wikipedia's modulo page which is pretty good.\n\nWhere the % operator is concerned, most languages use truncated division. Python, Lua, Ruby and Perl use floored division. Dart uses Euclidian division. In shader languages, the result is undefined with one negative argument, but GLSL and HLSL still disagree when both arguments are negative.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asf8mb",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jesper.cx/posts/why-not-a-core-language.html",
+    "title": "6 Reasons in favor of a core language, and 5 against (Agda)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What is a \"core language\"?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "An intermediate representation of the primary language without a stdlib, with things like syntax sugar flattened out. This question talks about Haskell's core language.\n\nThere are a few reasons you might want this. You might do this so that you can make optimisations that \"see through\" syntax sugar, for instance with erased types already erased, or so that you can make statements like \"in python from whatever import somesuch is an assignment\" and have that be meaningful (e.g. that it follows the same scoping rules as assignments, because it's actually compiled down to an assignment statement in the core). Or so that your language frontend and backend can be a little less coupled. For instance in that case you might compile from whatever import somesuch as someothersuch to\n\nnew_variables = idempotently_import(\"whatever\")\nmodule_scope[\"someothersuch\"] = new_variables[\"somesuch\"]\n\n\nso that your core language doesn't know anything about what actually importing does (in python it has to know about file layouts on disk for instance, and maybe you don't want the core language to deal with that).",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It is the Turing-complete computational engine on which the logic of the theorem prover is implemented. The “meta-language” or “ML,” if you will.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think I would argue that Con 3 (confusing error messages) is not a real con, since I'd expect parsing and type checking to occur before a term is lowered into core. By the time a term is in core, it should be completely free of compile-time errors. At that point, there shouldn't even be any way to report these kind of errors to the user, since the program in question is no longer what the user provided.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asf7uu",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57",
+    "title": "Reflections On 25 Years Of Programming",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I'm a simple man. I see an elixir dev, I upvote.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asf7to",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "http://www.chriswarbo.net/projects/nixos/nix_dependencies.html",
+    "title": "Dependency solving in Nix",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asf6op",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://bclarkson-code.github.io/posts/llm-from-scratch-scalar-autograd/post.html",
+    "title": "Building an LLM from Scratch: Automatic Differentiation",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asf5w8",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/dzove855/Bash-web-server",
+    "title": "Pure Bash Web Server",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Uh. A quarter of this is a C program to do the actual listening on the socket. How is this \"pure bash\"?",
+        "points": "27 points",
+        "children": [
+          {
+            "comment": "if bash version is under 5.2, patched loadable accept builtin (http://git.savannah.gnu.org/cgit/bash.git/tree/examples/loadables/accept.c) is needed\n\nIt's only required on older versions of bash, it's a builtin after 5.2 and in fact if you'd read the .c file you'd realize it's stripped straight from the bash repository. Also:\n\nkouta@arch-kouta ~ % LANG=C pacman -Qo /usr/lib/bash/accept\n/usr/lib/bash/accept is owned by bash 5.2.026-2",
+            "points": "16 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Came here to say the same thing. I wouldn't have reacted, probably, had I not first read:\n\nA purely bash web server, no socat, netcat, etc...\n\nI am not entirely sure what's to be preferred -- using either of the socat, netcat etc, or rolling out your own wrapper for the accept Linux/POSIX call. Especially since much of the value in demonstrating a Web server in Bash would be exactly accepting and distributing TCP connection(s).\n\nIf you are going to \"cheat\" using C, the whole premise loses much of its allure, I'd say.\n\nConsidering penetration of one or the other C compiler is pretty much on the level of Bash itself, there's no value in a Bash Web server, one way or another, vs. a script that feeds a bunch of C code to cc and executes the result. C is as ubiquitous as Bash where latter exists, maybe not GCC but there's plenty of tiny C toolchains to take its place if you're on a very exotic flavour of Linux or similar.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Considering penetration of one or the other C compiler is pretty much on the level of Bash itself\n\nBash is on nearly 100% of the installed GNU/Linux systems. A C compiler is not a default install option on any distro.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It's technically true if the \"accept\" builtin is included with your version of bash.\n\nArch includes this as part of bash. Debian includes this in a separate package named bash-builtins. It looks like accept and other loadable modules in bash-builtins were included as examples of how to program bash builtins. It's not in the bash manpage.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just no.",
+        "points": "-5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This belongs in r/madlads",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asf2yh",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "http://mgs.spatial-computing.org/PUBLICATIONS/umc02.pdf",
+    "title": "Data Structures as Topological Spaces (2002) [pdf]",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asf2bb",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://emacsconf.org/2023/talks/emacsen/",
+    "title": "The Emacsen family, the design of an Emacs and the importance of Lisp [video]",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ase7xw",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jesusarroyo.com/2024/02/16/first-open-source-contribution.html",
+    "title": "Making my first open source contribution",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asdkal",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://postgresml.org/blog/using-postgresml-with-django-and-embedding-search",
+    "title": "Building embedding based semantic search engine with Django",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ascgeg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/Jeff-Mott-OR/crash-course-ai",
+    "title": "Oregon Trail hunting mini-game with neural network AI",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asc7jo",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://apidna.ai/api-endpoints-a-beginners-guide/",
+    "title": "API Endpoints: A Beginner’s Guide",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asc6bw",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures",
+    "title": "An Overview of Distributed PostgreSQL Architectures",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I hope you like the summary below:\n\nThis blog post by Marco Slot from Crunchy Data provides an in-depth analysis of various distributed PostgreSQL architectures. It begins with an overview of single machine PostgreSQL, highlighting its speed and efficiency but also its operational hazards like potential data loss or difficulty in scaling. The post then explores different distributed architectures, including network-attached block storage, read replicas, DBMS-optimized cloud storage, active-active configurations, transparent sharding, and distributed key-value storage with SQL. Each architecture is discussed in terms of pros, cons, and suitable use cases, with a focus on the trade-offs between performance, latency, scalability, and consistency. The post aims to guide readers in choosing the right architecture for their needs by understanding these trade-offs.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asboo0",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://c3.handmade.network/blog/p/8864-c3_0.5.4_is_out%2521",
+    "title": "C3 (Low level C-like programming language) reaches 0.5.4 release.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I will develop a C3 superset called C3P0",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Beware the copyright infringement lawsuits!",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asbi6n",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/feitgemel/Python-Code-Cool-Stuff/tree/master/How%20to%20make%20photos%20look%20like%20paintings",
+    "title": "how to make photos look like paintings",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asbf5p",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://app.daily.dev/posts/j0Fe4ttpA",
+    "title": "Best-Practices for API Authorization",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asb80v",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://justinjoyce.dev/customizing-git-log-format/",
+    "title": "Customizing your git log",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1as9z1f",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/watch?v=G6uBAwVrxHw",
+    "title": "The State of Software Engineering 🔨 — with Kent Beck",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1as9ox7",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.edanschwartz.com/2024/02/13/otel-intro",
+    "title": "From Structured Logs to OpenTelemetry",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1as9j0j",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/oK9WtiwIqvY",
+    "title": "How do you do pair programming?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This was very popular 10+ years ago. I'm surprised it survived COVID. We have so many tools for collaboration now. Multiple people can work on the same file in real-time without needing to be physically next to each other.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "VS Code and some others now support collaborative work spaces. So you can have two people across the country working on the same document. Combine that with zoom and congrats, you have 2 devs going at the pace of half of one programmer.",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's not sustainable. Sure, the code quality is better, but what if I have to fart?",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "This. I worked at a pair programming shop, they were religious about it, you didn't get to opt out.\n\nI felt like I had to ask just to go take a shit. It was horrible.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "my worst nightmare",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My current company does it for all work, and I detest it with a strong and glowing passion.\n\nWe are all remote, so it basically means one dev screen shares their screen while the other watches and offers the occasional comment.\n\nWe do it in the name of “improved code quality” but in reality you hardly have chance to look at & study the code written, so the quality is pretty much the same as if one dev worked on it. \n\nSo yeah… dont do it!!",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "This.\n\nYea I worked at a place that also claimed we don't need pull-requests for code-review because the other person in the pair is doing a \"live review\" of the code.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes, almost all my development is paired. It needs both people to understand what pairing is (it is not: one developer working and the other one being bored) and to be aware of what \"mode\" of pairing they want to be in.\n\nThe \"default\" mode for us is driver/navigator, where one person does the line-by-line typing and coding, while the other keeps track of requirements, provides a second pair of eyes on small errors (feel free to keep quiet shot them until typing is done, to not interrupt flow) and anticipates stuff like looking up documentation for an API call while the driver is still typing stuff.\n\nWe are almost always remote, so we do both have our own computers. When we are in a room together, the second laptop is usually also there, though not always.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well, it helps if you have a PairOn chair :)",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Omfg lol.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've done it on occasion. It is quite intense, but can deliver very good code, and help with knowledge sharing as well.\n\nIf you do it 95% of the time, that takes a specific mindset, and you have to fit well with your colleagues.\n\nIf they do this, i'd want to talk to the developers in my team before accepting the job",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don't. Problem solved.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I personally like pair programming for at most 3-4 hours per week (so like, one eveneing or morning, usually less) with the people I work closely with on a project. It's a nice way to keep track of each other progress and make sure our goals are aligned in a more effective way than any other asynchronous method.\n\nMore than a half a day per week is a waste of time though, in my opinion.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1as9ekt",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/watch?v=YyRVOGxRKLg",
+    "title": "Torvalds Speaks: Rust's Impact on the Linux Kernel",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1as9beg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://thoughtspile.github.io/2024/02/16/eng-to-em/",
+    "title": "From engineer to manager: what I love, what I hate",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If you can truly find passion and fulfillment in a management track position, then absolutely go for it. However, if you are just doing it because you believe you cant have a (financially) rewarding career as an individual contributor, I'm telling you from experience you will not be happy.\n\nThinking that you can satisfy that yearning to grow your skills and build something by working on something on the side is a fallacy. Even if you have time for it, part of what drives us is to deliver value and something that doesn't get seen, let alone used, has no value.\n\nOur industry needs people that deliver value by facilitating the delivery of value by others, but that doesn't mean every engineer who excels at delivering value should become a manager so they can teach others to do the same.\n\nIf solving challenging problems in software is your passion, then stick with it. Share knowledge and guidance from within, collaboratively with the rest of your team to elevate the standard of practice. Understand every aspect of the product, frontend, backend, infrastructure, operations. Expand your role to work with product to help define new features, participate in sales calls and demos. Become a go to engineer, while still being a team player. These things will allow you to stand out and grow your career without being forced into management. You'll get enough of the leadership experience that matters to move into senior and eventually principal engineer/architect roles. And you'll be doing what you love and getting paid well for it.",
+        "points": "36 points",
+        "children": [
+          {
+            "comment": "You're making some great points here!\n\nI know the archetype of engineers forced into management, but my experience has been the opposite — I've been management-curious for many years before I got a shot at it. Recruiters want prior management experience, hiring managers see leadership ambitions as a red flag in IC interviews, your boss feels it's a threat to his position, and so on. Our industry is fucked up at times.\n\nI discuss the practical benefits of a management career because I honestly feel it's objectively a more compelling track. Like, regardless of your love for motorcycles, at some points in life you gotta buy a family car over a Harley.\n\nMy main point is, you can't really know whether you'll enjoy something if you don't try it, so taking a shot is your best bet.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This should be printed out and handed out to every single developer and engineer! I could not agree more!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You have to offer up someone on your team to leaders twice a year and say they haven't been working hard enough, even if that's not the case for anyone on your team?\n\nThat sounds like an ineffective process at best and soul suckingly terrible at worst.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Yes, but unfortunately that's a standard practice among big tech companies called \"stack ranking\". The below-average rating is worded nicer, like \"meets some expectations\", but the point remains. I mean, statistically speaking, this makes sense, but very inhumane.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "ICs vastly underestimate some of the not so fun things you have to deal with and often as a manager if find myself having to be as much as a psychologist as a technical person. If someone comes to me asking about being a manager, I’d ask them how they’d deal with someone on the team who was a great person that everyone likes but who wasn’t getting their day to day work done. That’s the sort of “fun” probably you find yourself having to solve.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Being an engineering manager is a more promising career opportunity than an engineering track\n\nMostly disagree with this\n\nCompanies need ICs. EMs not so much. If layoffs hit EMs often go first, and may take longer to find that next EM role as compared to an IC who is not laid off and can start looking while still collecting a pay check.\nHaven't done the analysis but intuitively there are more IC jobs out there than EM jobs.\nsome speciality IC jobs have the potential to pay far more than EM jobs, such as in fintech\nEM jobs tend to gain skills related to a particular industry which may not be as transferable as IC skills tend to be.\nraises for EM tend to be lower because they are seen as more replaceable.\npromotions for EMs are very rare, especially above Director level\nthere is a greater variety of work available to devs as compared to EMs\nunlike account managers or sales people, EMs tend to not be client facing as much. Meaning less opportunity to get poached by a good client.\nbeing an EM tends to be more work than being an IC\nEMs tends to be scape goats when things go sideways for higher ups in some companies\nEMs are often carrying out orders rather than having genuinely real power to dictate how their department runs. if you don't have the power to reject corporate bs and run things the way you want, you don't really have the ability to exercise and grow your managerial skills properly.\ngetting a management job in another industry might sound fine on paper, but the pay will be less than most ICs make.\n\nIf you want to be an executive, there are easier, more straightforward ways about it. I think an EM is about as likely to land that dream CTO job as a team lead or an IC with an MBA is. If you want to be an executive, the best thing to do is to get a job as an executive at some rinky dink start-up, not become an EM.\n\nI think ICs tend to have more promising career opportunities in terms of pay, work life balance, flexibility in terms of types of work and industries accessible to them, and resilience in the face of layoffs.\n\nSigned, an EM who has been doing it for 6 years.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Thanks fit the input, always nice to see other perspectives! This might be down to our experience in different types of companies, or regional differences.\n\nI hear replacing an EM is very painful, because a lot of external communication is bound to this person. Funnily, removing a bad EM is even harder, because all the processes are locked onto him as well.\nWould be interesting to get some real data, as our intuitions differ here.\ncan't say anything good about work/life balance of fintech / hft ICs, can you? Seen one of these guys have a stroke after an incident.\nAll the CTOs I have worked with have an EM background.\n\nI agree that changing jobs for an EM is more stressful that for an IC, as you'll need more time to grow connections and get up to speed.\n\nA non-controversial take is probably that you can achieve more as an IC with management experience, than as a plain IC.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What roles are available to someone with engineering management experience? First, you can easily take on a team with a wildly different focus — mobile developers, infrastructure, ML engineers. You'd need some time to get up to speed on the big-picture technical struggles of your new team, but most companies would take this shot.\n\nThis seems like wishful thinking. In the latter half it says EMs are easily replaceable, so why gamble on a bad prospect?",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Every EM I know who's switched jobs has moved to a very different kind of team. Also, most EM interview processes I've seen don't even have a platform-specific tech section.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "That last one about feedback loop hits close to home.\n\nIn my org I have major issues with management not realizing the effects of their decisions because they can’t remember them past two weeks. They will literally decide something, have it pointed out the consequences, say that’s fine, then be pissed about the consequences that happen 3 months later that they were warned about.\n\nMy favorite is when they came to us and said they don’t have time for quality initiatives and we need to stop doing them. I spoke up and pointed out they will have significant bugs from that decision and was told that’s fine. I followed my manager back to his office, repeated myself and suggested it was a bad idea, and was told they understood. 3 months later we have several bugs in exports that would have been prevented specifically by one of the quality initiatives. Management drags us into a room to demand to know what is going on with our quality and what we are going to do about it, and then gets mad when I pointed out that they told us to stop our quality initiatives and if they want us to do something they need to let us do those again. They Huffed and said we don’t have time and ended the meeting.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For me, the worst part of switching to being an EM is all the context switching. As an IC you usually get to focus on one task at a time and get into the zone working on that task. As an EM you are constantly ping ponging between various meetings, answering emails/chats, and trying to fit in the required stuff (performance evaluations, promotion packets, tech strategy, quarterly planning, etc) in between it all.\n\nIt's extremely disorienting and can make the day feel hectic and exhausting while somehow also leaving you asking yourself what you even accomplished today.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I feel you man! Two things that helped me here are more delegation (yes, turns out I can have a team member go to most meetings instead of me) and booking meeting slots with myself, during which I can get something done. It's still hard to get more than a few hours of focus time tho",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "From this page:\n\nMy goal is to become an independent content creator. But before I get there, I need to make this blog self-sustaining — gathering $130 in 2023 to pay for the domain and hosting. Currently I'm at $16. It would greatly help if you\n\nThis page is hosted on Github. How...?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Yess but back in 2023, it was on https://blog.thoughtspile.tech/ That's what you get when you don't hit financial targets!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Being an engineer, I am not built to tolerate corporate BS.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1as9b2m",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://pvs-studio.com/en/blog/posts/java/1103/",
+    "title": "OOP in real-life cases",
+    "points": null,
+    "comments": []
+  }
+]

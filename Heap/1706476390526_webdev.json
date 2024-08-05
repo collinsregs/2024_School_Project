@@ -1,0 +1,2800 @@
+[
+  {
+    "id": "t3_1add3p6",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/6rzzadh7x8fc1.png",
+    "title": "(WIP) First Portfolio Project",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1adck5c",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1adck5c/sync_checkboxes_with_vanilla_js/",
+    "title": "Sync checkboxes with vanilla JS?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Okay, so at a high level.\n\nYou need to store the associations.\n\nThe browser cannot know how to associate random pieces of information.\n\nSo lets do this together. Piece by piece... how would you associate or group values in js?\n\nYou have 3 options ``` Arrays Objects Strings\n\n```",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1adcctg",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1adcctg/reminder_stay_away_from_hostgator/",
+    "title": "Reminder: Stay away from hostgator",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1adccch",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://vladiw07.github.io/recipe-app/",
+    "title": "First react project",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Great job for a first project! I remember my first projects were a lot simpler than yours, and I remember having so much trouble getting react router to work lol. so all in all, congratulations. If you want to refine the project a bit, I'll gladly give some tips.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1adc7hf",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/8e7jgsijq8fc1.jpeg",
+    "title": "How can i remove an item on my header? (Wordpress, dont have elementor pro)",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1adc6a6",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1adc6a6/should_a_web_developer_upgrade_dependencies_in/",
+    "title": "Should a web developer upgrade dependencies in each delivery?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "For security, yes. You need to actively scan your dependencies for CVE vulnerabilities. Full stop.",
+        "points": "",
+        "children": [
+          {
+            "comment": "Yeah so we have worded it with them that during their delivery, if there are vulnerabilities, they have to update on their own but if we don’t report that, we have to order the update job specifically.\n\nBut what do you use for scanning? We haven’t implemented a tool yet. I heard about Snyk but recently read on some subreddit, maybe r/devops, that people were not fond of it",
+            "points": "",
+            "children": [
+              {
+                "comment": "You can have your build tool/pipeline run 'npm audit' on every build. Then, fail it automatically if there are vulnerabilities.",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If this project doesn’t get updated frequently you could run into a situation where it costs a lot more time and risk to do a big bang upgrade than it would have if they upgraded more frequently\n\nSecurity vulnerabilities as others have mentioned is another reason it should be done",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1adbxir",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1adbxir/another_is_x_macbook_enough_for_webdev_and_others/",
+    "title": "Another “is x macbook” enough for webdev (and others), thread.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I use my MacBook Air for same purposes and it works pretty well. My only advice is to get one with 16GB RAM. I think even an M1-16GB is much better than an M2-8GB combination.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "i’ll take this into consideration. Thank you.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "8GB of RAM isn't enough for most people, I'd say 16GB as a minimum and 32GB as an ideal.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1adbodr",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1adbodr/electron_admin_dashboard/",
+    "title": "Electron Admin Dashboard",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I would suggest you to use some of the \"battle-tested\" solutions and platforms for ecommerce, specially because of this login/security/auth part.\n\nWhat is your setup, platform, etc?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If it's working already, just keep it. If implementation isn't finished, ditch the authentication IMO. When it's a personal project I like to keep it simple as possible so I can use it ASAP. :-)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1adb8s7",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1adb8s7/recommend_me_best_hosting_sites_for_a_small/",
+    "title": "Recommend me best hosting sites for a small business.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Most shared hosting providers over sell their services so they tend to be very slow. Stay away from any of the main results on Google (bluehost, hostgator, GoDaddy etc.)\n\nI would expect people here might recommend using AWS but personally I found it to be overly complicated.\n\nI settled on Digital Ocean for small to medium business websites. Their shared servers start around $7/month, though I'd recommend getting something a bit more powerful depending on your needs. I haven't had any major slowdowns or outages in my two years of experience with their services.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "fastcomet",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Are you designing/developing your own website? If so, what is your tech stack?\n\nThere is a cloud resource right for you, just depends on your tech stack. LLMs like ChatGPT can help you figure them out quick",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I use cloudflare for domain and vercel for hosting. They work really good for me",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1adakvl",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1adakvl/url_patterns_and_methods_for_mpa/",
+    "title": "URL patterns and methods for MPA",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad9y8t",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad9y8t/authorization_oidc_advice/",
+    "title": "Authorization/ OIDC advice",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad9ut1",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad9ut1/why_do_virtual_queues_exist/",
+    "title": "why do virtual queues exist?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I am just guessing - issue is probably not in the server resources but how the purchasing of tickets is handled. When someone is purchasing ticket he is \"locking\" one process until he select the seats, check options, enter payment details etc, and until he finishes the process it stays \"locked\". Question is how many of those open processes they allow, to not oversell tickets.",
+        "points": "39 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "A couple of reasons. One reason can be server load. A thousand or millions of people refreshing a page that shows your spot in queue isn't as heavy on the server as thousands or millions of people constantly refreshing a seat availability chart for example.\n\nIt also makes it easier to deal with availability.\n\nSay you have 1,000 tickets for sale. 700 people login at the same time and each want to purchase 2 tickets. As they are picking seats (but before they have purchased) there aren't going to be enough availability. If you just take the first 1,000 seats selected (but not purchased) then it's going to appear as sold out. But then maybe a bunch of those people decide not to complete the purchase or want to change seats.. Now you have seats suddenly available again. If you just count the seats as not available only when actually purchased then you have a lot of people selecting seats and going through the process only to get to the final payment step and the seats are not available anymore.\n\nIf you instead make a queue where people are given a certain amount of time to select their seats and complete their purchase, then when the next person is up those seats can reliably be shown as sold or available (depending on if the previous person completed purchase or it timed out, etc)",
+        "points": "16 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Your website may be able to handle millions of requests at the same time, but other third party systems like a payment provider maybe not. Also, scaling up to handle millions of requests can be quite expensive. Even if you use a serverless cloud approach, it is still expensive to fire such a lot on the whole application. If the event only has a limited amount of tickets available, there is no need to scale up everything.\n\nAt last, there is also a business or usability aspect. For most events, a ticket is reversed once you are past the queue. It's really a dick move to give someone the change to buy a ticket, but at the last moment refuse because you are soled out.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "On IIS it's 5000 requests per CPU max, however the server is setup there's always a limit. These tickets companies aren't going to prepare for some huge ticket sellout, cuz it'd be too costly.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you had million of request to buy a ticket at the same time you are probably doing something wrong. Apart from that the problem is mostly about being able to choose your sit.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "because they are waiting for their turn.",
+        "points": "-3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Better to introduce a capacity queue than have your site fall over.\n\nI like how lego turn it on for some of their releases, I've seen it for two Star Wars events and appreciate why they do it, even with autoscaling resouces are not intimate so spreading the load during a few key time slots is great planning and stops the system failing. All for for it when its well implimented.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "for things like this its not really a question of how many requests per second a webserver can handle\n\nthe request rates for particular actions get throttled to prevent mainly to prevent issues with duplicates\n\neg 2 people buying the same ticket/other limited items",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Servers not being able to handle the workload is excactly why. And sometimes even the application will not make sense even if the servers can handle it. \n\nLet's say you have a cinema with 100 seats. When a person logs in they are shown all the free seats they can choose from. They check with their partner where to sit and it takes a few minutes. What if there's a thousand people doing the same. Once they have deceided on seats and selected them others will have snatched them up and they'll no longer be free. Which starts the process over (if there's even any seats left)\n\nSpacing the customers out lets us make sure the ones who are let in will have a far better experience. \n\nBuilding booking systems is complex and takes a bunch of iterations. The stakes are high for the users and there's no do overs since all the relevant traffic is usually over a few hours.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Okey, being argentinian there is an example that will make it very clear. Imagine the corralito, when everybody wanted to retrieve their money from the banks and the banks hadn't enough resources and everything collapsed. This is pretty much the same: if everyone wants to connect or access to resources at once, the web server will be incapable to handle all these requests and go to shit. That's why they put some (well, a lot of, in case of tickets) users on hold until the server is able to process their request. There are other methods to aliviate this, like proxy servers and so on.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depending on the scenario it could be just server resources, or it could be external resources.\n\nSay it's some big online game releasing, they're going to be estimating how many servers they need. If they're over the mark of how many server resources they need, they're paying for them anyway. If they're under the mark and don't control user load some how everyone has a bad time. And even the best auto-scaling isn't going to respond as fast as a herd of wild users can go. So you limit them behind a queue once things get questionable.\n\nThe other bit for things like online stores is that no matter how fast your website is, you have no control over how fast or slow the ones you work with are and you need to deliver correct responses regardless of how long you're waiting on the other guys. Say it's a store, they're probably backed up to an ERP(Enterprise resource planning) system and a payment system. ERPs are notoriously slow and a pain to work with, but if you don't get the right entry your shop doesn't do it's job right and inventory generally has limits so it may not be possible to properly retry later. Payment systems used to be the same way, some still are, but no customer in the world wants you blindly re-trying their credit card to try and get it through faster, and no boss in the world wants you to provide a service without someone paying for it. So if there's a big event/sale/release coming up, limit users to prevent issues or actively degraded user experience.\n\nI say this as a Gamesworkshop player who was once too stupid to realize I was fighting with a thousands scripts as my card bounced a half dozen times and suddenly what I was ordering was gone. They've since implemented a queue, so at least I know when I don't have a prayer of getting something up front.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Serious question: why do people feel compelled to mention the title of the post in their description?\n\nI mean get that there was a trend of posts that the description was one word: “Title”, meaning I have nothing to add. \n\nBut why do people feel the need to mention the title when they go on to explain in further detail? Do they think that we will forget that the post does, in fact, still have a title?\n\nOP, please, help me understand.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad9h17",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad9h17/job_interview_preparation_what_technology_do_you/",
+    "title": "Job interview preparation -> what technology do you recommend for these subjects?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I don't know whether the second topic is a fair one to request from a junior developer given most junior developers, (especially PHP ones because of tools such as xampp, wamp and laragon) have their coding environments on their own PCs.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "It's not a subject I need to deep dive, they just want to know how I do to find information, etc.But these topics are quite broad and the description of the subject is somewhat vague to me.So I'm struggling to know where to start and where to stop, I've just looked at the most obvious and haven't found anything else that seems related or interesting, so I'm asking if anyone else has any ideas.\n\nI'm not empty-handed, but I'm not satisfied with what I've got.\n\nI don't think it's worth going after everything with \"test\" \"automation\" \"container\" \"vm\", but I don't really know all the tooling etc...",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad9gm8",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad9gm8/css_framework_that_makes_proper_use_of_variables/",
+    "title": "CSS framework that makes proper use of variables?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Take a look at Open Props",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "This is just a collection of variables if I understand it properly. But not components.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bulma variables: https://bulma.io/documentation/customize/variables/",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Those are all SASS variables which are really just placeholders that become static values when the stylesheet is built.\n\nOP is talking about CSS variables which can be changed at runtime.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just create your own CSS variables and assign them to :root",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Easy, Tailwind. https://tailwindcss.com/ https://tailwindcss.com/docs/using-with-preprocessors#variables",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thanks, but I am not a fan of tailwind.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Welp, you don't need SCSS and you can define all the variables via plain CSS. There's also a collection of pre-made components that would fit your use-case. https://ui.shadcn.com/themes otherwise I hope you find what you're looking for :-)",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aco87e",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1aco87e/showoff_saturday_a_social_media_site_for_people/",
+    "title": "[Showoff Saturday] A social media site for people living abroad built from scratch!",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acu295",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://pokemon-quizzes.vercel.app/Quiz/Silhouette",
+    "title": "Pokemon Quiz Generator",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If you click and drag the pokemon's image you can see which one it is. If you open the image in a new tab it tells you its pokemon ID, which you can then look out on the internet and figure out its name.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acxrhy",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://theankurtyagi.com/notes-app-react-supabase/",
+    "title": "I Build a Full Stack Notes App Using React and Supabase",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad97yz",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad97yz/has_anyone_used_zeddev_editor_how_is_it_compared/",
+    "title": "Has anyone used zed.dev editor? How is it compared to VS code?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Its meh at the moment. There is a lot of qol stuff missing.\n\nIt feels fast, but not an editor i'd use as my daily driver.\n\nI dont think wallaby and quokka is available yet?\n\nGive it a skip for now.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Commenting to follow this thread!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I just downloaded, tested for like 30 seconds, then said loudly: I don't need another code editor, and deleted it. Sorry if this hurts someone.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The design is nice, that’s about it. No reason to use it over VSCode or neovim",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looks and feels nice but I don't really care for the figma like cloud functionality and am kinda concerned with the security implications of that. Also I kinda feel like saas stuff nigh eventually creep into and ruin the product. Current status is, i like it but I don't trust it enough to use.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad8boc",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad8boc/is_goodrelationship_is_still_useful/",
+    "title": "Is GoodRelationship is still useful?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I mean. It’s yahoo, 15 percent of 0 is still 0",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you can find her I think a good relationship might work. Okay real talk though, what is this? Some sort of API or new js framework I didn't hear about?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad6igr",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad6igr/how_to_upload_fonts_directly_through_server/",
+    "title": "How to upload fonts directly through server through FTP in a way I can use those fonts the same as I use adobe typekit in Elementor? (ex. can use any font anywhere I want and not just oh, this font is in all header 1s and ext...)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hire a dev, or use google web fonts.\n\nAny font you upload needs a license. Yes even ones you downloaded for free.\n\nYou need to register the fonts in the browser. To do this you need to either edit specific php or html.\n\nMake a list of all the stuff you dont know how to do and pay someone to take care of it.\n\nTime vs Cost. In this case cost is going to be cheaper.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Thank you for your input.\n\nDo you know a good place to hire a reliable, relatively affordable for someone working full time, freelancer? I've looked through fiver but the people there seem really rigid on what they are willing to offer.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Apologies, i dont know the freelance market anymore. Maybe someone else has good advice. All the best.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Thank you, I appreciate the info you could give. All the best to you and your ventures, if any, as well.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad5tew",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad5tew/how_would_you_suggest_i_proceed_with_the/",
+    "title": "How would you suggest I proceed with the following task?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Most IDEs will do this for you if you format the comments in a standard way for your language.\n\nRandom inline comments within code don't typically correspond with useful documentation, but if that's what you want to do, look into lexical analyzers (aka lexers) for each language to tokenize the code. Regex could also work, but would be tedious for all the different possibilities.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "/// works great in most IDEs. Combine that with something like a copilot, and it should be fairly easy to write docs that work with modern IDEs.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is one of those things where prior art exists and you should use it. Double especially if you're working with other people and not just doing this as a personal project.\n\nWhichever language(s) your project uses ought to have a well known doc utility. Use that for each. You can probably find them by searching whatever package index you use for \"documentation\". And if your language doesn't have a package index, ask someone with a beard (preferably gray) what they use.\n\nAnd if you absolutely insist on rolling your own, you'll need to learn how to use a parsing library for each language you're concerned with.\n\nParse each source file into a data structure, search that data structure for comment tokens. Figure out what to do once you know where all the comments are to associate them with an identifier or block of code.\n\nGather that information into another data structure that you can render out into a presentation format like HTML or Markdown.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Since every language has different formats for comments, you’ll likely want some kind of AST parser for each language that you support.\n\nIt won’t be purely comments, since I imagine you’ll also want to capture method names or other context of the comments, so the AST will make that easier as well.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That's basically a rudimentary version of swimm. Of course, swimm is a paid solution though. https://swimm.io/",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Write or find an ast that takes in multiple languages.\n\nI assume you want to do this in the browser, so you might need to write your own.\n\nOnce you have that. You can extract the comments from each language.\n\nYou can of course do this with regex as well. But this is error prone.\n\nYou have two pitfalls.\n\nPoorly or abstractly formatted comments, and enforcing a comment / doc standard.\n\nSounds like a lot of work, for very little payoff, thats because it is.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Write a script that iterates over each file in the source code. It should read each file as a string and capture all the occurences of a comment (i would use regex). After that you can do what you want with them.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Each programming language has it's own comment syntax i.e // is used for single-line comments in languages like C++ and Java, while # is used in Python so you'll have to add that into account. What programming languages are in the current project you're trying to do this for?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad51hu",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://michalkotowski.pl",
+    "title": "[Showoff Saturday] Personal website | minimalistic / dark theme",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Not bad, could improve with some crunches and benefit from a high protein low carb diet. This will add some good shadowing to the core area",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad4tp7",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad4tp7/testing_performance_for_chrome_extensions/",
+    "title": "Testing performance for chrome extensions",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad4t8d",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad4t8d/need_help_for_a_website_thats_only_designed_for/",
+    "title": "Need help for a website thats only designed for two people!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Notion... my dude.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "This is actually a very good suggestion!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The simplest? Use next.js and react due to amount of adoption. Tailwind for the CSS (ships with next, also lots of premade stuff on the web). Naturally then JS, or TS since you're from an OOP background ( read types ). You can then select your DB or whatever other services you need. Your largest struggle will be the UI but premade react and tailwind will help.\n\nHosting you can probably use vercel (they make next). I think it's free for small sites but don't quote me on that. Could also use something cloud if you are familiar with any AWS/GCP/AZ.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad3xx6",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad3xx6/showoff_saturday_gptos_an_android_assistant/",
+    "title": "[Showoff Saturday] GPTOS: An Android Assistant Inspired by Rabbit R1",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad3p22",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/nfa38n6ww6fc1.png",
+    "title": "Can't login to this website. Tried different browsers networks etc. but the problem only occurs on this pc. there were some api errors in console too. What could it be the problem?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Try clearing your cache. If that doesn't work contact the actual website owners.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe a browser plugin ?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad3euh",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad3euh/do_web_developers_usually_have_fixed_95_schedules/",
+    "title": "Do web developers usually have fixed 9-5 schedules, or is their work more based on project timelines?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Most Devs in permanent roles in the west are on a 9-5, 8.30-5, 9.30-5.30 or similar shift, but as for how much work we actually achieve is entirely on a dev by dev basis and how much work there is to do.\n\nI am on 37.5 hours a week (full time in the UK), but in terms of actual code output and writing code is likely no more than 10 hours a week. Most of my time is spent doing nonsense work like meetings and helping QA not fuck their job up.",
+        "points": "68 points",
+        "children": [
+          {
+            "comment": "Time for writing code should be around 30-40% of your time. The rest of your time should be spent on Bug searching, Admin, QA, Testing, Documentation and Architecture work. So your split sounds about right to me, though only a bit too low. This is work that is most efficiently be done by the developers themselves rather than another lower-paid worker. Only if the Projects are big enough does it make sense to outsource e.g. QA deployment and Documentation to a another department.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "What do you mean by bug searching? Like investigating reported bugs or just looking for bugs?",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "I would think they mean investigating reported bugs that may not have good reproduction steps. That can be hard to track down.just clicking around your app trying to find new bugs is in my opinion a waste of time especially if you are the that wrote it.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I work 9-5, but I have mostly 30-35hr weeks with the 60-70hr weeks here and there.\n\nI prefer it that way tbh. I am a weirdo who likes those tight deadlines and crunch times. Spreading out too much heavy mental work just leads to burnout and constant mental exhaustion. But I can do a ton of work in a tiny amount of time when I'm super focused.",
+        "points": "18 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I spent many years working 9-5, 9ish to 5ish, etc. Currently working 10-6pm for more overlap with coworkers in other time zones.\n\nThere are plenty of companies that’ll try to get you to work more, but it’s important to remember that tight deadlines are generally artificial in nature. Don’t let them overwork you just because they planned poorly.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "As a remote worker for a company that doesn't really care about hours and has no full-time/hybrid offices, I actually probably work 10-6 for the most part. All that really matters is I get my shit done and hit the meetings I need to hit.\n\nI am not a morning person and my team is mostly East Coast but we are spread out. I'd say just over half of us are East Coast, then probably like a 3rd of us are on the West Coast, and the rest are Central or Mountain... then one guy is in Australia and he starts his day at like 5am so it overlaps with our time zones.\n\nI actually officially worked the West Coast time zone for a while, but I got tired of explaining that to people when they would try to schedule meetings with me. So, I just switched back but I usually don't get on until 10-11 and work to 6-7ish.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Man, that sounds amazing. I’ve been on European hours for the last few years, but as we’re moving back to the states that sounds like something I’d definitely be looking for. Guess I’ll have to hope the market gets better and more roles for Sr Staff / Architect level work open up.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Yeah we have people in Europe but they just work in their own teams. We don't have enough people in Asia or AU to build full teams there.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Basically, but I'm remote and my job is pretty flexible. I usually work 7-3ish but it doesn't really matter as long as I'm getting my stuff done.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you have a full time office job you’ll do full time office hours.\n\nIt’s not project based, even if you’re doing nothing as a full time employee they’ll want you sitting there twiddling your thumbs.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Senior Developer\n\nI used to spend around 40-60% writing code but currently it’s gone to around 20-40%\n\nThis is mainly due to running a lot of meetings and working on cross team initiatives\n\nI do miss coding I find it much easier than writing technical docs, running initiatives etc but it’s required for progression",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "9-5, but some days I’ll do nothing and some days I work well past 5, usually on the lesser side.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Most jobs are 9-5. Remote positions usually allow more flexibility but generally still based around an 8 hour time block as that's when most of your co-workers and clients are online.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That question can’t be answered bc it’s not specific enough.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, it all depends on the project.\n\nFor example now I have to work with some vendors in India, I usually just take the morning off and start work around 2PM, so I can have some overlap with them.\n\nSame goes for EST vs PST, I’m in EST, half of my co-workers are in PST, so you can’t really do anything 9-12.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Usually 9 to 5 but I work remote and it's pretty flexible, so if I have something to do the afternoon I can and I work at night, as long as I do my work it's fine",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "9-5 represents core business hours, there’s a lot of flexibility for developers given they meet deadlines/outcomes, but you’ll typically need to be available during those times to meet with your team or client(s).",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I work a regular 8-17 with a one hour lunch and flexible hours. Overtime can be mandated by our boss but the only time it's ever happened was during the pandemic. And it was more making sure we were paid for the gruelling hours people put in voluntarily because we had health care systems that needed to work.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad39bx",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/",
+    "title": "Weird things engineers believe about Web development",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad22yp",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad22yp/webdev_or_crossplataform_developer_for_cloud/",
+    "title": "Webdev or Cross-plataform developer for cloud computing.",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad1wb9",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://cult.honeypot.io/reads/how-to-build-a-personal-brand-as-developer/?ref=dailydev",
+    "title": "How to Build a Personal Brand as a Developer",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Seems like a huge pain in the ass. I'd rather just work for a company, I don't need a personal brand.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad1eg2",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad1eg2/how_to_preserve_pitch_while_using_web_audio_api/",
+    "title": "How to preserve pitch while using Web Audio API?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ad0kb2",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad0kb2/dx_for_a_web_framework/",
+    "title": "DX for a web framework",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Object based. Least chance of some lobotomized developer screwing up simple function calls.\n\nEasy to validate, document and debug.\n\nAlso, your query syntax could use some work. You might want to invest in writing a tokenizer / parser. \n\nBecause again... some midlevel chewing his keyboard waiting for chatgpt is not going to rememeber comma seperated queries.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "My only concern with going object based for the query builder is how to approach multiple WHERE conditions, including AND, OR, and grouped queries.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "You either have to parse strings or use a language construct to evaluate the query.\n\nThe fact that you express the concept the way you do indicates keyword and string based queries. \n\nFrom a functional standpoint, array of objects makes the most sense.\n\nBut developers wont like it.\n\nSo you are left with either parsing strings or inventing your own token based syntax.\n\nTake a look at react query or graphql",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad07gt",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1ad07gt/is_it_still_called_serversent_event_when_you_dont/",
+    "title": "is it still called Server-Sent Event when you don't use EventSource on the frontend?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I didn't read the article, but it seems like they are using long polling. It's a valid approach, but something like web sockets is better for most use cases, it us harder to set up though",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad02tz",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://app.daily.dev/posts/EqnRNSMlH",
+    "title": "What is the ideal Tech stack to build a website in 2024?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The one you know and fits your use case.",
+        "points": "32 points",
+        "children": [
+          {
+            "comment": "Accurate",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I hate how 50% of this subreddit is cringey clickbait articles made by a bitcoin enthusiast who finished an HTML course and asked GPT for some buzzwords in webdev.",
+        "points": "20 points",
+        "children": [
+          {
+            "comment": "Yeah can the mods please do something about these?",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "There's no such thing as an ideal tech stack (in general). It depends on the market you're in, the project you're working on and what the customers need and want. Use whatever you like, as long as it works at the end of the day.",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Flash",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depends on the project. Does it need a backend? Does it need a database? Does it need to process payments?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aczre1",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1aczre1/i_hacked_a_big_prize_web_game_hosted_by_a_popular/",
+    "title": "I hacked a BIG prize web game hosted by a popular supermarket chain",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Chances are, they probably didn't care. These types of games are solely for marketing, the prices they give away are priced in already. They don't care who wins them or why, as long as people engage with the game and therefore their brand. I worked for a marketing agency back in the day were those types of games were popular on facebook. Nobody ever gave a shit about cheaters, as long as enough people saw and played the game and left their data.",
+        "points": "350 points",
+        "children": [
+          {
+            "comment": "Yea - honestly they probably look at it like x is spent on dev time, y is spent on prizes. If they get whatever number in engagement they are looking for it makes no difference to them who wins and if they spend time fixing it they increase the dev cost and delay another project so also lose out there.",
+            "points": "34 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah, that's totally reasonable, especially for such large companies.\nBut from my perspective, as someone who could have taken literally 80% of the prizes, it seemed like a really big deal.",
+            "points": "21 points",
+            "children": [
+              {
+                "comment": "Are you sure you would have gotten multiple prices? Often, the fine print states that you only get one or a limited number.  Even if it didn't, I'm pretty sure that, if you had tried to claim a significant amount of prices, someone would have contacted you.\n\nHowever, I do see how that can seem like a huge deal for a single person though. I certainly would have seen it as a big deal myself, haven't I known \"the other side\" of those games 😁",
+                "points": "15 points",
+                "children": [
+                  {
+                    "comment": "Every day, the board would reset, and it was calculated by distributing the allocated prizes for that day among the top N spots and your percentage of participation in those top N spots.\n\nAnd of course, there was no authentication whatsoever, so anyone could enter a different address and phone number each time.",
+                    "points": "14 points",
+                    "children": [
+                      {
+                        "comment": "I ran something similar for a “plug-in air freshener” for a large multinational you’ll have heard of.\n\nThis sort of stuff is covered in the T&Cs. Things like no person can win more than once, or over a certain value, or if they suspect foul play they can ignore your score without notice etc.\n\nI had similar conversations when building the app/game. 2 hours of lawyer time was cheaper than multiple days of dev & testing time.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I recall doing data control for a prize drawing once and all we did was take a csv from a CMS, do the diligence (remove any employee entries) and then use an RNG to pick a winner...\n\nWe're not invested in the draw so we don't care - I'm sure there's less scrupulous people who would cheat the system but it's usually pointless / not worth the risk or time.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I had a similar story. A well known company that makes high end speakers and headphones was doing a 12 days of Christmas promotion years ago. It was a scratch off game you would go to every day and scratch to see if you won. 80%+ of them were please try again. Smaller prizes were $5 gift cards. But some were in the $500 Amazon gift card range.\n\nThe game worked by visiting a site and you click a button to take you to a unique url that had a specific image with a box in front of it to simulate a scratch off ticket. Once you scratched off, it would lock in for your one ticket per day so you couldn’t scratch off anymore.\n\nI wrote a python script to scrape for the url, visit it, download the .png image, OCR the text of the image to see what the prize was. Because the scratch off didn’t happen, it wouldn’t lock in for the once a day scratch.\n\nSo I run my script for a few hours and have it log all winning URLs to a database that I can look through later. When I go check, I see it logs over 50 winners. A couple $500 gift cards, a solo stove, a pizza oven, etc.\n\nSo I look through the list. I find one that is a nice Patagonia zip jacket. I open up the url, scratch the box, sure enough, won a Patagonia jacket.\n\nThese types of games are super easily exploited and they don’t really care. It’s mostly about marketing. All of the prizes are already paid for and written off most likely.",
+        "points": "45 points",
+        "children": [
+          {
+            "comment": "Wouldnt they blacklist your python script since it came from the same IP? Correct me if i’m wrong, I’m genuinely curious how you managed to evade the “redeem once a day” condition",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "In most of those cases, building the game in a way that prevents cheating would take up more dev time than they'd want to pay. As many have said, as long as engagement is high, they are happy.\n\nAlso IP based usage or blocking could limit households to a single try, but for those they are likely interested in more than one person per household participating.",
+                "points": "18 points",
+                "children": [
+                  {
+                    "comment": "Agreed, unless it's in the developer's scope when building the application or promotion they aren't going to bother wasting time on this unless a client asks for it.\n\nPlus with scalable applications it likely just got lost in the bandwidth invoices somewhere lol",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "There’s a lot they could have done to block me but they didn’t do anything. My script would find the winners without scratching or redeeming anything, so any logs would have just looked like traffic visiting them leaving the page.\n\nI only redeemed 2 prizes over the 12 days that totaled less than $200 because I didn’t feel comfortable with basically stealing, but the redemption was just filling out a small form with name email and mailing address. So I suppose you could have redeemed multiple times per day if you had multiple addresses. The Amazon cards were digital so they would be just sent to an email address. So you could somewhat easily redeem multiple per day for those",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "But comfortable enough to \"steal\" $200.",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "Less than. But yeah, sure. As I said, the money has already been written off and spent. If you want to go the morality route, there’s a lot worse I can own up to. But if you want to get on your high horse and shame for curiosity, I won’t stop you.",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "These types of games are super easily exploited and they don’t really care. It’s mostly about marketing. All of the prizes are already paid for and written off most likely.\n\nThis right here. The devs aren't legally responsible, the prizes are already bought/money set aside, and as long as the marketing did well, the client doesn't care if the prizes go to the right people or all to one person or just get sent to a landfill.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good one. It's funny how careless most of the companies are for this type of things. I bet that some hackers take advantage of it can find their way for free supermarket food for lifetime",
+        "points": "15 points",
+        "children": [
+          {
+            "comment": "The developers could have been careless, or more likely they could have been underpaid contractors on an unrealistic deadline",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As someone who has set up similar kinda-shitty online games for marketing - nice one dude. I would have seen that score while reviewing the results and just been like \"hey guys! Someone hacked that game we threw together in like a week!\"\n\nThey never go to an agency that specifically does online marketing games/contests, and they never give you enough time to actually do it well. Every online game/contest/etc done for marketing purposes is basically a high school/college programming project with a good design on top of it.",
+        "points": "12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In the times of Flash games like 15 years ago there used to be plenty of highscore/ gaming contests where the ones with the highest score would win a prize. However, you could just kindof decompile the swf file of the Flash game and find the \"method\" for point submitting (usually post requests to the gaming server), then forge them. I won some nice prizes in these times. don't judge me too harsh, I was really young and needed the money..",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's depend in prizes. I won a huge (not really, just 100 usd) prize from European supermarket chain.  But they required my passport etc. \n\nI refused and give up prize.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good on you OP.\n\nIt's all very well, if they don't care about cheaters, and simply regard the prize pool as a sunk cost. That's just an operating decision of their business.\n\nBut they darned well should have responded to OP carrying out Responsible Disclosure, and at the very least acknowledge their effort!\n\nIf a company just ignores cyber security concerns, even if they're no big deal, then in future if anyone else now finds there's a vulnerability in their back end, that exposes an important database, leaking employees' or even customers' personal info, why would they or anyone else bother attempting Responsible Disclosure again, if they're just going to be ignored, instead of just publishing the vulnerability, or even selling it?",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You tought they’ll give you the cybersec role don’t you? 🤣",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Jesus Belgium and cybersecurity lately...",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Did something similar a few years ago, won a lifetime supply of something and some merch. I claimed it, I'm not ashamed to admit it",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And free laptops for all. Yes, I know who you are.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "There are no tech items here haha.\nGroceries only",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aczmpy",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1aczmpy/web_clip_apple_touch_icon_is_busting_my_balls/",
+    "title": "Web Clip / Apple Touch Icon is busting my balls!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The iPad that works is on iOS 10.something, the two that will not work are both on iOS 9.3.5\n\nYes I know both OSes are old but those are the free ipads I have to test with and nothing I'm doing on this site is particularly advanced, feature wise. Its basically just a page with larger elements that are made for/easier to touch.\n\nAnyhoo, the touch icon something that iOS 9.3.5 simply doesn't support? Hrm google tells me this should be working all the way back to iOS 1.1.3. I'm stumped.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Jeebus my dude\n\nThat is super ancient lol\n\nBut yes, it's highly possible that iOS 9.3.5 doesn't support the feature the same way as modern versions.\n\nI don't even have access to a version that old to help you out :(",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acyu14",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acyu14/can_you_help_me_disentangle_those_concepts/",
+    "title": "Can you help me disentangle those concepts?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Go to amazon.com, the site loads quick, and shows the book I linked. How? When I hit the site some dns stuff happens, and I get directed towards a server, the server picks up the url param (Piranesi-Susanna-Clarke) , asks the database for all the data about slug. The database responds with the data. The server then generates an html file and sends it back to the client. Cool, that was quick, the browser doesn't have to do any work. That's called SSR.\n\nBut shit, theres a shopping cart, that I want to be able to add items to? I have a button that needs an event handler. This requires interactivity on the client side. So the server also sends back a bunch of javascript that says \"Hey when user clicks this button, add url param Piranesi-Susanna-Clarke to shopping cart\". So that's cool, we click it, it sends a request to an API endpoint that says Hey user added this to shopping cart. Cool. Oh wait not cool, because my shopping cart item didn't update with the 1 icon, to show there is something in my shopping cart. We don't want to generate an entire new page on the server, so we use client side code to add a 1 to the shopping cart icon.\n\nI hope this helps illustrate why and when you need SSR, and why and when you need Javascript.\n\nI think the main concept you are misunderstanding is that SSR (server-side-rendering) doesn't mean that the Server in SSR is the same as your server for your API. You can use SSR to fetch data from a CMS, that means there are 2 different servers being used to build your pages, the SSR server, and the CMS, which acts as an API for a database.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Ough. Another server. That sounds even more complicated.\n\nBut with the shopping cart example. I guess you could just add some small scripts to your html to do it and have no extra frontend project for it.\n\nBeside work I want to get familar with more techniques with some small toy projects. Or maybe create a small webpage for friends hobby group. So I try to figure out what common designs are.\n\nI want to learn small projects in a good practice way in a way that I learn techniques that are useful in bigger projects.\n\nI guess big companies like google are probably several steps too advancedto use them as a guideline.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The concept of frontend and backend can be quite a lot for a newbie do understand so don’t sweat it if you don’t get it straight away.\n\nTo answer your questions:\n\nDjango is a full stack framework, you can use it to create a frontend and backend together with the frontend pages rendered on the server, hence you would say it uses Server Side Rendering (SSR) but this isn’t really a requirement - you can add Django Rest Framework and never touch any front end templates or forms.\n\nGenerally speaking - lots of web apps use a separate frontend and backend, lots of web sites use a combined front and backend, if you’re just presenting information to the user and don’t require much input from them then you probably won’t need to separate them.\n\nGenerally, yes. Netflix is probably the best example of an SPA, there aren’t really any other “pages” just a list of shows, click on those and you get a modal with the show info, click again and you get the video player, no page reloads - just seemless transitions from one section to another.\n\nAnother way to think about it is this - if you were going to build an app based on your product you might want to be able to feed information into your database without writing unique interface to do it, this is where an API is going to come in and mean you can have the same logic and validation on your website as in your app.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thx, so I think I understood the differences between frontend and backend, but I couldn't figure out when to use a fullstack approach (like multiple endpoints and html created by the server) vs seperated approach.\n\nMaybe it's also common to do both. For example one of the newspapers I read has a clasdical webpage I guess with different endpoints. But it has additionally an android app.\n\nSo maybe theyhave a rest api. A classical server that serves html and an app that both queries the API?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Certainly possible, you can see which requests are being made in the Network tab of your developer tools and see if some of them return the json of the page content.\n\nWorth noting it can also get even more confusing with SSR frontend frameworks such as Next and Nuxt, these may still fetch the data from the server and but then build a static page using that content.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Indeed that is really confusing. I looked at the newspaper page with the inspect tools of firefox and it looks like they return the html directly nd only some extra stuff to manage ads cookies etc. is loaded via json. But actually being new into that stuff it's hard to analyze how that is constructed.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Regarding netflix: I logged in via browser and see after that that I am at netflix.com/browse. When I click on a show I am redirected to netflix.com/title/<show-id> if I click on an episode I am redirected to netflix.com/watch/<id>?<someoptions>.\n\nThat seems contradicting to your statement.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "The browser won’t actually do a full reload when you change the page though, modern JS frameworks can mask the routes that are used so you retain the ability to link directly to pages. Check out react or vue router for more info.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Ah okay so that are not real URIs but more like internal pointers to make one state of the SPA reachable.\n\nI checked my newspaper and it does a complete reload for each link.\n\nSo what is the right term to distinguish that from SPA? MPA? Dynamic Server Side?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acylqw",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acylqw/terrible_website_speed_on_mobile/",
+    "title": "Terrible website speed on mobile",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Calculator with 13,000 files which can be achieved in ten lines of code",
+        "points": "22 points",
+        "children": [
+          {
+            "comment": "Oh. If I coded this would it be much faster?",
+            "points": "-5 points",
+            "children": [
+              {
+                "comment": "Yes, and would be a nice little project to learn coding",
+                "points": "8 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wordpress introduces a lot of overhead which is not needed for such a simple application. Plain HTML, CSS and JS (or jQuery/Alpine) would work just fine. The calculation method seems simple enough that you could manage it without needing to store constants in a database, and from what I can see the calculation just updates via JS?\n\nWordpress is inherently not great for Pagespeedinsights scores on mobile. There are ways of making it better, but honestly I think it would be quicker to just move this to a plain HTML page.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Throw in GitHub and cloudflare pages, and you can basically host it for free, and at high performance.\n\nDomain name will still cost something small, but that's basically it.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Reduce the font sizes on mobile they are huge",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Yeah, more take more time to render",
+            "points": "-12 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "if you ask chatgpt to code this from 0 and guide it along the way you would have more success than this.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Work on the following:\n\n1) Have a good server 2) Reduce the number of plugins 3) work on theme (reduce TLS, assets usage ) 4) avif images or webp 5) LazyLoad 6) Remove wordpress bloat\n\nAnd there are many other things to do to accelerate the speed.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "TL;DR don’t use Wordpress",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Is it because you don't know how to create custom high quality themes? And your site's suck at design, optimisation, security and speed?\n\nEdit: I am also talking about custom coding, without a bloat not a drag and drop builder.",
+                "points": "-4 points",
+                "children": [
+                  {
+                    "comment": "Figma exists\n\nAnd for more functional websites like this, it is much more efficient to code them.\n\nAlso, I fail to see how you can make HTML and basic JS insecure? I mean you could load up external scripts but if you're coding it all yourself..?\n\nAdditionally, loading up 1 CSS, 1 JS, and 1 HTML file is gonna be significantly faster than loading up 60+ files as WordPress does.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ouch. Not as bad as some terrible sites, but it is still pretty awful for a simple calculator app.\n\nOne of the metrics that Lighthouse shows is Time to First Byte. The results for this site show: TTFB 54% 720 ms. Almost two-thirds of a second just to load, analyze and process the backend code. That is horrible. Contrast that with a website that if made by hand/scratch, would typically take under 10ms on the backend.\n\nCombine that with the other metrics, such as overall speed of > 3 seconds total load time, unused CSS, layout shifting, large resources taking up over 6MB!!, 29 javascript resources, 22 CSS resources, and you have this abomination as a result.\n\nIt is a bit embarrassing, to be honest.\n\nFirst piece of advice, learn what your calculator has to do, operation-wise. Then go learn Javascript and make a simple website. Then go learn how Responsive design works. Build this from scratch as a good learning exercise.\n\nIt is all doable. Or just ignore our advice and use WordPress.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You can use WP cache plugin to optimize your pages and images. Also you can try using Smush. Make sure your PHP versions is 8+",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m guessing it’s the clunky Wordpress bloat. Stick to popular plugins if you must use Wordpress is my suggestion, otherwise simplify this and use a headless CMS.",
+        "points": "-7 points",
+        "children": [
+          {
+            "comment": "Simplify.\n\nHeadless CMS.\n\nYour math is wrong.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "[removed]",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Oh... Good afternoon to you too sir. May I have the privilege to know what kind of expertise you do though?\n\nConsidering I am from uranus, the conversion rate sucks in inter planet transactions so I could give only $1 (in earth's currency) per earth's day as sending the money is too costly from here.\n\nThe project is about counting the shitty spammers who goes on reddit for ad promotion and adds no value to the thread.\n\nUp for the grab? Happy to hear a reply from you.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depending on what you want to do further, you can go over to more of a static page and even host it on GitHub if you go for performance and is still free. Otherwise, check your wordpress setup, starting with a light team and removing any unnecessary plugins as well as blocking or removing anything else that you don't need or use. Wordpress can be fast, it is also used a lot for sites but you just need to do the right things and the right settings. Also if your host is a problem using a (free) CDN like Cloudflare can help but does make everything more complex than what you may need. Also I visited the site and it seemed to overflow and doesn't seem to be designed for mobile yet. Normally wordpress does that quite well automatically, so you either break things or are using settings for the elements which are not as they should be.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acylcc",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acylcc/designing_my_own_streaming_platform/",
+    "title": "Designing my own Streaming Platform",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Wrong title! Correct Title: \"Designing new skin for Netflix for my own needs, is it feasible?\"",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I want to design my own Streaming Platform\n\nWell you could throw some designs together in Figma.\n\nThen you need a few hundred million dollars in investment, and you'd be good to go.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Okay I probably should have made it clear that this is just a project for myself, not something i wan't to profit off of. I've edited my question now:\n\nEDIT: The Design is only for myself, I would probably host it locally. It is just a project I've wanted to do for a while, to make navigating streaming platforms easier for my dad, who is not that much of a tech guy. I would've set up the platform to be almost like a tv where you switch channels.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Use plex and host your own contents",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Even if Netflix had a public API, which they don't (they used to), I think you're likely underestimating how big a job building a custom frontend for it would be. With no API, you're going to have to scrape the data yourself (probably against their TOS but even if not this is not a good idea -- it'll be a lot of messy work and it'll end up brittle). Or maybe someone's already done that work and a 3rd-party API exists.\n\nIf you don't want to build a whole frontend but you're still dead set on changing the Netflix UI, maybe (maybe) it might be possible to do what you want, depending on what exactly what you want, by adding a custom stylesheet which applies to that domain. This could be done with a custom browser extension, or depending on the browser even potentially by configuring the browser to use a specific CSS file for a specific domain. If you need to do more than change colours and hide sections you will need to do some scripting too, which puts you in the realm of a browser extension or a custom user script. I don't think any of these are good ideas, though. Even if you get it working great now, it will be brittle; it could break at any time.\n\nI would've set up the platform to be almost like a tv where you switch channels\n\nWhat would be on each \"channel\", a single genre? A single show? A single episode? Maybe I'm misunderstanding, but when you say like TV channels I think of a huge long flat list of numbered channels. If you expand that to Netflix's catalogue now you've got tens of thousands of \"channels\". If a new show gets added are the channel numbers now different? With a list of channels that long you'll need a listing for them, right? Oh wait, there's already a listing for them: the existing Netflix UI.\n\nYou can think of the existing UI like a list of channels anyway, don't you think? Vertically you have different categories like \"your favourites\" and \"because you like xyz show\", and genres. Those are sort of like channels, no? So, up and down are channels, then left and right is for specifics. If that's not similar enough to a pattern your dad understands, maybe the simplest thing to teach is the search function. Voice search tends to work great and be less overwhelming so maybe teach that if your system has it.\n\nKeeping the existing UI has one major benefit I didn't understand in my earlier years (when I too tried to make things \"easier\" for family, girlfriends, etc): if he's using the default, it's the same as what his friends see, and the same as what strangers on the internet see. When those other people talk about it, it's actually relevant to his experience too. And what he sees is what they're used to too, which means he can find help from people other than you. On the other hand, when your custom solution inevitably breaks, you're the only person he can turn to, and you might not have time or he might not want to bother you.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Streaming is hard. However it’s not impossible.\n\nYou would need it to be cloud hosted on azure/aws/ something 3rd to get enough bandwidth if you expect more than 2 viewers.\n\nThen look into how twitch and YouTube are doing their streaming backend.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What a brilliant idea!\n\nWhy yes, we have 4 developers and 2 designers that specialise in this. They work in shifts, not only to develop your brand, but also source the highest quality movies.\n\nAll content is curated, translations are are available, and we can even localise the subtitles.\n\nOf course we care about your security, as well as the millions of users that will sign up to your exciting new service.\n\nThis idea is great, its amazing that you are sharing it out in the open like this. We have the team, if you have the dream.",
+        "points": "-12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://github.com/new92/netwix",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acx9mu",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acx9mu/how_to_make_a_form_appear_right_beside_the_sidebar/",
+    "title": "how to make a form appear right beside the sidebar??",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I’d suggest starting here - https://www.w3schools.com/howto/howto_js_popup.asp\n\nThis gives you the basic code and you can adapt from here.\n\nPop ups are really common so you could search stack overflow for answers too",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "OP are you actually asking for a popup or do you just want to display a form in the pages content? Like navigating to some prepared site basically?",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Utilise the dialog html element for this. See here\n\nYou can do this with JS like the other comment suggests however better to implement the functionality in HTML if possible due to it being quicker to read etc and a built in browser functionality.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What you can do is have the form already on the page, give it a css class like \"hidden\" and an id \"sideForm\"\n\nUse javascript Document.querySelector('#sideForm').classList.toggle('hidden') on a button or a link that should show the form\n\nHave css something like .hidden { display:none;}\n\nThis is the most basic way to hide and show an element. You can change the styling on the side form, experiment with it and maybe introduce transitions but this should help you a bit",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acx9mc",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acx9mc/how_to_make_a_form_appear_right_beside_the_sidebar/",
+    "title": "how to make a form appear right beside the sidebar??",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What you can do is have the form already on the page, give it a css class like \"hidden\" and an id \"sideForm\"\n\nUse javascript Document.querySelector('#sideForm').classList.toggle('hidden') on a button or a link that should show the form\n\nHave css something like .hidden { display:none;}\n\nThis is the most basic way to hide and show an element. You can change the styling on the side form, experiment with it and maybe introduce transitions but this should help you a bit",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The most basic way to do this is by using links and files.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You can do this using the dialog element in HTML.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "A dialog will make it on top of the page, so don't use it. But the post said to make the form \"popup in the same page\", so probably??",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "For on the same page a modal makes the most sense as if it just appears elsewhere on the page the user may not notice, whereas a modal places it front and centre",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I just completed coding a sidebar and now i dont know what to do next. How do i program this in a way that if i click a button in the sidebar, a form will popup on the same page, where in it can ask the user for input?\"\n\nwhat does it mean \"coding a sidebar\"? you want to do a proper form opening as a modal? learn how to create modals.\n\notherwise, show code, it is completely unclear, what you want to do",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Look into jquery, and add that to your site.\n\nMake a button element, and have it .hide() or .show() the form container element.",
+        "points": "-11 points",
+        "children": [
+          {
+            "comment": "Are people really suggesting jQuery for something you can do with HTML?!",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "How would you accomplish this with pure HTML? Sure, you don’t need jquery, you could just use vanilla JS. But the way OP is wording this question makes them sound like a beginner who would benefit from the simple syntax? Idk why I’m getting downvoted so heavily for suggesting the same thing as u/iligal_odin but with jquery.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "There is no need to introduce jquery to a project if not strictly necessary, which in most cases it's not.\n\nVanilla Js can do the same but without any additional api/framework/whatever\n\nThe Pure HTML is do not see but is probably related to the /new/ dialogue element im not too familiar with right now.\n\nGeneral tip: Don't bloat your goat",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "document.getElementById? 🤷‍♂️",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "The simple syntax is a bad dea for a beginner to learn, they are better learning the correct way to do it in JavaScript because then that knowledge is transferable outside of jQuery.\n\nAlso the dialog element, see the MDN link in my other comment.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acw2af",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acw2af/why_do_people_say_that_nosql_isnt_able_to_do/",
+    "title": "Why do people say that NoSQL isn't able to do relational data when you can do .populate()?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "RDBs dbs have native referential integrity. If you have a highly relational schema, having your DB understand and enforce the relations all on its own is a real benefit.\n\nIf you're using NoSQL, you have to write all that logic and functionality yourself. (or find some 3rd-party dep to do it for you).\n\nNoSQL is great for huge buckets of non (or loosely) related data (analytics, geolocation, etc). RDBs are great at everything else.\n\nAlso, this:\n\nthings are so much more organized in a NoSQL document compared to a bunch of columns in a table\n\nkinda makes me thing you don't know what you're talking about and are just fishing for validation.",
+        "points": "189 points",
+        "children": [
+          {
+            "comment": "The other thing they have is atomicity, and the other parts of ACID.\n\nIf your use case involves every user (an app counts as a user too) accessing its own set of data in a single request/thread, and updating it all at once (the \"library paradigm\" - you give a customer a book, the customer comes back and returns book, you don't care whether the customer read it or which pages, and nobody else gets the book at the same time), then NoSQL might work great. One particular use case is being a black box storage for a custom format that an application needs - e.g. a video game save file. You never need to share saves with other users, and you never need to query for just parts of a save file; to the app, the save file has many data points, but from the POV of the database, it's a single atomic blob that doesn't need to be normalized. NoSQL can act as a quasi-filesystem for cases like these.\n\nBut if you a have typical business transaction app where each data point is granular and relates to others in non-trivial ways, and/or have a lot of users simultaneously reading and writing shared data, needing supporting referential integrity and atomicity on reads and writes, RDBs are the way to go unless you have a very good reason to need something else.",
+            "points": "21 points",
+            "children": [
+              {
+                "comment": "MongoDB supports transactions and is ACID comiant since version 4.0.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Yes, within its query parameters. However, as OP pointed out, compared to RDMs, document DBs generally prioritizes simpler, key-value based queries. If you need to check out and check in an isolated piece of data at a time, it's fine. But if you need to maintain atomicity across multiple related pieces of data, then your application needs to handle the logic, including making sure that all necessary queries happen atomically not just individually, but together. Whereas an RDB can express a complex query as a single operation, and so is natively atomic.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Not sure if I misunderstood your comment, but MongoDB also supports multi document transactions, but all in all I agree that a RDBMS should be prefered for heavy transactional applications which require strong integrity.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "All database solutions have tradeoffs. SQL databases are very good at both modeling and querying for relational data.\n\nYoure allowed to use a nosql db if you’d like to. There’s no conspiracy making rdbms the dominant format, it’s just flexible and good at what it does. AWS is just as happy to charge you for a dynamo or mongo instance as they are a postgres instance.",
+        "points": "53 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "SQL technology has been tuned and refined for the last 30 years. It uses a declarative language to specify the data that should be returned from database. It pushes the processing to the server, where it can make use of indexes, statistics, query plans, parallelism, locks, cached data pages, prefetch, transaction logs to optimize the execution, while still ensuring integrity. It is also durable, i.e. if power goes down on server, it can recover to a consistent state (rollback, roll forward etc). This can be very important aspect for an app that can run for many years. It needs to provide precise reports at the point in time they are generated, e.g. accounting, financial domains. It needs to run many queries quickly, for multiple users, while only loading necessary data to conserve cpu usage and disk access. This was initially needed because dbs ran on hard drives. It has multiple options for transaction isolation, like read committed or uncommited. It has deadlocks detection, nested transactions, triggers, stored procedures, security permissions for many objects in database, encryption at rest, scripting language like T-SQL, P-SQL, Dotnet CLR or Java or C dlls. These scripts run on the server itself. The server hardware also has different features like redundant PSU, ECC memory, server-grade cpus that run at lower frequency for stability, proven compatibility, hardware RAID etc. If you try to run similar app on a no-sql engine, the app will need to do much of the heavy lifting and when things go wrong in production, you can't easily debug it. The SQL servers come with reports for activity, activity managers, ability to detect long running queries, detect locks, database maintenance, data import/export. Also the entire database structure is scriptable and can be used in version control software (git) for teams to collaborate upon. It has support for updating data structure in production, adding/editing columns etc, by running DDL scripts. The list is very very long...",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "30 years?\n\nMore like 50 years. SQL has been around since the 70s.\n\nIn the 90s (30 years ago) SQL was already very mature.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "But people who invented NoSQL, also use the learning from those 50 years to build their new tech.\nIt's not as if they completely ignored all the history and learnings from SQL when building MongoDB.",
+                "points": "-2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "MongoDB doesn't have .populate() that I am aware of. You can use an ODM like Mongoose to do that but then you are using schemas which take away some of the flexibility of a NoSQL database.\n\nORMs/ODMs trade performance for ease of use and abstraction. There are plenty of SQL based ORMs that also make it really easy to get relational data without JOINs because it is abstracted away but may not be as performant.\n\nWhen working with a lot of relational information SQL database is going to be much faster. NoSQL definitely has its strengths and can be a much better choice than SQL for certain use cases but complex relational data is not one of its strengths.",
+        "points": "30 points",
+        "children": [
+          {
+            "comment": "I think you're right about populate being a mongoose feature, but mongodb does have the $lookup feature which is pretty similar.If at the end MongoDB still provides the same result just a few ms slower, I really don't mind, but I haven't seen benchmarks that show the difference..",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not only join syntax. But also foreign key integrity, Amount data to update when you change the data. You didn’t mention transactions. Most of the tests are inclined to punish opposite technology. You are allowed to use both RDBMS and non-RDBMS in your app. If you need integrity - pick sql. If you need availability - pick noSQL. You have more complicated structure? - use both. Meanwhile I’m using Postgres, Dynamo in one project for 10 years. Just pick and combine whatever fits better to your needs and requirements.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "MongoDB supports transactions, but yeah if it comes to transactions I'd still prefer a RDB. The lack of foreign keys could also be seen as an advatage in some cases when it comes to scalability and sharding of data.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you have a gut feeling that mongo might have a comparable performance to more traditional SQL databases you should totally try to run your own benchmarks! It could make a pretty interesting blog post.\n\nFWIW I did look into this a bit myself and found an article from a couple years ago that did some comparisons: https://www.enterprisedb.com/blog/comparison-joins-mongodb-vs-postgresql it looks like Postgres as least is a lot faster at joins than mongo.\n\nThe hacker news thread also contains some useful context from the author: https://news.ycombinator.com/item?id=22834036\n\nIt doesn’t look like they used the populate method, but I’m not the most familiar with mongo so not sure if that would have had meaningful impact on performance.\n\nOne thing that stands out to me that gives Postgres a bit of a leg up against mongo is the fact the query planner will change the strategy it’s using depending on the underlying data. I suspect that for more complex queries Postgres will out perform mongo as a result. This is just from my intuition though! I could be wrong since I haven’t run any numbers myself, but if you disagree, you should totally try it and see what you find!",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "As a side note, in general everything has trade offs and there is no “free lunch”. It’s pretty rare that one tool will be the best at everything, instead you should learn several different tools and learn when they work best.\n\nThere are reasons to use SQL databases beyond joins, Postgres in particular has a ton of functionality and can even store json pretty performantly doing a bit of a “NoSQL” impression.\n\nBut on the other hand I wouldn’t reach for SQL first when trying to store graph like data for example.\n\nI would be careful about being on a “team” when it comes to tools, it can bias your decision making and lead to the problem of everything looking like a nail when you only have a hammer.",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've used MongoDb in the past, now I'm exclusively using Postgres (for the reason it tends to cover 90% of the use cases I have). That being said and to answer your questions, it's not the joins that are different, but referential integrity.\n\nIn MongoDb you can emulate join with lookup (which I presume is what populate is using) but there is no way to express constraint such as \"row in collection x must only exist if the row on collection Y exists\". You need to either model those kinds of constraints in application or just put everything on one document.\n\nRegarding the performance, when using populate your client will issue N queries to MongoDb for each populate you have resulting in N round trips to Database. In case od rational database the JOIN is done on the database server itself and then returned back to you, where I expect it would be faster.\n\nIt all comes down to expected throughput - if you have 1 query per second to worry about then probably doesn't matter what you use. Of you need to service 1000qps then it might be a totally different story.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "People say that if your data is relational, you should use a relational database and not a document database. That is because, surprise, relational databases are designed from the ground up to work with relational data.\n\nDocument databases on the other hand are designed to dump a bunch of semistructured data to disk.\n\nOf course you can use a document database to store and query relational data, it's just not its primary design goal and in many ways, it does a subpar job.\n\nFor example in a RDBMs, the database takes care of referential integrity, in a document database, that's now the job of the clients.\n\nA major reason for denormalizing data isn't data deduplication but data consistency. RDBMs are very good at enforcing constraints on data, in a document database that job is now the job of the clients.\n\nWhich is faster? Depends entirely on workload. NoSQL databases operate with little to no integrity checks, so they typically perform raw data writes very fast. Then again, similar speeds can often be achieved in a RDBMs by loosening integrity requirements.\n\nWhich is more readable? Personally, I find SQL much more readable than a vendor specific NoSQL query language.\n\nMongoDB pipelines are especially atrocious imho.\n\nI find semi-structured documents less organized than tables.\n\nI once tried to use MongoDB for a sizable personal project and the experience was similar to peeing my pants. What started out as warm and pleasant pretty soon turned into a cold and wet mess.\n\nBut as with everything like this, there's no law saying that you can't do it.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm a big Mongodb user and have had a fair bit of consultation with them directly after doing a large project at work\n\nMy experience is that joining in mongodb is not necessarily slow, altho I'd say it is almost certainly slower than postgres for example.\n\nHowever, one use case where it truly is way slower is when you need to query the collection you are joining to - you will lose all indexes on this collection, so if you need to, for example, join your users collection to an orders collection and only return users where the order date is greater than X, it is going to be really slow (assuming reasonable amounts of data)",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\\ [ removed \\ ]",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "didn't work",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I agree with most of what people are saying here:\n\nBUT and this is a big one:\n\nMongo + mongoose is so easy to change and migrate that there are REAL benefits to using it in a lot of different types of systems, even those with relational data.\n\nAlso the speed is thing is very confusing. It is true that joins are faster in SQL, but that doesn't account for the way you structure your DB.\n\nYou can definitely structure mongo in a way that is relational but requires significantly less joins and tables (collections in mdb case)\n\nI've worked with both SQL and mongodb a lot and while I agree that technically SQL may be more \"solid\" and \"performant\" in certain common scenarios. There is also a level of freedom that I really value with mongodb that really allows you to make really quick changes to data.\n\nNow all that being said, most software engineers are truly bad at their jobs lol. We fucking suck at keeping things well architected and organized as a whole. The speed of change that MDB allows over SQL is also a footgun. Many many folks have been shot by that footgun because they weren't careful about their MDB use over time and things became messy, slow, and data became incomplete and crappy. It's a lot harder to do that with sql.\n\nAt the end of the day, its a tradeoff and both systems have strengths and weaknesses, but I really like MDB for small projects, startups, and apps where you may need to make rapid pivots and changes over SQL, EVEN IF THE DATA IS RELATIONAL.\n\nGood luck to you all in your data efforts may you always cling to your respective dogmas and may we fight wars over it in the future.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Relational data is more than just getting relational data. It's also about deleting or nullifying them.\n\nReadability is subjective.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Regarding the performance compared to relational DBs:\n\nUsing `populate()` for populating fields with documents from other collections is slower than doing joins in a relational database because the `populate()` is done on the client. In short, when doing a query (e.g. `find({ _id: 'xxx' }).populate('myField')`), it first needs to get the \"root document\" with the _id. Once done, it can send another query for getting the subdocument. This can only be done in 2 steps as the client library needs to get the ID of `myField` before sending the query for getting it.\n\nSo, you have to pay for the network latency 2 times instead of 1.\n\nThis can get even worse when you need to populate on multiple levels (e.g. `find({ _id: 'xxx' }).populate({ field: 'myField', populate: ['mySubSubField'])` - I don't remember exactly the populate syntax)\n\nNote also that, a find = 1 query, and each populate is another query. So, if you use Mongo for highly relational data, you could potentially send 10+ \"real queries\" for only one \"find + populates\".\n\nMongo pipelines, on the other hand, are executed on the DB. But as others have mentioned, they can be hard to reason about. Performance-wise, it's better in a way, as everything is on the DB, but everything is executed sequentially. So, if you have multiple stages, the overall duration will be stage1 + stage2 + stage3 + ... There's no parallelism/concurrency from what I know.\n\nActually, if you have a lot of stages, populate() can be faster as it can send all the \"level 1 populate queries\" in parallel.\n\nBut, as mentioned by others, the best is to run some benchmarks yourself",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Here's a simplified mental map for you. In increasing order of relation complexity.\n\nRelations type : DB type\n\n1-to-1 : Your standard key-value store. Think simple JS object, Redis.\n\n1-to-many : Similar to above, but store multiple values against same key. Think JS object storing arrays against a key.\n\nhierarchical (variation of 1-to-many) : It's tree data structure. Your document DB, your mongodb. Each node's relation is to only its parent and child. You can drive relationship b/w cousin nodes via parent nodes. But they are not directly related.\n\nmany-to-many : Your SQL DBs. You all know this.\n\ngraph (variation of many-to-many) : You can define any complex relationship. Think social networks.\n\nTLDR: It's not MongoDB (not NoSQL) can't do relations. It's just limited by design for simple relationship. If you've relationship, which usually means many-to-many. You should always go for SQL. Unless you've very very complex relationship then graph DBs make sense.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "MongoDB engineers will tell you that joins are a last resort at in Mongo. The DB engine and storage format aren’t built to support it efficiently. SQL DBs are typically built from the ground up for fast joins.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "once your data set hits a certain size and your queries actually become complex, you’ll notice a huge difference when doing relational queries. if you are doing rather basic queries you prob wouldn’t have noticed a difference.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I really want to see what your backend server logic looks like.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Populate() is not a native feature of MongoDB itself but it is provided by Mongoose to simplify the process of working with related data. It isn't enforcing any relationships on writes, or doing any of the other cool things SQL can do for you in the query before the data is returned to your code.\n\nThe rest of your comments are subjective; to a SQL developer, the single line of a JOIN is far more simple than the Populate() call.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acvr2v",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acvr2v/stuck_with_vercel/",
+    "title": "Stuck with vercel?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I have heard that some of the more \"bleeding edge\" features of Nextjs can be a headache to self host, but it's very easy to host a standard app anywhere.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Here's how you use the newest features self-hosted: https://nextjs.org/docs/app/building-your-application/deploying#self-hosting",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why would you be stuck with vercel? You can host a next.js app almost anywhere",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you're expecting a PaaS, then vercel is probably the only way.\n\nIf you can spin up a VPS, then use vps.\n\nIf you don't mind extra learning curve and have some infra/aws knowledge, use sst.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depends on the features you are using. Some features are Vercel specific.\n\nThis is the difference btw with next.js other framework. In next.js you usually don't get to know what Vercel specific. But In other framework if something is platform specific it will me mentioned in its adaptor docs.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Remix js is good.I have been using it for prod apps for a while",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "The problem is I don't found any jobs with it in my area",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "if you are looking to learn Next for job reasons they why do you care about hosting ? That should not be your problem anyway. The hosting/billing decisions will be made by someone higher up where you will work.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not at all, you can host it anywhere.\n\nI hosted them in AWS before and now in GCP.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You're not locked in with Vercel when using Next.js, but the integration between them is tight and continues to get tighter with each release.\n\nIf you're going to try Next.js, then look at 'open-next' because it will allow you to deploy your project to AWS instead of Vercel, while retaining most of the benefits of deploying to Vercel and significantly lowering the cost.\n\nOtherwise, you can deploy anywhere that supports Node.js, but you're going to lose quite a few niceties, and you might encounter some trouble due to the fact that the Next.js docs are written with serverless in mind.\n\nhttps://github.com/sst/open-next",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If I’m not mistaken, they also have a docker file that you can run your application in, thus hosting it anywhere.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Using NextJS and we are not going with vercel because of their insanely expensive enterprise-level usage plan.\n\nWe use AWS company-wide anyway and it’s rather trivial to have Nextjs up and running on Amplify.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No. You are not stuck at Vercel. That’s just misinformation. It can be tricky to get all the optimization outside of Vercel but you can absolutely go elsewhere if you want",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acvgks",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://ai.digiproff.no/",
+    "title": "[Showoff Saturday] Made a web app that lets you automatically create drafts for commercials with AI",
+    "points": null,
+    "comments": [
+      {
+        "comment": "That's actually really cool, I like how it gives you pictures and adds a voice over for the video aswell. well done that's crazy.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acvcla",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acvcla/why_people_dont_like_javascript_on_the_backend/",
+    "title": "Why people don't like Javascript on the backend, use php, python, rails instead. Isn't javascript better than these in terms of event driven, single threaded non blocking event loop, community, ecosystem, deployment options(free, paid), types (typescript)?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It is a comfort zone kind of reaction. Sure, there are things to hate (and like) about Javascript on the backend. But they all have their plus and disadvantages. I had a business colleague a few years ago who HATED javascript and stuck with PHP. His tune change when the refactor dropped his monthly hosting fees from a few thousand down to a few hundred a month... Changing his SSR to CSR (Client Side render) essentially wiped all his compute cost away. No more blocking events (like you mention). No more processes that consumed all of apache. It took him cold hard $$$$ in savings to change his tune.\n\nAgain, each scenario is gonna be different. If his web app required SEO, he could have stayed with SSR. But in a logged in state, you want an app to be performant.\n\nDon't get dogmatic over it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I build websites with Node.js, PHP and .NET. There's no best way to do it. Sometimes people like to try new things. Sometimes people don't want to try new things, because they're comfortable with what they got.\n\nMy preference is server side rendering. I've tried all the latest and greatest when it comes to JavaScript and all it offers, but I keep going back to just Node.js + Express + EJS. It always works and I see no issues with it. I also only use vanilla JavaScript and CSS, instead of TypeScript and Tailwind. I just personally don't need any of the newer frameworks or languages.\n\nInstead, I'm even trying to go backwards in time and learn LISP (and its variants), because why not? It's an ancient programming language I found out about just a few months ago. I'm working on creating a website using that, just for fun. I don't think I'll actually use it very much, but it would be fun to build an ecommerce in a programming language from the 1960's. Some people like to do things for fun, others not so much. As with anything in life.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Everyone has different tastes, but most of the time, it's about the language they are most comfortable in. Personally. I always choose nodejs because I’m good at it. But I think C# is a better language.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acubsi",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acubsi/i_made_a_hacker_news_pwa/",
+    "title": "I made a Hacker News pwa",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I changed my mind about tailwind with this project, I love it now lol",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "Most people do once they start using it.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Tailwind rocks!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "what method did you use to make it pwa",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "It’s just a really simple manifest.json and then a service worker file I got from svelte’s documentation that handles caching and is network first strategy.\n\nI also played around with this https://github.com/elegantapp/pwa-asset-generator for generating some assets.\n\nSome important things for display on installed apps are\n\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\" />\n\n\nAnd using the safe-area-inset-* css variables and standalone config I added to tailwind\n\nscreens: {\n    standalone: { raw: \"(display-mode: standalone)\" }\n},",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1actpkm",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1actpkm/chrome_browser_as_a_monopoly/",
+    "title": "Chrome Browser as a monopoly",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Google have significant control over Chromium, I mean most engineers who work on it are probably Googlers. It is not as bad as true monopoly, but it is not the best either.\n\nWe really need another very good open source engine like Chromium.",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "Why?",
+            "points": "-3 points",
+            "children": [
+              {
+                "comment": "I can't speak to the above comment mentality on the need for another open source option (although I do agree for various reasons).\n\nI will say, a reason it's bad that there is an effective monopoly is Google can act in its own best interests even if that is contrary to the best interests of the users. With no other options, users can't exactly boycott. An example of this is Google's recent actions to limit and eliminate users ability to use ad blocking extensions.",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "another reason to be suspicious of the chrome monopoly, if the standards you have make it so hard to create a new browser from scratch that means one day when chromium devs will have to retire nobody will be capable of rebuilding something new",
+                    "points": "4 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Exactly this, even though Google have invited outside contributors to become code owners of various components inside Chromium. They still effectively maintain veto power, and almost all development happen on Google’s source control, Google’s bug system, etc. I don’t think there is any major true forks of Chromium that parted ways from the core Chromium codebase.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Chromium already has a monopoly; deprecating/killing manifest v2 was not a widely accepted push, but Google wants it, so Google made it so. No one is willing to make a good alternative, and I doubt anyone will soon. If it does happen, I predict it'll come from some deranged Rust dev (I mean that in the nicest way; anyone trying to take on this would be crazy). Chromium is a great engine; it works well. That's why it's hard to compete with; I mean, how else could you beat it? Also, adopting a new engine might be a pain in the ass for future devs. I'd like to see a successful fork of Chromium with fewer Google engineers involved.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Chromium is essentially the new standard Operating System. Most users never interact with anything else for more than a few seconds just to get into the browser.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Interesting to see how the browser is evolving into the OS",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Going back to 2011 when I graduated college, I made a prediction that everyone will eventually converge on a single engine powering the web. Which imo is a good thing. As long as that engine is open source and developed by people who have users and the web platform best interests at heart.\n\nI think chromium is clearly the best engine out there but it should be taken over by something like W3C or similar web standards organization.\n\nBrowser wars should be about building the browser product itself to gain users. If everyone competes on features in that space the. We get more feature rich products and the platform is stable and enjoyable for developers to build app and sites because there’s a standard web engine/platform to support. I’ve been building electron apps a lot lately and it’s so nice to know I can use anything that a single chromium version supports without having to worry about any other engine or chromium version.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Been a Firefox user since its early beta releases and have stuck with it both in terms of my development environment and my personal use.\n\nI see no reason to change, and the way Google seem to be trying to control the market using Chrome, there is even more reason not to change.\n\nFirefox can be inefficient, it certainly seems to use more resources than Chrome, but that's just the hit I take for choosing a browser I am more comfortable with.\n\nAs for Google's monopoly, it's obviously there, but you'll find that in places beyond US borders, there will be laws governing that level of control.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "There have been a handful of times in the last 10 years where a real bad version came out but my only real complaint about FF is they are now on an update schedule almost as frequent as chrome. Some things consume fewer resources in each browser then you have Safari in it’s own world suspending any tab you haven’t used in an hour.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I just use edge cause it feels almost exactly like chrome, but better.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Because it is chrome, they are both chromium-based browsers.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I try to use other browsers for dev work but keep using Chrome due to the excellent dev tools. I wouldn’t use it for personal stuff due to the creeping surveillance being added",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "23 points",
+        "children": [
+          {
+            "comment": "It’s not a “huge market share” though…",
+            "points": "23 points",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [
+                  {
+                    "comment": "The position doesn't mean anything. Firefiox has 3% market share and that's definitely not huge.",
+                    "points": "16 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Firefox’s market share for Dec 2023 was 3.3%, Opera’s was 2.9%, Samsungs browser was 2.6%.\n\nIt’s 4th behind Chrome, Safari and Edge; and it’s lost almost half its (measurable) users in the last 3 years according to its own statistics.\n\nI like FF, but it’s not got a “huge market share”, nor is it’s relevance growing (sadly)",
+                    "points": "14 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": true
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Chrome(64%) and Safari(18%) make up over 80% of the browser market share, their closest competitor being edge with 4%. If that's not a monopoly I don't know what is?\n\nI wouldn't mind it that much if it wasn't for the fact that most other browsers are much better and offer way better features than chrome, while still being compatible with the chrome webstore and it's so hard to get people to try the other stuff, because chrome is all that they've known.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I uninstalled chrome. It's worst than IE.",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No wonder, Firefox is terrible. I tried to use it for over a year and it was a disaster.\n\nI don't like Google as a company, but nothing beats Chrome at the moment. Maybe only Edge might be a competitor to them.",
+        "points": "-10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think Firefox have to use chromium engine to build browsers for Android devices. This is the monopoly",
+        "points": "-18 points",
+        "children": [
+          {
+            "comment": "I don't believe that is true",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "I guess you're right. Can't remember what I read",
+                "points": "-5 points",
+                "children": [
+                  {
+                    "comment": "You're thinking of Safari engine on iOS. Which just got changed for the EU only this week. Most likely will not change elsewhere.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "This is it. The EU thing Edit - I think in the article Firefox was mentioned to be surveying users about issues regarding the Google and apple monopolies",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I think you're thinking about Firefox on iOS has to use webkit. In recent news, Apple is allowing Firefox to use their own engine, but only one the most difficult punitive way. Apple trends to be spiteful when they don't get their way.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acswkt",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://macarthur.me/posts/how-to-back-up-your-self-hosted-plausible-analytics-data",
+    "title": "How to Back Up Your Self-Hosted Plausible Analytics Data",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acsdo1",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acsdo1/what_time_zone_is_used_for_showoff_saturday/",
+    "title": "What Time Zone is Used for Showoff Saturday?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I've been wondering the same thing",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "no idea, but it's 1030pm here on the east coast of the US. It's probably US-based, so I'd imagine you're still good.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thanks",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I live in Australia, and I just post on Sunday. I have posted on an Australian Saturday and it doesn’t seem like anyone cares. However, the posts seem to do better if I wait til the American Saturday and join the majority.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thanks that helpful",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acr9hn",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acr9hn/seo_effectiveness_using_new_frameworks_and/",
+    "title": "SEO effectiveness using new frameworks and client-side/server-side rendering",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I think what you're missing is the \"how\" in why CSR (rendering, not routing) is bad for SEO, and SSR is good for SEO. It comes down to what the client first sees in the response body when it requests a page to our site.\n\nFor CSR, this is usually an empty HTML page because the client has to run some javascript to render the page, hence \"client-side rendering\", let the client render the page instead. This is (was) bad for SEO because search engines when indexing your site will not run javascript and just check the HTML content, so all it will see is an empty document, so it can't do what it usually does which is ranking your site based on the content. However, it seems like search engines had somewhat helped solve this by running your scripts with unknown limits, giving a chance for your page to render fully. But the problem with that is we don't really know how effective it actually is, there's a chance the content might not fully load leading to broken pages.\n\nSSR on the other hand, renders the page on the server, which means it builds the HTML on the server first and then sends it out as a response. This was the proper way to create dynamic pages back before SPAs didn't exist and when javascript was considered a dummy language. The reason why this is good for SEO is that the response body already had the rendered content, meaning the client does not have to run any javascript to get the content unlike CSR.\n\nOne other thing is SSG (static-site generation), the name of the method in which we create/build the pages at build-time. Instead of building the HTML \"on-demand\" (for every request), we create those files at build-time, and then just serve plain old HTML.\n\nFor the Astro framework, you could do any of these methods, and you could configure which method you want (SSR or SSG) at the page level, and also CSR/hydration at the component level. By default, Astro will use SSG for the whole site but you can tell Astro which components should only render in the client. For 11ty, it's just SSG.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I understand. Thank you very much—I think you very clearly understood my problem and what I’m missing.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is (was) bad for SEO\n\nIt's still hit n miss mostly. Not reliable at all.\n\nAnd the initial page load time goes around 10 seconds, while the general recommendation is up to 1 second for initial page load time.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This whole “SSR” and “CSR” is so weird to me, and I wish people wouldnt use the terms because it seems to frequently lead to a muddled understanding of how the web works.\n\nThere is “static content” (plain old HTML files, unrendered) and “dynamic content” (HTML that is rendered by backend scripts, what is probably meant by “SSR”, but people seem to conflate the two)\n\nThere are also pages that are assembled by a frontend framework, where the JS creates the DOM on the fly (what is probably meant by CSR). These are still sent down as HTML documents but are incomplete and require the browser to do additional work to flesh it out.\n\nStatic site generators are effectively transpilers — they take content in one format (markdown. for example) and convert it into static HTML. When someone requests the document, the web server sends back the file as is, as a normal HTTP 200 response.\n\n“document requested, web server sends back HTML content with 200 status” is conventional behavior that has been how the web has worked for decades.\n\nI have no idea where you read that “SSR” is good for SEO and “CSR” is bad for it. Good SEO is generally a product of having a well formed document structure and predictable responses when a document is fetched. Theres some other stuff (sitemaps, etc) that can help too.\n\nThe only reason I could think of why a document that is assembled on the client side would have worse SEO is because it requires JS to assemble some amount of the document in the browser, and maybe the crawlers don’t do that as well yet. But with the prevalence of frontend frameworks. I have to imagine they are capable of it to some degree?\n\nIt doesn’t really matter what process you use to generate your content, all that matters is how its being delivered to your user at the end.\n\nAn easy way to test this: do a curl request on a URL of one of your pages and see what you get back. If the content is all there, then it is conventional. If the content is partially there but its just a skeleton document, then it requires JS to finish assembling the document.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Historically, full CSR (something like a React SPA where the HTML document is basically just a script tag) was problematic for SEO because crawlers didn't always run the JS before inspecting the page. As you said, these days search engines have gotten a lot smarter and more powerful in this regard. However, CSR can still impact SEO indirectly, because downloading and executing a JS bundle to render the HTML takes longer than having the HTML ready in the first place. So client-rendered sites often have worse largest contentful paint metrics, which is a factor Google uses for ranking.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Only parts of this are correct. Just commenting to make sure OP does some fact checking before using this to make any decisions.",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "feel free to elaborate on the points you disagree with",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I have no idea where you read that “SSR” is good for SEO and “CSR” is bad for it. Good SEO is generally a product of having a well formed document structure and predictable responses when a document is fetched. Theres some other stuff (sitemaps, etc) that can help too.The only reason I could think of why a document that is assembled on the client side would have worse SEO is because it requires JS to assemble some amount of the document in the browser, and maybe the crawlers don’t do that as well yet. But with the prevalence of frontend frameworks. I have to imagine they are capable of it to some degree?\n\nI think you are generally playing down the differences here.Not all search engines can crawl JS.\n\nGoogle Can and I believe Bing can now too, but others don't.Additionally, even if a search engine like google is crawling your JS build, each site/page has a set amount time and compute resources allocated to it being crawled. If your client-side site spends a bunch of time building a large JS load that it received from your server, then you are cutting into that crawl time, which can have negative impacts both in terms of content crawled and general performance metrics.\n\nA bit of a cop-out on my part because I don't want to spend a bunch of time writing a response, here are some additional points from the AI overlords:\n\n\"\"\"\n\nInitial Content Availability: With CSR, the initial HTML sent to the user's browser is often minimal, sometimes just a basic structure without the actual content. The content is then rendered in the browser using JavaScript. This approach can lead to delays in content visibility, particularly for search engine crawlers. In contrast, SSR and static sites deliver fully rendered HTML, making the content immediately available to both users and search engine crawlers.\n\nSearch Engine Crawling and Indexing: Historically, search engines have been better at indexing content that is directly available in the HTML source. While modern search engines like Google have improved in executing JavaScript and indexing CSR sites, they can still struggle with complex JavaScript or when the rendering takes too long. SSR and static sites provide the content upfront in the source HTML, making it more straightforward for crawlers to index.\n\nLoad Time and User Experience: From an SEO perspective, page load time is a critical factor. CSR often requires additional time to load and execute JavaScript, which can result in longer load times compared to SSR or static sites. Search engines, particularly Google, use page speed as a ranking factor. Therefore, sites that load faster (often SSR or static sites) may have an SEO advantage.\n\nResource Overhead for Crawlers: Search engines have finite resources to crawl and index websites. CSR requires search engines to execute JavaScript, which is more resource-intensive than simply crawling static HTML content. This increased demand on resources can lead to less frequent crawling or incomplete indexing of the content, particularly for large and complex websites.\n\nJavaScript Dependencies: If there are issues with JavaScript loading or execution (due to browser compatibility, user settings, or network problems), the content might not render properly. This risk affects not only the end-user experience but also how search engine crawlers view the page. In contrast, SSR and static sites are less dependent on JavaScript for initial content rendering, making them more reliable for both users and crawlers.\n\nDynamic Content and Personalization: While CSR is often used for dynamic content and personalization, it can make it harder for search engines to understand and index the content correctly. SSR and static sites, on the other hand, can provide a consistent version of the content for indexing, which can be more effective for SEO.\n\nSEO Best Practices: Many SEO best practices revolve around having content easily accessible and well-structured in the HTML. With CSR, ensuring that meta tags, structured data, and other SEO-relevant elements are correctly implemented and rendered can be more challenging.\n\n\"\"\"",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I understand what you’re saying. My intention here is to make a better “best guess” for which technology to commit to learning before building with it.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "dont overthink it.\n\nJust make the content. If its not doing what you want, make it a different way.\n\nI love SSGs and have built 5 (?) sites in the last 6 months using them (3 of those in the last month alone). Its simple and portable. If i wanted to migrate to a CMS i already have all my html and css written. it also loads fast AF because theres nothing but raw content.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Yeah, I think that would be ideal but this is an important business (not development) question for me to answer.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Is there a reason you couldnt change methods later?\n\nAll things being equal, go with a static site generator. Its the least complicated output and gives you the benefit of templating engine’s without the complication of a dynamic engine on the backend.\n\nIf you arent building an application that requires high-reactivity (complicated form UIs and such) you probably dont need a frontend framework and youll have less portability if you build from one.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Yes and no. I’m building a thing for a business idea I want to test. I’ve made mistakes in the past where I’ve chosen a technology quickly and then had to change things and my philosophy now is that I’d like to do a bit more work trying to get it right at the beginning than alot more work trying to fix it later. I’d rather just focus on building the business, if you can understand that.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Meh my site is full csr and shows up at top of Google lol",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Astro and eleventy both ship fully-baked HTML to the user. That has great SEO benefits.\n\nEleventy is not a framework per-se, it more like a build tool for generating the files that make up your website. Eleventy only does stuff in a dev environment, it does nothing once you build your site. This is SSG (static site generation).\n\nAstro can work the same way (generate a 100% static site), it can also run as a server that can dynamically create webpages on-demand. This is SSR (server-side rendered)\n\nThese are often compared to CSR (client-side rendered) apps usually built with react/vue/angular/svelte/etc. These apps are very powerful in terms of state management and UI reactivity, but that power comes at the cost of performance. With a CSR framework, you don't get past a white screen until you have downloaded/parsed/executed the js. That puts a hard performance ceiling on CSR apps.\n\nThe big win with both SSG and SSR is: you're shipping fully-baked HTML and CSS to the client. This means crawlers have your whole HTML doc accessible to index, and users get high performance because they immediately get markup and style without waiting for a js bundle to download/parse/execute.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nowadays, it only makes a difference if your website updates very quickly and often, like Multiple times a day (think News-Sites, high volume E-Commerce). Then SSR will be good for quicker indexing by Google.\n\nFor more static sites and apps it won‘t make a big difference. It might have some impact performance-wise, depending on initial loading-times.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In my opinion (as somebody who has built countless SPAs) you shouldn't be relying on SSR and choose teck-stack that has good render engine (no SPAs and ajax loading)\n\nSSR in a nutshell is a workaround for having the javascript take care of the whole View rendering logic. And if you have a workaround on a meta-level, what would you do once you need another workaround for a simple fix?\n\nPage load speed is an essential part of good SEO and good UX as a whole, so it's very important.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "SEO has evolved, but the basics remain. Server-side rendering (SSR) is still generally better for SEO. It ensures that all content is visible to search engines when they crawl your site. New frameworks like Astro and Eleventy are designed with modern practices in mind, so they can be SEO-friendly, but it's about how you use them.\n\nFor static sites, pre-rendering content is key. Both Astro and Eleventy can generate static HTML, which is good for SEO. Make sure to render critical content server-side and use client-side enhancements for interactivity.\n\nI used an AI article generator, AIMD app, for my blog. It focuses on facts and SEO performance. Could be useful for consistently producing content that's SEO-friendly. It's about the tools and how you use them. Keep learning and experimenting.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acqyzv",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acqyzv/how_can_i_improve_my_portfolio/",
+    "title": "How can I improve my portfolio?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Cool site! The only thing I would change on your site are the transition effects — once a section is faded in, leave it fully visible as the user transitions from position to position.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Sweet, I think. I can agree with you on that. I'm sure it's a library option somewhere. Appreciate it!",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "updated! Thanks for the suggestion!",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Looks great!",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "From a dev standpoint I think its well built. The only thing that I’d adjust is the width of the content in the “testimonials” carousel, on my phone I only get one or two words per line and it makes the section really tall.\n\nUnrelated to dev but, your education section is also confusing. You list a CS bachelor, but the description under it is not about CS and then the image is an B.A. Econ degree. Edit: just realized your resume is there too and lists a B.S. in Econ. Might want to clarify which degree you do have.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Thank you! The CS in computer science... that was probably when I had chat gpt proof read it awhile back on the 3.5 model... it's just been chilling there. What a goof. I reallly apprciate that. Updating and going through CI/CD now.\n\nWill look at mobile for testimonials next.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "annnnnd updated the mobile styling! Thank you so much! It's little things like this that make a huge difference! Appreciate it.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Much better! Happy to help.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "looks great! one thing i noticed on mobile, the links in your navigation are not exactly centered on my screen",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I\"ll look into!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It was a padding issue coming in from the base styles for unordered lists. Fixed! Running ci/cd pipeline!",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "well, looking at the reactions, it seems i'm a bit different but don't understand why. your site is good, of course, but\n\nfirst, i look at the site for 3 seconds, seems pleasant and logical, but a bit too dark\nthen i look at the color contrast, it seems OK more or less\nthen i look at the font sizes. this should be elastic, it seems your fonts are not respond to changing default font size in the browser. it is a must in 2024!! for this reason, font sizes are extremely small, undersized...\nthen i look at the menu and keyboard navigation, the menu is not really keyboard navigable, again a must in 2024.\n\nso that is my basic order. impression, colors, fonts, menu and keyboard navigation.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have been thinking about the colors being too dark for awhile, is point two even actionable? Or related to part 1. I’ll take a look at part 3 not sure I agree with you on that one. Keyboard navigation for accessibility, I can agree a bit on that. I’ll check it out and see if I can get a quick fix.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It looks nice. But I noticed at the carousel at the bottom was hard to scroll by on mobile, almost no spots on my screen where i could touch to scroll up or down.\n\nMay i ask where you host your website?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Yes, this is all aws. Route 54, a simple S3 bucket. The carousel is an imported component. I may look into that next.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "also, I wonder if by increasing the width, I made this issue... sigh",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "pushing changes, reduced to 65% width. Not as nice but will give user ability to scroll past",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acqx9v",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/xbag2i2m33fc1.gif",
+    "title": "I open-sourced my Product Hunt \"Product of the Day\" — a searchable catalog of the most popular React component libraries",
+    "points": null,
+    "comments": [
+      {
+        "comment": "You had my upvote at opensourced",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What kind of maniac searches „a switch“ instead of „switch“?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "a maniac that isn’t thinking and just trying to record a demo video — good point!",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "A someone who has my respect for open sourcing their achievements <3",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "\"a switch, please\"",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What app did you use for the recording?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Screen Studio!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hey all! GitHub repo is linked here.\n\nI found myself spending way too much time browsing the web to find the right component or get design inspiration for my products. So, I built a website with my friend to help with discoverability and visibility. It ended up getting \"Product of the Day\" on Product Hunt back in September, but I recently open-sourced to do a better job of keeping it up-to-date.\n\nOn the site: https://catalog.magicpatterns.com/, you can:\n\n• Compare design systems\n• See UI/UX standards for basic components\n• Find the right component for your product\n\nOpen to contributions and feedback. Happy Showoff Saturday!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acqeee",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acqeee/wordpress_or_scratch/",
+    "title": "WordPress or scratch",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Never Wordpress.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Working with wordpress, you don't need to code much, all you do is just drag and drop, the maximum effort you will put on them is just writting some additional css.\n\nIf you want to Build a strong portfolio, you need to build websites from scratch then only you understand the basic principles.\n\nTry to learn some modern framework such as nextjs.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've done a ton of Wordpress websites. Every single one of them has reached a point, sooner rather than later, where I've said, \"Dangit, why did I pick Wordpress AGAIN?\"\n\nGranted, it's gotten a little better. But the amount of time I spend troubleshooting, horsing around under the hood, troubleshooting, writing php because no plugin or theme will do what I want, troubleshooting, and did I forget to mention, troubleshooting, I frequently realize it would have been faster to code everything by hand.\n\nIf you really need a CMS, if you're going to be posting content regularly and need to manage it easily, and you're ok with it looking good but not much else (ie you're not a developer type who tends to know exactly what you want and not be happy being forced to have the square peg of your wants forced into the round hole of whatever happens to be easily available), then wordpress is good. Otherwise, you'll be seduced by the first week in which you get a very nice looking website up and running quickly, and then you'll either be happy and stop working on it (which never happens) or you'll hit a brick wall of endless troubleshooting which will eat all the time you saved over doing it by hand. I am just amazed by how Wordpress can sometimes make a short task take 2 weeks.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acoxum",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acoxum/aegis_a_fast_secure_modern_lightweight_and_simple/",
+    "title": "Aegis - A fast, secure, modern, light-weight, and simple JS library for creating web components and more!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I haven't had time to look at the code yet so I have no comments regarding that. But Aegis is one of the most popular two-factor authentication (2FA) applications. I don't think naming it the same is a good idea. \"Do you use Aegis?\" implies \"Do you use the Aegis 2FA app?\".",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Yeah... Naming things is famously one of the more difficult things. And I'm not surprised that Aegis is already taken, specifically by something having to do with security, since it is a famous mythical shield.\n\nI'm not particularly concerned with the name being used. I'd never heard of that 2FA app until now, and the name is also used in everything from military programs to insurance agencies.\n\nAegis itself probably won't be the thing developers would use. They'd use components and styles built with Aegis, and I might even move the base component to it's own project. I'm not quite sure how I'm going to split things up, but I suspect that it'll be the components released separately that is what'd be more recognizable.\n\nPlus, I'm really mostly writing this for myself. But I think this is one of my more useful projects that others might find interesting or useful. And maybe it'll introduce more people to TrustedTypes, the Sanitizer API, Constructable StyleSheets, and web components.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acolw6",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acolw6/what_is_an_interesting_way_to_show_my_skills_on/",
+    "title": "What is an interesting way to show my skills on my portfolio site?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Use something like a range components which shows the percentage of excellence you have.check this",
+        "points": "-6 points",
+        "children": [
+          {
+            "comment": "NO",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I've never personally been a fan of giving a rating to your skills. I find it hard to quantify personally. Like how can I saw I know 80% of React if I don't know what 100% of React looks like?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "You're right, but it changes overtime, I thought it's a good way to showcase your skill",
+                "points": "-3 points",
+                "children": [
+                  {
+                    "comment": "That's true. I like the idea of showing progress over time, but I also feel like very few people wouldn't be checking out my portfolio site enough to notice those changes.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It rendered fine on my phone (nice mobile work). I tend to not bother with a skills section and immediately have my projects and my profile links. Put your best, most marketable skills in your resume.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thanks. I might just cut down on my skill icons to only have the skills that I am really good at and focus more on improving my projects section. I think my personal projects are currently my weakest aspect.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Keep it simple and link to an example project that used the skill.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We need a sub reddit for portfolios",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aco6ys",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1aco6ys/whats_the_best_low_cost_or_free_method_to_get_a/",
+    "title": "What’s the best low cost or free method to get a static webpage going?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Github Pages or Cloudflare Pages",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "Yep, GitHub pages is trivial to set up if you already know how to use git and have an account.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Netlify without a doubt.",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "GitHub Pages. You can throw your basic HTML/CSS there and connect your custom domain. When you're ready to blog, transition to something like Jekyll or Hugo (my personal choice) and have GitHub Actions build and deploy.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Use firebase hosting: 1. It's free 2. It's easy to update your website\n\nHere is my static websites that use firebase https://www.lusosoftware.com\n\nIf you'll need help setting up, dm... I'd gladly help",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "That animated header with low contrast text over an image does not inspire confidence",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "Thanks for catching that",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Also I can’t help but notice, of all the people on the website the marketing director isn’t smiling and has a water bottle in the background. Photos should follow some general theme imo\n\nRest looks good at brief scan visually",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Deploy Astro static site to cloud flare. It’s free. Example fuel.studio",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I agree with Netlify for Web Development Beginners, i used it myself when i had no clue how to rent a real server and didnt need a backend.\n\nIf you just want to become a Blogger, start with Wordpress. Use Elementor as your Page Builder, your Html/Css will be useful sometimes and you dont need any JavaScript/Php. Get yourself a Elementor Pro Plan, rebuild anything you find on youtube and give it back before 30 days (The Page stays, just the security updates stop) Then some Seo Plugin for example Yoast, then Convert ur images to webp or use Speed Plugin/Caching.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've built a ton of blog sites over the years. Here are a few options:\n\nIf you WANT TO LEARN SOMETHING... use the flavor-of-the-month free/cheap hosting (like Netlify or Firebase is right now). Eventually, they'll stop offering that service, and you'll have to move somewhere else... I built a Gatsby + Strapi blog using Netlify and it was fun to learn and relatively easy (I don't recommend that stack these days, lol). I'll say... the downside of this route is it was super exploratory, and I really don't ever want to go back and mess with this website *at all* since I don't remember anything I did.\nIf you ACTUALLY WANT TO BLOG... Just use a blog platform where you don't have to fiddle with a bunch of backend/hosting crap. Like Squarespace or Wix or whatever. I haven't personally used these recently, but it's a no-brainer if you don't want to faff around with the underlying infrastructure and just want a reliable blog that's actually enjoyable to add new posts to. The worst thing is when you feel inspired to write a post and you need to fix 14 things before you can even start.\n\nNiche Ideas...\n\nIf you HAVE VISUAL STUDIO license, Microsoft gives you free Azure credits (Pro = $50/Enterprise = $150) -- you can easily host a website in Azure App Services for free every month. I made a .NET website and hosted it there for years for \"free\" with this method. Also, if you don't care about the domain name, you can keep (unlimited?) free apps on {whatevernameyouwant}.azurewebsites.net if you have an active account.\nIf you HAVE AN OLD COMPUTER around and are looking for something that's tried and true and you'll never have to mess with it... I'd just install Ubuntu and host an HTML page website there (or whatever technology you're familiar with). You'll also probabl need to learn a lot, but once you get it set up, it's basically bulletproof. This is the best option out of everything because you don't have to deal with companies changing prices or policies, you can host as many projects as you want (assuming they're relatively low volume), and it'll just always work and you won't have to change anything for years, most likely. The only thing I ever do is... if the power goes out, I have to turn it back on.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "What about learning and using Wordpress? Is that a high learning curve or can I get started quicker with a prebuilt template or plugin(s)?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Yeah, that’s a great option. It’s easy to get going. I’d say it’s a good middle ground between a platform that does it all for you and you having to build everything yourself.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I set up a S3 bucket on aws S3. It is $2.13/month and by far the cheapest way I have found to do it. It is also a huge pain in the neck to set up - and if I were to do it again I would probably use netlify.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Cloudflare R2 would also work",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You could always host it from your computer",
+        "points": "-5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "GitHub Pages is the simplest for getting going. Completely avoid figuring out your own domain name or anything like that, just push code up and it is updated.\n\nNext step after that is to use Netlify — free tier works great for a ton of uses, and it can connect to GitHub so any pushes you do will automatically build and deploy. Pretty easy to get a custom domain with them, too.\n\nFor blogging: don’t overbuild. You want to get writing, not spend a month building a site and figuring out a CMS. Eleventy has a ton of templates for making very fast blogs where you write each entry in markdown and add the file to the git repo and everything builds. You don’t need Wordpress or other fancy stuff — once you have a site built and are actually writing, then you can worry about whether you need more functionality.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acnm7h",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acnm7h/whats_the_recommended_set_of_tools_to_leverage_to/",
+    "title": "What’s the recommended set of tools to leverage to handle a multi step form in React Native?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acn1rm",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acn1rm/the_easiest_way_to_convert_an_excel_spreadsheet/",
+    "title": "The easiest way to convert an Excel spreadsheet into a simple web landing page?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "So you want to just show the data or actually perform calculations on the page itself? Also can't you just make it a Google Sheets file and share it with them?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Actually perform calculations, I need the data in the fields below to automatically update as soon as the user enters a number in the input field and clicks the confirm button.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "You're gonna need to use at least some JavaScript for that. Isn't making a Google Sheet and sharing it with your friends an option?",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "We are already using Google sheets in my company, but I want to make this table public. Considering that there are only nine cells in the table, I thought it would be prettier and more mobile-friendly to create a small webpage instead of using raw GS.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Makes sense. Hit me up on my DM, maybe I can help you out.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acmsi8",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acmsi8/html_link_and_label_text/",
+    "title": "HTML Link and Label Text",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The class names are generated within WordPress to apply styles specific to WordPress. They mean nothing in isolation.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thanks! Looks like I got the syntax right in the second image?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "<a href=\"https://example.com\">example</a>\n\nhttps://developer.mozilla.org/en-US/docs/Web/HTML/Element/a",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thanks!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acmrwz",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acmrwz/looking_for_image_button_suggestions_for/",
+    "title": "Looking for image button suggestions for nonprofit homepage...",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Go to https://awwwards.com and search for charity or non-profit or even the broader sector like 'environment', usually some inspo there",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Thank you so, so much!!! I really appreciate it!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acm19n",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1acm19n/filezilla_stopped_using_keys_from_sshagent_on/",
+    "title": "FileZilla stopped using keys from ssh-agent on macOS after restart",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aclqgs",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1aclqgs/replicache_too_good_to_be_true/",
+    "title": "Replicache: too good to be true?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The main gotcha I see is that it's closed source. You have to pay based on your number of users, and at any time they can decide they no longer want to do business with you. From their terms:\n\n\"Rocicorp may terminate any license hereunder for good cause upon notice to you by email with immediate effect. Rocicorp may terminate any license hereunder at will with 30-day notice to you by email.\"\n\nFor me that's an instant dealbreaker. Ideally I want to build my sites so they can keep working 5 or 10 years from now. For something like this that's fundamental to a project (you couldn't easily swap it out for something else), I don't want to depend on any private company continuing to treat me nicely. It seems very possible that the company won't even exist 10 years from now. What happens to your site then?",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "no I never tried doing it",
+        "points": "-7 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

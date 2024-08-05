@@ -1,0 +1,1324 @@
+[
+  {
+    "id": "t3_1bhnztj",
+    "subreddit": "r/gadgets",
+    "dataType": "link",
+    "dataUrl": "https://spectrum.ieee.org/pacemaker-laser-driven",
+    "title": "Laser-Driven Pacemaker Guides Ailing Hearts With Light | PV semiconductor tech could find applications in neurostimulation, too",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgy79o",
+    "subreddit": "r/gadgets",
+    "dataType": "link",
+    "dataUrl": "https://spectrum.ieee.org/virtual-reality-head-set-8k",
+    "title": "VR Headsets Are Approaching the Eye’s Resolution Limits",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I'm glad the article touched on the many other important properties of VR equipment beyond just resolution. In a way, hitting high enough resolution to reach the limit of human perception is a good thing. Now that aspect can plateau so R&D can focus on other areas. HDR / OLED optiona and other improvements to the image itself, FOV, FPS, Foveated Rendering, heat reduction, reduced power consumption, cost savings of manufacturing, etc....\n\nAnd thats just the screen hardware. There's a lot of room for improvement and just general advancement in other hardware and software that drives those displays. Wired/ wireless standards also improve for data transfer where needed. We're getting better SoCs every year on smaller process nodes. There's a bright future ahead as long as there's both cutting edge models and budget friendly consumer models that offer compelling productivity and entertainment options that people actually want.\n\nEdit: I totally agree with the suspicion as well. With quality upscalers and better hardware of native resolution, there may be ways higher resolution still can improve visual perception once the pixels and screen door effect are behind us.",
+        "points": "500 points",
+        "children": [
+          {
+            "comment": "And WEIGHT...I want the ready player one goggles :) the BSB is on the right track",
+            "points": "181 points",
+            "children": [
+              {
+                "comment": "I want elon musk's neuralink so I can get shot and killed in VR while I die of a brain infection IRL",
+                "points": "120 points",
+                "children": [
+                  {
+                    "comment": "With Max Headroom type seizures…",
+                    "points": "28 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Or they could go the way of the Oculus guy's headset that just kills you the first time you die in game. Then you don't have to wait for the brain infection to kill you.\n\nhttps://arstechnica.com/gaming/2022/11/oculus-co-founder-makes-a-vr-headset-that-can-literally-kill-you/",
+                    "points": "16 points",
+                    "children": [
+                      {
+                        "comment": "I’m ready for Aincrad. Would go in a heartbeat.",
+                        "points": "12 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Oh boy, i do love a zip bomb directly into the Neurons.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Peak hard-core mode.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I don’t trust Elon or his companies",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Back Street Boys?",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "Oh, my God, are they back again?",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I had the thought that a lightweight helmet would work better for weight distribution than goggles, would be curious to try a helmet demo model",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "Oh is definitely does. I have a battery strap for my quest so I got counterweight at the back of my head and it's so much better despite technically weighting more than the standard strap",
+                    "points": "4 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I just hope we get a BSB 2.0 or something. I’d place an order for one right now but the lenses being much worse than the quest 3 when it comes to glare really ruins it",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Oh do they? That makes me feel much better only being able to afford the quest 3",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Yeah thats what I hear anyway. BSB has great OLED screens, and is a lot more comfortable since its much smaller + custom made. Quest 3 has better lenses and a larger FOV. I spend enough time in VR, and I dont care about wired VS wireless, that I would just eat the cost of the BSB but I dont like the idea of having those downgrades. Especially since a BSB setup would cost me around $1400 with basestations.",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "I agree",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Bloodstarved beast?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "https://store.bigscreenvr.com/products/bigscreen-beyond",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yes. Weight and that pancake glare in the dark.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "..........the backstreet boys?",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Just attach some helium balloons",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I would take this with a grain of salt. Remember when they (incorrectly) said anything past 30fps was a waste because our eyes can only see 24fps. 30fps feels like a slideshow compared to 60fps. 120fps is where things really feel fluid for me.\n\nJust because we can’t make out individual pixels doesn’t mean increasing resolution won’t improve how things look.",
+            "points": "62 points",
+            "children": [
+              {
+                "comment": "They never actually said that, the film industry identified that 24fps was the lowest framerate that made motion look natural, not that it was all we could see",
+                "points": "13 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Remember when they (incorrectly) said anything past 30fps was a waste because our eyes can only see 24fps\n\nNobody fucking said that except 4channers, as a meme",
+                "points": "35 points",
+                "children": [
+                  {
+                    "comment": "They may have picked it up from when The Hobbit was released and a lot of articles were out about the 60fps frame rate being the max noticeable by humans.",
+                    "points": "10 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "People absolutely argued about that on forums (HardOCP, Arstechnica, etc.) back in like 2000-2005.",
+                    "points": "8 points",
+                    "children": [
+                      {
+                        "comment": "OP isn't talking about random-ass basement dwellers. The \"they\" was CLEARLY talking about tech media",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "No one important ever said those things though. This is a good example of being careful that the experts you are listening to are actually experts in the relevant field.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Listen son, you got 2 eyes. Why would you need more than 2 frames per second? That's just greedy!",
+                "points": "20 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "because our eyes can only see 24fps\n\nNobody argued our eye could only see 24fps, 24fps was a holdover from film because 24fps is when film motion looked similar to what we see, film was fucking expensive so using the lowest fps footage was the standard. Plenty of filmmakers though tried shooting higher fps and then slowing it down in the edit. Most video in the 80s was shot at 30fps and in gaming that was the standard until computers could handle 60fps, then 120 without lag.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "30fps feels like a slideshow compared to 60fps. 120fps is where things really feel fluid for me.\n\nThis is really interesting. Worked on visual perception back in the day. Back in the late 90s/early 2000s I could tell the difference between 24 and 30 pretty easily—and I mean 30 progressive, not interlaced (which is basically 60). But as time has gone on I can't do that so easily any more. And I've never been able to tell a difference between 60 and 90/100/120.\n\nBack in the early 90s we were experimenting with \"high frame rate\" cameras and we got them up to 120. We couldn't get people to tell the difference between 60 and 120 or 24 to 30 but between 30 and 60 was a huge, massive spike in what people were perceiving. We tested maybe 1500 people and got something like 65% noticing a difference between 30 and 60 but 3% noticing 60 to 120 and maybe 1% from 24 to 30.",
+                "points": "22 points",
+                "children": [
+                  {
+                    "comment": "Film vs interactive media is a pretty big difference though. I don't think I could tell the difference beyond 60fps on film, I'm not even sure I could reliably spot the differences on 30fps vs 60fps film (on some scenes you definitely can but I don't think it's a huge difference), but the input latency is very noticeable. I think for anyone to tell a difference between 120fps and higher frame rates just eyeballing it on a screen would require superhuman perception, although it can still provide fringe benefits up to a point, but 60fps on a VR device feels very bad, pretty much unusable without some latency mitigation like interpolation to try to mask it.",
+                    "points": "18 points",
+                    "children": [
+                      {
+                        "comment": "I sold electronics for a while, I could definitely see the different framerates some TVs had, and the level of choppiness between low end and high end. 90% of customers I told about it couldn't see it, even if I pointed it out. So it definitely highly depends on the person.",
+                        "points": "5 points",
+                        "children": [
+                          {
+                            "comment": "Was this true 60Hz content though, or motion-smoothing or whatever? Because you can definitely see motion smoothing, but it's because it looks so unnatural and weird.",
+                            "points": "2 points",
+                            "children": [
+                              {
+                                "comment": "Most of what we had running was movie trailers, so whatever they run on. But we had some on special AD modes, the expensive high end qled and oled TVs, and for me the smoothness was night and day on those.",
+                                "points": "",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "I think another reason you notice, is that on film they usually don't pan the camera across at really high speeds - and when they do, the image is very blurred. In video games when you whip your mouse across, it makes the frame rate really obvious because of the huge image changes between frames.",
+                        "points": "6 points",
+                        "children": [
+                          {
+                            "comment": "Film basically has perfect motion blur - if you film a glowing ball tracing \"I love you\" in cursive, you'll see the text on screen even if it does that in the span of a single frame, while a game would only have processed the ball's position before and after the frame, and none of the text would be visible",
+                            "points": "5 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "A big difference between film and interactive media is that in film, a 1/24s frame can contain 1/24s of action in it (which is why a single frame is often blurry), a video game generally renders each frame as an instant. There's a big difference in your perception of smoothness seeing a 24fps slideshow of crisp frames where each frame shows an instance in time, and 24fps of frames where each frame shows 1/24seconds of action.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "switching my tablet from 120 to 60 and scrolling a menu was what did it for me - like 60 felt like I could physically see the position of black text refresh where 120 was more fluid when compared immediately between the two\n\ndunno if I could tell with video, but with interaction and switching it on and off it was pretty easy to tell which was which",
+                    "points": "3 points",
+                    "children": [
+                      {
+                        "comment": "My phone has a power saving feature that kicks in at midnight every night, and as part of the things it does is to reduce screen refresh rate down from 120hz to 60hz. It will occasionally happen as I'm actively using it and it is just awful. 60hz screens are so much worse.",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "I think interaction has a huge part in this, like watching a movie at 24fps is actually okay but playing a video game at 24fps is miserable to interact with\n\nwhen games went from 30 average to 60 it felt like a huge leap, and going backwards was painful because the time between each frame being pushed and your input being recognized felt like forever in hindsight\n\nphones at 60 going to 120 have this same feel, where once you've felt the smoothness of scrolling at 120 it makes 60 refresh way more noticeable",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "You can't really compare the scene capture of real-time rendering vs physical cameras... or fundamentally different display technologies, or indeed different forms of media which feature different motion characteristics.",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "That’s crazy because it’s hard for me to play some games that are locked to 60fps no matter what you do. I think 120 FPS is bare minimum for motion to be good imo. If it’s like fluctuating between 80-120fps it can be sorta alright too.",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "The 30fps thing was a popular meme but it wasn't actually seriously believed by folks that worked in film or graphics. High-end CRTs could easily do 120 hz refresh rates, while early LCDs could not. People can and did make content that looked visibly smoother at higher framerates.\n\nThere is still a difference between that and adding additional density of pixels. More pixels mean they're smaller and more densely packed. If you have normal vision, there's only so small that you're able to perceive - there would be no point in making pixels work at the nanoscale level, for example, unless your viewer had microscopes for eyes. There is very clearly an upper-limit.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "If they could just figure out sickness for most of us, that would be great.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Yeah, that is a tough one. There's been some improvements from higher refresh rates that help the display keep up with head movements. Unfortunately there's a need for really creative solutions for some aspects of motion sickness. Folks have had good luck with fans blowing on them, and haptics in headsets help too. Playing room scale or with teleporting instead of smooth locomotion helps, but it is an individual experience.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "I've been playing with VR for years and I just can't ever get used to the motion sickness. It really is the absolute biggest hurdle over any other VR problem. Obviouslt stationary games like Beat Saber are much less likely to cause issue but still.\n\nNo matter how many RPGs I play, I feel nauseous and hot after 10 minutes. I've tried fans, I've tried sitting, I've tried moving my feet in place to trick my brain into thinking im actually moving. Nothin. Its really hard to convince our brains that we are moving forward while staying still.",
+                    "points": "3 points",
+                    "children": [
+                      {
+                        "comment": "Omnidirectional treadmills. I'm convinced there is a large portion of the population that simply won't deal without it. Sure there might be more insanely complicated ways (what if you had magnetic clothes and it pulled on you so you felt like you were moving?) but it's going to be even harder to do.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Also not messing up my hair",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I read one article that being able to see your nose was important and inserting a fake nose was enough to help a lot of people get over the sickness. The rest is going to happen because of perceived motion without acceleration (eg car/motion sickness)",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I was a VR dev for years before having to quit, VR sickness. Any stationary foreground helps. Ex a HUD. Things I've learned:\n\nStationary foreground elements help\n\nVignette hrlps\n\nWide FOV helps\n\nLimit loss of character control. Knock back can be ok, sometimes.\n\nAvoid world space particles close to camera. Ex. The spiderman demo has these and I get barfy in less than 5 minutes.\n\nHigher frame rates work for some people. It does the opposite for others. 60fps is a sweet spot. But Unity space warp can undermine this.\n\nCamera lag makes you sick, but a slight steady cam helps.\n\nA user rotating their head will make them sick, but preventing it will make them sicker.\n\n20 minutes seem to be the limit for ~30% of users before slight sickness sets in. After 40 minutes, ~60% of users get queasy. More than an hour can cause severe sickness. No stats on that.\n\nMovement vs teleport has mixed data. Teleport makes me barf.\n\nImperfect vision increases odd of getting sick.\n\nHaving a constant noise maker in the physical room helps.\n\nA playmate helps with injury but not sickness.\n\nKeep moving objects away from camera.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Very interesting read. Curious though, since you’ve worked in this front, did your dev team ever consider adding some artificial motion blur for fast-moving objects and head turns as a possible means of alleviating motion sickness and making the environment more “true to life”? The biggest problem I have with 60fps and higher handheld vloggers is how “fast” and “shakey” the video seems to be in that frame rate. Really gives me a headache in a matter of seconds. You never see that kind of motion in real life unless you’re being jostled about on a very bumpy and winding road.\n\nTo me, I think motion blur might be the difference between high frame rates flashing on displays and what we see in real life.\n\nA very easy demonstration of my theory would be to stare at a spinning fan for a few seconds, then hold up an iPhone in Video mode at 60fps and point it exactly where you are looking, at the same fan. Just hold it there, don’t press record, just watch the screen. Holding the iPhone up and watching the fan spin in real life and on screen at the same time side by side really shows just how different things are rendered at higher frame rates, and on screens with higher refresh rates. Switching the iPhone from Video 60fps to Slo-Mo 240fps makes the difference even more obvious (again, no recording, just watching the screen). In real life, you can barely make out the individual blades on the spinning fan unless you force yourself to eyeball it going around in its orbit (which can induce nausea and eye strain for some if prolonged). On the iPhone screen, you can totally see the individual blades being spun around in real time on the screen, without any slow motion even being applied to the video.\n\nWas the topic of motion blur ever discussed or experiment with by your team?",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I agree. They need to focus on other aspects of VR headsets like preventing the lenses from steaming up while I am jerking off.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Based.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah exactly what I was thinking, this is great news, can’t wait for them to focus on all those other areas of improvement.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "There's a lot of room for alternative display technologies entirely, which is where a lot of R&D has already gone. Laser beam scanning (aka retinal projection) is one that makes a lot of sense if the quality (low FOV) and cost (manufacturing) can be scaled. That's particularly true for AR applications.\n\nOnly market example I know of: https://www.cnet.com/reviews/avegant-glyph-preview/",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You made me feel like I just got enchanted by an ad and sold on an idea - however you read this, I mean it in a good way",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Thanks, haha. I go through phases between VR and normal games, its always a nice way to mix things up. A Quest 2 is still a very easy way to get your feet wet and tinker with a lot of desktop VR too. I'm still hoping for more competition around budget devices, but im not getting my hopes up for a standalone option subsidized enough to compete. I probably have as much fun tinkering as playing.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I know that Meta is working on a few other important aspects of VR headsets. One of the most important and over looked due to technical limitations is brightness. The PSVR 2 has a 256 not light output which when you're wearing it feels bright enough, I've had to squint a few times in bright environments.\n\nA sunny day can be over 100,000 nits.. Realistically that's never going to be possible but they have developed a prototype headset that can produce 20,000 nits giving a much more real level of light which enhances contrast and realism. Of course the downside is that the headset is huge and gets hot very quickly but as a proof of concept it's Interesting",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "ELI5 What would an image with over the max resolution look like to the human eye?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Good question! In a non-VR sense you can already see this. Start with any TV screen or computer monitor, and just keep backing away from it. The screen overall does get \"smaller\" as you get further away, but the pixels per degree of view increase greatly in density. When your laptop is now 8 feet away from you, you'd be hard pressed to make out any of the pixels.\n\nWith VR displays being very close to your eyes, they really have to crank up the resolution to match that same percieved pixel density per degree of FOV. Its more about what unwanted things you no longer see once resolution is high enough. Not being able to see individual pixels and having the screen door effect gone make the images seem much more natural. With a high enough resolution you can also avoid hard lines & edges that usually anti-aliasing features do extra work to correct.\n\nBeyond raw pixels, you'll still need the image itself to have enough detail to be worth the amount of processing power it takes to push that many pixels.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I was really disappointed with my quest 2. I bought it to play video poker with my buddies across the country but found the graphics across most of the platform to be pretty crappy. OMG I almost said Mid.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Man, give me human-like peripheral FOV and I'll cry 😭",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "No no no. They'll continue to develop resolution if thats what's cheap to develop.\n\n\"This VR set has a resolution thats 8X higher than the human eye can even perceive! And this one is 12X higher for an extra $200 dollars!\"\n\n\"I'll take the 12X higher one....\"",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Good point, I could see that happening as well. Not everyone has the time to be as technical, and similar to Intel CPUs pushing \"higher Ghz = better\" in marketing, it could be low hanging fruit.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ready for my direct optic nerve input. Hook me up. Plug me in. Let’s go.",
+        "points": "85 points",
+        "children": [
+          {
+            "comment": "Someone Jack this guy in.",
+            "points": "21 points",
+            "children": [
+              {
+                "comment": "",
+                "points": "13 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I’ve already got an internal synthetic part with a serial number and warranty card… no fear here. Let’s do this.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I already have literal screws loose in me, what's the worst that can happen? Figurative ones? Pft, I say!",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Instructions unclear, covered in goo",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Oops! An over the air update bricked your implants and you are now blind.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Tell me the glitch art won’t be fantastic though. I mean I’m the kid who loves to distort CRTs with magnets and short things out to see what happens.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I hear Elon is looking for volunteers.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "We've got an eyePhone for that!",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Exactly- see how easy that was to integrate with. I think brain stem integration would be fun to try. I bet it would be a ride.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "We promise not to put ads in your dreams!\n\nWe're totally putting ads in your dreams.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "That would piss me off. I don’t like that. Guess we’re gonna have to start the jailbreak talk now.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Everyday we get closer to Cyberpunk being a reality",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "???You’re already plugged in???Just open a new tab or take your gear off???",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "If you're not jacked in, your not alive...",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Until they find a way to improve said eye’s resolution limits >:)",
+        "points": "61 points",
+        "children": [
+          {
+            "comment": "Yup. Time to make new eyes.",
+            "points": "15 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Just what I need. Everyone to be able to see all my nasty pores and shit from 20 feet away.",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I already preordered my iEye",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Captain!",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The marketing of this would definitely be a patch-eyed pirate as the mascot who has his bionic eye under his patch.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Kiroshi Optics when?",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "New Kiroshis in yet?!",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Can't wait for ripperdocs and ads in my peripherals.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Some NPC in Dogtown was talking about his cheap Kiroshi's and he has constant ads",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "And then there's V kitted out in tier 5++ while tossing anything that's not best in slot.\n\nI wish I could interact with that guy and give him some of my lower tier ones. Haha.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "From the moment…",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As if there is powerful enough current hardware capable of rendering decent graphics in those resolutions.",
+        "points": "27 points",
+        "children": [
+          {
+            "comment": "I’ve seen a lot of content on these headsets that were simply awful, regardless of the resolution",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "I think that’s just because VR is still seen as a gimmick.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Something like GT7 though, give that an improved hardware and headset and you are really starting to get crazyily good.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Eye tracking could help with this somewhat. The human eye only sees fine detail in a very small area.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I mean with ai who know. You dont have to render anything at natives resolution. As long as the end image is as good it doesnt matter.\n\nCurrently dlss quality of a 4k monitor is extremly good.  And its just going to get better.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "a lot of VR stuff is enclosed spaces and large voids with visuals, some games I imagine would work fine. others you have stuff like FSR. plus a lot of people use virtual desktops, watch movies on huge screens etc. it's not gonna do GTA6 at native res though no",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "VR headsets sit right up next to your face. This isn’t an 8K TV sitting 10 feet away. You’ll notice the pixels and more importantly you’ll notice the aberrations from the pancaked lenses.",
+        "points": "106 points",
+        "children": [
+          {
+            "comment": "My new Varjo Aero is the first one where I can't really see the individual pixels clearly. It has also real lenses instead of fresnel lenses. It was a humongous jump up from HTC Vive pro.\n\nI'm really happy with it.",
+            "points": "36 points",
+            "children": [
+              {
+                "comment": "Go to some large environment and try and look at something far away, that's always where it becomes noticeable to me.\n\nNow that we're past dealing with the screen door effect it's not too hard to look really good close by, things further still suffer because they require way smaller pixels.",
+                "points": "30 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "As far as I can see the Aero is EOL and no longer being made. Varjo don't really seem to do much in the way of consumer products, and their business ones seem to start at like 4000 euros.",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is what the article is about. It's like commenting on an article saying apples are fruit and then you say actually, apples are vegetables. Sure maybe they are, but you can't just state it without any sources to back you up.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I mean, not if you get them small enough. Personally, I just take my glasses off when I use VR lmao, I can barely make out the pixels on my quest 2 if I really strain to focus",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "Taking my glasses off would be a kind of solution. Can’t see pixels if everything is blurry.",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "Built-in antialiasing!",
+                    "points": "7 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Apparently Apple have purposely softened the focus on the AVP for this exact reason hahah",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "A 4k screen the size of a phone has a significantly higher pixel density than an 8k 50\" TV.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "100% nonsense. You already can't see individual pixels with Pimax Crystal which is 2800x2800. Varjo XR4 is ~3800x3800 and it's not using pancake lenses.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "There's already 1080p 0.5 inch OLED screens used in AR glasses. All depends on the FOV it covers once you look through a lens. Xreals glasses put the 1080p in like a 45 degree FOV which makes the density much higher than Apples 4K or whatever. I didn't notice pixels looking at full quality video through them, wasn't really trying though",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I was going to say it’s blown up to massive scale though, so not really, right? Like “exceeding eye resolution” on a tv and “exceeding eye resolution” on a screen right in front of your eyes that’s magnified 800 times larger than it actually is is a very different thing",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Which ones have reached our resolution limit?\n\nThe consumer devices I’ve used (the expensive ‘gaming’ ones), have all been weak on resolution and gaps between pixels. Especially ones using fresnel lenses.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "That's what they said about sound and fps for the longest time",
+        "points": "27 points",
+        "children": [
+          {
+            "comment": "This one is more so based in reality though. At a certain pixel density and distance your eyes can’t actually distinguish between the individual pixels.\n\nA 4K TV’s don’t need any higher quality as long as you’re sitting farther away from the TV than the length of the TV (this should be correct but the exact numbers may be wrong)\n\nWith VR headsets the screen is obviously much closer to your face requiring a much more pixel dense screen. And what this article is saying is that we are approaching that level of pixel density.",
+            "points": "30 points",
+            "children": [
+              {
+                "comment": "I think it's going to be a case of \"you may not directly distinguish them, but you can still see that it looks better with higher resolution\". I've seen this \"the human eye can't see higher resolution than this\" articles for 15 years now. They're always wrong. Remember Apple's \"Retina display\"?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "This is more of a case that the resolution is high enough that we can't see better but if you want the image to change at more then 2fps then you need better hardware.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "This is more of a case that the resolution is high enough that we can't see better\n\nAccording to who? Every single claim that anyone has ever made on this topic that you can't tell the difference from increased resolution has been wrong. This won't be different.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "They haven't been wrong. We have reached the practical limits of resolution on many different displays at this point.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "After thinking about it a bit more, I do agree with you but I think the effect is going to be different. With a higher pixel density then your eyes can see, you can definitely have more room for a smoother blend of colors, but probably won’t matter in the same way for your eyes.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "With a higher pixel density then your eyes can see, you can definitely have more room for a smoother blend of colors,\n\nGood point, it likely would help with gradient handling, which definitely would be a noticable difference in itself.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Nah, it was always a meme and a handful of idiots.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "I still have people every now and again as recently as a month ago try to argue that having more than 120 FPS does nothing. I think it's more than a handful of idiots.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "it's more of a price-reward thing. I like high frames too but I'd put more money into a bigger panel or more pixels over 240hz",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "They're just being honest about their experience. When you can't even tell the difference between the first and second jump in quality, and someone tells you they can totally tell the difference between the 3rd and the 4th, you assume they're either lying or some kind of superhuman.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "The thing is I refuse to believe anyone on this earth could go from 60 to 120 and not instantly, within 1 second, be able to see and feel the difference. I think they just don't have access to it so they're lying to themselves/others out of some childish jealousy. Then 120 to 240 is more understandable if they don't see/feel the difference, if they've never played a game in their life.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Nope, I've seen multiple people do this. Literally can't tell the difference. Like turning on a lightbulb (obvious AF to me) and the blind guy asking if it's on.\n\nSome people just don't process the same.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "You can refuse to believe it all you want, but it's true. I'll be Exhibit A. Maybe it's an aging thing, I don't know. I never even wore glasses or had any vision problems. Still don't.\n\nI think they just don't have access to it so they're lying to themselves/others out of some childish jealousy.\n\nI have a 160hz monitor and 7900 XTX driving it. It's not because I want something I can't afford. I just genuinely can't see it. It's weird that people won't believe that.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Did you actually set your monitor to 160hz in your desktop settings(right click desktop, display settings scroll down, advanced display settings, scroll down, refresh rate)? I've seen streamers get told to do this and they instantly have a breakdown because windows defaults them to 60hz and it's identical to what it was before. Even just moving the mouse on the desktop is twice as smooth, like, you see fewer trailers of the cursor. It can't be an age thing. I can do a circle with my cursor at 60hz and see individual trailed cursors, then when I swap to 140 it becomes a much smoother circle of cursors, then 240 it's basically just a real time cursor moving in a circle with no trails.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "Yup, that was the first thing I did when I set up my monitor. Now that you mention it, I think I did notice fewer mouse trails, but that's not a thing that attracts my attention in the first place.\n\nMaybe the issue is that our brains have spent so many years ignoring the little blurs and imperfections that we don't even notice when they're gone.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "But I think you absolutely would notice it if you use it for a long time then revert to lower FPS/HZ screens. It may get to the level where it is semi-subconscious, but if you are able to tell the difference when you revert, then clearly it is perceptible, even if not on a conscious level.",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "I actually have my old 60hz monitor set up right next to it to use for work, and I truly can't notice. At least for basic desktop use. I don't play games on that monitor anymore.",
+                                            "points": "0 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "FPS and sound have limits too. most of the FPS stuff comes from misinformation and opinions from earlier video formats and the fact the screens we had at the time were so highly responsive. 60>120fps is less of a detail on a CRT",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Foveated rendering is absolutely where focus should be because VR requirements exceed GPU computing limits and always will be ahead of flat screen market. There’s a huge amount of wasted computing power as human vision is a lot worse than we actually think. Statically, your eyes have massive blind and burry areas right in front of you, and the only reason you don’t “see” it is because you move your eyes constantly and your brain fills in the rest. It’s not even difficult to map out per person, and if you did you could render even less in the areas you’re looking at, and even worse in the areas you have actual blind spots.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "also most of the image the eye is seeing is in black and white also!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Tell me when the FoV is wide enough that I don't feel like I'm in a fish tank",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Pimax is already there….",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No they’re not.",
+        "points": "21 points",
+        "children": [
+          {
+            "comment": "Objectively untrue. As someone whos demo'd AVP, you literally cant see the pixels in normal usage. The only way you even get a hint of them is if you're looking at extremely small text from far away, and even then it looks more like an aliased image than a pixelated one.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is the correct answer.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Yep. My first thought was 15 years ago when people said that the human eye couldn’t register more than 60 FPS on a monitor, so there was no point in making monitors > 60 Hz",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "FPS and pixel density are different though. We know that past a point resolution improvements don’t really matter, that’s why very few people give a shit about 8k TV, or 12k or 16k. 4k is pretty much the best we can do.",
+                    "points": "5 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "20+ years ago using the old 21\" trinitron 2048x1536 @ 85hz and then going to 1920x1080 lcd at 60hz just was painful.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "When it comes to human limits there is no magic number, it's more of a spectrum. You can't say \"Ok, we have reached 14000ppi. Anything above is useless because you couldn't tell the difference. 13000ppi is dogshit and 15000 is overkill\".\n\nChances are, you will still notice the difference in an extremely subtle way that isn't really worth it. Call it diminishing returns.\n\nIt's like with iPhone's Retina screen: 400ppi is theoretically the limit your eyes can discern the pixels from your typical smartphone viewing distance, but if you pick up an Xperia with 800ppi you'll feel the difference. But obviously, a 4K screen on a smartphone is a resource hog so diminishing returns kick in and it stops being worth it.\n\nI see it more as Bell curve than a hard single point limit.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "ppi is not the unit you want to use in contexts like this, but ppd",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "but if you pick up an Xperia with 800ppi you'll feel the difference\n\nWill you feel the difference, or see the difference? Or interpret the visual difference as a feeling?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "You see it, but not in a way you can pinpoint. For example, from 200ppi to 400ppi you can say \"Yeah, it's different because I cannot see the pixels\". From 400ppi to 800ppi you won't able to verbalize it, but you'll see it subtly.\n\nThis kind of subjective experience really hits a wall when you have to translate it into language.",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No they aren’t, not even close.\n\nEdit: I thought I’d give the article the benefit of the doubt and try to actually read it instead of just responding to the headline, and the very first thing is this:\n\nBut here’s the real surprise: TCL’s new TV isn’t the most pixel-dense or exotic display ever produced.\n\nWow, really? You’re telling me the least pixel-dense 4K TV ever produced isn’t the most pixel-dense display ever produced? What an unbelievably stupid article. I guess I don’t actually need to read it after all to know that it’s nonsense.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "New VR gear, replace your eyes.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Time to spring for some Kiroshi Optics upgrades",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The limit of the human eye differs when dealing with a static image vs a moving one. So for example maybe you can trick the eye with a static 8k image, but if theyre using vr and running about in-game, you also need the highest possible framerate and the best possible stability. There is no use making high resolution goggles when games are so behind in these other areas.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well I guess they will just have to update human vision next? 😬",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wtf do you mean resolution limits? We don't see the world in terms of pixels, resolution is a term that applies to images, not human vision.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "They said this about the iPhone 4 lol",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "And it was true back then too for screens at arms length away. This claim is for screens right next to your eyes.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Oh cool. I’ve only seen this claim consistently for 20 years about various technologies",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good, now they can focus on lighter headsets with longer battery life. 🤷🏽‍♂️",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do I interpret this correctly- that in the future VR footage/animation won’t have to portray things a certain length away anymore or.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m anticipating affordable gear that brings the visual field past my peripheral vision and so get even more immersive!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "VR needs to focus on hand tracking and removing controllers. Nothing says immersion like holding a clearly circular piece of plastic while the screen shows you holding a shield and sword.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I agree. I'm not sure how they're going to solve the challenge of being able to move around, open menus, etc though unless they make some big leaps in the 'brain-computer interface' type technology. There's only so many gestures you can do with your hands that don't risk getting misinterpreted as a different gesture.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I'm sure movement could be done with a wristband and arm swinging. Hand tracking now is pretty good, but needs more than inside-out tracking to improve (maybe a Index lighthouse-type solution?) There's also a mod for Skyrim VR that adds support for the Muse BCI that casts spells and recharges mana based on your concentration",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The actual answer to this is that the biggest vr games will be sims of of people who are for one reason or another sitting down. Don't have to solve movement if the game is flying a ww1 air dog fight.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "EMG bracelets. They read the muscles in your wrist to figure out your finger movements with high precision. Meta put out a demo last year.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Are there VR headsets that are on par with the Vision Pro yet?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "In terms of resolution, very few of them. In terms of more general features? Even the quest 3 beats it in a lot of areas.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "It’s definitely more AR than VR. But it’s the groundbreaking screen tech that’s really exciting. That and the eye tracking, finger clicking thing.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "If we're talking screen tech, then the Big screen Beyond beat the vision pro to the punch a while back. They have the same display and lens type combo. In terms of navigation by looking and pinching, that's only an apple thing so far, but I could take it or leave it. What I want more VR headsets to have eye tracking for is more for the eye tracked foveated rendering.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "I got super excited about the Big Screen when I first heard about it. The I learned it only works with lighthouse and Valve index controllers. And just a friendly warning, if you don’t own one yourself, I had to trade my Valve Index for a Quest 2 specifically because of the lighthouse units and controllers.\n\nThe controller triggers are surprisingly cheap, and wear out fast. I had to send both controllers in twice for replacement before my warranty expired. The Quest 2 controllers are definitely more sturdy.\n\nWhile the lighthouse units will last longer if they’re version 2, and you make sure they’re not running when you’re not using them, they’ve gotten harder to find and may come with a waiting period.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Honestly, I'd be fine if the resolution stayed at the level of the Quest 3. I want other advancements at this point. I want eye tracked foveated rendering and varifocal displays/lenses. That'll close the gap to reality a lot better than resolution could.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's pretty arbitrary since we can kinda see more. Yeah I think 8k per eye at 120° viewing angle should be good enough even for reading text. I have a hard time thinking just what sort of monster GPU can crank out 90fps at 2x8k. ?10 4090's?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Soooo, Porn still doesn’t look great yet? When should buy?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Neat, almost time to buy one.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "S",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Next, they should do helmets! Bigger screens, surround sound stuff. In fact, maybe they do? I’m not really keeping up… Added feature, running into stuff will be less of a worry!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They should approach more affordable prices",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What a silly headline. Reading the article the issue is not that we’re nearing “eye resolution limit” but instead the hardware limitations of how closely we can pack pixels. Will our current limits look better than the previous limits? Yes. Will we finally be rid of the screen-door effect? Debatable.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Here we go again......... unless they're getting close to 16k resolution in each eye (and they're not), then no, they're not \"GETTING CLOSE TO THE EYE'S RESOLUTION LIMITS!!!\". Fucking dumbass pseudoscience bullshit from people that don't know what they're talking about. Probably the same people that say you can't see any difference over 60 fps. Bodies do not work that way, good night!\n\nEach fucking eyeball has like a hundred million photoreceptors in it. at 16k resolution you've basically guaranteed a pixel per light-cone in the eye. That's our \"resolution limit\". Show me hardware that can run 16k resolution, let alone in VR headset format. Go on, I'll wait. And you'll fucking wait too, at least 10 years.\n\nAnd what about the tech on the bleeding edge right now of interfacing with our nervous system directly? What then? Fuck the eyes, the next bottleneck will be how much and how fast our brains can handle.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is awesome can't wait to program in vr",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Oh yes, because a hot brick strapped to your face is going to make that more fun.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Comments like this remind me of people in the 1980s who said \"Can't wait to do all my work on a computer.\" and in response people said \"Oh yes, because spending months to learn how to program command line interfaces and perform one measly task at a time sounds like fun.\"\n\nThen in came GUIs, mice, and multitasking. The tech evolved, and the same will be true of VR, both from an interface and weight/size/heat dissipation standpoint.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "Pinning a lot of hopes on magic 'yet to be invented' tech here ..\n\nThink of VR headsets are more like cars than computers. Has seen wild technical advances over the years, know what hasn't really changed since the very first? The general foot print, needs for seats, that great big wheel for holding into. Why .. because human interfaces demands don't change.\n\nThey can rejig the chips, make better screens, fiddle with optics, but at the end of the day, that all has to put an image on the back of a humans eye.\n\nVR Tech isn't new. There has been tremendous advancements in both the face brick and the magic that drives it, but at the end of the day, it's still a face brick and it's going to stay a face brick. Can't wait for the future where this years face brick is just like last years face brick, only 2.2mm slimmer & 4grams lighter because they removed the headphone jack.\n\nAlso .. be really careful what you wish for here. Do you really, really want a VR hat for work (irrespective of how good it is). Locked away in a virtual employee bubble your employer controls.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "They can rejig the chips, make better screens, fiddle with optics, but at the end of the day, that all has to put an image on the back of a humans eye.\n\nYes, but what is to say that it can't approach a slim visor or curved sunglasses-like device, weighing 100 or so grams? How far off this is would be another question.\n\nbut at the end of the day, it's still a face brick and it's going to stay a face brick. Can't wait for the future where this years face brick is just like last years face brick, only 2.2mm slimmer & 4grams lighter because they removed the headphone jack.\n\nHeadsets halved in thinness over the last 8 years. This is the actual progression of thickness.\n\nWe know that holocake lenses are another known solution that can halve it again. Combine that with a highly curved design and a facial interface akin to BigScreen Beyond and you'd have something approaching a slim visor. Certainly not a brick by any definition of the word.\n\nThe advancements over the next 8 years are very likely going to be bigger than what we've seen in the past 8 years, for the simple reason that long-term advancements happen over a span of 10-15 years, and those long-term advancements are what lead to the larger changes in how the technology functions at a core level.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I really hope media at resolutions that exceeds what the human eye can see doesn't catch on, at least as a new \"standard\" that everyone decides to insert into everything.\n\nFor one thing, I don't feel like being forced to waste money on hardware just to unnecessarily inflate pixel counts, when art direction almost uniformly makes a far bigger difference to whether something looks good or not.\n\nFor another, for me even 4K often creates an uncanny feel when not used well. (so, most of the time)\n\nIt's one thing if I'm watching a nature documentary about insects, and you see a ladybug interacting with a dew drop on a leaf in insane detail you'd never be able to see in real life, no matter how close you'd get.\n\nIt's another thing entirely when it's a shot of couple of people playing out a dramatic scene, but you can see every pore and wisp of hair on their cheeks, as if you were an invisible observer creepily watching them from inches away. (unless the director was explicitly going for that effect, but it's virtually never the case) Or there's a wide shot of some vista, and it feel artificial because distant objects are unnaturally sharp. And never mind the way it often magnifies flaws in set design or VFX. Not everything is improved by watching it through a microscope. (or a high-res telescope)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That’s what people said about refresh rate a few years ago…",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "resolution does not equal refresh rate...but I get you with the whole 33fps bullshit, the brain can detect motion which was totally ignored. 240fps is my sweet spot, but then sometimes I still see stutter or lag.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This article really glosses over timelines when talking about \"approaches\". You can plot out current headsets using the Wikipedia data. MicroLED is the technology to get us there, but it requires brand new foundries and billions in investment. It'll go from 4K -> 8K -> 16K which is a process. So the 16K per eye headsets are closer to 2040 for a cheap headset people are imagining.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

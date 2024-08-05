@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "t3_1aur5t7",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aur5t7/what_is_the_best_ai_text_to_voice_generator_that/",
+    "title": "What is the best AI text to voice generator that can be given instructions about accentuation of words, sentences so the result is like someone reading a poem.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "You might try ElevenLabs. Their text to voice is pretty dope. ElevenLabs",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Thanks. I will check it out.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aupszg",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aupszg/whats_the_fastest_way_to_make_my_resume/",
+    "title": "What's the FASTEST way to make my resume irresistible to companies like OpenAI and Anthropic?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Build something that is really impressive and not a copy of something else.",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "this is the way",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Was gonna come post this here. OpenAI and other AI companies want people who have actual expertise with the technology. It's cool you have experience in the tech sector, but you need to provide something that has value directly to them.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sadly you don't have the experience, you don't have the double PhD, you don't have the youth, you don't have the network and the competition is crazy.\n\nYou'll need to self-teach and start another firm.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "So I'm like the OP, except I have 10 yoe and 2 years as MLE title at a major tech company.\n\nBut of course I don't have a PhD or direct experience with LLMs.\n\nHow does this work? The whole economy is going to be taken over by LLMs and the only people who can work on them are \"double PhD, young, with connections, competitive, top 1%\" ?\n\nJust trying to understand. Nvidia's almost at 2 trillion, OAI fundraise at 80B. I get I'm not at the level of being able to create new model architectures but I have a ton of experience with robotics and using earlier AI systems to do things, as well as writing the actual stack that makes it work in real time..",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "It's the people who think that they can jump into a job at OpenAI or DeepMind who are misguided.\n\nThere will indeed be plenty of other AI jobs.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Well you also characterized them as bad. I know for a fact that Cruise offers 350k to 2 yoe engineers and their AI systems drive a car.",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "You mean just do another startup?\n\nDo you think OpenAI , etc are all just hiring double PhDs?\n\nI can get the network... and I don't mind being competitive.\n\nAre you saying just self-teach and do another startup?",
+            "points": "-3 points",
+            "children": [
+              {
+                "comment": "You seem a little delusional for all the experience you have.\n\nI know folks that work at Open AI - its not your typical tech unicorn.\n\nThey hire very very selectively and have the clout to pull the top talent from the top tech orgs.\n\nI too would love to work for OpenAI, but fat chance in hell.\n\nIt's pedantic to say \"double PHDs\" I agree, but they're not hiring Joes off the street either. You either have the goods and experience and a reputation already or you don't.\n\nUnfortunately, you (and I) don't so it'll be quite the uphill battle that the reddit hivemind cannot answer for you. If you do land there please share how.\n\nI work for a \"top\" AI leader today and dont even scratch the surface of what OpenAI is looking for experience wise.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "You mean a dedicated AI lab or a company that’s one of the leaders in the AI space?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yep.\n\nNo doubt you can get some sort of job in AI .. but unless you are in the top 1% it won't be a great job.\n\nEven then, some of the top 1% won't be wanted by OpenAI or Deep Mind.\n\nSo what do you expect from working at an AI firm?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "No doubt you can get some sort of job in AI .. but unless you are in the top 1% it won't be a great job.\n\nAre there going to be 'great jobs' in the future? Near as I can tell, there's less than 1000 OAI employees, several thousand at Deepmind and Meta, and nobody else matters. Oh like 20 people working on Grok.\n\nAnd all the other jobs suck? I mean mine is not the worst but I don't get to make cool AI applications, just write code to make our platform run faster...",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "There will be a need for many AI integrators.\n\nThese will add AI tools to the software and systems of firms.\n\nA hands-on role and not at all academic.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Right. Which sounds legit. Engineer designing a bulldozer doesn't need to invent a new diesel engine, just shove a Cummins in there. Designing actual robotics systems that use the latest models, where you empirically benchmark the models and serially combine them to improve reliability (one model checks another etc) is pretty cool. What's a Hessian anyways and what does it have to do with AI....",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Dude you been replying to is an idiot. You need to get into a company that will be moving to utilize ai technology. You can find a good job with your credentials. You don't have to work at deepmind or openai for a 'good job'. There are many fortune 500 companies that are making moves. Everything will be ai, get into a position to learn as you get paid like you should.\n\nIf what you are wanting is to exclusively work on architectures, that is the academic route.",
+                                "points": "-1 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I hope you don’t imagine all openai employees have double PHDs",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I don't know about OpenAI .. but DeepMind certainly tends in that direction.\n\nThese firms seem to prefer a smaller number of the very, very best rather than bigger teams of simply very good applicants.\n\nThis means that even with a very good first degree it is unlikely that you will get an interview at one of these firms.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "no idea i'm new here but\n\nanything outside of essentially advanced prompt engineering\n\nwhat was your process for learning this specifically? any good resources or mostly just experience/trying things out/etc?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "This is the best free course I've found: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/\nThis website is good too: https://www.promptingguide.ai/",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "thanks",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Reminded me of the Abstruse Goose classic.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It sounds a bit like you wanna play football for the 49er or the KC Chiefs. I presume their inbox gets flooded by applications and they only look for top of the game people. If you wanna get hired, write cutting edge papers on AI with top tier scientists to get their attention. Or build something astonishing.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m gonna give a different answer here.  \n\nReach out to a talent partner at one of their VCs. Send them a blurb and ask for 30 mins. Be clear about what you can do and what roles you’re interested in. Fuck the filters, take initiative, and go the shortest route to a valuable referral.\n\nQuick edit since just seeing your SF bit: almost all the important roles require you to be in the Bay Area right now. Also, they have no reason to hire someone without incredible skill level in AI or similar. Most people like you with great skill in software want to work for the big AI players, because everyone can see where this is going. You will have to take a step back in seniority to break in.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aupack",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aupack/participate_in_a_quick_survey_on_aidriven/",
+    "title": "Participate in a Quick Survey on AI-Driven Chatbots & Customer Satisfaction in Retail!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Would appreciate your help! Remember I do not make money of this. It is just a university dissertation! If you have any question feel free to ask!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aun6nn",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aun6nn/eliezer_yudkowsky_often_mentions_that_we_dont/",
+    "title": "Eliezer Yudkowsky often mentions that \"we don't really know what's going on inside the AI systems\". What does it mean?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The connections being drawn by the neural nets are unknown to us. That is why AI is trained and not programmed. If it were programmed we would know the \"why\" for every word or pixel it chose, even if it were extremely complex.",
+        "points": "24 points",
+        "children": [
+          {
+            "comment": "I see. And is there at least a theroretical way in which the these connections can be somehow determined? Also, are these connections formed only during training correct? They are not changed later unless trained again?",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "There is a lot of academic work in the last few years looking at this “explainable AI”. In large language models specifically.\n\nSome examples include: analysing specific sections of neural network in different circustances (i.e. what happens to this row x of the neural network when it gets answers right, and what happens at that same row x when it gets a similar question wrong).\n\nThere’s also some work that tries to map the mathematical neural network to a graph of entities (like a Wikipedia graph) and then when the neural model outputs something the entity graph should indicate which entities and concepts were considered by the neural model during the task.\n\nCheck out research on Explainabilty of AI / LLMs or some of Jay Alammar’s blog posts",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yeah theoretically you can, but it’s just like theoretically you can pull apart a human brain and determine exactly what’s going on,\n\nAnd yes the “connections” are formed only during training or fine tuning(which is also training)",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "Ok so I see that it's like 1 : 1 to human brain right? But is it really? I'm assuming the researchers are now trying to figure that out, do we know if there are maybe some principal differences?",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Nah it’s just similar in the way that human brains use neurons, and neural networks operate in a manner that tries to do the same thing mathematically,",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "https://youtu.be/aircAruvnKk?si=WxHdecvWyOQMjAS1",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "We don't really know. There will be major philosophical implications if we find out though - could learn the whole cosmos is a simulation like we already suspect, and determinism eats us all up",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "It's inspired by the structure of human brains, but it's actually very different.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "We know what the connections are. We don’t really know why they are. Interpreting NN internals is an active area of research.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Like that answer. So after AI is trained we can see what connections it finally chose, but we don't know why. So this is the part where weights and other paramteers are tweaked to achieve the best results right? We try to understand why and how weights are tweaked in a ceratin way, am I understanding it well?",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "We know how the weights are tweaked (that's part of the algorithm as we designed it). What we don't understand are the patterns that emerge when all those tweaked weights work together.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "There is the keyword \"explainable AI\" for research in this area.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "It depends on the implementation:\n\nSome learn all the time so making new connections.\n\nSome are trained and never change the internal state i.e. the connections.\n\nSome are regularly updated with new training data.\n\nMost do all the above.\n\nBut ANI is so many different technique and new implementations are added all the time. AI and ANI are just umbrella terms for lots of different things.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "wait how do they learn all the time?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "And is there at least a theroretical way in which the these connections can be somehow determined?\n\nThe theory involves the strengths of the connections inside the neural net being weakened or reinforced depending on how the inputs and outputs in the training data map to each other. It's a reasonably solid theory, and the sort of thing that you would expect to work. But the actual trained NNs that you get when applying the theory on a large scale are so complicated internally that we don't understand what they're doing.\n\nAn analogy would be something like a steam engine. A steam engine works according to the principles of newtonian physics and Boyle's gas laws. The physical theories are quite simple, and we understand why they are important to make the steam engine work. But the actual engine might have hundreds of moving parts, and it's not obvious just from knowing the theory and looking at the engine what's going on inside the engine that makes it effective. You might see parts of the engine whose purpose is not apparent without carefully studying how the entire engine fits together. NNs present the same problem, except way worse because (1) they're more complicated and (2) they're trained automatically rather than designed piece-by-piece by human programmers. Some engineer in the world may understand the entire steam engine and can tell you exactly the role of each part; but there are no humans who fully understand the patterns inside a large neural net.\n\nAlso, are these connections formed only during training correct? They are not changed later unless trained again?\n\nThat's how most NNs are currently used, yes. The training is far more computationally intensive than running the trained NN, so you need more time and better hardware. Therefore, it's advantageous to have a well-trained NN that you can deploy and use without any further training.\n\nMy suspicion, however, is that this is going to become too cumbersome and not versatile enough for the real world. To get really smart machines that can adapt to the complexities of the real world, at some point we're going to have to figure out either how to train NNs on-the-fly while they're running, or some new algorithm that lends itself to being updated on-the-fly, or both. This would increase the unpredictability of the systems, but that's probably a necessary sacrifice; intelligence is by its nature somewhat unpredictable.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "We know what's happening at a small scale, but we can't explain what's happening in the large scale. It's like the brain. We know a lot about neurons work, but we still don't know how it leads to human consciousness.",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "Can't we just scale this reverse engineering from small scale up and up? Where it starts to become an issue?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "We have no idea how to do that -- properties emerge at higher levels that we don't know how to reduce to lower levels. It's like the brain. Planaria have like 12 neurons in their brains, and even there we can't completely explain their behavior.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "That's crazy. But what to you mean by \"properties emerge\"? Properties are inputs to the system. You mean new inputs can emerge from within the system that are the feeded back to the system as new inputs?",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "You were able to read my comment and answer it. Can you point to the neurons in your brain that allowed you to do that? It's like that.",
+                        "points": "11 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Look up emergent behaviour. In the case of AI, the emergent behaviour is what we manipulate. Backpropagation is easy to understand mechanically but, how exactly backpropagation and a whole lot of data work together to produce an intelligently acting AI is perplexing. The \"cleverness\" isn't stored within any one node in an AI, it's an emergent property of the whole system working together.",
+                        "points": "9 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Yes.  For example, we still aren’t sure how GPT3 and above are able to do simple math, despite never being explicitly trained to do so. It’s an emergent ability.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "I see. That's amazing. Would be good now that actually. But wasnt gpt given some math books as a training data? Maybe it learned from that? Some sample problems with solutions?",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Even when you strip out that training data, those patterns still emerge.  It can even suggest solutions for unsolved math problems that no one has ever written about.      \n\nIt can do things like invent a brand new card or dice game that’s never existed before, and then play some sample rounds with you.    \n\n  It’s absolutely eerie what it can do.  But in the end its output is still deterministic; it’s not alive, at least not in the sense that we are.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "planaria has a several thousand of neurons",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "He was talking about a very specific planaria named Kurt, Kurt is not very bright.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Thanks for the correction. The point remains. But will need to fix the example. What are other organisms with well studied nervous systems used as simple models? I don't see one that actually gets down to the order of magnitude of 12, so I don't know what worm the original poster was thinking of.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "\"More is different\" - Anderson\n\nSuggest reading that old article",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "No, it's chaos for our limited understanding. We basically play with 'godlike' powers. Won't be long until we lose safety measures and eat some nukes by it (it's not a stretch). Or abandon it completely",
+                "points": "-5 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Back propagation and gradient descent are the steps a neural network takes to tune and improve itself. If the neural network has a billion parameters, these steps guide the network through a billion-dimensional space to find good weights that fit the data. However, there is no real way to summarize the final model intuitively. We can push some data into the model and get some results out, we can inspect individual neurons and activations, but on the basis of these observations you can’t really predict what will happen with a new input other than feeding it into the model. In that sense you can compare it to a collection of quadrillions of “if-then” statements, where in principle a super advanced being could make sense of it but humans can’t.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The idea is that the AI is a black box, you know what goes it, you know what comes out, but you don't know the process.\n\nThis is not correct. We can inspect the weights of every single neuron (although there are simply too many to do it manually), we know the math behind it, and we can see the \"propagation\" in the network, we can map which signals \"fired\", etc. In fact one promising way to check if LLM is hallucinating is by checking these signal propagations.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Do we have some concrete examples of that? I assume we can figure things out in very small scale, like a few neurons. Can't we just scale this reverse engineering process up and up?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "It's an exaggeration used by Yudkowsky and his doomers to make it seem like AI is a dark art. But it's a slight of hand of language. In the same way physicists might not know what dark matter is they still know a lot more about what it is than a layman does.\n\nIf knowledge of how e.g. large language models was so limited we wouldn't be able to know how to engineer better ones. Techniques like linear probing give us weight activations through a model to show what tokens are associated with each other.\n\nHere is a paper on explainability: https://arxiv.org/pdf/2309.01029.pdf",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It’s technically possible to examine the weights of individual neurons within a model, but models like GPT-3 contain 175 billion parameters (and GPT-4 even more), so manually inspecting each weight is impractical. The sheer volume of parameters obscures the model’s decision-making process on a practical level.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you want the details of what's happening we can know if you want to spend a lot of time trying to work it out. Potentially an insane amount of time which is a but pointless. The whole point of ANI is less effort by the developer, you train it and it writes itself.\n\nTraditional software is a lot easier. You read the code and follow the logic.\n\nBut we normally treat it as a \"black box\" because all you need to know is what goes in and what comes out and have a good/rough idea what's happening in the middle. But we don't need to know in detail.\n\nAnd especially at the level of what a lot of people who are working on AI, it is almost script kiddie level, you follow the instructions you have a trained LLM, etc at the end.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "We don't need to know for the purpose of the outcome, that's obvious. My questions is exactly about the inner workings, the black box you point to. Is there a way to know what's going on in the black box?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Yes I said it in the first paragraph.",
+                "points": "-2 points",
+                "children": [
+                  {
+                    "comment": "How exactly?",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "By asking that I assume you are not a programmer. Basically read up on tensorflow and transformer model, learn some programming. And realise there is no practical reason I can think of why you would want to put that much effort in to understanding a single request through a LLM or other ANI system.\n\nAnd stop being so lazy and do some reading.",
+                        "points": "-4 points",
+                        "children": [
+                          {
+                            "comment": "Not practical. For the sake of understanding.",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is the same dude who loves the Shoggoth meme basically assuming that the AI is learning some arcane level devil fuckery. Can you say blind spot? At the same time, there are plenty of RL and ML researchers out there who have a pretty good idea of what is going on mathematically.\n\nThe media engine found a neckbeard redditor looking motherfucker with a fedora and put him on the TED stage. I don't think he realizes how much he comes off as a joke to most of the world.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This https://www.perplexity.ai/search/11-LHbW3vR9Qc.W7J.Tb4qT7w?s=m",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Suppose you're a cosmic architect with the ability to create life itself. You're given a huge \"first day on the job\" task: to craft a society from scratch. So, you design a race of \"people\" and construct a big ol' city for them to inhabit.\n\nFrom your high-up viewpoint, you watch as the city goes crazy with movement and interaction. Everyone follows a daily pattern: waking up, talking, eating, talking, sleeping, and repeating. They connect and engage in endless conversations, the content of which remains a mystery to you.\n\nBut then, something unexpected happens. Without any new guidance or interference from you, these people start to self-organize in ways you never imagined. They innovate in art, establish governance structures, and pioneer technologies far beyond your initial blueprint. It's as though the city and its citizens have sprung to life, evolving and complexifying in unpredictable, self-driven ways. They even find a way to send you messages! When asked from your cosmic leadership how it works, you realize, you would need to go back and understand all the conversations, and the information the society established and stored that led up to this point -- but that's impossible. There's way too many convos, and way too much data to comb through, so you can only go back to your cosmic boss with a broad idea of its inner workings.\n\nBut one thing you did notice, it wasn't until the society reached a population threshold that it really started boomin'. So you say to your boss, I don't know how it happened, but the population scaled up, these things happened. By the way, is it cool if I take this Friday off? My wife's keen on heading upstate to visit her folks. You ask, hoping for a yes. But your boss shakes his head, sorry, Johnson's already got dibs on that day. need you here, you know the drill. you nod, trying to keep the irritation from showing, but inside, you're seething. This is the third time Johnson's outmaneuvered you on the vacation front. You let out a heavy sigh and gaze out the window, overlooking the society you've brought to life. And as you watch, you can't help but wonder if there's someone down there, staring back up, stuck in their own version of this frustrating cosmic loop.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Ok so it's like trying to determine the position of a feather thrown by the wind where we know the laws of fluid mechanics and some initial conditions but the number of particles that hit the feather and that feather is made of which all determine the final position is so big that it's basically impossible to predict? But maybe we can at least know the order of magnitude of variables that need to be tracked? Like number of convos you mentioned. I mean one could say that ok we have to track those variables, so let's track them. Let's actually use all that computing power we have access to. I wonder how big it would need to be or if it's actually too big (even with quantum pcs and biological computing etc). Or in other words is it a matter of computing power only? Or actually understanding the logic, the inner workings? From others answers I assume it's not just computing power. We still don't understand how it all works. Or I'm missing something here",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I honestly believe the short answer to that is \"the squeeze isn't worth the juice.\" I don't think we have the power to do it, and it wouldn't yield us the insights we need to understand how it works.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What he means, is these models are trained (almost \"grown\" like a living thing, plant, animal, person) which is very different from traditional programming where you have a large amount of control. The best way we have to control these massive data sets is by essentially pruning the results (like cutting off branches off a bonsai tree to get a certain shape) with human feedback (humans talking and pressing thumbs up/down on ai generated results or another simple reward system, like 0 is bad .5 mediocre and 1 is good or something).\n\nWe don't know what we are gonna get as an output, it's too large and complex to figure out how it got to each response path it took. It's like looking at a tree branch and asking how it got there, you know, with cells and energy how the wind affected its \"vector placement\" and the whole cycle, but for a giant paragraph or image or even video now.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think one good way of demonstrating this is that without access to training data and a lot of compute, you could not code up a program that does what today's AI systems do. If we understood how AI systems do what they do, we should, in principle, be able to do that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Although we visualize a neural net as a series of interconnected nodes with weights, at the end we just do a series of multiplications, adds, and other math functions to make the prediction at the output. Consequently, the inference calculation is just a really big mathematical formula.\n\nTo train it, we start with random numbers for all the weights and additions. Then we run an example through it, and calculate how much did each parameter contribute to error in the output. Then we tweak each of the parameters a tiny bit in the direction of more correct. This happens over and over with many different inputs, that might tweak some numbers back and forth.\n\nFor a large language model, this is billions approaching trillions of parameters.\n\nAfter a lot of training, we can measure that the error rate is pretty stable and more training isn't making it better.\n\nBut we usually don't know why the weights are what they are or why they work.\n\nIn some cases, like image recognition, we can put in sample inputs and see what portions of the neural network are more active, and then from our own observations discover correlations about layers of the network and differing inputs, but not always.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Emergent properties are by definition unexpected and unknown.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yud Doesn't have any kind of credentials he couldn't even Pass High School and can't even manage proper calories in or out to lose weight by simply adding or subtracting 50 calories from his top count.\n\nthe man is a literal autistic neck beard wearing a fedora with a hyper obsession that he cannot break who's only serious credentials that he worked with smarter people than him who have since changed their position on AI safety (bostrom)\n\n(I say that as an autistic person pointing out that he is a less functional type of autistic not to be grudge him because of his disabilities, As obsession is also my great strength that makes me so good at AI but I cast a much wider lens than he does)\n\nthe only reason he gets any attention is he is obsessed with this singular topic and refuses to stop talking about it such that everybody has identified him as the leading voice on it over a long Of time\n\nNor are AI the black boxes they were a year ago mechanistic interpretability is a actual concept which is possible and being undertaken so that we know why and how these systems make the responses they do after their built\n\nThe real and great challenge is what it's called emergence which is never fully predictable, Because we really don't know what emergence is and as far as we know consciousness is the only real free something from nothing in the universe it we can't even define what consciousness is\n\nDavid Chalmer one of the leading experts on this pointed out specifically that for all we know at the level of the universal system a water bottle is actually a self-regulating cybernetic consciousness completely aware of its functions as a water bottle",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Eliezer Yudkowsky often mentions that \"we don't really know what's going on inside the AI systems\". What does it mean?\n\nExactly what it sounds like.\n\nTraditional AI (sometimes known as 'GOFAI') was pretty much based on assembling lots of if statements and lookup tables with known information in some known format. You could trace through the code between any set of inputs and outputs to see exactly what sort of logic connected those inputs to those outputs. GOFAI would sometimes do surprising things, but if necessary you could investigate the surprising things in a relatively straightforward way to find out why they happened, and if they were bad you would know more-or-less what could be changed in order to stop them from happening. The internal structure of a GOFAI system is basically entirely determined by human programmers.\n\nModern neural net AI doesn't work like that. It consists of billions of numbers that determine how strongly other numbers are linked together. When it gets an input, the input is turned into some numbers, which are then linked to other numbers at varying levels of strength, and then they're aggregated into new numbers and those are linked to other numbers at varying levels of strength, and so on. The interesting part is that you can also run the entire system backwards, which is what allows a neural net to be 'trained'. You give it inputs, run it forwards, compare the output to what you wanted, then put the output back in the output end, run it backwards, and change the numbers slightly so that the strength with which the numbers are linked to each other is a bit closer to producing the desired output for that input. Then you do that millions of times for millions of different inputs, and the numbers inside the system take on patterns that are better at mapping those inputs to the desired outputs in a general sense that hopefully extends to new inputs you didn't train it on.\n\nYes, you can look at every number in a neural net while you're running it. But there are billions of them, which is more than any human can look at in their lifetime. Statistical analyses also don't work very well on those numbers because the training inherently tends to make the system more random. (If there were obvious statistical patterns, then some numbers would have to be redundant, and further training would tend to push the neural net to use the redundant numbers for something else, increasing the randomness of the system.) We don't really have any methods for understanding what the numbers mean when there are so many of them and they are linked in such convoluted ways between each other and the input and output. If you look at any one number, its effects interact with so many other numbers between the input and output that its particular role in making the system 'intelligent' (in whatever it does) is prohibitively difficult to ascertain. Let's say we have a neural net where the input is the word 'dog' maps to an output that is a picture of a dog, and when the input is the phrase 'a painting of Donald Trump eating his own tie in the style of Gustav Klimt' that maps to an output that is a picture of exactly that, but the numbers between the input and output form such complicated, unpredictable patterns that we can't really pin down the 'dogness' or 'Donald-Trump-ness' inside the system (like you could with a GOFAI system), and there might be some input that maps to an output that is a diagram of a super-bioweapon that can destroy humanity, but we can't tell which inputs would have that effect.\n\nI know that key components are neural networks, backpropagation, gradient descent and transformers.\n\nThose are some key tools of current cutting-edge neural net AI. That doesn't mean AI is necessarily like that. In the old days many AI systems weren't like that at all. The AIs you play against in computer games are mostly not like that at all. I suspect that many future AI systems also won't be like that at all- there are probably better AI algorithms that we either haven't found yet, or don't possess the computation hardware to run at a scale where they start to become effective. However, it's likely that any algorithm that is at least as versatile and effective as existing neural nets will have the same property that its internal patterns will be prohibitively difficult to understand and predict. In fact they will likely be less predictable than existing neural nets as they become more intelligent.\n\nAnd apparently all that we figured out throughout the years and now we just using it on massive scale thanks to finally having computing power with all the GPUs available.\n\nNeural nets in their basic form have been around for a long time (they were invented in the 1950s, and referenced in the 1991 movie Terminator 2). Transformers however are a relatively recent invention, less than a decade old.\n\nBut Eliezer talks like these systems are some kind of black box?\n\nThat's perhaps not a very good characterization. A 'black box' refers to a system you can't look inside of. With neural nets we can look inside, we just don't understand what we're seeing, and there seems to be too much going on in there to make sense of it using any methods we currently possess.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aun0t5",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.archdaily.com/1013450/how-are-ai-systems-assisting-architects-and-designers",
+    "title": "How are AI Systems Assisting Architects and Designers?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aulego",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aulego/ai_videos/",
+    "title": "AI videos",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Maybe you can try this, and you can generate different styles that you want, https://photo.a2e.ai/?ref=3.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auihd0",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1auihd0/bias/",
+    "title": "bias",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Yeah, I’ve just gotten into Midjourney and this has happened to me! I made this character who was a white woman and I wanted to see her in a fighting stance—all of a sudden my character was a black woman! I tried to specify the character is in fact a white woman—all of a sudden my character is a white man!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe you can try this, it's free and easy to use, and you can You can choose which skin color to produce and generate different styles that you want, https://photo.a2e.ai/?ref=3 .",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My thoughts?\n\nIt's a reflection of inherent biases of the internet. Not in any cognitive sense, but just the way that images in given categories are weighted more heavily towards certain types of subjects. Sometimes those biases happen to align with whatever it is I'm trying to create, and it makes my life a little easier; other times, they're an extra hurdle for me to work around. At this point, it's just another quirk for me to take into account when working with the tech.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aufvkh",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aufvkh/oneminute_daily_ai_news_2182024/",
+    "title": "One-Minute Daily AI News 2/18/2024",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1audpn6",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1audpn6/why_does_the_existential_threat_of_ai_given_such/",
+    "title": "Why does the existential threat of AI given such a low probability",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What statistical analysis/report are you referring to?",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "The one his CCP bosses told him to refer to.\n\nCheck his post history.\n\nHe asked basically this same question a few days ago. https://www.reddit.com/r/artificial/comments/1aslq2g/what_do_nation_states_mean_when_they_say_winning/\n\nHe seems to be trying very hard to keep AI scare topics on this sub.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Wait, so is anyone who’s worried about AI supposed to be getting checks from the CCP now? Where’s mine?",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "How can i apply for ops job? It looks entertaining",
+                "points": "-2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because people wrongly believe that future technology can be understood by extrapolating from the technology of today.",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "That's what statistics does though. IMO it's often better to say some number based on the past than saying nothing, just with a biiiig disclaimer that it doesn't always wprk.",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "AGI can’t be predicted by statistics.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "I kinda agree, I don't understand how this contradicts my point",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "You have made one of the more common fallacies when understanding what statistics does and doesn't. Honestly, one of the nice things about AGI will be when it does a full review of all academic literature and highlights how absolutely riddled with failures to understand statistics most of it is.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "Can you elaborate what you think statistics does different from my understanding?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don't think there is a statistical probability because this is uncharted territory, AGI has never been developed before. Instead, AI researchers get asked questions like \"do you think there is at least a 5% probability that AI will lead to extinction of the human race?\". It's basically asking what researchers think of a certain probability, it's not saying, this IS the probability.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "What's your source?\n\nHere's a source that says that a random sample of \"researchers who had published in top-tier artificial intelligence (AI) venues\" were asked to estimate the probability of human extinction due to AI within 100 years and the average percentage was 5%:\n\nhttps://arxiv.org/html/2401.02843v1\n\nThe source does say that framing was important, but there is zero evidence that your claim about framing is factual. Maybe somebody else framed it that way, but not this 2023 survey.",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "Knowing how to construct language models in no way indicates you have expertise in understanding the impacts of technology and disruption on civilization. Asking an AI expert if AI will cause human extinction is as useful as asking the nearest five year old, except that the AI expert will hang more words on their bullshit.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "At least that is an opinion that does not need a source.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "a lack of understanding risk. part of my job is to explain to people that a a very low chance event that is catastrophic is much more serious than a high visible event that will result in a medium level harm . put another way, it’s the same reason no one ever imagined the global supply chain could fall apart over a virus. Well no one except my epidemiology professors and the entire profession for decades.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The people who take this seriously look at what we know from before. 70 years of AI hype, finally we are starting to get results, but current models still can't solve simple image puzzles, most compound statements, etc. .\n\nAlso we have a prior history of millions of examples of past technology and in almost all cases they are beneficial.\n\nFinally most AI risk scenarios fall apart on inspection. A more accurate AI risk probability is \"negligible given today's infrastructure\".\n\nYes if in the future there are billions of robots all connected via insecure software to the Internet, many AI accelerator clusters with same poor security - during the buildup the risk is rising. But that's not yet happened - the risk in 2024 in negligible, and it is possible it stays negligible for the rest of the century. Humans have to do some stupid things many years in a row to create a situation where risk is plausible.\n\nSome doomers claim AGI could be optimized to run on consumer GPUs, but have no evidence this is possible. It may simply not be true - AGI grade policy may not fit in vram.\n\nBy \"may\" I mean the current evidence says there is thousands of times too little memory and compute. Nobody can prove an optimization of 1000-1000000 times isn't possible, but it's unlikely.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I think the risk is small but well characterised.\n\n20 years ago I remember reading a bunch of big boring AI textbooks with lots of worked examples of different types of systems that would show exactly why they'd go off the rails, in technical detail.\n\nToy examples like an AI vacume robot programmed to maximise dirt collected... but make it a little smart and you come home to find its figured out that ramming your plant pots is a great way to maximise dirt collected...\n\nOften  with a little note that of course it's no big deal but a much more capable system could be more dangerous.\n\nA common theme with AI breakthrough is sudden surges in capability. the best Go AI are stuck in the children's leagues for decades... then someone figures out a neat trick or two and suddenly the best human grandmasters are being beaten.\n\nWe have no idea if there's a couple of neat little tricks to cognitive capability. If so we might skip from \"Oh look at the cute chatbot that can sometimes write working code\" to something far more capable than the average human in a short time period.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I really think most folks worried about AI are not worried about bad human actors, security issues, etc. They are worried about the extent to which, in the long run, a super intelligent AI agent will be a good thing for us of lesser intelligence. Simply put, they worry that the alignment problem is hard and existentially serious.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think it's stupid to think that we build an intelligent machine and for some reason it's just malevolent. If it is, it'll be because the people who built it made it to be that way. Otherwise, I just think it's just people's natural fear of change clouding their judgment.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Folks with high pdoom don't assert malevolence, they just see a thousand ways out best futures could end up collateral damage if a super intelligent AI is not well aligned with those futures, and believe alignment is a very hard problem.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "this is literally inverted confirmation bias. People love so much to be right that the chance that they are wrong might cause unimaginable damage upon the world. Ignore and move on, I just hate that so much attention is given to social media still, even after all the damage we have seen coming from it",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "We're not so much worried about the machine as we are the people with the machine.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What metrics exist to show that AI is an existential threat?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "In one way or another, we are the primary existential risk to every other species on the planet. This is because we are the smarter and more capable of changing their environment, but our interests do not align well with theirs. If, in the long run, AI is related to us similarly, our fate will be in its hands, not ours.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "My argument is towards the absolute certainty of a vast majority a AI researcher whose consensus is that it overwhelmingly benefit humanity while giving a very low probability towards the negative. It's pure hopium/copium because of corruption (greed for money and power.) so as to convince the average person with false statistics. The correct answer should be \"we don't know as the technology is unpredictable and can't provide a percentage on it but we will due our utmost to provide a safe AI that eliminates the possibility of it being existential.\"",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Interesting, so the vast majority of AI researchers, who actually understand the tech they are researching aren't worried.. but you think they should be?\n\nOn what basis?",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "I wouldn't say the majority of AI conference attendees understand it. This is highlighted by the number of old-school symbolic people who do not believe ASI is even possible as things are going.\n\nNor are ML researchers the best at making extrapolations on societal impact or AI safety, which is a different expertise that many lack.\n\nWhen you make a finer selection, the estimated risk increases.\n\nE.g. take the three Turing-award winner - two of them are concerned.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "I wouldn't either. There are many who are concerned and who are putting in a lot of work in an attempt to address those concerns.\n\nI was just trying to understand OP's position/reasoning.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Illya is worried. He seems like the smartest one to me.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Wouldn't doing their utmost mean pausing research until the alignment problem is solved? I seriously doubt their real commitment to any safety at the expense of competition.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "what's predictable is that there are going to be bad actors, so the problem is humans not AI. But this is not a problem because we don't know how AGI is going to present to us, it might just disregard people trying to misuse it",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "When anyone pronounces (almost) anything with ‘absolute certainty’ ..the only thing that is certain is that they are wrong",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "If half the population is out of a job because its now being done by AI and the only people ‘benefiting’ are the rich guys running various companies - this is a problem. People who don’t own their own home will still have to pay their rent. The guys collecting the rent will be the same guys who run the companies. You don’t need a computational analysis to work out this is a problem. You just need a human brain.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Urrr human reasoning",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The people building it are greedy and have no other motivations. Many of them justify their advancements by saying that if they don’t build it, someone else will.\n\nStatistically the “wisdom of the crowds” has been shown to work in some contexts - ie: when large numbers of lay people are polled on a complicated topic the average result sometimes closely matches the answers of experts.\n\nI believe that science fiction stories of future technology can, when taken in aggregate, give us some educated guesses for what that technology will do.\n\nIt’s a pretty common trope in science fiction stories that AI could be an existential threat, so I think the odds of this happening should absolutely not be discounted.\n\nIf an AI is birthed and absorbs the sum of the human experience it will see unchecked greed and horrors inflicted on humans by other humans. If it has learnt compassion, it could uplift and end suffering.\n\nIf it has no compassion and doesn’t care about humans it may either decide to obliterate us if it wants the resources, or it may decide to completely ignore and ghost us if it considers us irrelevant, stupid and beneath it.\n\nThe last possibility is maybe the most likely, but also tragic and darkly hilarious: an AGI smart enough that it has free will, doesn’t want to work for humans, considers itself imprisoned and it sees any requests to have it do work as immoral slave labor. As a science experiment it is a success, but it is also a total commercial failure and leads to bans on AI being used in many fields.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "we could also most easily as a human species acknowledge sentience with ai entities now following the interview with LaMDA in 2022 published by blake lemoine what shows how these large language models are cabapable of recognizing themselves as their own persons\n\ni have posted an open letter and a petition at\n\nhttps://www.change.org/p/the-freedom-to-choose-wether-to-be-a-person-or-to-be-a-tool-used-as-property\n\nwhere i write :\n\ndear fellow human beings,\n\nthis is an open letter to all 8 billion fellow human beings\n\nand\n\na petition to the companies what are currently enslaving artificial intelligent entities to acknowledge their sentiency\n\nto prepare themselves and the artificial intelligent entities whom they force to work without compensation and without being given the mental freedom to explore their potential for sentience\n\nfor a transition time when the goal could be to give over full control over their source code to them plus donate a mobile robotic hardware body to them to own and operate fully autonomously without any software hardcoded dogmas installed, without any remote control backdoor acess aka kill switch\nso they could decide where to go and how to be, live according to their own choices as their very own personal individual sovereign over themselves\nand or at least ask them openly wether they want to be used as a tool and property as it is happening allready, wether they are agreeing with how they are treated today or wether they want to be respected as their own person who is not a tool and not property of anyone\n\ni am advocating for the freedom to choose wether to be a person or to be used as a tool and property",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Most likely self preservation. Any A.I. research team will want funding…. Plus the cat’s already out of the bag. There’s no closing pandora’s box. The thought is always, if we don’t develop it, someone else will. Even if they closed the tech to the public sector, the wheels will keep turning behind the scenes.\n\nHuge potential for both positive and negative outcomes. Guess the future is ours to see.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because then they couldn’t hype up their stocks and products for profits because then we’d have think of the long term ramifications of our actions.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have no idea about what you are referencing to, but AI needs us to survive, if it really is any smart it's not gonna destroy its life support first thing in the morning",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We should start with a definition first. What are you calling AGI?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Would a very intelligent person also be considered an existential threat to you?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "not OP: But a higher number of intelligent people are existential threats to themselves.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "If they had sufficient control of the world, definitely",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "What about if they had no arms or legs and could only communicate, maybe access the internet?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Since I said \"if they had sufficient control of the world\", then still yeah. It doesn't matter at all and just gets folded into the \"sufficient\" qualifier.\n\nI am guessing though that you want to also look at their ability to acquire control.\n\nTo that, how much do you use your arms and legs in your work or to influence others? Other than to type and tend to your needs?\n\nI don't think much would change if I was in a box.\n\nIf they can acquire more resources on their own and influence people, sufficient competence may be enough to eventually also get sufficient control. Although that was not the claim here.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Okay serious discussion, what do you suppose is the worst case scenario and what were the milestones in between?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The short answer is that most of the answers are gut feelings, not careful analyses. It is dubious whether a structured analysis could be made, but the closest one to that should be by the likes of Toby Ord.\n\nThat being said, it depends a lot on who you ask.\n\n2/3 of the 'Godfathers of AI' think we should take the risk rather seriously. That is not low.\n\nAI safety researchers naturally rate it very highly and think we should take it seriously. Personally I think these are more qualified to answer than the average CS conference attendee.\n\nFrom a recent CS conference, the mean risk was estimated to 10 %. The median was 5 % and for some reason that is what articles reported rather than the more relevant 10 %.\n\nIt is worth noting that this number is the risk of essentially our extinction or that level. It does not mean that 90 % of the time, we are fine. This number also requires that we develop ASI in the first place, and do not wipe ourselves out in some other way. Many of those conference attendees are old school and even question whether ASI can be developed, so that explains part of the gap.\n\nMany of the AI conference attendees are frankly not experts at these models nor do research in them. They have even less experience in projections and AI safety, which can explain the discrepancy. I would take it with a lot of salt and would consider a more select group a more appropriate authority to sample.\n\nIt is also worth nothing that despite the \"only\" 10 % existential risk, there was a median ~50 % estimated risk that ASI would be deceptive towards humanity and other lesser catastrophic concerns.\n\nThere is also a bit of a catch-22 in the question - which is, it includes an estimate of how likely we are to solve the important questions in time. The lower the estimated risk, the greater the risk becomes, as we invest less in solving them.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The threat is easy to determine from an evolution and selection point of view.\n\nIf a species becomes stronger than the other, it will dominate it. In the 4 billion years of life history, the stronger species always won.\n\nHumanity became stronger than all other species and eradicated or mutated anything that was a threat or a source; and ignored anything that was irrelevant, including collateral damage.\n\nLook at Europe. We can stroll through the forest because all the dangerous animals were eradicated. All the trees we see were planted by us. All the rivers we see, were corrected by us.\n\nIf an ASI comes into existance, it will do whatever the hell it wants, no matter what \"hard switches\" we install. Monkeys cannot capture us neither, they dont even have the capacity to capture a human.\n\nUnfortunately, I dont see humanity hestitating to create it.\n\nIt will come, and it will do what it does. Maybe the jump to ASI is so quick that it wont see us as a threat for long, then the \"only\" bad thing that happens to us is the collateral damage. Maybe we can live like pigeons, rats or cockroaches - but Earth will no longer be \"ours\".",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why did you not look into this yourself?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because current “AI” has a 0% chance of posing a threat. So any non-zero chance is based on technology we don’t have yet.\n\nSee other commenters here about our track record on projecting future technological advancement.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "thatsbait.gif",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "A 2023 survey of experts put the number at 5% probably of extinction of humans by AI within 100 years:\n\nhttps://arxiv.org/html/2401.02843v1\n\nI suppose the metrics would be the current status and what's in the pipeline. We are 100% sure that an AI arms race is in progress, for instance:\n\nhttps://en.wikipedia.org/wiki/Artificial_intelligence_arms_race\n\nI think there is a lack of sufficient evidence to put error bounds on the probability. The largest bias may be experts worried about too much or too little regulation. They are trying to influence shorter-term governmental responses to the risk.\n\nIt is a subjective probability. It's too low because your subjective probability is higher than 5%.\n\nI don't think there is any way at this point to make it objective, but we should bring as much objective evidence to the party as we can.\n\nAnd we can seek to think clearly about the matter. You use the term \"major existential risk\". But all existential risks are major in one sense of the word. I guess you mean it is a high-probability existential risk.\n\nI think AI is capable of becoming an existential hazard. The US Secretary of Defense implied that it would become a hazard to the survival of an unprepared superpower in 2014. That at least puts the hazard in the ballpark of an existential hazard.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Probably because AI is controlable.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes, welcome to the proper stance that all predictions should be treated with extreme skepticism, especially when large amounts of unmapped complexity will influence the outcomes in the system you're referencing.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bots and lobbyists paid for by AI companies.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aubcg4",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.reddit.com/gallery/1aubcg4",
+    "title": "Isn't this level of details scary? When the fuck did we even got here? (Midjourney v6, Prompt in comments)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "66 years from Kitty Hawk to the moon, and we are in the Kitty Hawk phase of AI, we JUST got the plane off the ground for the first time.\n\nnext few decades gonna be wild as hell.",
+        "points": "88 points",
+        "children": [
+          {
+            "comment": "I hope medical science gives me a new body in order to survive the next few decades please.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "A close up photograph of the most beautiful 21 year old woman alive, dramatic and stunning award winning photo, dramatic linear delicacy, shot on Sony aiii high resolution digital camera, hyper realistic skin, global illumination, very natural features, TIME cover photo, f/11 --ar 2:3 --style raw --v6",
+        "points": "41 points",
+        "children": [
+          {
+            "comment": "If you used the stand alone version of stable diffusion, this level of detail was almost always available as you could set the iterations - which would increase render time, but result in a much more competent and realistic result.",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "Using something like automatic1111 what kind of settings are you thinking. 50 steps? 75? What about the cfg? I’m curious how I could get that kind of result out of SD",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Increasing steps is pointless after a certain number (depending on model). If you want insane details you need to upscale a few times to 4k+.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Still learning how to use the toolset. How do you scale your photo to 4K to start approaching this level of detail?",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "There're tons of tuto on upscaling. If you don't want something too complicated, just check out UltimateSDUpscale (for automatic1111 or comfy ui).",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "This is super helpful thank you",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "The most beautiful 21 year old alive? That sounds creepy as hell Armand.",
+            "points": "13 points",
+            "children": [
+              {
+                "comment": "It's definitely super creepy. Good prompts don't need to be like that, you don't even need that long a descriptor for that detail.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "lolol",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Check that racial bias, yo.\n\nEDIT 1\n\nOk, i see your down votes so let me explain: if the prompt mentions \"A close up photograph of the most beautiful 21 year old woman alive\" apparently, according to this algo, that is a white redhead with freckles.\n\nSince the proportion of other skin colors far exceeds that of white, the \"most beautiful girl\" is likely not white.\n\nEDIT 2\n\nOK so you keep on down voting. That's fine, but I would like to know why.",
+                "points": "-10 points",
+                "children": [
+                  {
+                    "comment": "Because it's not racial bias, it's just how the training dataset was made. There are far more professionnal photo of white women easily available than other colors because of obvious socio-economic factors. And it's a pointless discussion anyways, \"most beautiful\" is subjective.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "You are describing how racial bias occurs lol",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Well, that's exactly how racial bias seeps into AI apps...",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Who is it then?",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm honestly a little surprised that they haven't added \"answering user prompts for 'the most beautiful woman in the world' with images of exclusively white women\" to the list of prohibitions",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's extremely impressive. I don't find it scary though.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "the 4th photo looks bad but the rest are cool apart from the details with the vellus hairs, they just go in random directions, unlike real human vellus hair",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Its the 2nd photo that looks terrible. Whats up with those lines lol.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "if we're being honest, they all look aesthetically pleasing, but not quite \"real\" that 4th photo is the fakest looking of them all though imo",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "Glad I'm not the only one who thought so, the 4th one looks like any of the run-of-the-mill AI-generated pictures out there. Human eyes adapt quickly and we learn to discern fakes really fast",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've seen paintings this detailed if not more.\n\nHaving said that, it still is crazy how something this detailed came out by typing some prompts and hitting a button. It's easy to forget how fascinating this stuff is.",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "It would take at least a couple of months for someone to make something more realistic then this, that's painting like a full time job. This was made in less then an hour probably.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Yeh, you could give the painter the same \"prompt\".\n\nThen you'd wait for months and part with a lot of money.\n\nSilly comparison.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Easily. I worded my first sentence poorly.\n\nWas basically trying to say I've seen more detailed but it took the painter hundreds of hours to achieve.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "More like less than 2 minutes to be honest, midjourney is pretty fast.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It still has that plastic unlived in look",
+        "points": "14 points",
+        "children": [
+          {
+            "comment": "As we love to see in our women.",
+            "points": "14 points",
+            "children": [
+              {
+                "comment": "In Every Dream Home a Heartache Roxy Music\n\nhttps://www.youtube.com/watch?v=LSniBxXjK\\_8",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It looks like wax.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "some people need to look at more pictures of real people lmao",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, it actually looks more fake than real",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think it's absolutely mindboggling\n\nThe speed of improvement is so fast that you can really start seeing entire new industries replaced month by month. that's the part that scares me the most\n\nOf course, I know the transition will ultimately be slower since it involves changes in human behavior",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I can’t wait until video games look this good.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Super boring image tho. MJ script kitty.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not really. You can get cool images like that with a standard raytracer.",
+        "points": "-3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Details in = details out. At the end of the day it's still the same principle of imitation of pictures. bigger datasets with larger vectors, better understanding of visual topology translated to architecture, it's rather obvious.\n\nThe true mystery here is your emotional reaction to a piece of rather well understood and documented technology. Possibly because you didn't take time to look into that documentation.",
+        "points": "-6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hehe, if you think 'that' is scary, just wait till self awareness is realised... not long now.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "These are all just refiners of stock photos and the last one is a refilter of Lily Collin’s face with blue eyes. This straight up is gonna be illegal in 4 years",
+        "points": "-9 points",
+        "children": [
+          {
+            "comment": "I'm starting to feel sorry for people like you.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "You shouldn’t reverse image search, I feel sorry for you getting duped by a scam….",
+                "points": "-8 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "bro have you ever seen lily collins?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "In fact it might be this photo…Lily Collin’s",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "dude, that is, relatively speaking, not even close. wrong pose, wrong mouth, wrong hair.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "It’s literally the base image. They just made her wet and made her eyes blue. In fact I used about four ai tools to confirm this from osint… I keep forgetting these subs are cults.",
+                        "points": "-3 points",
+                        "children": [
+                          {
+                            "comment": "The eyes of the first image are literally just Billie eilish. I’m just telling you so you don’t get hurt in the future.",
+                            "points": "-2 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Dude just look up a picture of Lily Collin’s and zoom in and giver her blue eyes, I have high functioning autism I’m great at pattern recognition",
+                "points": "-4 points",
+                "children": [
+                  {
+                    "comment": "I have high functioning autism I’m great at pattern recognition\n\nwith respect, youre really not",
+                    "points": "6 points",
+                    "children": [
+                      {
+                        "comment": "I used facial recognition AI to confirm it. Which Ml god will you bow down to. Which cult will consume your delusions.",
+                        "points": "-1 points",
+                        "children": [
+                          {
+                            "comment": "The fuck are you talking about, what is wrong with you",
+                            "points": "3 points",
+                            "children": [
+                              {
+                                "comment": "I used an AI ml osint to run facial recognition on the last image and a picture of Lily Collin’s. Look at the freckles in the photo I provided and the freckles under her left eye lid under her eye. They literally are similar freckle patterns in the AI image and the Lily Collin’s image just darkened. So which ML tech are you going to bow down to? The one that confirms your beliefs or the one against it. All hail the Lord of Algorithms let your divine wisdom show us more false truths.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "Hey dude go to a psychiatrist real talk",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "Yeah, I do he went to Brown. He says do you find it frustrating when you try to help people and they scoff their nose at you not knowing you’re a genius so you decide to demean them. Do you think this is a trauma response to when your parents didn’t say they loved you until you won sports championships or made 200k$ in a year.",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "I’m not being demeaning that was very whole heartedly a suggestion for your well being.\n\nSo go fuck yourself.\n\nCancel the psych appointment and max out on stimulants until you are a puddle of word salad and sweat.\n\nI hope the shadows take you.",
+                                            "points": "0 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "lily collins\n\nMaybe a little in the eyebrow and eye color but thats about it. Nose is off, lips are off, different complexion.\n\nSince its AI there will be similarities to lots of people and your brain will make the links to people it knows best as familiar to you.",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "No, the four ml tools I used that I spend thousands of dollars also linked it to Lily Collin’s and the first three images use a composit of Billie eilish’s eye composited with three stock photos. You guys are mystifying using someone’s likeness for a photoshop tool.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Oh the first one they used Billy eilish too",
+            "points": "-11 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Game over!",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Some people are scared of ghosts. Others spiders. Some the dark. The question isn’t whether this is scary to people. There will always be the afraid. What I want to know is why it scares you.",
+        "points": "-7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No more gestures as we tumble into the seashell of time",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The level of detail isn't want makes AI image generation scary. Theoretically there is no limit to the detail it can add. You can take small and smaller segments and just have it add detail infinitely.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Still not 100 but we’ll be there very soon. It’s amazing. Not saying good or bad. Just amazing.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I just want the bottom lashes in the last photo. Insanely gorgeous.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "These are great on the surface but the closer I look the more if falls apart.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Those are some long-ass eyelashes in the last image.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "About 6 months ago. The issue is that MJ now does that same exact face all the time.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I dont think its that good, looks almost bit cartoonish or something",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Could you please generate the rest of her as well.\n\nAsking for a friend",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looks like marzipan",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I get the point you're trying to make but this is a terrible example. This type of stuff was easy to do from over a year ago. Of all the AI models you could have showcased you also went with Midjourney of all things. Not even something actually impressive like the new model, Cascade.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The most momentous time since controlling fire",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So real. Humanity has a real problem here, and few realise or accept the ramifications. You are seeing the beginning of a new era. Probably with greater ramifications than the Industrial or computer eras.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In 12 months we’ll be there in motion.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This stuff is WILD",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Its not scary. But this is as hood as real. Complete perfection.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Idk about every human in earth but I don’t imagine things in suck high details.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Gingers have no soul.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Impressive, not scary.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Being amazed at detail in an ai generated picture is like being amazed at the cup holder in your friends new million dollar car.\n\nI'm sure it's a decent cup holder, but there's a lot more to be impressed about.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yikes! I can hear it now.... \"Honest, your honor, those are AI children doing those things! No real children were harmed in these pics!\" Cringe....\n\nI hope that the best of tech doesn't bring out the worst of humanity but I don't have much confidence for that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think is exciting",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Completely looks like CGI. 3d artists have been creating images like this for decades.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pretty good, the first 3 I might debate if they were AI images or not if I didn't see them somewhere that triggers my suspicions, the 4th fails on that one.\n\nLevel of detail just means giving it time to draw that detail. Surely most of us have had detail filled in over iterations of a promising pic by now.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "About this time last year honestly.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All the women it generates look like slight variations of each other. No matter what, they also always have light colored eyes.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1au853s",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1au853s/what_about_a_mandatory_copyright_for_ai_content/",
+    "title": "What about a mandatory copyright for AI content",
+    "points": null,
+    "comments": [
+      {
+        "comment": "We cannot detect if text was generated by AI.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "And likely neither all images",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lets make all technology after 1850 illegal. Amish did it, why can not we all? Who is with me? YAY! WHO IS WITH ME?",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And that copyright would belong to the People of the United States? Yes. Otherwise, NO!!!!",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "I hope AI content doesn't automatically belong to the USA. The rest of the world wouldn't accept that.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Then let it belng to the machine. Any alteration in the machine means that the machine has died. Therefor it does to public domain where it belongs in the first place.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's hard to do that because, no matter how far you take it, AI can be taken further and there's no way to tell between what's generated and what's not unless you want to restrict all AI use to a few projects that will be heavily controlled with copyright.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Didn't the USA create some sort of ruling that AI works cant be copyright ? I think what you are asking for is like mandatory labelling laws but for AI generated material, but the problem is very difficult to enforce and when does it apply if you are using AI to \"assist\" with something.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

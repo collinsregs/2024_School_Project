@@ -1,0 +1,2049 @@
+[
+  {
+    "id": "t3_1auusgg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://coursegalaxy.newzenler.com/courses/advanced-csharp-programming-concepts?coupon=ADVCSH30",
+    "title": "Empower Yourself with Advanced C# Concepts",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1auum43",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.permit.io/blog/how-reddit-scaled-to-millions-of-decisions-per-second",
+    "title": "How Reddit Scaled to Millions of Decisions Per Second",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Ok, but what we're really interested in is how the hell they made such an awful video player.",
+        "points": "36 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "But how does that explain the decision to remove the \"subscribe\" option in the new website?\n\nMillions of decisions does not mean millions of good decisions.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Does this explain the enshitification process?",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "now they can sell your data even faster!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auszoh",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jacobbartlett.substack.com/p/building-a-2fa-app-that-detects-patterns",
+    "title": "Building a 2FA app that tells you when you get `012345`",
+    "points": null,
+    "comments": [
+      {
+        "comment": "checked",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "First GET!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is so stupid that I like it",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "Target audience acquired",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The unique selling point of this totp app involves displaying 2FA codes as lock screen alerts at pseudorandom intervals. Sounds about right.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "https://knowyourmeme.com/memes/you-wouldnt-get-it",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Genius.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "We are the 10%",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This seems like the kind of thing that invites side-channel attacks...",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "Don’t get me wrong, I don’t just want to stupidly encourage people to be less secure - can you please explain what that means? I suspect it’d be tough to brute force the secret even if you saw every code for years",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "The scenario I'm thinking of is this:\n\n- attacker has learned a user's password and is trying to access a service, but service is secured with 2fa\n\n- attacker knows that user has installed an app that notifies them when their 2fa code is \"012345\" or some other value of interest\n\n- attacker can know when the user is notified (maybe they can detect vibration in the phone or have a microphone on the user)\n\nNow all the attacker needs to do with wait for the notification and they know the 2fa code. There is a window where they can log into the service.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What a pointless waste of energy...",
+        "points": "-15 points",
+        "children": [
+          {
+            "comment": "Can’t believe I let this comment upset me a little bit",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It's a little bit like Bitcoin",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auswl4",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://taylor.town/-10x",
+    "title": "How to be a -10x Engineer",
+    "points": null,
+    "comments": [
+      {
+        "comment": "My CTO is epitome of “hire bright engineers, kill them with useless tasks”. \n\nhmmm arch is overly complex. Let’s add more if else loops. Instead of taking a step back and fixing things, keep piling tech debt. \n\nbe pedantic over trivial dashboards every 2nd day, when they are for visual inspection. Never look at alerts, though which are more important. \n\nwhen if else programming fails, blame Engineers for not doing their job. \n\ncome with code piece and demand it be coded as is, instead of requirements. If you raise where are the requirements, threaten Engineers in a demeaning tone. \n\nI hate this style of morons. \n\n/rant over.",
+        "points": "124 points",
+        "children": [
+          {
+            "comment": "be pedantic over trivial dashboards every 2nd day, when they are for visual inspection. Never look at alerts, though which are more important.\n\nOh wow didn't realize this kind of thing happens elsewhere. We have dashboards but aren't properly utilized, or have too many for things that don't matter. Everyone gets hundreds if not thousands of alert emails a week all to be ignored because its impossible to keep up.",
+            "points": "24 points",
+            "children": [
+              {
+                "comment": "Yep. Because the dashboard goes on the marketing material so it has to look good. Functionality be damned.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Which is a shame. They aren't mutually exclusive.\n\nI've been fortunate enough to see effective UI/UX/design teams that accomplish both.\n\nMostly.\n\nUntil somebody with more authority than they should starts pushing pixels.\n\nI was really looking forward to the next part of my project before I left my last job. It was going to be a dashboard - but for the IT team. I have some background/experience in design was looking forward to trying to design to a group of people that typically do not like or value it.",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Oh wow didn't realize this kind of thing happens elsewhere.\n\nIt happens everywhere. This industry is an amalgamation of bad habits/rules/... despised by developers. And yet they persist.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Does this guy hate money or something?",
+            "points": "11 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The bright engineers will go and find better work. The others stay.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "IDK it's a two way street\n\nSometimes engineers need to use their best judgement and be agile and not pedantic over requirements. It's possible requirements are not finalized. It's possible you might have to ask questions as you go. The whole \"people over process\" was the whole epitome of Agile\nSometimes engineers need to understand business optics, e.g. if an executive dashboard isn't working it's possible an executive might get mad.\nSometimes \"let's take a step back and fix things\" isn't an actionable thing and literally every team on earth is going to find tech debt if you give them time\n\nNot saying you're wrong, you're definitely not wrong. A lot of leadership can be really brittle in my experience. But a lot of engineers are also under rocks in terms of understanding their role more holistically. If every SWE could work as a PO or PM for a year or two I think it would really help them think about things in less of a \"it's not my job\" kind of tone",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Change requirements as far into development as possible. To avoid blame, obfuscate requirements from the start.\n\nCackling at this. You can feel the fury emanating off of these words like heat from a dumpster fire.",
+        "points": "39 points",
+        "children": [
+          {
+            "comment": "We missed a milestone once because the same behavior was described 33 times in the requirements docs. Only it wasn’t 33 times, it was 32, and once with mostly the same sentence but with a couple of words changed.\n\nAnd this is why you don’t cut and paste. Short description and link to the section that describes it once.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "We call those managers",
+        "points": "15 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For 10x of pay. Not 10x less",
+        "points": "26 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I probably wouldn’t be exaggerating if I said a crap ton of managers of dev teams check most of those boxes.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wouldn't it be a \"0.1x Engineer\"?",
+        "points": "15 points",
+        "children": [
+          {
+            "comment": "I think that's having a tenth the output of a standard engineer, not negating the output of 10 others. You can be a 0.1x engineer by stretching your own tasks alone.",
+            "points": "53 points",
+            "children": [
+              {
+                "comment": "-100x engineers rise",
+                "points": "18 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It's decibels",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This was spread across reddit a little less than a year ago in what I think are subsets of this community. I think it would be good to have a reminder + never posted here as far as I can tell.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In my org we have a brilliant jerk. He’s forced everyone to use his bonkers custom BDD framework. Unit tests look like assembly code. Figuring out how they bind to dependencies requires days of stepping through code. Oh, and the thing you need to do? That isn’t supported yet but feel free to contribute.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "I have PTSD from my last job over a brilliant jerk. I am not a Java developer by any means but everyone had to learn to follow this guy. I still had my primary jobs but it was taking me forever to even get already developed code to run. I was three weeks in and asked someone else what I was doing wrong and they told me it took them over a month to get anything to run locally. Little documentation and things changing on calls I was not a part of and no communication. It was a nightmare that only got worse over time. Thankfully I was part of a WFR and was free of that nightmare.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "TIL “10x” is the new term for “Rockstar”/“Full Stack”/“Ninja” egineer",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "It’s from “The Mythical Man Month”, published in 1975. It comes and goes from the lexicon as other terms become “cooler” before becoming cringe.",
+            "points": "18 points",
+            "children": [
+              {
+                "comment": "https://taylor.town/woman-month",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Not a new term by any means. I've heard it used a decade ago.",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "10x never existed. There's always been 0.1x engineers though and I think Fred Brooks, the originator of the 10x concept, got them mixed up.\n\nIn short I believe there are engineers out there that seriously have something wrong with them. At the same time normal engineers can look like superstars because companies have trouble sorting out the 0.1x people from the merely normal.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's always about finding that unicorn individual. Like with the NBA; everyone talks about the great but they are wishing LeBron James joins.\n\nOr I mean, you have capable people and you just need those individuals to be more effective. Enter management -- the party responsible for root causing these inefficiencies. If they are just spewing this stuff and not actually doing actual root causing, what failures are being hidden?\n\nTech is always talking about the optimization of some rarified air but few look at the general group and lift that group up even just a little.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is there such a thing as a 10x manager? How do we measure their efficacy.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "recompilation should take at least 20 seconds\n\nI dream of the days compilation only took 20 seconds.\n\nRegards, androiddev",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ausvzy",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/ENMawni-VOA",
+    "title": "Setting up the new 16\" M3 Max MacBook Pro (16 CPU/40 GPU, 48GB) for programming - maybe someone could find it interesting",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ausufr",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.onoffswitch.net/p/musings-about-on-call",
+    "title": "Musings about \"On Call\"",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ausrzk",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/watch?v=rICeqnbzkZk",
+    "title": "TypeScript Kirby-like Platformer Game Tutorial",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1auspz0",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://stackoverflow.com/questions/78022413/why-arent-identity-cookies-saved-and-sent-back-to-backend-for-authentication-an",
+    "title": "Why aren't Identity Cookies saved and sent back to BackEnd for authentication and authorization?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aus4if",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://techtalksweekly.substack.com/p/tech-talks-weekly-4",
+    "title": "Tech Talks Weekly #4: all recently uploaded tech conference talks in one place",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This is the #4 issue of Tech Talks Weekly, a newsletter I've recently started building. It provides all the recently uploaded talks across all tech conferences (+100 at the moment!).\n\nYour feedback is very welcome!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aurj9u",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://wcedmisten.fyi/post/keyboard-shortcuts-userscripts/",
+    "title": "Adding Keyboard Shortcuts to a 24 Year Old Government Website with Userscripts",
+    "points": null,
+    "comments": [
+      {
+        "comment": "that looks good",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Thanks!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What about using Vimium? Does that not work?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I'm not sure how copying the specific text element would work. Does Vimium support copying text from the webpage?\n\nI still think it would involve fewer keystrokes to develop the custom shortcut myself rather than finding the right combo to do it in vimium",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good info and will look into that ViolentMonkey. As a user, I created macros scripts with an app called hot-keyboard and it's always quite beneficial to have an alternative apps. I noticed your website had actual customer names and address, it maybe better to tweak names and address along with other customer identifying info.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "This is a public database available to anyone, so no worries about revealing the names and addresses. The addresses are usually just company headquarters or a PO box.\n\nhttps://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K971608",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Ok that's great!!! -- Thanks for sharing and I will check into that ViolentMonkey to see if will help on a task.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auqox4",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/Ms3J6_-6-fk?si=yNMBM8aCp52z8tD-",
+    "title": "[GOTO 2023 - Clare Sudbery] Continuous Integration: That’s Not What They Meant",
+    "points": null,
+    "comments": [
+      {
+        "comment": "When I hear \"run it on CI\" I do a facepalm... Do you mean I have to run it on daily commits and avoiding feature branches? Continuous Integration means exactly that. Deployment pipelines are for the builds.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aup0w6",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/U1emdbGzKzk?si=ikqNKe0mNnkF7fU2",
+    "title": "Every Programming Language Ever Explained in 8 Minutes Part 2",
+    "points": null,
+    "comments": [
+      {
+        "comment": "lmao \"part 2\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auod70",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.joshwcomeau.com/css/center-a-div/",
+    "title": "How To Center a Div",
+    "points": null,
+    "comments": [
+      {
+        "comment": "After 20 years, I still don't know.",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "IMO. Flex is the best. I think it can easily resolve most layout issues for me",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Agree, I still haven't used css-grid, is it worth it?",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Yes, if you need to wrap content based on display size (for example, if you want to display 4 items in a row on desktop but 2x2 on tablet and only 1x4 on mobile), then grid is the way to go.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auobge",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.lambdafunctions.com/articles/elixir-and-rust",
+    "title": "Managing mutable data in Elixir with Rust",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aunin2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://plainenglish.io/community/how-to-scrape-a-website-using-python-and-beautifulsoup-juliusczar-jc-gmail-com-1702320384423",
+    "title": "How to Scrape a Website Using Python and BeautifulSoup",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aumwmf",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/",
+    "title": "Rye Grows With UV",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Ok... i thought this was in the wrong sub but was curious on the agricultural techniques regarding growing rye with UV light.\n\nTurns out this is not about agriculture and is on the correct subreddit.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aumh3g",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.sonarsource.com/blog/union-intersection-difference-javascript-sets/",
+    "title": "Union, intersection, difference, and more are coming to JavaScript Sets",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It's good news of course, but... it's been nine years since this was supposed to happen.",
+        "points": "151 points",
+        "children": [
+          {
+            "comment": "It's a bit of a head scratcher for me why these methods weren't included in the original implementation. It's not like there's no other set API from which to take inspiration.",
+            "points": "56 points",
+            "children": [
+              {
+                "comment": "No no you see, to save memory you must have one separate library per operation.\n\nThe library must implement the operation with 2 nested for loops.",
+                "points": "34 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I feel like a lot of languages don't have these in their standard set implementation, for some reason.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "So this.",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "😤✋ Using set operations to explain SQL joins\n\n😎👉 Using SQL joins to explain set operations",
+        "points": "174 points",
+        "children": [
+          {
+            "comment": "In the intersection example picture it says INNER JOINT\n\nThat would explain things.",
+            "points": "24 points",
+            "children": [
+              {
+                "comment": "I smell GPT",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "That's probably not the only thing you smell either.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Union? I don’t understand this advanced and mysterious concept… oh you mean like “FULL OUTER JOIN”? Now I get it",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As the person who championed this feature in TC39 most recently, let me comment on why it took so long:\n\nThere's not really any methods in the standard library which take instances of a class as arguments, so we had to decide how that was going to work before we could add these. And that meant a lot of discussion needed to be had, which no one was driving forward until a few years ago. For example:\n\nIf you pass a subclass of a Set with an overridden .has method as an argument to .intersection - baseSet.intersection(subclassInstance) - does that overridden method get called? Under what circumstances? Which exact methods get called?\nWhat about the reverse i.e. subclassInstance.intersection(baseSet)? Does that invoke the subclass instances's has method?\nAssuming at least some of the methods are actually invoked, which precise algorithms do we use for each of these things? The choice is observable because invoking user-defined methods is observable. Some choices have different performance characteristics than others, especially when one set is much larger or smaller than the other.\nWhat order does the resulting Set have? Remember that you can iterate over the items in a Set, so this is observable. My original choice for the result order for .intersection turned out to be impractical to implement in Safari given how their implementation works under the hood, so we had to come back to committee to choose a different one.\nDoes invoking these methods on a subclass instance produce an instance of the subclass, or of the base Set type? If a subclass, how does that work? ES2015 introduced Symbol.species to customize instance creation, but Symbol.species has been responsible for more vulnerabilities than it has actually useful userland features, so there was not a lot of appetite for using it. Does that mean no customization at all?\n\nAnd, of course, Sets weren't added to the language at all until 2015. Much has been written elsewhere about why ES2015 took so long, so I won't say more there.\n\nHere's a rough timeline:\n\n1995 - 2015: Sets do not exist at all.\n2015: Sets are introduced, but given that ES2015 was already taking forever, these methods are omitted so they don't have to work out details like the above before shipping ES2015.\n2016 - 2017: No one is working on this; energy is mostly going into more foundational or frequently used things like async/await, shared memory, etc.\n2018: Sathya first introduces the proposal and it gets to stage 2 (basic shape is decided but details to be worked out).\n2019: He presents again and we discuss the subclassing issues in more detail.\n~2020: Sathya changes jobs and no one else has bandwidth to pick up the proposal.\n2021-2022: I get back to the proposal and over the course of several meetings work out all the details above in committee. Proposal gets stage 3.\n2023: Implementations and tests are underway. Safari ships in September. The person who had been contributing tests for the new methods doesn't have time to finish, and Chrome wants tests before shipping, so I come back and write the remaining tests.\n2024: Chrome ships. Firefox has finished their implementation and will presumably ship soon.\n\nCould this have been done sooner? Yes, of course. But no one had time to work through all the fiddly precedent-setting details until recently. As is usually the case, the fundamental answer is that things do not exist until someone does the work to make them exist, and people have other things going on.",
+        "points": "119 points",
+        "children": [
+          {
+            "comment": "Great explanation! Turns out standards are hard. Thanks for your efforts driving this to completion",
+            "points": "15 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Nice explanation. Kind of ironic that the issues involved with implementing sets is a bit of a set theory problem in itself.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "nice explanation",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "At the risk of asking a stupid question... Why not do these as static methods?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "30 years after the language was created. And people still argue that JS has an acceptable standard library.",
+        "points": "53 points",
+        "children": [
+          {
+            "comment": "I don't think anybody thinks JS has sensible standard libraries. People are working to make it better.\n\nStewardship over a language as fundamental to human society as JS isn't trivial. It's onerous, and perhaps a bit excessive, for even small changes to go through the TC39 review process, but you've gotta remember that we got ourselves in this mess by turning a 10 day hack into the standard scripting language for the web. Failing to do our due diligence will just make things worse.",
+            "points": "65 points",
+            "children": [
+              {
+                "comment": "While I was following the language closely in 2017, I remember TC39's changes not being a lot better than what was designed initially. Except for different ways to achieve similar things (e.g. symbol methods and legacy-style specially-named methods and `Reflect` and `Object`) and some quirks of the individual methods, things like a lack of any language support for working with iterators is asinine since you either have to use an iterator library or fall back to arrays. Why have them in the first place if they are going to be useless out-of-the-box? Some odd features like shared memory (in a single-threaded language) got in, but observables have been pending for eight years.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "If you compare it to Rust's ongoing development, you see a very similar pattern. Standardize something, let users experiment with it until they settle on a dominant pattern (async traits is coming to mind), integrate into the language spec, repeat. They just have the benefit of less bureaucracy. But I do understand your frustration. I don't have too much insight into how any software maintainer triages their feature asks, and I spend every day hoping for a particular language feature to get accepted.",
+                    "points": "10 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I don't think anybody thinks JS has sensible standard libraries.\n\nJS has a perfectly okay standard library for the past ~10 years.",
+                "points": "-15 points",
+                "children": [
+                  {
+                    "comment": "Read the title of this post again",
+                    "points": "8 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "people still argue that JS has an acceptable standard library.\n\nDo they?",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "https://www.reddit.com/r/programming/comments/1aumh3g/union_intersection_difference_and_more_are_coming/kr58e16/",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "JS's extreme popularity suggests that people have accepted it though. What else would acceptance look like?",
+            "points": "-5 points",
+            "children": [
+              {
+                "comment": "The standard library is weak. It’s still fine as a language because you can pull in other libraries (like lodash) to supplement it.",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "JS is the only language that runs on web browsers for most of history. Of course it is popular.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "JS is popular in the way that water and food are popular.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Now the question, is this any more usable than the dozen library implementations? Or is JS fuzziness just give devs another footgun",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "yey finally!",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Call me when I can define my own equality operator on a Set/Map.\n\nBecause right now I always end up with a Map<Hash<K>, { key: K, value: V}>\n\nSince the key needs to be a value type I cannot use an array/object as the key. I need to make it into a key myself. So I need to keep the original value myself.",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "Objects can be keys just fine if you can guarantee you pass the same reference. Using classes as keys, for example.",
+            "points": "13 points",
+            "children": [
+              {
+                "comment": "That unfortunately doesn't work when you're dealing with JSON objects, or even different instances of a class which are not the same reference but should be considered equal.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Different instances aren't the same object though. An equality function would result in an immense slowdown of map and set performance - they don't use equality today for matching keys right off the bat for example. Using your own hash function and keying against it is the best solution and shouldn't be baked in imo.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Other languages do provide the feature.\n\nFor example Rust's HashSet which actually require the https://doc.rust-lang.org/std/hash/trait.Hash.html implementation on the trait. You can't even do references.\n\nIn C# you can override GetHashCode() and Equals() to go from reference (default) equality to whatever equality you want: https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=net-8.0#remarks\n\nIn Python you can override __eq__ and __hash__ to use custom keys in a dict: https://docs.python.org/3.5/library/stdtypes.html#mapping-types-dict\n\nIn fact, I have NEVER had to need referential equality. It's always structural.\n\nAnd in the case that I'm comparing instance a of A to instance a of A it'll still work if I implement structural equality correctly.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Having union/intersection without good value semantics is rather pointless. As long as new Set([[],[]]) , gives a set of size 2, these operations are not going to make much sense.\n\nAlso, I don't think constructor methods should be on instances. union, intersection, difference, symmetricDifference are all operations that take two sets and build a new set. They are not things that a set can do on another set. So e.g. Set.union(s1, s2) would be clearer than s1.union(s2), despite the latter being closer to how you would read out one of the ways you could write out expression mathematically.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Welcome to 1970, javascript.\n\nThe current state of the IT industry where clown languages rule sovereign and proper languages are second class citizens honestly makes me vomit.",
+        "points": "-25 points",
+        "children": [
+          {
+            "comment": "Proper languages such as?",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "Such as any language that's designed and intended for serious work, and not the pathetic joke that is javascript.",
+                "points": "-17 points",
+                "children": [
+                  {
+                    "comment": "Well name a few",
+                    "points": "15 points",
+                    "children": [
+                      {
+                        "comment": "COBOL",
+                        "points": "17 points",
+                        "children": [
+                          {
+                            "comment": "Fair",
+                            "points": "3 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "He's out of line but he's right. Some languages like JavaScript and PHP were cobbled together with many questionable design choices. They were not designed to become as big as they became and as they grew the consequences of the earlier design choices became more and more painful. JavaScript's type system for example is a permanent black mark and no amount of \"just memorize all the pitfalls\", \"just use this different language that tries to fix it but transpiles to JavaScript in the end\" or \"we swear that's fixed in the new version\" can ever redeem it. It was just not a good idea, and we now we are stuck with it. Other languages like say C# have their own problems but they are no where near as rocky as PHP or JavaScript and this shows.",
+                        "points": "13 points",
+                        "children": [
+                          {
+                            "comment": "Honestly I think that’s part of the reason why PHP and JS rose to the top out of all other available choices.\n\nLike yeah when you have to maintain hundreds of thousands of lines of code then proper typing, naming conventions that actually make sense and so on are essential, but when you’re just actually trying to cobble together some random webpage as an amateur PHP and JS are the simpler choice because they just allow people to just start coding without having to learn as much as other languages.\n\nAnd the early web was built by amateurs",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "The later web also seems to be built by amateurs.\n\nI mean, it's 2024.... how do I center a div, again?\n\nMeanwhile in sane UI stacks:\n\n<TextBox Text=\"Hello, World!\" VerticalAlignment=\"Center\" HorizontalAlignment=\"Center\"/>\n\n\nthey just allow people to just start coding without having to learn as much as other languages\n\nThis is simply not true. php has so many non-designs, footguns and all sorts of stupid shit which doesn't make any sense that I would argue that it actually is an order of magnitude harder to learn, compared to any serious, professional language.\n\nSame with javacript.",
+                                "points": "2 points",
+                                "children": [
+                                  {
+                                    "comment": "Centering a div has been a solved problem since flex box was introduced.",
+                                    "points": "1 point",
+                                    "children": [
+                                      {
+                                        "comment": "Oh!\n\nCan you show me an example of how to do it in ONE (1) line of html, like my XAML example above?",
+                                        "points": "-1 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  },
+                                  {
+                                    "comment": "The second part of your comment is completely moot, given the very wide adoption and popularity of both PHP and JS.\n\nBad design, possibly. But it led to much higher adoption among beginners, hence the popularity.",
+                                    "points": "0 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  },
+                                  {
+                                    "comment": "The later web also seems to be built by amateurs.\n\n...eh. I won't be the one that defends the eccentricities of HTML/CSS/JS here but you can't deny that there has been a real effort to make it make more sense with stuff like FlexBox, CSS Grid, TypeScript and so on.\n\nYeah they are patches over a shaky foundation but there's a lot more effort in standardization and good praxis now than in 1995, because a hell of a lot more money is riding on the line.\n\n​\n\nphp has so many non-designs, footguns and all sorts of stupid shit which doesn't make any sense that I would argue that it actually is an order of magnitude harder to learn, compared to any serious, professional language.\n\nYeah, which means code tends to become an unmaintainable mess. But you don't have to write scary words like public static void main or know the difference between int and double to get you from zero to Hello World, and that's what made all the difference back then. The stupid shit you can just deal with later.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "But you don't have to write public static void main\n\nHello world in C#:\n\nConsole.WriteLine(\"Hello, World!\");\n\n\nHello world in F#:\n\nprintfn \"Hello, World!\"\n\n\nPeople trying to defend the pathetic stupidity of toy dynamic languages always compare them with literally the worst possible static language in the history of mankind (java). That's unfair.\n\nknow the difference between int and double to get from zero to Hello World\n\nThe above line does not deal with ints nor doubles. And yes data types is the most fundamental thing anyone needs to learn even before they write their first line of code.\n\nAnd even if you refuse to properly learn data types, this is how you do basic numeric variables and operations in F#:\n\nlet a = 5\nlet b = 10\nlet c = a * b\nprintfn $\"{a} by {b} equals {c}\" // Prints: \"5 by 10 equals 50\"\n\n\nSame in C#:\n\nvar a = 5;\nvar b = 10;\nvar c = a * b;\nConsole.WriteLine($\"{a} by {b} equals {c}\");",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "And yes data types is the most fundamental thing anyone needs to learn even before they write their first line of code. Anyone who denies that is a moron.\n\nHey, I don't like it any more than you do. But well, turns out a lot of people are morons, and they still need to code. JS and PHP just provided the laziest possible shortcut in that regard, because you didn't even need to learn data types or classes.",
+                                            "points": "0 points",
+                                            "children": [],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "A good case can be made that dynamic typing is bad, or that JS's and/or PHP's type system choices were especially bad, but… none of that has anything to do with 1. set operations or 2. 1970 (C didn't even exist yet!).",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Most languages didn't even exist in 1970, much less offer set operations.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "ML existed in 1970, and it was not a fucking pathetic joke, like javascript.",
+                "points": "-6 points",
+                "children": [
+                  {
+                    "comment": "And as we all know, functional programming immediately became a huge success and only dummies would use anything else.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Nice way to move the goalpost.\n\nYou're asking for a language that existed in the 70's and had set operations. ML did.\n\nNone of this changes the fact that javascript is fucking disgusting.",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "You're asking for a language that existed in the 70's and had set operations. ML did.\n\nYou were implying that it has been perfectly common since 1970 to have set operations. It hasn't been. Most languages don't do that.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "I've been using LINQ since 2007. Is that mainstream enough for you?\n\nIt's 2024 so that's 17 years already.\n\njavascript is fucking awful and anyone who denies that is a moron.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "I've been using LINQ since 2007.\n\nSame.\n\nIs that mainstream enough for you?\n\n2007 is very much not 1970.\n\njavascript is fucking awful and anyone who denies that is a moron.\n\nI didn't make any judgment on JS.",
+                                    "points": "1 point",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wonderful. More garbage in typeless language that just keeps piling on features.",
+        "points": "-5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hard to believe that this was not part of the set api to start with.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aum3yd",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.blackslate.io/articles/bloom-filter-in-java-using-google-guava",
+    "title": "Bloom Filter in Java using Google Guava",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aum28m",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/suATPK45sjk",
+    "title": "How to Become a Great Software Developer — Best Advice from Top-Notch Engineers",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Curiosity - The number one trait of great developers in my opinion. promotes learning and exploration.\nCritical thinking - The ability to constantly question assumptions, your own and others.\nAn obsession with delivering great experience to all stakeholders. This doesn't just mean delivering a great experience to the end users. This means delivering a great API experience to other developers, delivering beautiful code written to be understood by others, delivering great knowledge to the team on how the software was designed, built, and tested. It means adding value and enriching everyone's experience with your work, however it touches their lives.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "this isn't LinkedIn, why are you talking like that?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Hahha. Sorry. I guess it's just my normal way of communicating.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aum28k",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://forms.gle/DDDkyg8w28NJxVae7",
+    "title": "Research API/DAPI marketplace",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aul9in",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://curiousdrive.com/codingchallenge/soras-usage-analysis",
+    "title": "Coding Challenge - Sora's Usage Analysis",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aul8u4",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.infoworld.com/article/3712690/go-language-hits-top-10-in-the-tiobe-index.html",
+    "title": "Go language hits top 10 in the Tiobe index",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Bro, do not ever look at Tiobe index for information.",
+        "points": "109 points",
+        "children": [
+          {
+            "comment": "This 100%.",
+            "points": "20 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "i wish r/programming banned tiobe-based links at last. their index is completely stupid, as evidenced by their results.",
+        "points": "42 points",
+        "children": [
+          {
+            "comment": "It’s pretty accurate.",
+            "points": "-31 points",
+            "children": [
+              {
+                "comment": "javascript 6th? c second? visual basic 9th? are you high?",
+                "points": "23 points",
+                "children": [
+                  {
+                    "comment": "It’s not perfect but yea it’s pretty accurate. You don’t think C is one of the most used programming languages on the planet?",
+                    "points": "-25 points",
+                    "children": [
+                      {
+                        "comment": "Do you think SQL is one of the most used programming languages?",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Nearly every dev in a large conpany interacts with an SQL database of some sort, so probably yes",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "1,000% yes I do. It’s completely comparable to the popularity of C in that most companies using a database (which is a large portion of companies) are using SQL in some way.\n\nOf all of the rankings, that has to be the least controversial.",
+                            "points": "5 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "no, i don't. programs written in c are used everywhere, but there aren't a lot of c programmers, or even new c projects, anymore. a much better index, the stackoverflow survey, which is made by actually asking developers, (rightfully) places it way behind js or even java. and visual basic isn't even in the top 20.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "There are large ecosystems that are nearly 100% C — embedded, avionics, really any swap-constrained environment. It is still a dominant and highly used language",
+                            "points": "6 points",
+                            "children": [
+                              {
+                                "comment": "pretty sure you largely overestimate the size of these domains. it's a common language, but not nearly as big as javascript or java these days.",
+                                "points": "-1 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "All that is a tiny blop compared to the vastness of the web.",
+                                "points": "-1 points",
+                                "children": [
+                                  {
+                                    "comment": "You mention web: what language do you think apache and nginx are written in?",
+                                    "points": "1 point",
+                                    "children": [
+                                      {
+                                        "comment": "What language do you think AWS, google’s huge percentage of backends or alibaba use? Or just that small little thing that you literally HAVE to use for web frontends, js?",
+                                        "points": "2 points",
+                                        "children": [
+                                          {
+                                            "comment": "I would imagine lots of C and Go for the hyperscalers, though it depends on which part of the cloud stack you are talking about",
+                                            "points": "-1 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "In embedded c is everywhere. Every ECU on every car you see around is running c/c++. I work as embedded SE and i only ever used c99.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "in web javascript is everywhere. in company backends java is everywhere. in android dev java is everywhere. embedded does use a lot of c (i know first hand, don't worry), but it's still a smaller domain of programming.",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Visual Basic is by far the weirdest one in the list. That I agree with, which is why I said it’s not perfect.\n\nC was absolutely dominant from the mid 70s to the 90s. In some areas it’s still dominant. So it’s not that new grads are writing C left and right at new companies, it’s that many old, stable projects (Linux, Postgres, etc) are all written in C and have entire ecosystems around them that are still in active development.\n\nRemember, your career is just one datapoint. Try and think about the industry as a whole if you can. So if you don’t think C is in the top 10 at the very least, I think you’re just not able to think past your own experience.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "if you don’t think C is in the top 10 at the very least\n\ni didn't say that, though. C is still very popular, but you have to consider the sheer amount of projects written in java or javascript these days. a few big projects (kernels, databases) and niche domains (embedded) aren't enough to put it higher than them in sane indices.",
+                                "points": "1 point",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Other than VB the stack overflow list is the same friggin list as Tiobe with a few languages shuffled around. That’s your issue - that SO has C at 10 but tiobe has it at 2? It’s an insignificant difference. All the other languages have a much smaller differential.",
+                            "points": "-2 points",
+                            "children": [
+                              {
+                                "comment": "my issue is that tiobe has consistently proven that its order (which is the whole point of an index, despite what you seem to think) is basically random. you conveniently leave out js, which their index seems to indicate is five times less popular than python, and three times less popular than C. and let's not talk about their fascination for visual basic, or the fact that they query ebay, rakuten and walmart for part of their results.",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "It’s as accurate as the list of programming languages in any random order. The only thing it gets right is that it doesn’t involve random words.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "I would think that if we’re truly random you’d get some less popular languages like Brainfuck in the top 10. That never seems to happen though.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Visual Basic once was literally ahead of goddamn JS.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Tiobe index currently:\n\nPython 15.16%\nC 10.97%\nC++ 10.53%\nJava 8.88%\nC# 7.53%\nJavaScript 3.17%\nSQL 1.82%\nGo 1.73%\nVisual Basic 1.52%\nPHP 1.51%\n\nI'm so glad someone keeps an index to tell people that SQL is more popular than Go, totally comparable languages.",
+        "points": "55 points",
+        "children": [
+          {
+            "comment": "Weird. I usually do my queries in C",
+            "points": "18 points",
+            "children": [
+              {
+                "comment": "Weird. I usually do my queries in C\n\nYou joke, but the reality is that the clear majority of programmers are using an ORM that is doing (usually N+1) queries for them in $LANGUAGE.\n\nIOW, they literally are doing their queries in C#. Or Java. Or Python.",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "[Laughs in LINQ]",
+                    "points": "5 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Based on these criteria the following search engines are qualified:\nGoogle.com: 7.69%\nWikipedia.org: 7.38%\nAmazon.com: 7.08%\nBing.com: 6.77%\nVk.com: 6.46%\nMicrosoft.com: 6.15%\nSharepoint.com: 5.85%\nEbay.com: 5.54%\nGoogle.com.br: 5.23%\nAmazon.co.jp: 4.92%\nMsn.com: 4.62%\nRakuten.co.jp: 4.31%\nWalmart.com: 4.00%\nAmazon.de: 3.69%\nAmazon.co.uk: 3.38%\nGoogle.de: 3.08%\nGoogle.co.jp: 2.77%\nAmazon.in: 2.46%\nGoogle.co.uk: 2.15%\nEbay.co.uk: 1.85%\nGoogle.it: 1.54%\nGoogle.fr: 1.23%\nAmazon.ca: 0.92%\nAmazon.it: 0.62%\nGoogle.es: 0.31%\n\nSuch an odd selection of websites. And why is Msn.com there, isn't that just Bing again?",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "What do you mean by odd? It’s totally legit. I know because I always go to Walmart.com to search about programming related problems",
+                "points": "10 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "they're technically different urls, just like the ten google urls. their method is completely mad, but at least they stick to it.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The longer you look at that the weirder it gets.\n\nWhy have google on it like 10 times?\n\nWho is looking for programming languages on ebay and walmart?\n\nVK is on there, but facebook not?\n\nWhat is so special about sharepoint.com?",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Tiobe is meaningless",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aukjpd",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://chng.it/BHfYdcJVTP",
+    "title": "Nintendo streetpass",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aujqvt",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.infoq.com/news/2024/02/dotnet-aspire-preview3-released/",
+    "title": ".NET Aspire - Preview 3: Expanded Component Support with Azure OpenAI, MySQL, CosmosDB, Kafka, and More",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aujnml",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://piotrminkowski.com/2024/02/19/spring-boot-ssl-hot-reload-on-kubernetes/",
+    "title": "Spring Boot SSL Hot Reload on Kubernetes - Piotr's TechBlog",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aujl44",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://twitter.com/AhmedMoham31729",
+    "title": "Why the hex. numbers which represent the subsequent memory locations of 5 \"int\" type variables are increasing only by 4 knowing that each digit in hex. system represents only 4 bits so to go to the next memory location for an \"int\" (i. e. add 4 bytes) should not it increased by 8? why only by 4?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I don't exactly follow.\n\nModern computers are byte-addressed, and an int is 4 bytes long. So if you have 2 adjacent integers in memory, the address of one will be 4 greater than the other.",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "I think (no idea, since Twitter doesn't give me their post) OP is confusing a digit in hex representing four bits with memory addresses given in hex, where they're actually representing the address of a single byte.\n\nEven if you're counting bits or bytes, the values are still the same in decimal or in hexadecimal; their units are different. If you're using a hex value to represent the bits in a byte, that's a different unit than using a hex value to represent a memory address in a byte.",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hex is just base 16 rather than base 10. The reason we use it is because base 10 digits don’t line up on a bit boundary. That is the number 9 is the binary number 1001b, while the number F in hex is 1111b.\n\nWe could use octal (base 8) but that has 3 bits per byte (7 is 111b) so it does not line up as nicely. Don’t think about the size of the base, think of it as any other number system. So 0xFF is 11111111b or 8 bits, but 0xFFFFFFFF is 32 bits or an int on most modern computers.\n\nYes there is probably a base 32 system, but it would use most of the letters of the alphabet and be confusing. Base 16 just adds A-F and is the shortest solution that aligns evenly on a bit boundary that still saves enough space.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Each hex \"digit\" is half a byte. An int is four bytes, so you move ahead by four bytes. You are correct that an int is eight hex \"digits\", but this is not relevant. Memory is addressed by the byte, not by the \"digit\". (Or if you insist on thinking about it in terms of \"digits\", then you need to work in base-256. Not base-16.)",
+        "points": "-2 points",
+        "children": [
+          {
+            "comment": "When you say a hex digit is half a byte, what in the world are you talking about?\n\nEvery byte in memory is addressed separately (in all modern computers I'm aware of); you can't address halfway through a byte. There were, historically, some \"word-addressed\" systems, where you address a group of bytes instead of an individual byte, but none I'm aware of are in use today.\n\nIf what you meant is that the maximum value storable in a byte (255) is represented by two hex digits (FF), then ok, but that has nothing to do with how memory addresses work, and saying a hex digit is half a byte is... a very strange and confusing way to say that.\n\nAnyway, the question here is so garbled and unintelligible that it's hard to know what's being asked (and Twitter currently won't show posts to not-logged-in people, so...)",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "If what you meant is that the maximum value storable in a byte (255) is represented by two hex digits (FF), then ok\n\nThat's exactly what I'm saying.\n\nMemory addresses are done by the byte. You can't go halfway between bytes in memory.\n\nBut each \"digit\" (more correctly \"nibble\") is half a byte, which I think is what the OP is confused about. He seems to be under the impression that each \"digit\" is its own byte, and then he's confused as to why an int only occupies four bytes when it's eight \"digits\" long. I'm only pointing out that the \"digits\" are a half a byte each. Half of eight is four.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "OP seems to have weirdly confused memory addresses and base-16 numbering systems.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Linket virker ikke (for mig).\n\nSpørgsmålet er så uklart formuleret, at jeg ikke helt forstår hvad der spørges om.\n\nGår man fra en 32 bit into til en 64 bit long går he repræsentationen ganske rigtigt fra 8 til 16 tegn.",
+        "points": "-8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Whether the notation is hex or some other base, the locations of adjacent 4-byte wide values will always differ by 4. Or were you expecting an int to be 8 bytes wide? The size of built-in integer types depends on the language. Modern languages tend to bake this info right into the type name, e.g. u64, int32",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aujdbk",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.learncpp.com/cpp-tutorial/introduction-to-objects-and-variables/",
+    "title": "Instantiation and decleration in c++(non oop)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What exactly is your question? Chatgpt was correct. \n\nYou need to give a name to a part of ram before you can put something there.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Variable creation = declaration\n\nVariable creation with a value = initialization\n\nJust like how an object is an instance of a class. The compiled program will create an instance of that variable into RAM, that is instantiation.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aujc3r",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://twitter.com/AhmedMoham31729",
+    "title": "Memory in C++ Why the hexadecimal numbers is increased by 4 only and we know that each digit represents only 4 bits (half byte) note 8 bits (one byte)?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Well thats only slightly more legible than your last post, this is the wrong sub for this question, but in what context is a hexadecimal number increasing by 4?",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "hmm.\n\nno. the more i re-read it, the more i'm convinced I'm having a stroke.",
+            "points": "18 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "stop over thinking it. each memory address holds 1 byte of data, 8 bits, and nothing smaller. just because hex has two (2) characters in it to represent that number doesnt change the fact that it's still 8 bits and 1 byte in memory. it's just how we represent it in hex because hex is base 16. base 10 of 0xFF would be 255, but that doesnt mean it contains three 1/3rd bytes, its still one byte and 8 bits\n\nints are architecture dependent, 32 or 64 bit. on a 32 bit machine ints are 32 bits. when you have a contiguous array of 32 bit ints they each take up 4 bytes (32 ÷ 8 = 4) so as you iterate through the array you move your address by 4 bytes each time, because each are 4 bytes",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "wtf?",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Your question isn't clear, and those of us who don't have Twitter cannot see whatever it is that you linked to.\n\nedit - My attempt to make sense of your question, and answer it:\n\nEvery hex byte is two nybbles for the same reason that every two-digit base-ten number is two digits.\n\nI'm not sure what you mean by \"increasing by four\". Are you talking about the pointer's memory address when storing a list of ints? This is because each int is four bytes. Each time you store an int you need to move the memory address forward by 4 bytes, otherwise you'll be overwriting part of the previous int. (I'm talking only about the int data type. There are other kinds of integers which are different lengths.) Analogy: Suppose we have several four-letter words: \"four\", \"your\", \"have\", \"that\", etc. If we want to stick each of them in memory (without any padding), we would start at address x+0, then we'd write \"four\", then we'd go to x+4 and write \"your\", then x+8 and write \"have\", and so on, such that we end up with the string of \"fouryourhavethat\". If we only increased by 1 each time, then what we'd end up with would be \"fyhthat\" which is not what we wanted.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "The Twitter link is just to their profile. This is all kinds of weird.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can people stop using Twitter? I don't want to login to view a post, wtf is this?",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because its 16 based and 24 is 16? Or maybe you asking why we dont use single character for each possible byte which would require 256 characters alphabet?",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because there’s only 26 letters in the alphabet. Google different bases in math… base 2, 10, 16, 32, 64, etc. We don’t have a good way to represent base 256 without resorting to emoji or something which wouldn’t be fun. Plus, you’d have to remember what all 256 different symbols mean which would be exceedingly difficult for westerners.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "One hex digit is a number between 0 and 15 (16-1)\n\nTwo hex digits is a number between 0 and 255 (16 * 16 - 1)\n\nOne byte is a number between 0 and 255",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Because it’s base 16=24.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auir94",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://open.spotify.com/episode/56ndIbdNrN276QQfdksh21?si=92d798d913544048",
+    "title": "Designing A Data-Intensive Future • Martin Kleppmann & Jesse Anderson",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1auibj9",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.liblab.com/how-to-build-an-sdk/",
+    "title": "How to build an SDK from scratch",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This article contains an advert for a paid product. In case that saves anybody else a click.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aui74z",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.infoworld.com/article/3712924/oracle-autonomous-database-adds-ai-conversation-support.html",
+    "title": "Oracle Autonomous Database adds AI conversation support",
+    "points": null,
+    "comments": [
+      {
+        "comment": "More technically:\n\nhttps://blogs.oracle.com/datawarehousing/post/now-is-the-time-to-innovate-with-ai-ml",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aui0jx",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@anicolaspp/go-concurrent-computations-with-contexts-90cad9b73081",
+    "title": "Go Concurrent Computations with Contexts",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1auh7aa",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://implementing.substack.com/p/why-it-is-important-to-create-personal",
+    "title": "Why it is Important to Create Personal Projects",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I think doing the same thing 24/7 can become hard to do. Some of us just want to rest and do something else when they are off",
+        "points": "20 points",
+        "children": [
+          {
+            "comment": "True, like all things the perfect balance has to be found, which certainly depends from person to person. In my case I do some physical activity and then I get into it in the evening, sometimes yes sometimes no, certainly alternating with other things like TV series etc. becomes much healthier ☺️",
+            "points": "-9 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "i know that programming is some people's passion or hobby but once 5:30 hits i do not want to look at or read about code what so ever",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "At work I work in ... COBOL (sigh). Pays above average though.\n\nFor personal projects I have used Smalltalks (Pharo, Dolphin, Cuis), Schemes (Racket, Chez, Chicken, LambdaNative, Guile, Gerbil), Free Pascal, D, Ada, Lua, Nim, OCaml, ReScript, Dart/Flutter, Go ...\n\nI have learned more from my own personal projects that from what I use at work. In fact stuff I learned in my personal projects greatly benefit my paying job.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Would you say it would be worth learning cobol for the price? What would it be like finding a job in cobol with zero experience?\n\nIve thought about learning it just for the money lol",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auh6sr",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.epicweb.dev/the-golden-rule-of-assertions",
+    "title": "The Golden Rule of Assertions",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Seems like the useful thing would be how to tackle the \"non-relevant\" issues like server not being there and so I feel that the article stops right when it would actually be useful. All the things up to that is covered with \"don't test (assert) non-essential things\" but usually the usefulness is in giving ideas and examples on how to actually do that.",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think this also relates to why I don't find value in tests that expect(mockObject.mockFunction).toHaveBeenCalled(). That's an implementation detail, not an observable effect of the system.\n\nInstead, assertions should be on data. That's not to say don't mock ever, because you have to in some cases, but the mocks should return data which is processed by your code, and you assert on the result of what your code did with that data.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "The one exception is when the external function has major side effects and you need to know it’s definitely or definitely not being called. E.g. asserting that the ejector handle doesn’t get pulled during a test that only covers normal flight conditions.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "In this case you can change the level of abstraction in which you code and design in such a way the function returns a Result, and then you can inspect the status if a condition happened or not. E.g. asserting that the order of tasks of correct to ensure the handle don’t get pulled during a test that only covers normal flight conditions.\n\nBe aware that testing that a function is NOT being called can be non deterministic if you make a mistake by forgetting to inject the right dependency or checking the wrong call (mostly when code is changed later).",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Main Points:\n\nThe article \"The Golden Rule of Assertions\" emphasizes the importance of well-structured assertions in software testing. It introduces the concept that a test should fail only if the intended functionality of the system is not met. The author highlights common pitfalls in testing, such as focusing on implementation details or external factors like server responses, which can lead to unreliable tests. The article advocates for a testing approach that aligns with the core intention behind the system, ensuring that tests are meaningful and effectively capture essential functionality.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "It introduces the concept that a test should fail only if the intended functionality of the system is not met.\n\nWhy didn't I think of that...",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "It’s a common anti-pattern to set up mocks to inspect what the object under test is calling-out to. It makes for fragile tests because the implementation is hard to improve without rewriting or scrapping a bunch of tests. So you can say “why didn’t I think of that” like it’s totally obvious, but I’ve read a lot of test code at some major tech companies that violate this paradigm.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "I’d rather say “most test code at some major tech companies that violate this paradigm”.\n\nI’ve seen code from devs with decades of experience throwing mocks all over the place. They have no idea of the value with tests and only want to satisfy some static rule from the company or the team, say for lines of code coverage.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aufeyv",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/hexaredecimal/ML",
+    "title": "A small ml based programming language for the JVM",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1auf40c",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/YaDy4Gsmv9A",
+    "title": "A Star Path Finding Algorithm",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Great job🔥🔥. Must be hard to do path finding in 3D space.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auessy",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://javabulletin.substack.com/p/engineering-with-java-digest-10",
+    "title": "Engineering With Java: Digest #10",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Oh, Lombok. This is I don't want to find in project.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auekzz",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://open.substack.com/pub/thehustlingengineer/p/give-feedback-that-helps-not-hurts?r=yznlc&utm_medium=ios&utm_campaign=post",
+    "title": "Give Feedback that Helps, not Hurts",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The part about setting expectations that you can meet hits damn close to home.\n\nWe have a problematic team. Management has, finally, after years of avoiding it, began dealing with the team. What they’re finding is that it’s incredibly frustrating and they’re so frustrated that they’re lashing out at others. I’ve called them on it twice when they lashed out at me and both times they said “it’s not personally, we are really frustrated with x team”. Part of the problem is they’re frustrated my team members are not taking part in certain “collaborative” meetings, but what my team members see is that unless you speak up in agreement they lash out at you so they stay silent.\n\nAlso, for years, they have accused me of not working well with x team and continue to now. When I point out to them that they can’t work with x team they tell me I need to be able to even if they can’t and rapidly move on.\n\nIt’s…frustrating. There’s no way for me to succeed. At this point I’m just having to say no when they ask me to get that team to do things because the team will get upset and then management will hold it against me.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1auay62",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://liam-on-linux.dreamwidth.org/88032.html",
+    "title": "A Plea for Lean Software",
+    "points": null,
+    "comments": [
+      {
+        "comment": "In some way, this is back in vogue. Performance is a feature and it wins like with ruff, ripgrep, alacritty. I feel the popularity of rust is a symptom of this.",
+        "points": "15 points",
+        "children": [
+          {
+            "comment": "clearly, rust popped at an appropriate time\n\npeople make articles about improving UI latency from 1s to 4ms, the ethos is back (for now)",
+            "points": "9 points",
+            "children": [
+              {
+                "comment": "from 1s to 4ms\n\n?",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "That would've been from an article from yesterday: https://www.reddit.com/r/programming/comments/1atd161/from_1s_to_4ms/\n\nA potentially larger point is that a lot of the stupid crayon eaters have to pay for their own code's inefficiency now (via. cloud provider's \"pay for what you use/squandered\" bills) and lost the ability to force other people (the individual end users) to pay the cost of their cheap and nasty \"development time optimized\" bloatware.",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "the zed editor team made a blog post about improving perf\n\nsee: https://news.ycombinator.com/item?id=39417829",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Why not link directly to the article rather than a weird reddit clone?",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "that's where I found it",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Looks like performance wins for developer tools. I don't think you can say the same for consumer or business software, which of course is where most development happens.\n\nThis is partially because developer tools get used by people who need fast cycle times, and partially because developers are exactly the kind of people to spiral themselves into psychosis thinking about the impact of 4 wasted milliseconds one hundred times a day.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "Yeah, that tracks. As a consequence, I have noticed that when our team really focuses on creating tests, the code tends to get optimized to make the tests run faster. It isn't the kind of load users tend to experience, but at least things go faster.\n\nThat being said, the business case for \"writing it in rust\" is going to be limited, but at least you can choose something like golang over something like python.\n\nPerformance is still different from bloat though which was about about binary size, ie. cramming in obscure features and using many big dependencies.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "With all the vendoring and static linking it has massive disadvantages in other aspects though.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Software's girth has surpassed its functionality, largely because hardware advances make this possible\n\nSure, it was hardware advances which allowed us to keep the same software running on a single box from 1970s to the late 1990s. No one \"cared\" about elegance and efficiency because everything would be twice as fast without doing anything in 18 months anyways.\n\nBut we're nearing the physical limits of how small a transitor can be. Now the strategy is to employ a variety of methods to scale computing, including iot, data centers, specialized accelerated hardware, horizontally distributed systems, further optimizing compilers and runtimes, etc.\n\nThere's no return to simplicity or elegance coming. We're going the other way to make up for the lack of Moores law in a world that demands it.",
+        "points": "64 points",
+        "children": [
+          {
+            "comment": "Except -- this ain't my first \"we're reaching the physical limits\" rodeo. I first heard it when I was in EE school in the 1980s, when alpha rays from chip packaging was limiting our ability to make memory chips larger than (IIRC) 16Kbits. And there have been several times when lithography clearly can't possibly resolve smaller quantities. And how there's no way for any company to afford the cost of a new fab, and how the complexity of chips is so great that they can't be designed any more, and how clock skey across the chips is so great that they can't get any larger. The list is endless.\n\nEventually, I suppose that some limit will in fact be met. Until then, it's just a lot of concern for no reason.",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "A silicon atom is about 0.2 nm \"wide\". It's not super clear to me how you go beyond that. At some point, surely, there is a limit to how small a transistor can be created. I'm happy to be wrong about this but surely this position is understandable.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "there is a limit, eventually electrons ignore the boundaries and leap across, then how do you make an accurate machine if the electricity goes where ever it wants?",
+                    "points": "6 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "The cool thing about a meta analysis is that I'm not looking at the underlying data. I'm looking at a life-long series of predictions. For each prediction, there was a solid, understandable, reality-based reason why some barrier would not be surmounted.\n\nAnd in every single case, we blew past the barrier.",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "I guess we'll see if there's a way past the one atom limit in our lifetime.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think no one can dispute that software today is more useful, easier to use and provides more value than software back in the day when this article was written (1995).\n\nThe fact is people have more expectations from their software today and any other time and the industry is trying to figure out a way to deliver that to the people who are ultimately paying for it.\n\nWe want more, we want it free, we want it available 24X7, we want it in our pockets and watches and cars and kitchens.",
+        "points": "47 points",
+        "children": [
+          {
+            "comment": "Sure, software does more today that it did back then. But do we really get ten times the functionality for ten times the system load? Word 95 did pretty much everything we ever wanted from a word processor, there's a reason it was used in businesses all around the world. So nowadays some versions of Word have proper kerning and ligatures, and \"WebWord\" has THE CLOUD!!! But does this really justify the immense increase in resource use?",
+            "points": "28 points",
+            "children": [
+              {
+                "comment": "Word 95 did pretty much everything we ever wanted from a word processor\n\nMaybe everything you wanted, but the world's a big place.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Sure, software does more today that it did back then. But do we really get ten times the functionality for ten times the system load?\n\nI think we do and I am willing to bet every other person who uses the browser or the phone also thinks it does. Imagine telling them their browser should have ten times the less functionality. That their phones should have ten times the less functionality.\n\nWord 95 did pretty much everything we ever wanted from a word processor, there's a reason it was used in businesses all around the world. So nowadays some versions of Word have proper kerning and ligatures, and \"WebWord\" has THE CLOUD!!! But does this really justify the immense increase in resource use?\n\nThis is a straw man. You are of course lying when you say that those are the only two features word has added over the years. You are lying because you know that people who use word processors for a living would never voluntarily revert back to word95.",
+                "points": "-9 points",
+                "children": [
+                  {
+                    "comment": "Imagine telling them their browser should have ten times the less functionality\n\nTalking about straw men... I'm not advocating for reducing functionality, I'm saying software doesn't need to consume that much more computing power for the features it adds. Give me ten times the features for ten times the resource consumption, fine. But (making up numbers here) ten times the features for a hundred times the resources? That's NOT fine.\n\nYou are lying because you know that people who use word processors for a living would never voluntarily revert back to word95.\n\nMoving over to ad hominem. Having an actual discussion is great, but without personal attacks please.\n\nStaying with the example of Word, I'd love to know what new features Word added since 95 that people actually need to use so much that they wouldn't revert. Sharing files with others, working together with others on a document, spell checking, layout functionality, mail merge, all there nearly 30 years ago. And so what if they added hundreds of new functions -- the question is: Do the new functions justify the enourmous increase in resource usage? Because that's what the linked article is about.",
+                    "points": "15 points",
+                    "children": [
+                      {
+                        "comment": "Talking about straw men... I'm not advocating for reducing functionality, I'm saying software doesn't need to consume that much more computing power for the features it adds.\n\nBut you were literally arguing that they should have less features. You even brought up word95 as an example of where any new features added after that were silly and useless.\n\nMoving over to ad hominem. Having an actual discussion is great, but without personal attacks please.\n\nDo you even know what an ad hominem argument is? I suggest you look it up. I accused you of being a liar and that accusation is based on the lie that you told. That's not an ad hominem.\n\n?Staying with the example of Word, I'd love to know what new features Word added since 95 that people actually need to use so much that they wouldn't revert\n\nIf you would like to know (this means you don't know) I suggest you ask the people who use word processors all day long.\n\nSharing files with others, working together with others on a document, spell checking, layout functionality, mail merge, all there nearly 30 years ago.\n\nWere they? really?\n\nAnd so what if they added hundreds of new functions -- the question is: Do the new functions justify the enourmous increase in resource usage?\n\nYes they do. If they didn't people wouldn't be using them.\n\nHonestly this all smacks of old man yelling at the clouds. Software is better, it uses more resources, deal with it and move on.\n\nThe good news is all that old stuff is still around. You don't have to use a modern phone, you don't have to use a modern computer, you don't have to use a modern operating system. If you want you can still use DOS and wordperfect. Yelling at all the developers that they are stupid and inept and are writing bloated code for no reason may make you feel like you are better than them but it's futile and makes you look like a kook to the rest of us.",
+                        "points": "-18 points",
+                        "children": [
+                          {
+                            "comment": "You even brought up word95 as an example of where any new features added after that were silly and useless.\n\nThe words \"silly\" and \"useless\" don't even appear in their comment. Are you replying to the right person? I'm very confused at your reply treating this like a debate.",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "This is a straw man\n\nThat's...that's not strawman. Strawman is when you misrepresent an argument to favor your own. The other poster was using word 95 as an example to further his argument that software back then had all the essentials but today's software just added a few more functionality at the expense of being way more resource intensive. He was trying to counter your original point that we want more things by saying it doesn't add much value given the amount of resources today's software uses\n\nWhether his argument is correct or not is subjective but you claiming strawman is objectively false and by saying that you actually committed strawman yourself",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "The other poster was using word 95 as an example to further his argument that software back then had all the essentials but today's software just added a few more functionality at the expense of being way more resource intensive.\n\nWhich of course is a lie. Ask any person who uses it for a living and they will tell you.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "and I am willing to bet every other person who uses the browser or the phone also thinks it does\n\nI use a browser to view websites, a decade ago I used a browser to view websites. There has been no increase in functionality.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "I use a browser to view websites, a decade ago I used a browser to view websites. There has been no increase in functionality.\n\nYou are clearly delusional.",
+                        "points": "-12 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "We do not have ten times the functionality, but we have ten times the value that people see. Value of a program is not linear in respect to functionality and sometimes missing some functionality sometimes reduces value right to zero",
+                "points": "-2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Word 95 did pretty much everything we ever wanted from a word processor\n\nNo, pretty sure it didn't.",
+                "points": "-7 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I wanted to write a rebuttal to this last week.\n\nThe reality is that customers expect far more than they did twenty, never mind fifty years ago.\n\nIf you want a Garage Door opener you're expected to have over the air updates. That brings encryption, bootloaders, TCP/IP stacks, etc. None of these are straightforward.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Thank you! I've used plenty of systems from the 80s and 90s. What they all have in common are weird, bizarre design choices caused by a lack of time and a lack of resources.\n\nEG: the programing language where no variable name could include the letter \"f\", or the bizarre memory and interrupt details people used to have to memorize to boot their PC.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "In many cases it's not the fault of application developers but a consequence of the \"evolution\" of libraries/frameworks, especially UI. For example a simple GUI app written today with a modern framework like WinUI 3 will work like shit even on new hardware while an old app written using something like WinForms will work better even on contemporary hardware. However if you look at the code of these apps you will discover that the newer app is just as simple and lean as an old one - it's the underlying framework that became slower by several orders of magnitude.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Or in other words, stop shipping the complete chromium web browser just to run a javascript web app.\n\nI blame the browser makers for unnecessarily ruining the ability to run javascript in html files saved on your own hard drive.",
+        "points": "29 points",
+        "children": [
+          {
+            "comment": "I find it funny how we had essentially the same thing as CEF/Electron before, Java and jars. Except in that case we had one copy of the Java runtime installed and a single jar for all OSes. Now we have Java apps which each have their own embedded Java runtime (see cryptomator, cyberduck).\n\nInstead of having a single copy of what is essentially an abstraction layer for the OS which can be shared (both storage and memory-wise) with multiple applications, we now have a dozen slightly different versions all dependent on each developer to provide security updates (if the developer is even still actively developing that app).",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "There's a reason we do that though. Relying on the system install can easily lead to breakage if the underlying solution changes out from under it. And then it gets worse when some other application now relies on the updated solution, so you can't have both working at the same time.",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "You still find the occasional Java app that doesn't ship with the whole JRE, such as Ghidra.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I blame CSS. If we didn't have CSS the web would be text content and probably semantic.",
+            "points": "-11 points",
+            "children": [
+              {
+                "comment": "Nah, It there was no CSS, then someone would reinvent it as a JS library. It would involve <table>,<color>, <center>, <font> and a bunch of blank gifs for padding.",
+                "points": "17 points",
+                "children": [
+                  {
+                    "comment": "<blink>",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "<marquee><blink>Welcome to my personal page!</blink></marquee>\n<center><img src=under_construction.gif>",
+                        "points": "7 points",
+                        "children": [
+                          {
+                            "comment": "No no noooooooooooooo",
+                            "points": "4 points",
+                            "children": [
+                              {
+                                "comment": "And obviously\n\n<bgsound src=\"PRTYTIME.MID\">",
+                                "points": "5 points",
+                                "children": [
+                                  {
+                                    "comment": "<bgsound src=\"BIGPIMPIN1.MID\">\n\nAnd that's what I call REAL ULTIMATE POWER",
+                                    "points": "1 point",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "<blink>",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Summary:\n\nNiklaus Wirth's article, \"A Plea for Lean Software,\" criticizes the trend of increasingly complex and resource-intensive software, which doesn't correspond with improvements in functionality. He argues that this bloated software is a result of hardware advancements allowing developers to be less disciplined in software design. Wirth contrasts modern software's inefficiency with the lean and efficient software of the past. He emphasizes the importance of disciplined methodologies, returning to basics, and focusing on essential features over superfluous ones. The article also explores the causes of this software bloat, including industry practices prioritizing feature quantity over quality, and the tendency to incorporate every conceivable feature into a single monolithic design. Wirth concludes by advocating for a more systematic approach to software development, highlighting the benefits of simplicity, efficiency, and user-centric design.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "Just stop making microservices if you don’t have to?",
+            "points": "22 points",
+            "children": [
+              {
+                "comment": "Microservices fit in really well with corporate kingdom building. I can be the director over EKS, Galaxis and RGS, and then get budget to have the a bunch of contractors write an Omega Star replacement for EKS and get a promotion to Senior Director.\n\n \n\nIt blows my mind how well microservices fit so well with corporate kingdom building.",
+                "points": "26 points",
+                "children": [
+                  {
+                    "comment": "Seems to be a \"law of nature\" (at least of human society). It was already discovered in the sixties:\n\n\"Organizations which design systems (in the broad sense used here) are constrained to produce designs which are copies of the communication structures of these organizations.\"\n\n(see https://en.wikipedia.org/wiki/Conway%27s_law)",
+                    "points": "6 points",
+                    "children": [
+                      {
+                        "comment": "I worked at a place where Conway's law was in full swing on about 6 codebases that used a shared database The thing was that the code really fought against the organization structure because the shared database really ended up encouraging engineers to just modify multiple code bases instead of trying to coordinate the change across teams - this resulted in a certain amount of rational behavior across the code bases.\n\n \n\nThen at the next job, enter microservices! These have this side effect of allowing teams to have wildly different code and the EKS team can jump straight to pointing fingers at the Galaxis team without even looking to see if they were sending garbage to Galaxis --> resulting in at least 1 day of delay on step 1 as Galaxis needs to build a finger to point back at EKS!",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "One of those videos where you know what is linked before you know what is linked. The best part is it's supposed to be satire, but after awhile you start to see real systems built in their absurd service spaghetti.",
+                    "points": "8 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "But what if I want to show the users favorite color?",
+                    "points": "4 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "It's kinda well known that the structure of your technology systems will end up mirroring the structure of your organization. Ie Conway's Law.",
+                    "points": "6 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "What a gem.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Momentum of poor decisions\nContinuing to make poor decisions\nTrusting people that make poor decisions",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aua8ge",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://monorails.substack.com/p/weekly-digest-3-rails-8-introduces",
+    "title": "Weekly Digest #3 : Rails 8 introduces a built-in rate limiting API",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Using Rails is already rate-limiting",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1au84as",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@wagnerjfr/java-multi-threading-in-action-implementing-a-competitive-bingo-game-023429a5c6cc?source=friends_link&sk=bb8ba0c8e897b04e8b876e628d5eca22",
+    "title": "Java Multi-Threading in Action: Implementing a Bingo Game",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1au410f",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@jaheimarchibald/how-to-over-engineer-a-todo-app-the-zenith-gradient-algorithm-67712737135e",
+    "title": "How to Over Engineer a Todo App (The Zenith Gradient Algorithm)",
+    "points": null,
+    "comments": []
+  }
+]

@@ -1,0 +1,676 @@
+[
+  {
+    "id": "t3_1af9joc",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://phys.org/news/2024-01-dna-particles-mimic-viruses-vaccines.html",
+    "title": "DNA particles that mimic viruses hold promise as vaccines",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I can just imagine the REEEEE from the usual suspects if this becomes commercially available.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This article doesn’t link to the original paper. That’s disappointing. As it stands, unclear how the dna is delivered and picked up by the B cells.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aeq46d",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://interestingengineering.com/military/chimera-fries-static-targets-microwaves",
+    "title": "RTX CHIMERA new microwave fries drone target during White Sands testing | Throughout a three-week field test, Raytheon's CHIMERA high-powered microwave system managed to fry static targets and track aerial targets flawlessly.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I saw RTX CHIMERA and was like “oooh new Nvidia card eh?”",
+        "points": "33 points",
+        "children": [
+          {
+            "comment": "Probably has roughly the same power draw and fire potential.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Interesting how this technology will play out. I knew things like this system would begin rolling out around the world especially after seeing the effects of extremely low budget drones in recent conflicts. Watching a couple 100 dollar drones drop bombs on multi-million dollar top of the line military equipment and rendering said extremely expensive modern equipment useless in Ukraine and the Middle East has been a huge eye opener for weapons manufacturers around the globe, I’m sure. Cheap drones without effective countermeasures will render many armored and naval assets effectively useless or a liability. Especially in wars of attrition or when a high budget military fights guerrilla wars against opponents with access to these cheap effective drones",
+        "points": "26 points",
+        "children": [
+          {
+            "comment": "“We have all these decommissioned Dish network things, what’re we gonna do with em”",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "Oh if you only knew how on the mark you are by saying this…",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "I mean I was looking at them. I can tell they’re repurposed receivers 😂",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bonus: it also cooks MREs in two seconds.",
+        "points": "23 points",
+        "children": [
+          {
+            "comment": "Who needs a condom when I have this bad boy.",
+            "points": "16 points",
+            "children": [
+              {
+                "comment": "Some poached eggs there, son!",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Someone’s gonna poke an eye out with that thing",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Soon it will be able to cook 1000 airdropped MRIs from 1000 meters away before they hit the ground.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You know that would be done by some bored grunts lol",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Don’t encourage it",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Don’t need to. They’ll do it anyways",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Oh absolutely",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "never fuck with raytheon",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "Just as they make a product to live up to their name they changed it to RTX, bullshit",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Well now I’m confused about my username",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Can’t believe you stole Raytheon’s new name 6 years ago.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Rtx is just the short version. Full is Raytheon Technolgies",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "All I saw was “microwave fries” and got excited that scientists had discovered how to keep them crispy",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The real issue was going to be keeping it from getting destroyed. If I can shoot out a couple times and fuck it up, well then that fob becomes open to drones. And it’s not like these are gonna be easily replaceable.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Correct. I wrote a paper on this. Fixed-base directed energy weapons all suffer the same issue: \"The Altitude Problem\". You don't need to fly around the weapon if you can fly above it. HPM has a very limited ceiling due to the inverse square law and any COTS drone can surpass that ceiling easily. Once above you can either drop munitions or let gravity do the work and kamikaze.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Ummm delete this, delete your paper and all mention or this limitation por favor",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Yeh, the inverse square law is pretty much a horse that's already bolted I'm afraid.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Sorry man. It's in the public domain lol.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Can you use microwave “transparent” materials to shroud the Chimera or would they still heat up and waste the energy? From what I can gather it seems likely they are using C-Band or X-Band frequencies which go through some plastics and ceramics but how much?\n\nIt seems like a Bentley hood ornament style evasion device would also work for the chimera if it were mounted somewhere stationary, but that would render it useless if more than one drone were involved.\n\nA dome capable of moving with the direction of the chimera could also protect against this style of attack.\n\nI guess the really scary part is how likely it is that you will need to protect against an onslaught of drones instead of just one.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Strap it to a predator drone",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I don’t think it could carry enough power production, but I’m no expert.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Yeah it seems like it would be a major issue. I just sort of said that without any knowledge whatsoever.\n\nI do wonder if this is what’s been zapping those poor bastards and their families in Havana. I can see this being parked in a a large freight truck",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I dunno if you've ever seen a battleship but they tend to put these things in domes that are transparent to the desired frequency but opaque to projectiles.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Yeah I’m just thinking fobs cause of the attack this week and that was my jam jam. Even without these navy ships are like 10,000 better protected than your avg fob.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hmmm, I always heard this technology development was touchy. Pointing high intensity microwaves at the sky literally puts satellites at risk too. That was an old research article I read though so I wonder what changed.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Attenuation would stop microwaves from threatening a satellite pretty easily. Microwaves would have to be tremendously powerful to get through that.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "What does “powerful” really mean in this context? Microwaves are by definition a specific range of energy - which isn’t even high enough to be ionizing.\n\nI don’t know enough to answer the question but I’d guess any amount of microwaves (any volume) would never make it to space. Could be wrong.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Powerful is talking amplitude, not frequency. Microwaves are a specific frequency, not a specific range of energy. Energy, power, is (directly correlated to) amplitude.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Energy, power, is amplitude.\n\nPower is amplitude squared.\n\nEnergy is amplitude squared times time. :-)",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "If you want to be pedantic about it, yes. I’m well aware, but I was trying to keep it simple and in the case of a wavelength the amplitude is directly correlated to how much energy is being fed into the transmitter.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Don't worry.. it was only a light hearted response and I knew you knew! Units are just a bit of a pet peeve of mine because people use them so liberally and usually incorrectly. The number of automotive journalists and experts that have no idea of the difference between torque and power amazes me.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "Fair enough.",
+                                    "points": "1 point",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "The energy would dissipate enough before it got to the satellite though right?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Correct",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Incorrect. Lasers, somewhat. HPMs, no.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "“Mate, that thing is a one way ticket to the astral planes...but it feels like you've got two tickets.”",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What would it do to a human?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Powerful microwave weapons can heat up water inside your body so the more powerful ones are definitely very dangerous to humans",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Ruin a Cuban vacation",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Raytheon calls. Got it.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Finally. We can start taking down all those ‘birds’.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can you use it to heat the surface of your skin instead of an inefficient home heater?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Have you seen Silicon Valley?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "No but I work in Mountain View for a cool new startup called Pied Piper.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wonder how long we’ve had this and if it can be used for against nuclear weapons. Would be nice to not have to worry about that.",
+        "points": "-5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "StarCraft wars coming 2025",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m curious as to how many drones it can deal with at a time. How hard is it to overwhelm?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Easy to overwhelm with metal foil. Only problem is the drone antenna which has to have line of sight to the operator however, if the drone can be semi-autonomous then its 1-0 to the low tech system.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What does this have to do with Thrawn?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lasers, Masers, GRasers and Xasers!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aemspz",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://newatlas.com/energy/zero-energy-sensor-sound-powered-vibrational-energy-certain-words/",
+    "title": "Researchers developed a battery-free sensor that reacts to sound waves, producing vibrational energy to power an electronic device | The novel sensor would not only reduce battery waste but could also power medical devices like cochlear implants or monitor buildings for faults.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Finally, technology that works better when you yell at it.",
+        "points": "39 points",
+        "children": [
+          {
+            "comment": "I need one for grandpas tv",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Eminem knows this",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The Navy has been using sound powered phones for a century now. They’re used in case of power failure.",
+        "points": "16 points",
+        "children": [
+          {
+            "comment": "Oh cool! That’s interesting! Didn’t Russia gift one to the USA in some type of wall decoration for the purpose of spying too",
+            "points": "9 points",
+            "children": [
+              {
+                "comment": "Yes it was an eagle on the wall of the us embassy in Moscow iirc",
+                "points": "8 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Can confirm uncomfortable after about 20 minutes",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anonymous Russian Inventor joins the conversation.\n\nThe Thing, also known as the Great Seal bug, was one of the first covert listening devices (or \"bugs\") to use passive techniques to transmit an audio signal. It was concealed inside a gift given by the Soviet Union to W. Averell Harriman, the United States Ambassador to the Soviet Union, on August 4, 1945. (Wikipedia)",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "Thank you! Yes! I was thinking this all sounds exactly like The Thing!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This article doesn’t mention how much energy it generates, or did I miss it?",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "I'm sure it's microvolts, but that could still be really useful.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Kinda weird, turning acoustical energy into electrical voltage is exactly how dynamic microphones work.",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is a joke, right?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "No. But with me having two kids I bet one could potentially power my city block",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The “microphone” is invented 1877",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Microphones are powered, my guy",
+            "points": "-6 points",
+            "children": [
+              {
+                "comment": "Dynamic microphones are not powered. They turn acoustical energy into voltage changes. They are tiny power generators.",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Microphones can be powered by the energy in the voice being transmitted. The navy had used this technology at least since the Korean War.",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "If you read the article you'll see why this isn't the same thing",
+                    "points": "-5 points",
+                    "children": [
+                      {
+                        "comment": "I did read the article. “Researchers have developed a battery-free sensor that reacts to sound waves, such as particular spoken words, producing enough vibrational energy to power an electronic device.”\n\nVirtually the same thing as the voice activated microphone that produces energy for audio transmission without external power. Also, similar to The Thing, a Russian bug in the US embassy in 1945.\n\nThe point is, this is not new. It is a brilliant enhancement to the older inventions, as many modern inventions are. This uses novel materials to achieve a similar result and lends itself to miniaturization, making it much more useful.",
+                        "points": "6 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "I see no difference between this and any other microphone you’re changing sound into electrical energy and that’s what microphones have been doing since 1877. Yes there are is a net of resonant devices that can detect crude frequencies differentially, so you can think of it as a group of microphones each with an acousticical-mechanical filter. So it’s a matrix of microphones each with a corresponding band pass filter",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "acktually the advancements before this one left up to this one\n\nYes yes I'm sure they did, considering that is basic logic. Moving on, if you don't see the difference, that's fine with me.",
+                            "points": "-5 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Been around for years along with bioelectric pickup to run devises, hybrids work best in these cases.\n\nJust saying.\n\nN. S",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That technology will be \"bought out\" and the patent buried in a sealed vault",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is it just me or is that a crazy compliant mechanism in the center\n\nEdit: whatever it is, that bit seems important in the article. Looks just like a compliant hinge or something.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Tesla had this theory written down and the fbi confiscated them after his death. I’ve heard",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So all those crazy meditational gurus were right all along, vibrational energy! Now they can link all this articles to support their evidences.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Would it be possible to create a “perpetual motion” machine with this? Scream into it to get it started and have it hooked to a speaker that can continuously make noise that feeds back into the system?",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "No, perpetual energy is impossible no matter what method you try. Thermodynamics guarantees it will never happen.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Fair enough, just wishful thinking. I guess that the vibration making the thing move would be the conversion of the energy. As I’m sure you can tell I am not a physicist",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is this how the Egyptians built the pyramids?",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Where to place it???",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sweet we hear about new battery tech every week. Never seen anything new outside of fast charging and cordless",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The first obvious application that springs to my mind wasn't mentioned in the article: wake words for home automation systems that don't require the microphone to be listening all the time. I'm not sure the big tech companies will see the appeal of that though...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "the Thing, 1945\n\nhttps://en.wikipedia.org/wiki/The_Thing_(listening_device)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Isn't that just a piezoelectric? We've had those for a long ass time.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Minecraft is doing it first lol",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Put them in Taco Bell bathrooms and the energy crisis is solved",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Truly research with a positive vibe.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s an ancient technique. Long ago musical sounds were imperative to opening doors.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

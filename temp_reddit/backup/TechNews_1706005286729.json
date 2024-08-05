@@ -1,0 +1,732 @@
+[
+  {
+    "id": "t3_19di9nn",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.pbs.org/newshour/politics/ai-robocalls-impersonate-president-biden-in-an-apparent-attempt-to-suppress-votes-in-new-hampshire",
+    "title": "AI robocalls impersonate President Biden in an apparent attempt to suppress votes in New Hampshire",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Disregarding that unknown numbers calling are bad news anyway, do candidates running for the top job in that country normally call regular jackoffs like this?\n\nI mean, surely people wouldn’t actually be fooled by somebody trying to sell them something over the phone, would they?",
+        "points": "16 points",
+        "children": [
+          {
+            "comment": "I believe it’s legal and somewhat common to have robocalls from top candidates. The problem here is the false representation.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Thanks for that additional insight, man!\n\nBut damn, I expect that that probably mostly targets older folks, who still have landlines.\n\nAre the calls usually just “I’m Dick Head, vote for me!”, or do they actually attempt to engage with the victim I mean homeowner?",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "I think that we’re talking about non-interactive calls like this case, but given recent technological advances, we may soon be having full blown conversations with entities that want you to think they are someone they aren’t.",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "All. The. Time. As someone familiar with fraud operations at a large financial institution, I can share the volume of calls from victims of bad actors is staggering. 2-4x higher than the number I originally thought. It doesn’t matter if the phone number is unknown or the call shares obviously false info. Fraudsters cast a wide net, and too many Americans get caught up in it.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yes. A recorded message often goes out. Also, if you donate to a party and allow texts you get solicitation texts that claim to be from specific politicians. This isn’t new. It’s bad, but not new. Don’t believe anything you read and only half of what you see isn’t a new concept.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The future is here.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe the AI is sentient.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "If it was sentient, it would have said “I am Sarah Connor, vote for me to prevent Skynet from ruining your country” , in an apparent reverse psychology attempt to take over the world.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19d0xk2",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://techcrunch.com/2024/01/22/meta-dma-choices/",
+    "title": "Meta to let EU users deny cross-site tracking as Digital Markets Act bites",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What’s the over under on them getting caught trying to secretly violate this law?",
+        "points": "15 points",
+        "children": [
+          {
+            "comment": "Depends on the penalty. In the US they just pay the fine as a cost of doing business.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe one day, the US will follow.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "Doubt as great as it is.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Awesome!",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "EU W",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ironically I can't view this article unless I accept the plethora of cookies and trackers yahoo is running.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19cwlav",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.techspot.com/news/101594-russian-hackers-accessed-microsoft-corporate-network-month.html",
+    "title": "Russian hackers accessed Microsoft's corporate network for a month | Poor secure configuration exposed the software and AI giant to information exfiltration",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The attack started in late November 2023, Microsoft revealed, when Midnight Blizzard employed a password spray attack to compromise a legacy, non-production test account. Password spraying is a quintessential brute-force attack where a cybercriminal tries to guess a known user's password from a list of common passwords. The attack is often automated and slowly occurring, as the threat actor tries to fly under the radar.",
+        "points": "78 points",
+        "children": [
+          {
+            "comment": "“Password spray”? Why are we making new names up for a practice that’s existed as long as computer passwords?",
+            "points": "46 points",
+            "children": [
+              {
+                "comment": "I like how you dont say what the old name is",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "Guessing. It’s called guessing.",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "LOL no its called brute force password spray. Or a dictionary attack.\n\nAt least you learned smth new today",
+                        "points": "5 points",
+                        "children": [
+                          {
+                            "comment": "Honestly, ‚dictionary attack‘ would have rung a bell even though my native language isn’t English. First time I heard that it’s called a password spray too.",
+                            "points": "6 points",
+                            "children": [
+                              {
+                                "comment": "Spraying implies it's a dictionary attack brute forcing multiple accounts at once.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "You must be fun at parties. Good luck getting off the help desk, kiddo",
+                            "points": "-1 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Except it's not guessing. It uses passwords from a list of commonly used or exposed usernames and passwords from a data breach. For example, password Winter2024!, 1 attempt per account name in any target domain. Almost a 100% chance to get an account. You don't lock out accounts because it's one attempt, and the main challenge to be stealthy about it is using a bot net to not trigger multiple auth attempts from a single source IP.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "An educated guess is still a guess.\n\nAnd my complaint is that this term of art for a specifically nuanced brute force attack is crap. It’s bad terminology.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Language evolves to add clarity to discussion. \"Guessing\" would be too vague and require further clarification. Btw cyber security is a real, billion dollar industry regardless of whether you learned anything about it since 3rd grade.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "New names? The term password spray has been in use for a looooong time.",
+                "points": "13 points",
+                "children": [
+                  {
+                    "comment": "I'll be honest I've never heard it until now",
+                    "points": "35 points",
+                    "children": [
+                      {
+                        "comment": "Brute forcing was and is more commonly used to describe this form of attempted infiltration. Not spraying…but I guess password spraying does sound cooler.",
+                        "points": "19 points",
+                        "children": [
+                          {
+                            "comment": "Only because it's novel. Brute force is far better than password spray",
+                            "points": "15 points",
+                            "children": [
+                              {
+                                "comment": "It is more metal 🤘",
+                                "points": "6 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "What's the difference?",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Yeah I've definitely heard of brute forcing. As an amateur, brute forcing sounds less sophisticated.",
+                            "points": "6 points",
+                            "children": [
+                              {
+                                "comment": "That’s also true. Techno babble has a way of enabling upselling. A true synergizing paradigm shift that maximizes throughout while retaining creative control and humans in the loop",
+                                "points": "6 points",
+                                "children": [
+                                  {
+                                    "comment": "Kinda “upsold” your own comment too 🤓😏",
+                                    "points": "2 points",
+                                    "children": [
+                                      {
+                                        "comment": "I think that’s the joke",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  },
+                                  {
+                                    "comment": "I think we’ll have to take this discussion offline",
+                                    "points": "2 points",
+                                    "children": [
+                                      {
+                                        "comment": "Touch my base bb",
+                                        "points": "2 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "They are technically different attacks tho (although I acknowledge that the term brute forcing is used loosely and in various contexts). If you are talking about password attacks, brute forcing is testing a large number of passwords against one or more accounts. Password spraying is testing one or a few passwords against a large number of accounts. The rationale being that account lockouts will usually stop a brute forcing attack, however spraying a common password (like Password1! Or SeasonYear!) will in most cases get you access to at least one account regardless of lockout policies.",
+                            "points": "7 points",
+                            "children": [
+                              {
+                                "comment": "Ah that is a distinction, thanks for pointing that out.",
+                                "points": "3 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "The attacker absolutely sprayed the account with thick gobs of passwords. At first the test account was surprised and winced at the rapid-fire spurts. Once drenched in the stuff, the test account relaxed and opened its fields wide, practically begging for another hot sticky load. Of passwords.",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "We call it Password Spraying Attack, monitor and log all attempts. I think our cybersecurity team would rather try and track bad actors as opposed to blocking it outright.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Same\n\nOnly heard brute force up till now",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "H0w |O0n6",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Why wouldn’t it just be called a brute force attack?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Exactly!",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The more established term is dictionary attack, I believe. The word dictionary doesn’t refer to a list of words from a specific language dictionary, but rather that it’s a list of the most common words, or sometimes a list of words that have significance to a victim or industry",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Legacy, non-production test account? Sounds like the least damaging hack one could inflict on Microsoft.",
+            "points": "-3 points",
+            "children": [
+              {
+                "comment": "Non production can be bad as production systems should not have access to source code",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "Test accounts don't usually have access to source code.",
+                    "points": "-6 points",
+                    "children": [
+                      {
+                        "comment": "I would tend to agree but test means different things in different organisations.\n\nSome have a segregation prod non-prod only.\n\nThat being said I would hope that you need to have an account with rights to the VCS, but they had some time to look around.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "If hackers want to see a current production account for my company, they can buy the product. If they want to see a great many of our good ideas and prototypes along with their code that didn’t make it into the product (and not necessarily because they were bad), they can hack the legacy, non-production sandbox/test account. We develop so many things that never go to production. Corporate is very uncreative, risk averse, and generally underestimates the intelligence of the user.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Makes sense. Thank you for taking the time to share this insight.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Then how did their execs get owned?",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Oh I spray. But it ain't passwords.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This was a password spray on a legacy, non-production test account.\n\nThat is an internal controls failure on the SecOps team to disable or removing it in a timely manner.",
+        "points": "48 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm guessing someone in the sales department clicked a link?",
+        "points": "35 points",
+        "children": [
+          {
+            "comment": "A brute force password guess method",
+            "points": "23 points",
+            "children": [
+              {
+                "comment": "Or that",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Usual suspects. The smartest people at the company.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Credential stuffing",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The Russian hackers were ultimately interested in information regarding their own activities, Microsoft said\n\nSo they wanted to know what Microsoft Security’s got on them? Interesting",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Guys. GUYS! Why would Microsoft be expected to have stringent anti-hacking capabilities and training?! It’s a very small company, not at all relevant to tech.",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "They have PhD-level documentation for a multitude of cybersecurity & privacy policies. Actively pentesting themselves regularly.\n\nAll it takes is one person’s incompetence to blow an op.",
+            "points": "16 points",
+            "children": [
+              {
+                "comment": "And the bigger the org, the more likely that is",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "How many times do they need to have events like this happen with all that PhD level stuff then?",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm sure they sent out a corporate wide email linking to a new training about that :)",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Better yet, they’re a massive software company that is ok with pushing insecure-by-default software with no real intent or mandate to fix vulnerabilities in a timely manner manner because. What’re you going to do about it? Go somewhere else? Get an expensive mac, use Linux right out the box?\n\nThey get away with this because they can and no one can hold them accountable until they get knocked over, in embarrassing ways, repeatedly.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "But I thought azure was secure. /s",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "I’m glad all government systems are requiring this new ultra secure program to keep us safe",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "What sound alternative is there?",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "M$ probably was still using WinXP and Server 2000 internally to avoid the 365 subscription services or Windows 11 ads.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "What ads?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI giant is…a stretch.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Im glad im not the only one that raised an eyebrow at this",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Are there any companies that you would consider an AI giant? (Just curious)",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "OpenAI, Google…",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Any mega cap tech companies could be considered AI giants these days given their AI algorithms serve billions of customers.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Didn’t they like, make the platform?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I converted to Apple two years ago Windows closed my account because of inactivity Good for me!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can Windoz suck even more ?",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "Password spray on a legacy, non-production test account. Has nothing to do with Windows. This is an internal controls failure that missed disabling/removing that test account.",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Next week: windows 12 is announced",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "I bet that will be sooo secure….",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "It's Russian hack proof, but if you really want to be safe, get windows 13 it's UFO/uap hack proof",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I hate Microsoft products so badly. I know they’ve had data breeches they haven’t told us about because I frequently get notices that someone is trying to log into my email With a password once used for my Xbox accoinf",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Have you tried other OSs?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well, when it is not the Russians it the Chinese these days and when not the Chinese it is India, but the only real difference is why one gets caught while the other two are ignored is because it is a sham to begin with because the end goal for them all is the same.\n\nN. S",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "Who TF and a signature to a reddit comment",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Someone with a major neckbeard for sure.\n\nB. B",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not exfiltration!?!",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Oh , you wait.. the exfiltration stories usually take some time to get out.. their branding team has to assess the damage control !!",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "Literally mentioned in the article:\n\nand some emails and attached documents were exfiltrated.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Who is to say if zuck even cares!\n\nHell maybe he gets to make more money on security fixes.",
+        "points": "-7 points",
+        "children": [
+          {
+            "comment": "Wrong CEO there",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI giant.\n\nOkay. 👍🏼",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Putting U2F or TOTP multi-factor would've stopped this type of attack in its tracks.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "it would not stop this kind of attack but it would certainly delay it a great amount because they would have to employ other methods along with it.\n\neven \"bullet proof\" glass is completely useless if the end user decides to always leave the window open or the rest of the infrastructure was weak to begin with anyways.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Of the two methods I listed U2F is probably the most bulletproof out of all the methods mostly because U2F is asymmetric key exchange and challenge response. Something that is stupidly difficult to attack head on such that it forms that backbone of the secure modern internet and services such as defense and banking. An attacker would need to steal the physical key for login thus eliminating remote attacks as an avenue of attack.\n\nU2F is how google was able to bring down successful phishing attacks to near 0.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What can I say about Microsoft management: Incompetent and more Incompetent, Arrogant, over confident, reckless, foolish...extremely sloppy, bad judgement.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And Microsoft wants us to believe that Defender and screensafe are secure and reliable. I call bullshit.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Only for a month tho.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Gosh. Who knew Microsoft was the most vulnerable large operating system in the world?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Seems like there could be a better headline for this.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All that MS Office 360 subscription money being put to good use.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yawn.. Microsoft security fail is not news.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Haha!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’d wish we can hack the hackers…I’d like to hear more stories about that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

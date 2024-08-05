@@ -1,0 +1,2526 @@
+[
+  {
+    "id": "t3_1bh38a0",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bh38a0/why_do_llms_give_different_responses_to_the_same/",
+    "title": "Why do LLMs give different responses to the same prompt?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "At the end of the model, it generates one token. When we see it do that, we see that output as text, but under the hood, it's generating a list of numbers, with each item in the list corresponding to one of the tokens it can pick. For example, GPT-4 has about 100 thousand tokens it can choose from, so the list of numbers it generates at the end of the model is a list of about 100k numbers.\n\nEach number represents the model's guess at the probability that that's the next token. For example, in the sentence \"I went to the\" the model might say that there's a 60% chance the next word is \"store\", 20% for \"house\", etc etc. The model assigns a probability to every token, and the probabilities are basically never 0, so it may be that there's a 0.000001% chance that the next token is \"дом\" for example.\n\nThen, this probability distribution is passed through a softmax function where temperature is applied. In many cases, the model will be 99.999% sure of the next token, but you don't necessarily always want the single most likely next token because variety is good. The temperature setting smooths out the probability distribution, decreasing the likelihood of the most probable token choices and increasing the probability of less likely tokens. If the temperature is set appropriately, this results in more varied writing without going off the rails and choosing totally inappropriate tokens.\n\nAfter the temperature and softmax are applied, one token is picked randomly in accordance with the resulting probability distribution, and that's how you get the token that the user actually sees.\n\nThis skims over some of the details because they're not necessarily relevant for your question. It's a bit more complex than this but I'm on mobile and this more or less covers it without me having to write a ton. Hope this helps!",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh26jt",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bh26jt/what_if_the_first_agi_is_fleshy/",
+    "title": "What if the first AGI is fleshy?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Should be fine, I’ve been fleshy since birth and hadn’t encountered any issues .",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Yeah? I wonder if I'm just a subpar model or something, cuz I'm glitchy as hell! 😒",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "That sounds like child birth but with extra steps and without any of the sexy parts.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgzn0f",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.reddit.com/gallery/1bgzn0f",
+    "title": "Xianxia- [RPG] An Advanced RPG Made For Gemini AI [ Comment to Access]",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hey, I would like to give it a try. I am a software engineer, and dnd player. Can you give you some feedback if interested.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "https://discord.gg/CGJ3CZYg Sure join the server the prompt is in there I really need some feed back on how I can improve things more cuz i am out of ideas right now",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bguvou",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bguvou/learning_ai_as_a_highschooler/",
+    "title": "learning AI as a highschooler",
+    "points": null,
+    "comments": [
+      {
+        "comment": "fwiw, it seems like the near-future direction of coding will be with natural language rather than programming languages.\n\nIf you’re a sophomore now, you’d finish college with a CS degree in 6 years. not trying to diminish your excitement, but I believe a large percentage of programming (not all but most) will be fully automated in 6 years.\n\nthat means the job market for people could/probably will be dramatically smaller. I don’t have any alternative advice for you here because this dilemma impacts nearly all professions.\n\nedit: I’ll add that the most useful skill you could be doing is what you’re already doing. be fluent with using AI systems. work on general problem solving skills. learn to critically think. it’s difficult to plan with much more specificity than that given the uncertainty and inevitable societal restructuring.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "thanks for bringing this up--it's a good point that's valid. it's quite difficult to know which direction to go in, since AI seems (and most probably will) take over practically everything. sometimes it feels as though (and is probably so) that everything i'm learning now will be useless in the future, because everything is changing rapidly. i guess the best thing to do is sharpen my problem solving and critical thinking skills, like you suggested!",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I share your sentiments. I’m in law school and use GPT-4 & Claude 3 to help draft trial motions, do legal research and study. These models are already capable of doing 70% of the administrative side of law; the next generation of models will probably close the remaining gap. interesting times ahead",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The machine learning guide podcast is excellent if you’ve not found it yet:\n\nhttps://podcasts.deptagency.com/mlg",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "thanks! i'll check this out",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "r/learnmachinelearning would be better to check out. Good luck!",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "got it! thanks for the redirection",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You might want to check out Stack Exchange sites. They're like Reddit but have a more technical focus because they started out focusing on programming. Here is their AI site...\n\nhttps://ai.stackexchange.com/",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "thank you! this is great",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'd also add to find a secondary topic that is an interest of yours. The reason why is to apply your knowledge of machine and deep learning to that area. As you're already interested in it and willing to learn it makes applying techniques all the more thrilling.\n\nIt could be video games, card games, engineering problems or biology ect but the more you focus on an interesting secondary domain the more motivated you'll be to implement techniques.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I can't upvote this enough!!\n\nI'm retired as a successful software design engineer. I had good skills in both hardware and software, but almost every job I got, was because I had other knowledge and interests. I was a ham radio operator and I got one job because I understood signal propagation. My undergrad major was neurophysiology and that got me a job in medical product design. And I'm an artist and that got me two different jobs with companies that did computer graphics. So please have some serious hobbies or outside interests, i.e., be \"well rounded\".",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "When you command the robots can you ask them to spare me?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "i can't promise anything--i'll try my best...",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "While focused solely on ChatGPT LLM, these videos could be fun:\nhttps://spreadsheets-are-all-you-need.ai/index.html#watch-the-lessons",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "this is super cool, thank you!!",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Andrew NGS coursera course is really good intro",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgqn87",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bgqn87/how_long_until_ai_eliminates_the_modeling_industry/",
+    "title": "How long until AI eliminates the modeling industry?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Eliminates? Probably never. Reduces it by 90%? Probably 5 years",
+        "points": "67 points",
+        "children": [
+          {
+            "comment": "Not a bad take",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You’re right, eliminate was probably not the best word choice. “Become the standard” would have been better.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Brands will create Ai or fake personalities complete w social media.... see me watch me... be like me.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "They already have started.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This one right here.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Sooner than 5 years. The tech itself is already there. It's just a matter of adoption. If I wanted to I could create fashion worthy photos of known or original people today using Stable Diffusion and controlnet from the comfort of my house, by the hundreds. It's all there already.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I already built a ML driven solution for Walmart that eliminates some need for models. We leveraged complex mesh’s and good old fashion ML that not only diversified the selection of models for each piece of clothing, but dramatically reduced costs for shoots.",
+        "points": "31 points",
+        "children": [
+          {
+            "comment": "username checks out?\n\nthat’s rlly cool tho",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is awesome! What are you working on now?",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "My son has an agency and works with some top brands and is looking for someone to work with on a similar but different idea. Anybody else working or can work on similar technology.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "What is considered good ole fashioned ML these days?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I feel like one thing everyone here isn’t talking about is that fashion brands and such don’t just use models as a personal wearing clothes, but also to bring their fanbase onto the product.\n\nWhen you have Zendaya in an ad for clothing, they chose her not just as someone who can wear the clothes. They brought her fan base to the product, and to draw attention for being well known.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "Introducing, ZendayAI.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You should read some William Gibson. Start with the Bridge Trilogy.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "No, start with Neuromancer.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Japan commercial Ai model september last year https://youtube.com/shorts/tVtxLkKi90w?si=nleDQrIAAOyRLB2x\n\nRozy and Zaein are Ai spokesmodels in Korea that are generating revenue for companies.\n\nAll Ai kpop group. Almost 25 million views for this music video. https://youtu.be/1wGOHbcQKIc?si=go9Gqp9nxaEvVpXP",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "The claims that Mave is AI-powered always seemed like a marketing gimmick to me. As far as I can tell, people are still writing the song, creating the choreo, and using mocap to animate the avatars.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "100% never no matter how good image manipulation gets there will always be a luxury component for using real. Though what is is real and what is generated is going to get way way harder to tell.\n\nThe model rocks up for a few photos then a system generates 1000's more in all the different combinations of clothing and pose required. Though there is a small step to having stock images of registered models and choosing the attributes you want for the clothes and just clicking a button.\n\nWhen you factor in AI I think more that it will stick you into the photo/video in a very flattering way so the clothes look awesome on you.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For movies I think a minimum of 5 and probably around 10 years before an AI actor can be a drop in replacement for a real actor.\n\nYou need a 100% generated scene, and you all the actors to be generated and all the props to be generated. While they may all have been scanned in, you need them all to work 100% in a 100% simulated world with the appropriate lighting and physics.\n\nIf you are just talking about just a background actor, it all ready exists, there is a reason why it was only a 5 year contract in the recent strikes, in 5 years their bargaining position is going to be in the gutter.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Have you tried unreal engine lately?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Friend of mine worked in the retail fashion industry in London back in the mid-2000s and even then they were shooting models only from the neck-down so they could pay them substantially less. Can only imagine how much of a boon to her industry AI is going to be.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI is still very hard to control. I use Midjourney and Dall-E and have generated 10's of thousands of images. I'm also involved in two different community arts organisations and I do graphic design for advertising and publicity for one of them. Plus I'm an artist myself and since I like to work with human subjects I often use AI to develop reference images to draw or paint to as part of my process.\n\nFor serious commercial work, whether it's commercial advertising or fashion illustration, etc, you need complete control. The Art Director knows what they want and you better have every detail right.\n\nBut image prompts are basically suggestions. You might have a ton of detail in them but the AI will still make its own decisions about many things.\n\nWRT fashion, it's not just a matter of putting this outfit on that model. It's also the way the clothes hang or fall on them, how stiff or fluidly they move as the model moves; if the model is wearing layers it's how two pieces of fabric slide WRT each other, or how the colours complement or contrast with each other, or how much light shines through, etc.\n\nCheap fashion catalogs already Photoshop different dresses on the same model, but no serious fashion designer is going to use AI to replace a runway show until the AI is WAY more advanced than it is now.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "You should monitor the research in the embeddings space. You might be surprised at the progress.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You get a lot more control with stable diffusion than you do with midjourney or dall-e. With dall-e you get basically none.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It won’t. It’ll just change it. There used to be vast offices full of draftsman but they were replaced by CAD. Ai is just a force multiplier. So one person can do way more.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "CAD and modeling images don't seem like the same thing. But maybe it is 🤔\n\nWhat are human models going to be doing in the future, in this scenario? As they are not needed for likeness, photoshoots or videos?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "It’s computer aided design. Back in the day next to drawing plans we used to visualise with markers etc. it’s the same.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I know what CAD is.\n\nI was saying it does not seem to be directly comparable to fashion modeling",
+                    "points": "-2 points",
+                    "children": [
+                      {
+                        "comment": "There are a lot of similarities. I see a lot of likenesses being sold to be used and a market opening up for the licensing of likenesses to be sold and used in campaigns. Leading nicely to campaigns being hyper targeted",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "Yet you don't think modeling as an industry will become obsolete?\n\nWhy would human likenesses even be necessary when you can generate 100 perfect AI models in a hour?",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "I think it’ll change. At one stage film thought they could animate everything until capture became a better option. I think you’ll see a different type of modelling take over and we’ll use Ai to effectively create skins. Basically it could be possible to have a film but with likenesses you could swap around.",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "You bet that is coming.\n\nI just can't help but wonder where in this loop are humans needed.\n\nI think the amount of professional models will be reduced by over 90% during the next 5 years",
+                                    "points": "1 point",
+                                    "children": [
+                                      {
+                                        "comment": "Or the number of people who could become models will go up. It’s interesting to see models without makeup. They don’t look that special.",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "What are the meaningful similarities between what a fashion model does and what a draftsman does?",
+                            "points": "-2 points",
+                            "children": [
+                              {
+                                "comment": "You ever been on a fashion shoot or one with models? Prior to the shoot the amount of planning and sketching out all poses and setups is quite interesting. It’s a similar process to draftsmanship.\n\nI should say a professional shoot. Given the cost it’s pretty normal stuff really. Same with film",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "You ever worked at an engineering firm? How do you know the process for managing drawings?\n\nThe confidence to consider yourself qualified to compare these is audacious - especially given the different requirements for what each considers to be a successful output. I will give you that.",
+                                    "points": "-2 points",
+                                    "children": [
+                                      {
+                                        "comment": "Yes as a matter of fact I have. And the process is the same as shots in film. Drawings in architecture and docs in programming. Audacious. Great word.",
+                                        "points": "1 point",
+                                        "children": [],
+                                        "isDeleted": false
+                                      },
+                                      {
+                                        "comment": "Yes as a matter of fact I have. And the process is the same as shots in film. Drawings in architecture and docs in programming. Audacious. Great word.",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      },
+                                      {
+                                        "comment": "It’s called an opinion buddy. You’re on Reddit not in a deposition 🤣",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "This is the new, accepted way of debate. When losing horribly with facts, pivot to attacking the person, which somehow proves they shouldn’t be able to say anything on the subject.",
+                                            "points": "0 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "You seem to misunderstand that models are humans. Humans want attention and are going to get it. There isn't a point in using AI models because that takes a lot of human interest out of business. Trends are formed because humans create them. Robots can't compete there. Maybe in the far future when iRobot level androids are walking around, but that is a pipe dream too. Small brands using exclusively AI models to try to advertise will simply fail. It is obvious that no human cares to work with them. Its a red flag.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "I am not talking about robots, obviously.\n\nPhotos and videos, yes? As per OP's post?\n\nYou will not be able to tell the difference.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "How else would AI replace a runway model?",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "So I assume the answer is:\n\nHuman models will still have a job on runways and top ones may still do a rare photoshoot here and there.\n\nBut OP was not talking about runways.\n\n(Answer to your question btw: AR / VR / hologram tech)",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Human models will still have a job. Glad we agree. Runway models are models. I dont understand why you seek to exclude them from the discussion.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "You're forcing the conversation though.\n\nYes, SOME human models will have a job. But the industry will be totally upended.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "I disagree. I see the panic around AI as forced.",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "Based on what?\n\nAre you proficient with any generative AI models?\n\nNot a provocative question, just curious where such disagreement is coming from.\n\nIf you're good with Midjourney v6 and yet still don't think it will disrupt photo based industries, I am super interested in hearing why.",
+                                            "points": "0 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  },
+                                  {
+                                    "comment": "Wait, from your view a market that has been reduced 99% has not been eliminated, so you are rhetorically useless. Your math is correct but you missed the point.",
+                                    "points": "-1 points",
+                                    "children": [
+                                      {
+                                        "comment": "%99 came from nowhere. What are you even talking about?",
+                                        "points": "1 point",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Smaller brands maybe, but say you’re shopping on Amazon for t-shirts. Won’t we soon reach a point where an AI T-shirt model would look just as realistic as a human one, and would serve the same purpose for a much lower cost? Even now I don’t think a majority of the general population would notice in this scenario unless they were paying close attention.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Amazon sellers often already photoshop different shirts onto the same base model. I don't see how AI could make it cheaper or more efficient than it already is. \n\nHowever, luxury brands like Dior, Gucci, LV, etc are probably always going to have humans modeling their clothing. (They're big on having famous brand ambassadors.)\n\nThe space where ai modeling could really happen is probably somewhere in between.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "The images on amazon are already photoshopped. Graphic tees and the colorways are manipulated already. Take one photo and turn it into 100. No different.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI won't eliminate any industry. It will restructure most of them, but there will still be humans wearing clothes in 100 years.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Yes, but the majority of advertisements they look at to decide which clothes to buy won't be photographs of real humans.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Just like now",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Now someone gets paid to be a model. Someone gets paid to take a photo of a model, and someone probably gets paid for other related stuff, like editing, lighting, design, etc.\n\nIf most of that process can be done at the touch of a button, or the type of a prompt, and on a scale orders of magnitude faster, well, some of those people are going to have to look for work elsewhere, or are never going to be hired in that industry in the first place.\n\nNormally that wouldn’t be a big deal. The job market has changed a lot in the past, and society adjusted. However, this time might be a bit different, because this technology has the power to not just affect one industry, but almost every industry, and all at once.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I don’t think anyone’s arguing that this will eliminate consumers",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "If nobody has a job, nobody will be able to afford to consume.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I agree. I think that mass replacement by ai without mass adoption of UBI is basic, immoral, and defeats the purpose. I’m just saying that the commenter above misunderstood who OP was talking about when they asked if it would “eliminate an industry” since they’re specifically asking about replacement of people working within those industries, not claiming that elites will stop consuming fashion or that masses won’t still need to wear clothes.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Wait, are you one of those guys who say blacksmiths have not been eliminated? technically true, but insufferable.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "You seem to be rather full of waffle",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Unrealistic beauty standards … I mean wouldn’t AI generated people make that even worse?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "They may choose to make them more realistic beauty standards, I assume there will be lots of discussion of exactly realistic and unrealistic beauty standards are when it comes to AI.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Kind of what I was thinking. It could go either way. The natural, realistic route may work, depending on the niche. But for a lot of brands, especially in the US, the “unrealistic beauty” is what sells. Just look at Victoria’s Secret or even the old Hardee’s commercials. (If anyone is unfamiliar, they had a mostly nude, big breasted woman promoting their burgers.)",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "The most obvious direction for it to go is that the models look exactly like you. So that you know how you'll look. Adverts will look different to whomever is viewing it.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Exactly is a loose term, I expect it will look way better :) and it will be quite awhile for our systems to be that interconnected that an advert will automatically put you in the advert. And while a logical direction when does it hit privacy issues.\n\nThough I imagine someone online being marketed with lots of adverts featuring their partner.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "No one has ever made things worse to save money.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "That's just a choice",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Levi's is already doing it.\n\nhttps://www.theverge.com/2023/3/27/23658385/levis-ai-generated-clothing-model-diversity-denim",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Places like Nikestore.com are using all AI for their models",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "catwalk with AI? don’t think so",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Actually I think Ai will make it easier for them, modelling was something a lot of beautiful but poor Eastern European/Russian women aspired to and I remember in the 90’s that dream was something that really could be fulfilled, slowly with celebrity kids entering the modelling and ‘looks’ being less necessary than status/clout those same women are turning to escorting more and more, because the modelling opportunities are no longer there\n\nFrom a business perspective though, AI models are a good move, the cost to shoot is so expensive, hiring a model, flying them out, I imagine once the technology is more accessible it will be jumped on",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "No one said it would take out prostitution",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [
+                  {
+                    "comment": "I've worked in forensics long enough to know that for huge swaths of the world \"modelling\" is just prostitution for the majority of the \"models\".\n\nKorea, Thailand, Ukraine, and Vietnam are bad for this",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": true
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "slapping their products on an AI generated model\n\nThey can photoshop their products right now. They can photoshop the ugly out of people to make them attractive.\n\nWill movies and tv actors eventually be replaced by AI?\n\nThey already are, haven't you watched a Pixar movie? Or what about the live action Jungle Book?\n\nI don't see AI doing anything other than making it easier to accomplish these things.\n\nThere has been a lot of talk of what I call the \"magical AI problem.\" We can easily imagine a future where the AI just sticks clothes on a model and it's perfect for your billboard. But we can't easily imagine the limitations.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's kinda ironic too - we pay (female) models so much and it's the \"easiest\" thing in the world: be born pretty. Now, I'm not saying it's common, just that they didn't have to do anything to achieve that: win the genetic lottery and eat less. AI is here to ruin that too.\n\nI'm thinking I'm going to start to create some AI influencers to take those annoying jobs too",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgqa3n",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bgqa3n/best_free_learn_ai_bit_by_bit_in_five_minutes_a/",
+    "title": "Best free \"learn AI bit by bit in five minutes a day\" courses for beginners/know-nothings?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I would start with asking ChatGPT the questions you have, and then diving deeper into the aspects that interest you most. From there you can branch out to find more focused tutorials.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI is a very broad field, you have to be very specific with what you want to learn about",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "There is no learn AI, you just talk to it like you talk to other humans. You know how with Billy if you want him to do something for you, you need to use a bit of flatery? And Samatha, just insinuate that she can't do it and her ego will kick in and she will do it.\n\nAI has quirks like that as well. You will learn them as you use them.",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgomuc",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bgomuc/does_anyone_know_an_ai_thats_similar_to_chatgpt/",
+    "title": "does anyone know an ai that's similar to chatgpt but isn't censored?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I've heard that NovelAI is uncensored and private. It helps people write all sorts of lewd stuff so probably works ok for slasher films. But ask around r/NovelAI\n\nBut it's not a chatbot, afaik (I haven't used it, personally) ... so coming up with ideas is probably not its strong point--- actually writing the ideas is.\n\nIf you need an uncensored GPT chatbot, you're best off running one locally. If you're not very technical, your best bet might be using https://github.com/nomic-ai/gpt4all\n\nYou don't need a GPU either, it'll run on CPU. Of course, not as quickly. It's pretty simple to set up and run. Easy to select a model, or switch between them, there was at least one uncensored one available, though I can't vouch for how useful it is. I don't use it, I'm just aware of it.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "try r/LocalLLaMA ?",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Consider running your own? It's a lot easier than you might think and free.\n\nhttps://gpt4all.io/\n\nhttps://ollama.ai/\n\nhttps://lmstudio.ai/\n\nhttps://jan.ai/\n\nr/LocalLLaMA",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Here’s your answer OP",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "yeah... slasher films.. 'and stuff'",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe Claude",
+        "points": "-2 points",
+        "children": [
+          {
+            "comment": "Seriously bro? Claude?",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Well suggest something else then",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Jailbreak it and it gets a bit more lenient",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgomso",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bgomso/oneminute_daily_ai_news_3162024/",
+    "title": "One-Minute Daily AI News 3/16/2024",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgmf0w",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bgmf0w/a_weakness_about_ai_art/",
+    "title": "A weakness about AI art",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Post the prompts you used.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"for now\" it's certainly difficult to make a sequence or something like an action with many object or interaction with just a prompt only. Try to make a rough sketch then tinker it with control net i guess",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://www.bing.com/images/create/skier-trips-and-tumbles-down-forming-a-comical-gia/1-65f6614e964a4fc5832e821af1370839?id=xMq0MSPEblvKhtrov2CFqA%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.HzXghnq9tX9mpjls7Mp3&darkschemeovr=1&FORM=GCRIDP&ssp=1&setlang=en&cc=US&safesearch=moderate",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Because of you, I have finally found the perfect AI that can generate images more accurately",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "https://cdn1.suno.ai/e78eaef4-0444-4451-8d45-9678a3ed52b2.mp3",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "😲",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "🤣",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI art gens have certain flaws, since it can especially get confused when certain things overlap or there are multiple specific things.\n\nTo this end, either use an AI with better prompt adherance, or photobash/sketch a composition that illustrates what you want and feed it into the AI.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://www.bing.com/images/create/cartoon2c-chase-goes-wrong-and-the-coyote-falls-fro/1-65f6621e23bc490fa9641b5c89f1df74?id=S18zSO%2bg7Xa%2b4MW%2bIvuAgQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.uBkMJvgTflJmExqb5Myb&darkschemeovr=1&FORM=GCRIDP&ssp=1&setlang=en&cc=US&safesearch=moderate",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgji5o",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.reddit.com/gallery/1bgji5o",
+    "title": "Having fun generating plant pictures... 10 trained models and counting 🪴",
+    "points": null,
+    "comments": [
+      {
+        "comment": "FANTASTIC! Show this to the newly (post-Covid) resurgent houseplant people. Only when it’s pretty as possible tho, to lessen the chance they attack on sight due to AInxiety lol.\n\nHave you tested on some of the newly popular genuses? I would try Anthuriums (for the leaves, not the flowers!), Hoyas, and Calathea. Calathea musaicia perhaps? 🙇‍♂️🥺🙏\n\nFor a while I’ve wanted to make an app that recognizes plant species in these popular groups, but all the existing apps were clearly built and tested for very surface-level distinctions between the traditional genuses, with a little support for super common species. An app that could do modern plants reliably could be a big money maker! You would not BELIEVE how much money people spend on plants as a hobby…",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Impressive!!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What your training process?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Yeah I’d love to know as well. Are you starting with creating a “plant or not plant?” AI?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just curious, are you fine tuning using something like LORA or are you training custom embeddings?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Trained models? Could you elaborate?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgho32",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://v.redd.it/b4wfhm2htroc1",
+    "title": "This doesn't look good, this commercial appears to be made with AI",
+    "points": null,
+    "comments": [
+      {
+        "comment": "wut\n\nyou do realize that the primary economic motivation for creation of AI technology is to reduce business costs... and if I had to guess, the AI look might be a \"feature\" for at least a while, even if it is goofy",
+        "points": "132 points",
+        "children": [
+          {
+            "comment": "Not to mention that this is most definitely not AI here, there’s not a single artifact whether in still frames or in motion.\n\n(But if it was, that would of course be entirely justified, natural, and — at a certain point in the future — inevitable. Lol.)",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "This could very well be generated with Pika Labs, and it probably is.\n\nYou can't really rely on spotting 'artifacts' any more, things have moved on (and those would be fixed in post anyway)",
+                "points": "22 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Not to mention that this is most definitely not AI here\n\nAs a 3D artist with more AI experience than most.\n\nThis is most definitely Ai. There are plenty of artifacts if you know where to look.\n\nIt's AI humans combined with 3D models like the popcorn and laundry soaps.\n\nThe human models are way lower resolution than everything else around them.",
+                "points": "12 points",
+                "children": [
+                  {
+                    "comment": "Name one? (Besides being lo res which doesn’t really say anything.)",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "He's right, you can see the masking say as the hand moves Infront of the pillow, that's a separate render layer, you can tell the global Illumination is not uniform between assets. Could have been rushed to meet deadline, but the size quality/complexity is not so complex so as to not have uniform resolution, realistically it would not have mattered. While it's possible to do.. the type of deformation on the models does not look like normal bone joint movement, these where either AI or specific movements animated from the get go, unlikely with production workflow where ure getting corrections fron the director producer and his kids. If it doesn't look like industry computer animation that's a flag.",
+                        "points": "4 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yeah this is just run of the mill cartoony 3d animation that's been around as a style for 10 years or more.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "Mmm it actually looks like a mixture of both. It could be 3D with some AI augmented for the facial expressions. Perhaps Img2Img using an underlying 3D model.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "And do you realize business cost isn't the only economic motivation? People need to support it. Scaring away customers with creepy AI won't yield more profits.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Acting as a career is fucked",
+            "points": "-7 points",
+            "children": [
+              {
+                "comment": "Electric cars and renewable energy are going to ruin oil companies any minute now.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "No, I imagine video to video will keep em around",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm pretty sure OP is being tongue in cheek",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Speaking as a visual effects artist that works in commercials and actively uses and knows most AI software this is not AI. This is low budget animation.",
+        "points": "14 points",
+        "children": [
+          {
+            "comment": "Speaking as an AI developer -> this guys most likely right.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looks bad. But I think the general public still won't notice.",
+        "points": "77 points",
+        "children": [
+          {
+            "comment": "Since when did advertising companies feel shame?  This will cut production costs.  If people watching it dislike it, will they care?  They’re being forced to watch in almost every single case.",
+            "points": "20 points",
+            "children": [
+              {
+                "comment": "This is a bad move from advertising company since the ads are off-putting and I will make sure not to use their products.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "So many annoying successful commercials. Your feelings don’t matter to them",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "companies losing a client doesn't matter to them ?ok bud",
+                        "points": "-2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Reminds me of those strange Kroger ads with the clay-looking people",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It’s no different than other stylized art",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "My mom said it looked really wonky and bad.",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "Not sure what to think about that comment coming from a username such as yours",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Most definitely. And it's terrifying. They got them crazy eyes",
+        "points": "84 points",
+        "children": [
+          {
+            "comment": "AI is going to become like CGI. When you see it you will hate it, but just with the the good CGI ... the good AI you won't see.\n\nRight now the AI tool are mainly being used to create content that is only interesting because it was made by AI. That's what's being mainly shared online.\n\nBut very rapidly there is a lot of AI aidded content out there, that's is not being shared because it was AI aidded ... it's being shared because it's worthy content by itself.\n\nRight now anything 100% AI made still gives it self away. But already existing musician or graphic designers or vfx editors that are using AI as as shortcut. Their use of it is still invissible except to the eye or ear of the 0.01% expert.",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Reminded me of those dramatic YouTube thumbnails everyone uses",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "HONEST TO GOD THEY REALLY DO.",
+            "points": "-4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m confused. Did you expect companies not to use AI?",
+        "points": "51 points",
+        "children": [
+          {
+            "comment": "Rent a center is a morally upstanding company, they wouldnt do something like this.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah what dummy and naive is OP, in the not so far future almost EVERYTHING will be AI, or AI assisted or something done were AI was used somewhere along the way",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Same as when computers were introduced to enhance productivity. It is just another tool.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's just cheap 3D banking on an overdone style to look somewhat cute and modern. Ads like these have been around for ages.",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "I've legit never ever seen them this way my guy. Look at their eyes!",
+            "points": "-16 points",
+            "children": [
+              {
+                "comment": "What about them? They look cartoonish and widen over the span of a few frames to signal amazement which is what the intent of the ad looks like. It's been done countless times before.",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Its not AI. It's possible they are intentionally imitating the uncannyness of AI, but it's not AI",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looks like they used a liquify effect in post to give it that creepy, exaggerated look, but otherwise it doesn't have the hallmarks of being AI generated. AI still has a problem with noise, and this is fairly noiseless. The backgrounds are consistent, have parallax, and are noiseless as well. AI also has a problem with keeping consistent textures on moving objects, and these are all consistent, especially the pillows. The models also have the telltale signs of rigging, especially around the armpits where there are weird deformations one would get from using a sloppy rig. The only AI capable of producing something of this quality is Sora and that's not yet available for commercial use.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "ChatGPT says what?",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don’t think it’s AI",
+        "points": "28 points",
+        "children": [
+          {
+            "comment": "Yeah it’s too clean.\n\nAt most initial concept anim would be ai.",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm certain it's ai.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Cool. Glad we have an expert here. Where’s your proof though ?",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Actually it is probably a mixture of AI tools and the usual digital tools like Blender. There are people who use both.\n\nThat is the most likely future for this stuff, not the AI versus non-AI narrative that is going on in this debate.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I hope that all TV looks like this soon, so that people will find better things to do with their time.",
+        "points": "29 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [
+              {
+                "comment": "The AIs and bots are already here, brother.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I'm either popping with my phone or reading the ingredients list of the soap next to me.\n\nMost of the interactive internet makes a lot more sense when you think of it as a toilet stall with the same quality writing.\n\nnat gave me herpes",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": true
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": true
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [
+              {
+                "comment": "Third option is to not let them get addicted to either",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": true
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": true
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Probably cost em 1/10th the price to make it though",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This advert served its purpose.. which was to... advertise",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "I have no idea what the ad was even about. Those eyes captured my soul.",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "A human used to take pride in his work creating these ads, and got paid to do it. Supported his family, etc, etc. Now he's looking for work.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is actually better than the usual Rac commercials. Societies ducked bro",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Not by a longshot I feel like my guy. They used to have this lil blue fox guy. At least he didnt look demented",
+            "points": "-4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "who the hell watches commercials outside of the rare random days where ublock origin needs an update?\n\nthey could air commercials for hardcore porn and I'd have no idea.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "It was on tv???\n\nI cant put fukin Ublock on my tv lmao. We still use Cable from time to time.",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah…this isn’t AI. Gross art design, but not AI.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It doesn't look like AI at all. This is too consistent, and perfect.\n\nIt's more likely to have been made in blender.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Or, it could be both? Maybe a still image created with Blender and animated using Pika.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Look at their eyes tho. Tell me they dont got crazy eyes-",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "They are indeed. LOL",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You don’t think a company should be allowed to use AI to cut corners? 😂",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cant wait blockbusters made by AI.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "All their movies become AI generated as well",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe the quality isn’t the best but a place like rent-a-center is never going to have top quality graphics for their commercials and in the past they’d probably have even uglier cgi.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Seen some past commercials. It wasnt THAT bad, but I prefer the goofy blue fox over this. Them eyes-",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You’re right - it doesn’t look good.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "it looks horrible lol",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looks like a simple 3D animation that any beginner can pull off, why do you think its AI?",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "The forehead wrinkle marks, the lady’s eyes, and some of the shadows, like the one from the left pillow doesn’t make sense as it moves. The whole thing seems pretty clearly to be AI. You can see lots of AI video stuff from SORA (the newest state of the art), AnimateDiff, Pika Labs, etc. and this has a strong resemblance to some of the more cartoon-style video generation tools. I’m heavily leaning towards AI on this one. Even the video style with scenes slowly floating/moving matches how a lot of video generation models before SORA output their videos\n\nEach of the first 3 scenes just looks like a different individual video gen output, then edited together and a logo animation was made and placed over the end of the third output video, which covers the screen and transitions into a human-made fourth scene\n\nEdit: Why are people downvoting me when I’m the only one trying to backup my claims with evidence whereas the other person doesn’t know about 3D animation and is basing their claim on nothing but that it looks “simple.” Could anyone here do all of this as a beginner in 3D software? Can you learn how to model these things yourself? I doubt it as a beginner. Just try making any of these models as a beginner or try finding any similar model online and importing and animating their faces and limbs like the video",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "I know a LOT about 3D, both the craft and the industry, and I can tell you are speaking from no personal experience in the field.\n\nAlso, what makes you think a “beginner” would be the person tasked to make this ad for a national furniture company that makes 5 billion dollars in revenue?\n\nWhy not any of the thousands of creative agencies who offer this service, or the thousands of freelancers those agencies hire?\n\nIt’s a strange argument to make.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I’m not in the Animation field, I’m in the Graphic Design field, so you’re technically right. I don’t know the animation lingo, but I work with people in the field, I talk to them about their work, and I get to see a fair bit of their process. Also, I wasn’t trying to say that a beginner was tasked with making this specific ad. I was trying to respond to the original comment that said it “Looks like a simple 3D animation that any beginner can pull off”",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "You know if I actually was the comment you replied to, I would probably have been better off lol",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "People on this thread demonstrate why witch-hunts were a thing in the past :)\n\nLiterally nothing here has the obvious AI telltale signals.",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is not easy and not something the majority of beginners can readily pull off without tutorials and videos. The liquid simulation is HARD, learning how to animate all of the popcorn is time-consuming and DIFFICULT, modeling the lady’s hair strands like that (not even animating them, just modeling them btw) is TOUGH\n\nWhy are you talking about how something is easy in 3D animation when you don’t know about it?\n\nThis is AI. The short, less-than-5-second video output of each scene in this slow, floaty motion style is EXACTLY what most AI video generation tools still make today (besides the top ones like SORA and Runway). AI still has recognizable parts. It’s whether or not people know about the subject of the output and what to look for",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "I work in exactly this field, and you are very much overstating the difficulty of a scene like this.\n\nFor example, the liquid sim does not FLOW or change shape. Its form is static. You could theoretically buy this asset on a stock 3D website (Turbosquid, Unreal marketplace) for $100 in a format compatible with your 3D software of choice and drop it into the scene. Not everything has to be made from scratch.\n\nYes it takes training and experience to get good at this stuff, like any specialized skill, but that doesn’t mean every single scene always takes much time.\n\nMore importantly, most 3D and VFX artists in the field are absolutely desperate for work right now due to an industry-wide slowdown caused by a ripple effect due to last year’s SAG strikes and a general contraction in streaming services production. So they’re picking up a ton of work in advertising to keep the bills paid.\n\nThe most AI looking thing about this commercial are the fucked up eyes, manic looking faces, but that may have just been an extremely poor creative choice. However, look at the hands. Not an issue in sight.",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "Yeah, I commented on another person below, but I think I was misinterpreting and mixing up beginner and novice. I appreciate your insight here, especially since you’ve got experience in the field. I still think it’s incredibly difficult for a novice, but doable for a beginner. Also, there is something odd going on with the third person’s right hand thumb and the second person’s left hand general thumb area, but otherwise they do look good from what I can tell",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "This is NOT easy and NOT something a beginner can readily pull off.\n\nOn a whim I did a search on YouTube for \"model liquid following path\" and \"3ds liquid following path\" and the first result for each is excellent. You don't need to be an expert when someone shows you every single step of the process.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "You need tutorials for each step. That kind of goes against the “readily” part, but I see your point. It is technically doable for someone with little experience",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I guess this does seem like it would require an advanced degree:\n\nhttps://docs.blender.org/manual/en/latest/physics/fluid/introduction.html#liquid-simulations\n\nhttps://docs.blender.org/manual/en/latest/modeling/geometry_nodes/hair/guides/clump_hair_curves.html\n\nhttps://docs.blender.org/manual/en/latest/physics/rigid_body/properties/dynamics.html\n\nNobody is saying it's \"easy\" as in \"somebody that doesn't know anything about art or animation can sit down and do it,\" but everything in that video is certainly \"easy\" in terms of, \"anyone that is entering this profession right now has to do something far more complex for their capstone.\"\n\nThe stuff in the video is something a serious hobbyist could do solo without much difficulty with the tools that are freely available to the public right now. Maybe 20 years ago it would have been impressive, but tools and the knowledge how to use them have advanced drastically.\n\nFor me the biggest things that suggest it's not AI is the third cut with the guy falling onto a couch. An AI generated video would probably have the couch cushion deform, because that's what would happen in most videos AI would be trained on. You would likely have to ask for it to offset the cushion like what happens in the video. However, if you're doing a rush job in blender then doing something like deformation on the cushion would be more work than just throwing in some random blob of water, and a few moving popcorn kernels, which is probably why it wasn't done.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I appreciate the documentation. My main irk is that the commenter I commented on says it looks “simple” and it could have been done by anyone and it’s suggested that thats why it’s not AI. You had to search up a bunch of different Blender website links for how to do each step which is the point. Anyone can theoretically do it, but it’s certainly not beginner friendly\n\nAt this point, I just need to get off this app godforsaken app because I’m getting worked up over people saying stuff with misinformation/without evidence and bots during an election year",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "It really comes down to what you call a \"beginner\" though. When I hear \"beginner in blender\" my mind goes to \"so maybe late high school, or early college with an interest in animation and a few years of art under their belt.\" To someone like this the fact that blender does all these simulations would be common knowledge. All I had to search was \"blender fluid.\" As long as you know that blender does fluid simulation, looking up how to use it is quite trivial. There is a ton of youtube content too, going through it in every level of detail you might want. Anyone in a position where they would be making content for an actual advertisement that went out, presumably on TV, is likely to be at least at this level of competency.\n\nI would distinguish this from what I would call a \"total novice\" which is someone that read somewhere that blender is how you make cool animations, and decided to download it and go through a tutorial with no prior background. Obviously for people that don't really understand what need a tool like blender fulfils, it's going to be very hard to use this tool to do much productive.\n\nAs an analogy, think of an pilots. Someone that's learning to operate a Cessna and has already done a takeoff and landing is a beginner, someone that flies long-haul for a living is an expert, someone that loaded up a flight sim once and ran through a startup checklist on a plane they like is a total novice. While you'd obviously rather have the expert over the beginner operating your plane, at the same time you would much more rather the beginner than the total novice at the helm.\n\nSo in that sense, when you see \"simple\" and \"beginner,\" it's important to interpret those in the context of the type of person that's likely to make such a comment (aka, someone for whom it really is simple)",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Year that’s a fair point too. I’m probably overthinking this cause I was totally thinking they meant something closer to novice than beginner. Don’t know why some weirdo downvoted you before either. Guess some people really just don’t like documentation and evidence nowadays",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm so confused on how something like this would be easy or simple even for a beginner? Played around with blender when I was younger and that's pretty much the experience, had a play about with unity/unreal too when I wanted to be a game dev.\n\nSomething like this doesn't seem easy at all. Unless you're comparing it to renders that are absolute masterpieces",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It was the eyes for me. They looked super creepy",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "lol Gemini 1.5's verdict:\n\n\"It is difficult to say for sure whether or not the images are Al generated. However, there are some clues that suggest they may be. For example, the images are all very realistic and detailed, which is something that Al is becoming increasingly good at. Additionally, the images all feature people or objects that are in motion, which is another thing that Al is good at generating.\n\nUltimately, it is up to the viewer to decide whether or not they believe the images are Al-generated.\"",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Companies need to be careful implementing this in their branding, could ruin their brand if the vibes get too weird..",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You guys know this art style existed way before AI right?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Never seen it tbh...",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "So you think AI invented this art style?",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I never even fuckin said that mate :/ Ai cant generate its own Style, it cant make anything new on its own, its AI. it gives you what you out into it.",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "That's not true.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Like howdie doodie or HR puffenstuff were any less scary.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Ima need a link.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "https://tucson.com/entertainment/television/original-production-howdy-doody-marionette-provides-direct-link-to-beloved-tv-show/article_c91d0feb-3b25-535e-a4d7-43aeadc527b5.html",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Oh gross! How awful!!\n\nIma take 2 versions please.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Theyre in the wild now",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm confused about why something like AI should be relegated to being used to \"mess around with stuff.\" AI has the potential (<- key word) to change the world in countless ways. And we're worried about commercials?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well, this is bad.... But it's the worst it will be. Its only going to get better from here. Soon we won't know the difference.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yea I already noticed this on YouTube a couple months ago. So many ads with messed up fingers. Obviously this is the perfect utility for Generative AI so it will improve and become omnipresent.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Omnipresent????",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It needs tweaking, yes. But damn. It's amazing.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can't account for bad taste.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah the moment I saw this I knew it was AI. This is like the 4th one I’ve seen though",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This doesn’t look like AI…",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You can tell its AI generated because it has no soul; that spark of creativity and personalization is missing. There is no \"story\" underlying those scenes.\n\n\"man standing amazed with popcorn in front of new tv\"\n\n\"woman doing laundry amazed\"\n\n\"man on couch sitting down happy\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How can you tell it's AI rather than simple CGI created by a human?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's not AI , AI animation doesn't have this sort of consistency between frames, even state of art tech like SORA has issues with temporal consistency",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI is worthless until its given to an already expert person, To get to an expert position someone needs to know the things. Let this startups make the VC money once the money is gone hype will also",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "it feels too coherent to be AI, nothing in the background is shifting, the blur is consistent, etc",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ugly",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've seen a lot of billboards done with it too",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What the fuck to you expect? Rent-A-Center caters to people who can't afford furniture. Of course they are going to cut every possible corner, such as actors for their video ads.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Whatever it is, it works. You shared it and now we've all seen it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I bet AI was most certainly used in the pitch meeting 😂",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "omg that is the weird but looks like ai is taking the jobs quicker then ever",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Visit us at Uncanny Valley",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "well, i certainly wouldn't feel threatened in my job after watching this... nonsense...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Reminds me of that meme commercial from grubhub xd",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is it, or isn't it? If we're here, what matters is the debate, not the answer.\n\nIf folks with interest and expertise in AI can't tell the difference, then practically speaking there is no difference.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So, I just watched a commercial. Was that the point?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Assuming this is AI, and I wouldn't be surprised if it was, the cost of producing this ad compared to a typical one with a bunch of animators is astronomical.\n\nEven if it looks bad, we now know of a company called \"Rac Exchange\". The ad did its purpose, weird as it was.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If it’s AI, they got the fingers right.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "IT LOOKS LIKE A CYBERPUNK 2077 AD",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I had a good chuckle at \"using AI to cut corners\". There have always been technophobes and always will be.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"looks like\"? So you don't actually know, or have any evidence then... If you don't like ai, fine, that's your perogative. If you don't like this aesthetic, fine, that's also your perogative. But you'd better have the evidence to back up your claim, otherwise you're part of a witch hunt, and a huge problem for artists caught unfairly in a petty cross fire.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "blaugh.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Funny, I think this is just a model adding a style.\n\nI have seen the woman in tv who is spilling the cleaning stuff.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Drugs mmmk",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "wah wah wah someone call the wahmbulance",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "im not crying tho? Why are you choosing to be rude?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This commercial would traumatize children who are up too late holy fack its horrifying.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Putting creatives everywhere out of work. For profit. Capitalism.will finally meet a point of implosion soon.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Budgets for these commercials have always been tiny.\n\nOf course they typed it in to AI.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bggglv",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bggglv/someone_who_claimed_to_have_worked_at_disney/",
+    "title": "Someone who claimed to have worked at Disney before is saying that Pixar will go through a massive layoff very soon due to advancement of AI such as Midjourney. Thoughts?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Anyone who embraces AI to try and increase profit margins will be undercut by someone else also using AI. There will be a race to the bottom in quality with the rise of content mills and anything AI generated will get lost in the sea of other AI generated stuff.\n\nBy firing animators and artists they’re throwing away their only creative advantage they have over AI.\n\nInb4 “but AI can generate such crazy stuff!” - you never met any artists, they often have to be reigned in so they don’t turn in crazy content with limited appeal.",
+        "points": "77 points",
+        "children": [
+          {
+            "comment": "You’re telling about Disney here right? Are you sure their only creative advantage are animators and artist?",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "You can't copyright AI generated work and characters, so yes.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "Not trying to disagree with you, but someone is making this kind of argument and is getting upvoted for it:\n\nLike I said, ai will still do hands poorly sometimes. If someone doesn't care enough to fix it, which is trivial with almost all gen apps, then you will see fucked up hands sometimes. For any commercial use, they will be able to fix the hands, and trivially.\n\nCopyright is going to be irrelevant to ai soon enough. You are still thinking about ai in the old format, where some studio make a movie and then sells that to people, just with the studio work being done by ai instead of humans.\n\nWhat we are going to see in the future are bespoke media, made for you by an ai at the time you request them. If you decide to watch a movie, you will tell it what genre/tags you want and it will create a movie for you as you watch it. And the hardware to generate something like that isn't actually that much more than a regular gaming PC, so it will be totally impossible to police copyright violations in that type of environment.\n\nhttps://old.reddit.com/r/artificial/comments/1bggglv/someone_who_claimed_to_have_worked_at_disney/kv82ysx/\n\nWhat do you think of this?",
+                    "points": "-8 points",
+                    "children": [
+                      {
+                        "comment": "My eyes already glaze over when I see an AI generated image, boy I can't wait to watch an AI-madlibs story /s",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Disney has no advantage right now. They are deliberately running their company off of a cliff, systematically hoovering up other companies and destroying their IPs. Disney was once a beacon of creativity and story-telling, but are not any longer.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is also what they said about computer generated cartoons vs using painters…\n\nThis makes it easier to make a beautiful looking cartoon, but it will still be fierce competition and talent needed to make the top 1% of this movies that actually get mass appeal.\n\nMaking a good cartoon movie will still need talent. Now it will just be talent in making prompts and revisions to the AI to get an original looking story and to interest the audience.\n\nThis will also democratize cartoon making, independent studies will be able to make much better looking movies than before. So we might see much more local, indie or niche content in stead of everyone watching Disney.\n\nI don’t think the end result of this will necessarily be bad for the art.",
+            "points": "13 points",
+            "children": [
+              {
+                "comment": "Except that there are some legal/copyright issues regarding the whole thing.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Disney tells amazing stories first. The graphics can all be replicated",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "They keep the supervisors that control the overall aspects. It won't be as revealing as you think it would be",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Well, I've heard that AI still can't get a lot of things right and there is also a question on whether AI will stay cheap.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "Wonder studio reduces the workflow for someone to do a cg driven short by themselves from a year to 15 days.",
+                    "points": "5 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Every month, the list of things that AI can't get right shrinks. The pace of advance is just absurd. As for cheap, AI is only getting cheaper over time as it gets better.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "And yet, they're still having problems with hands and uncanny valley at least to some extent.\n\nIn any case, this whole AI thing is probably the biggest reason why I tend to find solace in independently-made hentai games.",
+                        "points": "-6 points",
+                        "children": [
+                          {
+                            "comment": "The hands thing isn't really a thing anymore. They will sometimes have fucked up hands, but if your using a current model then you get correct hands more often than not. Given that many human artists struggle with hands, AI models are doing hands better than human artists on average at this point.",
+                            "points": "2 points",
+                            "children": [
+                              {
+                                "comment": "And yet, I still see no shortage of pretty recent AI arts that still fail to create hands properly (and that's without mentioning possible legal/copyright grey areas in which if studios make it legal to get them copyrighted, it could end up opening a floodgate of random people just making money off from AI-generated materials without anyone being able to stop them even if those materials blatantly involve copyrighted materials of someone else), not to mention that there was one time when at least one poster noticed that this guy once said that he/she left the industry due to burnout and never brought that up again and if so, there might be at least a slight amount of chance that we might be seeing a grifter there.",
+                                "points": "-3 points",
+                                "children": [
+                                  {
+                                    "comment": "Like I said, ai will still do hands poorly sometimes. If someone doesn't care enough to fix it, which is trivial with almost all gen apps, then you will see fucked up hands sometimes. For any commercial use, they will be able to fix the hands, and trivially.\n\nCopyright is going to be irrelevant to ai soon enough. You are still thinking about ai in the old format, where some studio make a movie and then sells that to people, just with the studio work being done by ai instead of humans.\n\nWhat we are going to see in the future are bespoke media, made for you by an ai at the time you request them. If you decide to watch a movie, you will tell it what genre/tags you want and it will create a movie for you as you watch it. And the hardware to generate something like that isn't actually that much more than a regular gaming PC, so it will be totally impossible to police copyright violations in that type of environment.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "I feel like I've heard about this kind of thing before even if it's not 100% comparable to what you're describing.",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "80$ monthly plan at wonder studio saves a cg house more than 7 figures.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Every problem the AIs currently have can be solved, but it's likely the solutions will require, at least at first, massive increases in hardware. There are some really interesting advances in efficiency, such as the 1-bit (or 1.58 bit) quantization, that I really don't understand, but right now, the biggest advances require gobs and gobs of hardware.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "By firing animators and artists they’re throwing away their only creative advantage they have over AI.\n\nMaybe. The race to the bottom in terms of quality has been going on for quite a while in various categories, and the end users consumers remain clueless and can't recognize quality from crap lower quality.\n\nBranding is what drive value, and value is perceived; and it can be manipulated.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You find that guy's claim to be at least somewhat suspicious? If so, for what reasons?\n\nAlso, people are massively upvoting this thread, so I was under the impression that they all or mostly agree with that guy.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Disney, Pixar and a lot of other media companies were already in a race to the bottom in terms of creativity and quality. Usage of AI will be a continuation of this trend, but it's definitely not the start. These companies place all their priorities on their politics, and not on good story-telling or giving their audience something they actually want.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You’re assuming quality will go down but the AI output is consistently improving to become easier to use with better output…..",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If they were smart they wouldn’t change a damn thing but executives are greedy so RIP Pixar it was nice while it lasted. AI comes to extract the soul from something else. It should be used as a tool and if anything spur more hires hopefully we get there someday soon.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Well, it's a claim that poster is making and there was one time when at least one poster noticed that this guy once said that he/she left the industry due to burnout and never brought that up again and if so, there might be at least a slight amount of chance that we might be seeing a grifter there.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "There is profound misunderstanding about AI in these posts . AI isn't sentient or capable of artistry , AI is nothing more than a generative tool. AI related layoffs in this industry would happen today only in the context where these companies are shifting resources to invest in AI ( this is what is happening in the tech industry) , not as artists being replaced by generators. There is no AI generator capable of fully producing the work necessary in this industry.\n\nMy BS meter went off the scales when they mention a company would rather use a paid service that has no infrastructure for that purpose , namely Midjourney, instead of using a free one that has ample extensibility like Stable Diffusion.\n\nHonestly it is far more likely that these studios already have SD models , which they fine tuned to be used as an assistive tool for artists. It is what makes sense with the current technology and tools available.\n\nJust because people say they are something on the internet it doesn't mean it is true and even if they are what they claim it doesn't mean they are giving out truthful or complete information on something.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Them first, us next.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This all BS",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wonder studio does way more damage to these crew members",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s going to get harder to produce the ‘making of’ shows when an AI machine is increasingly part of the production workflow.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The whole article, not to mention the comments section, is highly speculative.\n\nSo far very few people have been laid off in any industry where you can draw a direct-line to AI as specifically causing the layoff.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looking at this thread one advice was to be a solo story teller using AI tools, but if distribution movies remain the same while production gets disrupted due to AI, will in the short term studios only are going to benefit and not solo storytellers? Somehow now i feel all these money and talent been poured to get generative AI breakthroughs was to get corporations and studios to get bigger and bigger while reducing there expenses and individuals and salaried class are just happy with free or freemium tools they can play with. I am guessing at some point something like french revolution may happen at large scale in the world to bring down the system that unreasonably benefits from technology",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"someone who claimed to....\"\n\nwho cares. If this person worked there they have proof.\n\nIf this person doesn't work there anymore then how are they supposed to have access to this kind of information that wouldn't be shared with 99% of employees?\n\nlearn some critical thinking people. anyone can claim anything online.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If not, do you see any possible red flag to this guy's claim? If so, which ones?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgfcyw",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bgfcyw/is_anyone_else_worried_about_the_future_of_ai/",
+    "title": "Is anyone else worried about the future of AI P*rnography?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I really think it’ll get to saturation, and then reach an inflection point where people will stop giving a crap because it’ll be impossible to verify or deny, and it’ll just become pointless to care about it.",
+        "points": "72 points",
+        "children": [
+          {
+            "comment": "Journalists are getting off on how easy it is to stoke AI fear.\n\nIt literally won't matter.",
+            "points": "24 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "To be fair... no. The contrary.\n\nSure, it will lead to some deprivated stuff - which is also around today - but this time it wouldn't involve real people.\n\nI also hope, on an egoistical level, to be able to customize erotic content, for example add diversity or toys.",
+        "points": "34 points",
+        "children": [
+          {
+            "comment": "Diversity helps you get off?",
+            "points": "-10 points",
+            "children": [
+              {
+                "comment": "Not discriminating based on age, race, sexual orientation, or gender really puts me in the mood",
+                "points": "-5 points",
+                "children": [
+                  {
+                    "comment": "I’m sorry but I find this 9 on 1 gangbang video problematic due to the lack of representation of minorities.",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I straight up have an aversion to seeing anything that's around now basically. But with some of the videos of how AI looks lately, movie like animation production... idk. Maybe we'll see AI take over real models 🫠",
+            "points": "-3 points",
+            "children": [
+              {
+                "comment": "I guarantee AI will reduce the number of human actors.\n\nI also guarantee it won't put them out of business for decades. Even if tomorrow, someone unveiled a perfect porn AI. It'll continue to exist.\n\nThere are loads of people out there who hate AI and would only want \"the real thing\" even if they couldn't distinguish it. There are people out there who would want to watch cam models because they feel they're in a genuine relationship of sorts with the model. Many even think one day they'll meet them in person.\n\nSo will it get rid of real people making real porn? No. Hopefully, it will get rid of the abusive parts of the industry. Particularly for quite rough BDSM stuff.\n\nWhy actually get whipped to bleeding if AI can fake the scene using the setup and general motions as a seed for generating a realistic scene?",
+                "points": "14 points",
+                "children": [
+                  {
+                    "comment": "I think people underestimate how cheap labor is in this industry. There is a niche for AI to fill with very specific images and videos(someday), but it’ll be a while before it’s more cost effective and of comparable quality to make an AI video instead of just filming.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Porn without real people getting abused seems ideal to me.",
+        "points": "48 points",
+        "children": [
+          {
+            "comment": "I understand, I've been abused at my office job as well, a contract doesn't guarantee you safety or respect",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "No but if you get replaced by AI you will also not be abused at your office job anymore.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "In fact I absolutely FUCKING HOPE that AI replaces my job as soon as possible",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "Fuck, not me. I'll be out of a job with no income. That would be bad.",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "Me too but the JOY of being free? I don't care, if I had 10% chance of having UBI I'd risk it.",
+                            "points": "-2 points",
+                            "children": [
+                              {
+                                "comment": "The joy of being in poverty? You would be willing to risk a 90% chance of being destitute for a 10% chance of having a low, basic, steady income?",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "Why not just quit your job? Insta-freedom.\n\nAlso, I'm on the left and all, but UBI will never happen, sorry. Or at least not until we see a MAJOR shift in society.",
+                                "points": "-1 points",
+                                "children": [
+                                  {
+                                    "comment": "It already did in a way with the instant refundable child care tax credit during COVID. It wasn’t universal, but it was broad and popular. I wouldn’t be surprised if that happened again in a future downturn and stuck.",
+                                    "points": "2 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  },
+                                  {
+                                    "comment": "UBI will happen, why do you think they made a few tests about it already?",
+                                    "points": "1 point",
+                                    "children": [
+                                      {
+                                        "comment": "UBI will happen\n\nOK, now predict something that will happen tomorrow and I’ll believe you.",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "The Sun will rise again",
+                                            "points": "2 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      },
+                                      {
+                                        "comment": "Literally nobody can answer where the money will be coming from.\n\nI know we can save on welfare and other types of payments, but \"taxing billionaires\" isn't going to cut it.\n\nWe're talking $1000+ pr working individual every month. It's an absolutely insane amount of money.",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I guess if you have to find something to potty about, this is one topic.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "well all the people complaining the industry exploits women now with ai you dont have to!",
+        "points": "27 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI P*rn is going to be too powerful one day\n\n“Command reports that Washington has fallen to the AI porn. Men, it’s been an honor. Save a bullet for yourselves because that robotussy will not show mercy.”",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm not even sure what that means.\n\n\"They thought it would be global warming, nuclear war, or gain-of-function virus research. And they were all wrong. In the end, what brought down humanity was porn that was simply too powerful to deal with.\"",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's going to be very, very popular and pervasive for a minute.\n\nThose Taylor Swift images were...allllmost to the point of reality.\n\nIt's going to make some really weird fetishes.\n\nI think eventually it's like clip art.\n\nIt's more interesting to pay for the real thing.\n\nBut we have 5-10 crazy years any it's going to destroy porn careers before they come bouncing back.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "OP, could you clarify your terms a bit? What do you mean by \"powerful\"?\nAre you concerned about Deep Fakes enabling the creation of porn featuring...well...anyone at all?\nI'm going to guess you're not concerned about the labor issues of customizable eroticism putting industry workers out of a job or, at least, suffering from a lessening of demand.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Honestly p addiction",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The growth of porn, especially with the latest AI and VR technology, is a prime example of what's called a supernormal stimulus. This means it's so exciting to our brains that it far exceeds anything we'd normally encounter in real life. With AI and VR, people can simulate experiences of love or sexual activity without being with another person. As these technologies improve, the digital world becomes more attractive, making our real, everyday lives seem less interesting.\n\nHowever, as much as these digital experiences can be exciting, they also have a downside. They can disconnect us from real life and from the people around us. It's easy to get caught up in a world where everything feels perfect and immediate, but that can make us miss out on the real, meaningful experiences that make life valuable.\n\nI believe that this trend might lead us towards a possible 'great filter' scenario, where our reliance on digital experiences over real human connections and activities could contribute to human decline or even extinction. The idea of the great filter suggests that at some point in a civilization's development, there's a barrier that is very hard or impossible to overcome, and this could very well be ours.\n\nNow is the time to recognize this and start making changes before we get too lost in the digital world and it's too late. I don't want a future where digital experiences are more important than real life, especially if it means heading towards a path where humanity could fade away. Breaking free from this cycle is important, and I'm already working on it. It's about choosing to focus more on the real world, with all its flaws and beauty, and less on the digital one. This way, we can enjoy the true richness of life and real connections with others, ensuring we steer clear of any path that could lead to our decline.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Thanks this comment really gets it. I remember researching and learning about how some bug or beetle, I forget which, would cling to beer bottles thrown off the sides of roads until they would die, or it would interfere with actual mating, leading to depopulation. Perhaps this too will be a great divide, maybe like alcohol, where there people who must abstain completely from technology, or be overcome with an absolute addiction to it. Or we can have a symbiotic relationship. Many of us will be lost to something that isn't real. It's like the terminator frfr",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "So well written and spot on.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Def agree. Would love recommendations for movies where this is the plot, to see some possible versions of the future. “Her” is the only one I can think of atm.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Aye why no bring on the ai porn nobodys getting affected x",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would rather people get off to AI porn over unregulated porn.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m not scared of that at all. There’s already so much of it. How can we possibly have more?",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Im more worried about things that matter.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Excited is probably more the word I'm thinking of...",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "lol",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not at all. I think there are a lot more important things that will be impacted. This is the bottom of the list of concerns for me.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, why, starting an issue about what. A private media is in the eye of the beholder and no business if others, that's why it's private. Ps: it's not my kind of thing but this seems to be a discussion to shake things up that belongs to private sphere. Or in other words, non of your damn business to go peeking and rattle emotions on oh look. Commercial it will be exploited like something aligned to the oldest profession in the world, yes and so? No demand? Very disturbing tendency to try to govern private life.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "dude, where's my car",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, when it comes to AI - porn, jobs, etc.. should be the least of your worries. A new omnipotent digital god that may or may not care about you should be near the top.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nop, I prefer “abused” avatars versus real people being abused.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "no because it can't be worse than the actual terrible things humans have done and filmed... yes it can be really f'd up but people have abused and tortured other people since the beginning of time, and now they are able to film it... the amount of torture/abuse footage out there is disgusting and authorities already have a hard enough time going through it and tracking ti all.\n\nnothing can be more disgusting than it being REAL. at the least the disgusting awful things AI will make didn't actually happen to some poor soul.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I just hope it's better than no I pornography.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Am I worried about its future? Nah, it should do fine. /s",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m hype",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don't see the issue, even if the content contains children. It is much better for the content to be fake than real. And oversaturating with fake will kill the real.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What ,that it might find us ugly and deny us? Also it sound like you definitely have been logging hours contemplating it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"asking for a friend\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"asking for a friend\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Half the poeple in this sub are waiting for a VR porn world that never ends. The only worry is its not cumming fast enough.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It'll be both sad and interesting to see people falling in love with an AI porn girlfriend who they can have conversations with, and who responds to their unique individual preferences. I also expect people to be tricked/scammed using the technology.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Or you get so in luv with AI and could never actually meet this \"person\" that isn't real. Lmao",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I feel like it should be a crime to deep fake someone as p*rn without their consent",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "this is a really blurry line to me. like how similar does it have to look to someone before it becomes someone?\n\nthis is like philosophical and legal questions... I know two identical twins as an example.. if one films himself in a porn, is it illegal because the other twin is identical? under this logic it should be because this other twin now has a porn video out there of him he didn't consent to.\n\nif someone just happens to look like me, how is it different than using AI to create my face then using the guys face who looks the same? but look like me but are not me... yes I think using it for evil purposes is wrong and I don't want anyone to suffer, but there are billions of people on earth... many you couldn't even distinguish from each other. do you know how many porn videos are out there that people think is an actress or actor but its just someone who looks similar...\n\nif you use someones actual face in a video maybe that should be illegal, but using AI to recreate a image that looks like them I don't think should be. I don't think a human can claim a \"look\". what if someone else looks just like them or very similar? one can't own it over the other.\n\nthere is a girl on social media that looks just like Taylor swift, if she made a porn people likely wouldn't be able to tell the difference. but its not Taylor so its not illegal. it should be illegal to say its Taylor if its not, but I don't think it should be illegal to have a video that looks like her but is not.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Valid",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Agreed. It's not enforceable though unless someone is distributing it. So, yes, people are going to be making deep fake porn of people they know that they want to fuck, and there's not much that can be done about that. But I do think porn websites of deepfaked celebrities should not exist.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The responses to this really show how far someone is willing to go intellectually to justify making you feel uncomfortable.,\n\nI’m of two minds.  1) it’s everyone’s god given right to imagine having sex with people they know and and creating something on your own computer isn’t that much different from a moral stand point.  (It might become an issue when other forms of ai or behavioral issues come in to play)\n\nOn the other hand, distributing that content seems extremely hurtful/ consent violating/ awful /mean.  \n\nCertain norms are in place because we just know society is going to be a better place with them.  This seems like the right line to draw. \n\n How would you feel hearing that?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "When I was in mid school there was a kid ik who had someone on the internet paint a girl he had a picture of with her shirt on, as being a wet shirt and see through.. he knew her, had a crush for her whatever and did this and showed me. Ai is gonna be the same thing.. kid never got in trouble and I didn't really care that much. But sheesh, kids gonna be getting in troubleee",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "isn’t “someone” just a phenotypical representation? If i use all 8 billion people i’m sure i can find twin appearances for every person, who owns the right to produce that body type + face?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Your argument is kinda begging the question, isn't it?\n\nIf you took 2 twins, call them Dan and John, and you superimpose John's face on a porn model to make porn of John, then you are violating John's autonomy. Not Dan's. It wasn't Dan's face you used. It was John's. Sure, it looks exactly like Dan. But it wasn't Dan. And you didn't use John's face to make a Dan looking model. You used it for a John looking model.\n\nIf you used John's face consensually to make a Dan looking porn model, you are violating Dan's autonomy. It's his likeness you are creating, not John's. Even though it is John's face.\n\nIf you generate an image, fully and completely by hand, using John's likeness... again, it's John's likeness. Not Dan's. John owns his own face, his likeness, he holds the rights to his face. Just because Dan's looks identical doesn't mean it's the same face.\n\nSo if you use my unrelated twin's likeness as inspiration, AI or by hand, to create my likeness... it's still my likeness. Regardless of the fact that my likeness is similar to my unrelated twin. If you did it to make the likeness of my unrelated twin, and they're cool with it, I can't object. I look similar, but it isn't my likeness.\n\nAnd if you use my face to generate someone else, but you didn't get my consent to use my face like that... you are violating my autonomy and possibly theirs too.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "i think you can’t really violate this if you are able to create every possible person, nobody can own the right to a face nor a body. I’d just construct every possible human face and body and arbitrarily use any of them, nobody can say i picked a certain person as all the options already existed, there’s only so many human characters you can make appearance wise before they repeat.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I see your point.\n\nBut this isn't a problem of AI, but of humans breaking the law.\n\nI think the solution is not acting against AI but acting towards a better control of internet-plattforms and strengthen user rights.",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I am trying to decide if I should get onto making ai porn of myself and putting it out there, so that in at least some of the fake porn of me I would look attractive in a way I enjoy.\n\nCurrently no lewds of me even exist, but I suppose with ai that can change any time.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Keeps me up at night",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "I know a trick...",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Comments are incredibly naive.\n\nImagine real life but a slight variation. What if the January 6th guys had preluded that day by spending more than 10 hours a day in an AOC rape simulator? How much worse would that day be?\n\nAOC already has hundreds of AI porns of her right now. They may not be VR and interactive but that’s due to a lack of commitment rather than lack of ability.\n\nAI porn is deranged and should be banned. Honestly, porn should generally be banned. It’s not a victimless crime. People who disagree are kidding themselves on its impact. This is a very dark path we should nip in the bud.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

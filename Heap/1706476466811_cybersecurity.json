@@ -1,0 +1,2087 @@
+[
+  {
+    "id": "t3_1ad926b",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1ad926b/seeking_guidance_on_cybersecurity_training_paths/",
+    "title": "Seeking Guidance on Cybersecurity Training Paths",
+    "points": null,
+    "comments": [
+      {
+        "comment": "https://pauljerimy.com/security-certification-roadmap/",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Keep going with SANS. It’s expensive but worth it.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "I'm sure it's great but paying $8500 for training that won't guarantee an increase in salary just seems insane. That's over 10% of my yearly take home pay just to do a bit better at work. I could max out my Roth IRA for the year and still have extra money to spare for the price of a single class.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad835c",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://arstechnica.com/science/2024/01/we-keep-making-the-same-mistakes-with-spreadsheets-despite-bad-consequences/",
+    "title": "We keep making the same mistakes with spreadsheets, despite bad consequences",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Wait. Are we not supposed to keep sensitive spreadsheets with PII on the shared drive? Even if we lock it down with folder permissions?\n\nWhat about our password lists? I keep mine in Excel and store it on the shared drive too. But I locked it down so that only I have access. I’m one of the sysadmins/dba/developers.\n\nI’m not a cybersecurity guy though I’m working on my CEH.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Joking right..?\n\nRead other comments from you and now sure this was tongue and cheek.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Um so what should we do - spreadsheets is what I do all day everyday ...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad38av",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1ad38av/how_malicious_payload_bypass_antivirus/",
+    "title": "How malicious payload bypass antivirus?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Do some research on how antivirus software works. Many people will point you to how to do it to get it done, but if you understand what you’re up against then you can find your own solutions which is exactly what bad actors are doing, so to be a step ahead, or even in step with them, you’ve gotta think of the problem like they do",
+        "points": "17 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would check out the PEN-300 / OSEP course from OffSec. You learn how to do this in that course.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Lol... zero-point security and sektor7 will both teach you not only more effectively, but for a fraction of the price",
+            "points": "32 points",
+            "children": [
+              {
+                "comment": "Add maldevacademy to the list :). Provides an insane amount of knowledge and you can pay once to get lifetime access to something that is continuously updated. I have been super impressed with it.",
+                "points": "16 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Start here\n\nhttps://attack.mitre.org/tactics/TA0005/",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Let's take a step back here - what was your motivation to fire up a Kali vm and start tinkering with these tools? The sad news first - in case you are planning for an actual career, a lot of learning will be needed. Before you even get the to the point of actually evading something, you need to understand how the bottom of the iceberg actually works (kernels, operating systems, applications, networks, ...) - cramming some exam dumps and watching \"bounty hunting in 21 days\" vids on your morning commute won't cut it.\n\nIn case you already got some of the foundational bases covered, this sub is full off substantial hints on viable paths to becoming a pro on both the red and the blue team. Check relevant publications from Manning and No Starch Press - you'll find a lot of go-to textbooks on there that will help you to get up to speed in a solid manner. Don't go copy-pasting random code snippets without understanding what they actually do.\n\nAlso: check \"awesome\" lists on github - awesome redteam, blueteam - some of those actually present end-end guardrails that will safe you from getting trapped in all the rabbit holes on the way =]",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "What sources do you recommend for deeper knowledge in windows?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Hmm. A must have for every bookshelf: - https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals\n\nFrom Pavel himself: https://leanpub.com/windowskernelprogrammingsecondedition\n\nDon't forget the MS docs - e.g. https://learn.microsoft.com/en-gb/windows-hardware/drivers/?redirectedfrom=MSDN once you start diving deeper.\n\nGreat upcoming title: https://nostarch.com/windows-security-internals\n\nMandatory Powershell reference: https://www.manning.com/books/learn-powershell-in-a-month-of-lunches\n\nAD: https://www.amazon.com/Mastering-Active-Directory-protect-Services/dp/1801070393\n\nWindows networking/sysadmin & other stuff (noob-friendly): https://computingforgeeks.com/recommended-books-master-windows-server/\n\nand and and :)",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Obfuscation and AV bypass technics.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Look into loaders. \n\nhttps://www.reliaquest.com/blog/the-3-malware-loaders-behind-80-of-incidents/\n\nBasically loaders specialize in evasion and can be used to launch arbitrary payloads (in some cases).  You can find the source for plenty of them floating around, and some are available for purchase.\n\nIf you understand the techniques a number of them are using, you'll have a decent sense of standard evasion mechanisms.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Upload to virustotal.com and see if it gets detected",
+        "points": "-7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "A lot of great points here, but to dive a bit deeper.\n\nAV bypass vs EDR bypass should be what you ask about. AV bypassing is far easier since most are signature based, where EDR is more behavioral based.\n\nNext thing to ask is: is the AV and EDR technologies plug and play or tuned to the environment? Depending on how much tuning has been done, the harder it can be to bypass",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I was having a super hard time making a payload with MSFVenom that could bypass windows defender. So then I made my own with Python. Now any time that gets flagged I can just add a couple more lines of code to it !",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Theres a new book called evading EDR. I would look at it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is a never-ending story. Things move very fast. While simple obfuscation would do the trick up to 5 years ago, it's a much more complicated story right now and a field in and of itself.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "bruteratel.com, zerodayengineering.com, lots of resources from well experienced hackers. don't beg or settle for advice, go get real knowledge. best way is to buy books and read articles from real researchers. these subreddits including netsec are bullshit and offer no real value around this sort of research. good luck!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad321x",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/",
+    "title": "I looked through attacks in my access logs. Here's what I found",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Have you thought about getting some sort of WAF setup? Like cloudflare? Also I didn't read all of it but most of those attacks are 404 error messages so a WAF in place could prevent those logs coming in all the way.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad2seu",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1ad2seu/is_zero_trust_and_sso_a_contradiction/",
+    "title": "Is Zero Trust and SSO a contradiction?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Zero Trust is much more granular. Even if an account is authenticated and authorized to take certain actions, there are oftentimes going to be additional security checks made as the account is taking those actions AND there will also potentially be reauthorization checkpoints as well as other security challenges presented during a session.\n\nYou can do some googling/reading about Zero Trust and you'll quickly realize ZT and SSO are not a contradiction, oxymoron, or however you want to look at it. ZT goes much deeper.",
+        "points": "61 points",
+        "children": [
+          {
+            "comment": "This. ZT utilizes standard authentication and authorization but layers contextual requirements into its process. SSO only handles identity (in most cases) - and anything further is the receiving system or process.",
+            "points": "12 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Zero Trust is much more granular. Even if an account is authenticated and authorized to take certain actions, there are oftentimes going to be additional security checks made as the account is taking those actions AND there will also potentially be reauthorization checkpoints as well as other security challenges presented during a session.\n\nIf an attacker has the legit authentication credentials of a user, non of this will change anything. The attacker in this scenario is in the same position then the legitimate user.\n\nYou can do some googling/reading about Zero Trust and you'll quickly realize ZT and SSO are not a contradiction, oxymoron, or however you want to look at it. ZT goes much deeper.\n\nI did and it seems like the issue is far more complex then that with an increasing tendency towards calling it a contradiction: https://www.gartner.com/peer-community/poll/single-sign-zero-trust-compatible (Gartner just being one of many indicating this tendency)",
+            "points": "-23 points",
+            "children": [
+              {
+                "comment": "As with anything, it depends. Like I said, ZT is definitely much more granular. Perhaps an attacker has creds, but they do encounter a check point during the session that requires entering a code from Authenticator or similar app or that is sent to a mobile device. If the code is not entered, end of session. Or, perhaps an IP/location check is conducted. Same thing. If the IP and location are not what is expected for the user account, the session is ended. In either case, alerts are also likely fired. And this just touches on the surface of how granular ZT can go.\n\nSSO can definitely be part of ZT, but they're not the same.",
+                "points": "27 points",
+                "children": [
+                  {
+                    "comment": "That does sound a lot like a compromise due to an inherit contradiction.\n\nThe most common scenario may be a user falling victim to phishing and an adversary gaining the authentication token. Unless your are lucky some heuristic like geolocation triggers a suspicion, the architecture itself will not protect all the services that trust the SSO. So we are in the same situation as traditional perimeter firewall architectures.",
+                    "points": "-19 points",
+                    "children": [
+                      {
+                        "comment": "Nope...I know you want to argue otherwise, but the SSO token is NOT the only thing at play within a ZT environment. You will likely encounter layers of defense - attribute and rule-based, for example, that can quickly and effectively negate any initial value the token might provide. ZT potentially begins externally, but it remains active internally.",
+                        "points": "15 points",
+                        "children": [
+                          {
+                            "comment": "You will likely encounter layers of defense - attribute and rule-based, for example\n\nIn other words you try to patch the hole that SSO created again using additional measures to reestablish ZT. (An example measure would be nice for understanding)",
+                            "points": "-15 points",
+                            "children": [
+                              {
+                                "comment": "I'm on my phone, so hard to type, but SSO didn't necessarily create a hole. Depending upon the ZT architecture, SSO might allow the proper level of identification, authentication, and authorization for the majority of users. However, let's say one of those rank and file users IS compromised and the attacker attempts to leverage that initial foothold and pivot to a more sensitive system that the user doesn't normally access. Via ZT architecture, that \"user\" would very likely encounter some additional checks, like I said, possibly rule-based or attribute-based and likely also including the requirement to enter a code from app or sent to mobile device. Once that wall is hit, the attacker will likely fail any/all checks, AND alerts will be fired that will expose the attack/attacker. ZT needs to be thought-through well, or it could become a bottleneck.",
+                                "points": "6 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Note that it is best practice to have an authorization server for every endpoint, and making the token scoped for one application.\n\nFrom NIST:\n\nZero trust assumes there is no implicit trust granted to assets or user accounts based solely on their physical or network location (i.e., local area networks versus the internet) or based on asset ownership (enterprise or personally owned). Authentication and authorization (both subject and device) are discrete functions performed before a session to an enterprise resource is established.",
+                        "points": "8 points",
+                        "children": [
+                          {
+                            "comment": "If I understand you correctly that would mean that users still need to perform authentication once for every server, while still using the same identity/credentials.\n\nIn other words if I am authenticated to Service A, I wont have to login for the duration of the session, but I do have to provide the same credentials to another authentication service if I want to connect to Service B?",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "user falling victim to phishing adversary gaining the authentication token\n\nThat's not possible when using WebAuthn. This problem has been solved for nearly a decade.\n\nIn some ZT setups the SSO token is scoped to a single service. The audience field in the JWT, for example, is only set to the service that the user needs to access. Stealing the token only grants access to the service that the token is bound to.",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "That's not possible when using WebAuthn. This problem has been solved for nearly a decade.\n\nI fully agree. Unfortunately the widespread deployment of WebAuthn in enterprise environments seems to be nowhere near.\n\nIf WebAuthn was already common, many here could be out of a job for all the issues it could solve.\n\n​\n\nIn some ZT setups the SSO token is scoped to a single service. The audience field in the JWT, for example, is only set to the service that the user needs to access. Stealing the token only grants access to the service that the token is bound to.\n\nThat sounds a lot more solid then most SSOs I have seen, though without WebAuthn it would still have the same issue of allowing access to everything with stolen credentials (unless some additional measure is applied)",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "You’re only talking about one component of ZT here. ZT isn’t about separate authentication for different applications/systems, it’s about not implicitly trusting the authentication (for your example.) ZT would look like employing user and entity behavior analytics (UEBA), enforcing risk-based controls, device compliance enforcement, application protection enforcement, and data loss prevention. All these components together are designed to mitigate weaknesses like/exploitation of stolen session.",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Zero trust is not just “authentication”.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Zero Trust as the name implies avoids trust relationships between services.\n\nThis is not true, and your understanding of zero trust is flawed. In a zero trust model, the user account would be evaluated at each service interaction, while the account could be the same across each service, and the auth would be re-evaluated each time they access a service. Your policies should be evaluating anomalies for re-auth or re-mfa if things are outside of normal, for instance, if a user suddenly accesses their account/service from a new Geo location.\n\nNow if an attacker has the user's password, and their phone... well, there's not much you can do other than evaluate and isolate the account based on actions they take if malicious.",
+        "points": "30 points",
+        "children": [
+          {
+            "comment": "I would like to agree to your post in general, however if you say that this definition of Zero Trust is flawed, I would appreciate some form of source to some kine of acknowledged definition.\n\nIf we go by the term itself (and strict definitions that are sometimes used for it) any form of shared trust is a violation and that includes using the same account across multiple services. I suspect that is a compromise required in practical Zero Trust architectures, but it would still be a compromised due to a contradiction in the end.",
+            "points": "-17 points",
+            "children": [
+              {
+                "comment": "I would appreciate some form of source to some kine of acknowledged definition.\n\nWhere are you getting your definition from? Or are you assuming what it means based on just the 2 words?\n\nHere is the Microsoft documentation and overview of Zero Trust from their perspective: https://www.microsoft.com/en-us/security/business/zero-trust\n\nFrom the link:\n\nZero Trust defined\n\nInstead of assuming everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as though it originates from an open network. Regardless of where the request originates or what resource it accesses, Zero Trust teaches us to “never trust, always verify.” Every access request is fully authenticated, authorized, and encrypted before granting access. Microsegmentation and least-privilege access principles are applied to minimize lateral movement. Rich intelligence and analytics are utilized to detect and respond to anomalies in real time.",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "Instead of assuming everything behind the corporate firewall is safe, the Zero Trust model assumes breach and verifies each request as though it originates from an open network.\n\nWith SSO, I will get access to everything by either compromising a users credentials or compromising the SSO service itself (not to mention compromising the clients end point).\n\nThat seems like a contradiction with the Zero trust objective you cited.",
+                    "points": "-11 points",
+                    "children": [
+                      {
+                        "comment": "With SSO, I will get access to everything by either compromising a users credentials or compromising the SSO service itself (not to mention compromising the clients end point).\n\nNo, This is addressed by this part of the principal:\n\nEvery access request is fully authenticated, authorized, and encrypted before granting access.\n\nLike I said, if you can obtain the credentials, the phone, and the corporate laptop, then yes you own that account fully. The only thing at this point that would stop you is least privilege and micro-segmentation. You should also have insider risk policies to identify user accounts like this, that suddenly behave outside of their normal behavior.",
+                        "points": "7 points",
+                        "children": [
+                          {
+                            "comment": "The only thing at this point that would stop you is least privilege and micro-segmentation.\n\nIf I do not deploy SSO, I have less privilege with those credentials and more segmentation. Consequently SSO does not provide least privilege as an integral part of Zero Trust. In conclusion SSO contradicts Zero Trust.",
+                            "points": "-11 points",
+                            "children": [
+                              {
+                                "comment": "No, you add friction to your users experience where they will most likely reuse passwords defeating the purpose of your multiple logins, making it worse to manage for your support teams, and loosing out on all the policy driven evaluations and 10000 foot view of your users.",
+                                "points": "11 points",
+                                "children": [
+                                  {
+                                    "comment": "I actually agree with you. The entire question was based on my intention to implement SSO, but that doesn't mean I can deny that is also creates a (single) weakpoint to be exploited.\n\nIn the end it likely adds more benefit then drawback.",
+                                    "points": "-3 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Every time you log in with SSO, things like sign in location, device certificates and information, additional controls for app, infrastructure, and internet access will be checked or applied. There are still multiple checks even if using the same credential.",
+                        "points": "4 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "NIST\n\nZero trust assumes there is no implicit trust granted to assets or user accounts based solely on their physical or network location (i.e., local area networks versus the internet) or based on asset ownership (enterprise or personally owned). Authentication and authorization (both subject and device) are discrete functions performed before a session to an enterprise resource is established.",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "Good point. (and good source)\n\nIf we look at Zero Trust from a network perspective and consider user and device authentication as two steps that would hold up to a degree, even with SSO.\n\nIf I'm being picky here, one could still say that a compromised endpoint still represents a single point of failure that is easier to exploit with SSO, but that would also be the case without it to some degree (just slower since the attacker needs to wait for the user to authenticate to different services).",
+                    "points": "-4 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "SSO and Zero Trust can coexist. Zero Trust isn’t about eliminating trust, but continually verifying it. SSO simplifies access while Zero Trust ensures continuous validation at each access point. They’re complementary, not contradictory :D",
+        "points": "14 points",
+        "children": [
+          {
+            "comment": "At its core, Zero Trust architectures aim to remove a trust boundary to avoid single point of failures. The compromise of part of the infrastructure should not lead to access to other parts of the infrastructure, like it is the case with traditional networks that deploy a perimeter firewall and consider everything inside the internal network as trusted.\n\nHowever if I gain access to an account, be that through credentials or authentication tokens from a SSO, I gain access to all services that use this SSO. Therefore it violates the most essential attribute of Zero Trust.",
+            "points": "-6 points",
+            "children": [
+              {
+                "comment": "However if I gain access to an account, be that through credentials or authentication tokens from a SSO, I gain access to all services that use this SSO.\n\nNot true. You're assuming the SSO process is only checking username and password. Under a full zero trust implementation, additional factors like device, device health, location, etc. would be evaluated as part of the authentication process. Additionally, this would be reevaluated for each service accessed and may require stronger validation factors for more sensitive services.\n\nAnd the alternative here is what? Using a vendor controlled login process? The only \"benefit\" is each may have a different password. However, you had no control of the login otherwise.",
+                "points": "10 points",
+                "children": [
+                  {
+                    "comment": "And the alternative here is what? Using a vendor controlled login process? The only \"benefit\" is each may have a different password. However, you had no control of the login otherwise.\n\nGood question, but the fact that I dont know an alternative, does not change the issue that SSO hurts the Zero Trust principle, even if you can try to mitigate that again with the measures you named, which is still not a hard boundary but rather heuristic chance.",
+                    "points": "-6 points",
+                    "children": [
+                      {
+                        "comment": "The whole point of Zero Trust is that you cannot assume a \"hard boundary.\" At any point, a device, connection, or identity can become compromised and you must build for that.",
+                        "points": "9 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Zero Trust integrates with SSO by enforcing strict access controls and continuous verification at each service level, not just at initial login. Thus, even with SSO, access to one service doesn’t automatically grant access to all others\n\nI understand what you are saying, but that is an issue of implementation not the principles of Zero Trust and SSO",
+                "points": "9 points",
+                "children": [
+                  {
+                    "comment": "enforcing strict access controls and continuous verification at each service level\n\nWhat good does that if I compromised a user account? Since I have the correct credentials, those can be correctly verified at each step.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Compromised credentials in a properly configured, true Zero Trust model triggers additional verification steps (like behavior analysis, location checks) at each access point, potentially stopping unauthorized access even with correct credentials. This behaves the same for SSO and traditional authentication schemes",
+                        "points": "12 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "SSO is a technical solution. Zero Trust is a strategy or concept.\n\nIt entirely depends on how SSO is implemented, the processes and policies you have in place, and removing all implicit trust from the above.",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "yep - SSO just states that you can authenticate the same way, every time, to the same IDP for different services. there are huge advantages to be gained by this level of visibility including shutting of access to everything simultaneously.\n\none you get past the theoretical definitions of zero trust, there are several ways to implement it. One of those is telemetry - thejournalizer has never logged in from Brazil before, should I allow it? should I force are authentication through a second factor? should I disable the account entirely?\n\nthat's one way to accomplish ZT - dynamically evaluation each action and reacting to it. Then you could later on gateways such as zScaler, or internal firewalls as well.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Zero Trust is a thing you do. Like parenting, you never actually finish doing Zero Trust.\n\nWhen you’re doing Zero Trust properly you have completely eliminated IMPLICIT TRUST that lasts longer than a single transaction.\n\nEvery flow is inspected. Every interaction is validated. Forever.\n\nUsing SSO and MFA is part of that. But the trust relationship between parties is ephemeral. It must be validated each and every time.\n\nThe lack of clarity on the Zero Trust concept is why blue teams keep taking one giant loss after another.\n\nIf you run a network defense organization please just get over it. There are no shortcuts. There is only hard work. Anything else will continue to deliver you more compromises and more avoidable losses.",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Even in a ZT environment there is always some form of trust, however certain conditions (that assert trust) have to be met before you grant access and for the latter you have to decide upon what level of trust is sufficient (based on the type of resource) to provide access or not. There just shouldn’t be any implicit trust. SSO doesn’t equal implicit trust, which I think you confuse it with.\n\nIf your whole environment relies on just username + password authentication (and now I disregard authorization and least privilege principle) and these are compromised then you have the same problem as with SSO right?\n\nIn a proper ZT environment you take additional factors such as location, device, device health/status, time, risk scores, etc. into consideration to determine whether you grant access. Preferably dynamic, risk-based (in line with your risk appetite) and in real time :)",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"Zero Trust\" (the concept) is a misnomer, \"conditional trust\" or \"limited trust\" better describe what the concept actually represent.\n\nFor this reply I assume we're talking the NIST ZTA definition.\n\nSSO is directly compatible with ZTA as the SSO IdP is considered a PEP for identity posture. 2.1.6 covers this:\n\nAll resource authentication and authorization are dynamic and strictly enforced before access is allowed. This is a constant cycle of obtaining access, scanning and assessing threats, adapting, and continually reevaluating trust in ongoing communication. An enterprise implementing a ZTA would be expected to have Identity, Credential, and Access Management (ICAM) and asset management systems in place. This includes the use of multifactor authentication (MFA) for access to some or all enterprise resources. Continual monitoring with possible reauthentication and reauthorization occurs throughout user transactions, as defined and enforced by policy (e.g., time-based, new resource requested, resource modification, anomalous subject activity detected) that strives to achieve a balance of security, availability, usability, and cost-efficiency.\n\n3.3 covers Trust Algorithms, one that integrates UEBA (which they call \"contextual\") and one that doesn't. They give an example of a case where an attacker compromises an account and tries to stay stealthy:\n\nIdeally, a ZTA trust algorithm should be contextual, but this may not always be possible with the infrastructure components available to the enterprise. A contextual TA can mitigate threats where an attacker stays close to a “normal” set of access requests for a compromised subject account or insider attack. It is important to balance security, usability, and cost-effectiveness when defining and implementing trust algorithms. Continually prompting a subject for reauthentication against behavior that is consistent with historical trends and norms for their mission function and role within the organization can lead to usability issues. For example, if an employee in the HR department of an agency normally accesses 20 to 30 employee records in a typical workday, a contextual TA may send an alert if the access requests suddenly exceed 100 records in a day. A contextual TA may also send an alert if someone is making access requests after normal business hours as this could be an attacker exfiltrating records by using a compromised HR account. These are examples where a contextual TA can detect an attack whereas a singular TA may fail to detect the new behavior. In another example, an accountant who typically accesses the financial system during normal business hours is now trying to access the system in the middle of the night from an unrecognizable location. A contextual TA may trigger an alert and require the subject to satisfy a more stringent confidence level\n\nIf we take Entra ID as an example, Sign-in Risk somewhat satisfies this point, as with Conditional Access in Continual Evaluation mode, you can block unusual sign-ins. We're not quite there if the attacker:\n\nHas compromised the victim's machine\nLogs in at the same rate, at the same hours and to the same apps as the victim\nManages to not get caught by any of the other PEP mechanisms (EDR, NAC)",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Zero trust is never a zero 😉 At the end, it's always about compromises for usability and productivity, and nothing is black & while.\n\nOn the other hand - even with SSO, there is an authentication process, and that checkpoint is when you can look for irregularities (anomaly detection).\n\nI used to be specialized in a field (Citrix) where this was a hot topic when zero trust was introduced.\n\nFor the context, SSO for me is referring to the authentication method (seamless), not to a single Identity Provider. For customers that raised this concern, we simply switched to the explicit authentication.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "ZT is another layer. It is not a contradiction to SSO.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "ZT isn't an authentication scheme. ZT assumes all authentication schemes are flawed. A ZT strategy would restrict a user only to the resources they have access so that if the authentication is compromised the bad actors are still limited to what they can access. Then couple that with least privileged and role-based access policies. Then perhaps additional authentication at the resource level, if practical.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "To some extent yes. Zero trust requires you to trust several companies, especially the identity providers.\n\nThe IdP also complies with governments, may be hacked and so on.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cybersecurity, by its very nature, is full of compromises, some of which can be seen as contradictions. The reason for this is simple, because cybersecurity aims to strike a balance between competing concerns. It's in the very foundation of the CIA triad. The question isn't \"how do you totally secure this thing?\" The real question is \"how do you secure this thing the best while still allowing people to use it to do what they need to do?\"\n\nSo yes, SSO is a bit of a contradiction in regards to zero trust. But it gives the users an easy platform to log into multiple systems they need to use while giving security teams extra controls to maintain the security of the systems, so it's an important part of a good zero trust setup. Not because it's a contradiction, but because it increases two parts of the CIA triad at the same time, which benefits the entire organization.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "That is a good and comprehensible answer, thanks.",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "lol the only answer that agrees with you is good, but you’ve argued with everyone else in this thread. What’s the point of having discussions if you’ve already made up your mind?",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "I didn't really agree with the OP, though. I explained why what seemed to be a contradiction is really part of the foundational balance needed for effective cybersecurity. Which no one else really had prior to my comment.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Neither does this answer agree with me nor is it the only post I agreed with.\n\nBut if you need to ridicule any opinion that does not fit your world view there is little point in a discussion with you.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, zero trust and single sign-on (SSO) are not inherently contradictory. Zero trust is a security framework that assumes no trust by default and requires verification from everyone, even those inside the network. SSO, on the other hand, enables users to access multiple applications with a single set of credentials.\n\nIn a zero-trust environment, SSO can be implemented securely by incorporating multi-factor authentication (MFA) and continuous monitoring to ensure that access remains authorized. This combination enhances security by reducing the reliance on traditional perimeter defenses.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad2gqx",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://youtube.com/shorts/nk5u0RAV2vI?si=YJHGsvGzHRXpQx_8",
+    "title": "Why do employees not get a chance to properly practice cyber skills at work?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Awareness and training should be part of any security program.\n\nMaybe I'm missing the context of the discussion, but maybe she's just working in an org that doesn't emphasise this.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depends where you work. Yes, she is right, it happens a lot, but not everywhere",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aczt43",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://www.usenix.org/conference/usenixsecurity23/presentation/gilsenan",
+    "title": "Security and Privacy Failures in Popular 2FA Apps -- \"We identified all general purpose Android TOTP apps in the Google Play Store with at least 100k installs that implemented a backup mechanism (n = 22).\"",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The submitted link is from \"Interesting Links\" in https://old.reddit.com/r/termux/comments/19573gg/encryption_decryption_android_11_operating_system/ (\"Encryption, Decryption, Android 11 Operating System, Termux, And proot-distro Using Alpine Linux minirootfs: cryptsetup v2.6.1 And LUKS\").",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ad1nl6",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/?sh=5f8574568eaf",
+    "title": "Serious New Warning As Google AI Targets Billions Of Private Messages",
+    "points": null,
+    "comments": [
+      {
+        "comment": "A typical sensationalized article.\n\nThat being said, most users throw caution to the wind when it comes to their privacy. It's all about the cool features and convenience over anything else.\n\nHopefully that changes starting this year. There has been a big focus on privacy regulations and laws lately. These companies need to be held accountable with more than just a slap on the wrist.",
+        "points": "61 points",
+        "children": [
+          {
+            "comment": "We let the Sackler family off with a slap with enough kills to make Hitler blush. Nothing is going to happen.",
+            "points": "21 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I get the sentiment but Experian should be a lesson in, “privacy isn’t a thing anymore anyway.”\n\nYou’re only ever one dude away from losing all your info. SOMEONE has to have full rights to the prod db or rights to the service account with access to the prod db. He gets compromised, it’s over.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Dude if people dont feel important and only a few are in fact, hence they give a shit",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Hold billionaires accountable, LOL that’s some funny shit right there.",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "If my data gets leaked im officially becoming a murderer of billionaires thats all im saying",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"Serious New Warning...\" Sees its from Forbes.... How does someone ethically post an article from Forbes anymore?",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“New” - Forbes… nope",
+        "points": "14 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ahh nice so a bunch of messages of what's up and no response lol.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "There’s Forbes at it again, selling their backlinks with poor journalism.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So glad I degoogled my life",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What about Microsoft Copilot?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You mean googles messaging platforms are a privacy nightmare and Apple is right not to go full goatse with their iMessage platform when Google begs them to?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aczttf",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1aczttf/will_ai_take_over_cybersecurity_jobs/",
+    "title": "Will AI take over cybersecurity jobs",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Opposite, the rush to AI'ify all the the things is creating new security risk domains that we're going to have to cover, and new regulatory mandates that are going to need to be followed.\n\nRef:\n\n- https://atlas.mitre.org\n\n- https://owasp.org/www-project-top-10-for-large-language-model-applications/\n\n- https://iapp.org/news/a/eu-ai-act-draft-consolidated-text-leaked-online/\n\nAs gen-ai tech matures we will see it applied to more and more repetitive tasks, but these tools aren't just being adopted by the defenders they're also acceletating bad actors ability to create successful offensive campaigns around malware, phishing, and impersination (non-repudiation) and that's just whats happening right now. It's likely to have accelerated an order of magnititude by a year from now.\n\nSo circling back, I believe Gen-AI is going to accelerate security risks and eventually the security professional without AI skills is going to lose the race when attackers are AI enabled.",
+        "points": "51 points",
+        "children": [
+          {
+            "comment": "This is it, anyone asking if AI will take over tech hasn’t tried troubleshooting with a bot.\n\nThere will def be AI security positions though.\n\nEdited a word",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Thanks for the help",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, But obviously it won’t stop companies buying snake oil. I will say, whoever is out there selling Ai as the next security measure. They will be making out like bandits. Companies cutting tech security positions all based on what someone is willing to be over promising and the results will be under delivering.\n\nBut of course I’m sure they’ll have them locked in a nice long contract because companies want “ value.” More than likely because some shit they picked up on ITIL no doubt. Yet, all this and there will be no proven track record. They sure won’t run it up against some hacker in a live demonstration. So look for those companies that bought into AI security. Those are going to be the first that will more than likely get hacked because Ai will not be able to adapt fast enough.\n\nI’m sure it will have the processing power to do so. I’m not doubting that at all. But to be able to think critically, no. It can’t do that.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "So play the long game for businesses to integrate AI security measure, and cause Chaos to their processes.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No. Cybersecurity jobs will change to involve less manual labor but you will ALWAYS need humans to analyze human activity.\n\nAttackers are human and they are especially adept at uncovering and exploiting weaknesses in people, processes and technology.\n\nYou will also always need to humans to train and model the ML platforms to tailor them to the needs of the environment.\n\nIMO, currently there is an opportunity for cyber analysts to begin blending data science into their skills in order to master UEBA for example.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "This, tbh. If anything LLMs are currently subjected to the same social engineering tactics that are employed by attackers on people. It’s how OpenAI’s popular LLM models like GPT4 are jailbroken.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "My users can't submit enough info into a ticket to get a real smart human to perform the tasks they need to get the results they want. AI is not helping that.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For the last time NO. Will there need to be some upskilling/reskilling? Yes of course. But that's it. It's an evolution.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Thank you for the help",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes and no. The composure of cyber security teams may change.\n\nI don't know what jobs are the most vulnerable but I reckon AI could take pressure off SOC/ incident response teams which may mean less jobs there in the future. I don't think that these roles will be eradicated though.\n\nThere will be more jobs for people creating, deploying and reviewing AI solutions for cyber security though. So I can imagine the jobs lost and the jobs created by AI will cancel out.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "...but I reckon AI could take pressure off SOC/ incident response teams...\n\nThere was a good sponsor interview on the Risky Business podcast on this with the leader from Gray Noise.\n\nHe was anti AI, but they used Machine Learning on their sensor data and was able to detect some known exploits that were older than they thought.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Interesting, that's what I've experienced too. General AI, where we get AI to make decisions for us, has a lot of hurdles to go. Technologically I think we're almost there but convincing management, lawyers etc to let AI loose will take a long time. Thats for the best though.\n\nGetting ML to pick out subtle signals from sensor data is super powerful and a brilliant use to aid cyber teams. And since there's a man in the middle checking results there's a big push to use it.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "probably, but I reckon not before I retire.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Narrator: Turns out, he’s 64… good luck kiddos.",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "damn I wish I have 39 years left.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "23.5 years for me lol",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "damn now I’m jealous! just gotta find a cushy job now and you’re done.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "My current job is fully remote which is nice, but only 73k a year. I’m on the hunt for that cushy job",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "could take that job far out, where 73k makes a big difference.\n\nI always dream of moving to the middle of nowhere montana having high speed internet and a big fence around my property.\n\nbut i hear older generations don’t wanna leave society you guys still have faith in it.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Damn, you're just a baby.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "thanks it’s nice to hear that sometimes. I somehow worked really really hard and now got into a high up position. just to realise how frighting heights are.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What does “AI taking 40% of jobs” mean? Where do you get that figure? Every industry will be disrupted by AI but that will open up even more opportunities.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I commented this before on another similar post, but it seems to me (in my anecdotal experience) that the more AI we implement at my workplace, the more engineers we need to audit it for false positives/compliance/etc.\n\nJust look at PA Cortex or something like ExtraHop. Absolutely insane amount of tuning required. I spend about 60% of my workday working with our SOC/MSSP to investigate alerts because there is just so many low level and false positive alerts.\n\nEven when the systems are fully tuned (which is a point nobody will likely ever get to in a large, dynamic corporate environment), you sometimes get alerts that set off the IR team because they LOOK like they may be serious, but it ends up just being another false positive.\n\nAll that to say, these ML/AI assisted systems are still way, way better than non-assisted systems. But we have a long way to go before entry-level SOC analysts or security engineers are phased out or impacted IMO.\n\nRemember, the fed is actively lowering the bar for education on federal cyber jobs to fill more positions quickly, and they already announced a huge hiring sprint in 2024. take from this what you will.\n\nwe ain't going nowhere",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI could eventually take over many jobs, if we keep working at it and developing it in that direction, but it won't be in a timeline where I or my kids will have to worry about it taking jobs.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes. Also taking over many other IT jobs as well. I oversee Service Desk operations for a large Gov agency, and last week we got a demo where an AI bot was not only able to talk with customers calling the service desk, but it was also able to troubleshoot their problems and resolve tickets.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "The AI learned to ask if the customer turned it off and back on?",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "What was the product name?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Given we are still cleaning up the web app messes of 20 years ago and organisations seem to be actively trying not to learn any of those lessons in their approach to AI I'd say we'll be cleaning up after AI for a long old time.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Technology can fail and be manipulated, you would still need those who can review, manage, and modify.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "https://m.slashdot.org/story/422849",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "This is hilarious. Completely new vulnerabilities. Instead of tricking/phishing users, just trick the chatbot",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Just like hackers using SQL injections on ATM machines. I’m sure there are third world countries that use ATM machines you can still do this on. Because they probably use the same code that is used on every other ATM no matter the bank.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cybersecurity is evolving, not dissolving. AI may change the tools, but human insight and adaptability remain irreplaceable\n\nExecs will always want human council, even if it is heavily augmented by AI",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Your statement is actually the reason why Cyber Security will be valued more in the industry",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "no",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI will take over any job it is good at and any job that the human is not good at for various reasons. computers, and computer programs are designed to help us (humans) do more of things we enjoy, which is being human, not looking at logs, correlating, and predicting meta data about meta data.\n\ncybersecurity is a very broad field, and yes, AI will take on more of the jobs and roles we are willing to give up. at the least it will enable cybersecurity roles to be better at what they do (hopefully) but AI will also elevate the malicious side.\n\nthe dance continues",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The folks giving a flat \"no\" here are very concerning. AI isn't chicken little: we should definitely be paying attention and not just saying \"well I don't like it so it's not going to happen,\" because my companies entire coding team is using AI to write code and its very obvious it's going to replace a huge chunk of them eventually. AI will take over SOC response, tons of parts of forensics, solid chunk of VM, and a bunch of enterprise security (email filtering, for example). If we aren't seeing this type of thing in the next 3 years, followed by a huge leap forward by 5 years that makes it clear humans won't take these jobs back... I will be shocked. That said, as far as IT and Comp Eng and Web Design and Coding... those will be gone before cyber is gone most likely: the simple reason being cyber has accountability associated with it. If there is a breech, you can't just blame the AI and AI companies will have clauses saying \"must be reviewed by a human, we take no liability.\" So Security will go last, but it's coming for all tech jobs for sure.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "At the end of the day, nobody really knows. People throw out numbers like 3-5 years but it’s not that black and white.\n\nI’ll worry about AI after all the regulations are put in place. We are going to see regulations that say AI cannot do XYZ without a human reviewing its decision, and we will see many new threats arise that can defeat AI.\n\nKind of like cloud, everyone ran to it, now most have regressed to a hybrid model because they realized it is not always more cost effective or efficient and can bring some challenges when it comes to compliance with a clients data.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Eventually, and I’m talking the long game, it will have to. Especially when it’s other AIs that you have to defend against.\n\nTil then, we get to enjoy all the hamfisted failed attempts at doing so.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No. There will be thousands of people flocking to cyber security from AI jobs when businesses realize what a load of shit AI is and firings start. ChatGPT is not the AGI we are looking for.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "To add to this there is also the potential for the model themselves getting poisoned as outlined here...\n\nhttps://www.livescience.com/technology/artificial-intelligence/legitimately-scary-anthropic-ai-poisoned-rogue-evil-couldnt-be-taught-how-to-behave-again\n\nNot really sure how this is being mitigated against because this seems to open up the possibilities of an inside threat.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nope. Keep at it. The prompt may give information that’s incorrect and the AI won’t know but that’s a business problem. If the AI can execute console commands that’s a security problem and there’s your job still",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, it can help with some of the scripting needed, but when you have humans working to get around defenses, you need humans to help close those gaps, even if it means teaching AI to do it for you and minimize the amount of alerts you get.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Was my time spent studying how to troubleshoot MS-DOS and Windows 95 useless? Nah, it was timely. Study what you need to know to be effective today. You will never stop learning in this field, so you will evolve with the tech as time progresses.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Many of the EDR solutions already have AI engines. But they only increased more work for analysts because of false positives they make.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think a good analogy is what’s happening with front end development. Co-pilots are putting significant pressure on developers with “bootcamp” experience, making it harder for them to land those entry level positions\n\nIn parallel it’s putting pressure on senior developers because they have to quickly understand code not written by them when troubleshooting\n\nSo in general, AI is forcing humans to upskill faster. Senior folks have the advantage, junior folks will struggle if they lack the technical foundation to quickly learn\n\nI think the same thing will happen in cybersecurity. AI benefits senior people with strong technical foundations and experiences, and will make it difficult for junior folks to land and maintain their jobs",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“AI” is simply automation that’s been around that bunch of venture capitalists decided to monetize by calling it AI. As with all automation, garbage in = garbage out. People don’t realize that “AI” has been worked on since 1970’s and I’ve read textbooks on “AI” that have been published in early 2000’s. There are 3 things that enabled rapid improvement in automation:\n\nGPU developments and growth in distributed computing\n\nExponential increase of publicly accessible data\n\nModern programming languages that can efficiently take advantage of the first 2 above\n\nPeople underestimate how many flaws exist in any automation that is trained on publicly available data because of the garbage in = garbage out principle. There are plenty of examples already showing how AI can exploited. There’s an interesting project that is seeking to “poison” copyrighted images so that any “AI” ingests those images as part of its “learning” it will spit out garbage.\n\nhttps://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Who even needs AI to replace cybersecurity people; just write a shell script that only ever outputs \"Harumph, it's not secure.\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, but I think it will change our jobs a bit. When implemented into tools well, it will be an incredible force multiplier.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nah, AI loves to use shit like eval() and optimize workflow, and that gives us our daily bread.\n\nMaybe in 60 years once AI becomes almighty and self-centred but most of us won't live to see that happening.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It will increase whatever gatekeeping we already have though. Too many people who have weak fundamentals that rely on AI to figure things out for them at work is going to be shocked interviews are going to get harder.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acp3ta",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://cybernews.com/security/cybercriminals-crave-cookies-not-passwords/",
+    "title": "Cybercriminals crave cookies, not passwords",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Cookie theft is not a new tactic to bypass authentication – valid cookies can be imported into a criminal’s system, spoofing the victim’s device. However, this method is on the rise since many users now use multi-factor authentication, making it harder to access accounts with stolen passwords, Hilligoss explained in an interview with Cybernews.\n\nAnd it may become worse.\n\n“It's much bigger than just Google. Cookie theft has been so pervasive for so long, and people are really concerned about their usernames and passwords. I feel like very few people really understand how serious cookie theft is and how difficult it is to prevent,” Hilligoss said.\n\nHilligoss assures that Google accounts are one of the most attractive to criminals as they contain a lot of critical personal, tax, and other information and can also be used to reset passwords of other services.\n\n“If I get into your Gmail account, I bet you I can reset your Facebook password using your Google account. I do that in the middle of the night. You're not going to realize it until the morning. Now I've got control of your Facebook,” Hilligoss explained to Cybernews. “And the criminals do this every day.”\n\nCrooks can use powerful information stealers like Lumma for just $250 per month without any tech knowledge.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acqdc9",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1acqdc9/cybersecurity_risks_in_agriculture_technologies/",
+    "title": "Cybersecurity Risks in Agriculture Technologies",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Google “the connected cow” the IoT implications alone are horrifying",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "Hesitant to do so, but will for sure! 🫣",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://www.youtube.com/watch?v=z2\\_TLz9TpwY\nhttps://www.youtube.com/watch?v=zpouLO-GXLo",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Just watched the first video! Very interesting looking at the big farming IoT devices, display panels, etc. Had never seen this side of things.\n\nAbout to watch video 2.\n\nWho would benefit from hijacking a farmer’s network and/or IoT devices of the farming equipment?\n\nI know that may not be a simple question to answer, but it’s also not my area of expertise.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Also, thank you for this video! This is exactly what I was looking for… more network and IoT based info.\n\nThat would be the general area of my work there if I make the switch.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acpjtp",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1acpjtp/network_security/",
+    "title": "network security",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Signature-based detection vs. behavior anomalies.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Try building a basic Vulnerability scanner",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "That's a programming assignment not a networking one",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Security onion can teach you a lot about network security once you start seeing what it captures and such. There are so many modules in there looking for certain traffic.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well you could deep dive on reading network traffic (Netflow and full packet captures), which will have you going up and down the protocol stack.  Teach you how to use wireshark.\n\nWhile doing so, if you’re in the mood to do a more involved project, you could MITM some connections and see how that affects the traffic.\n\nAnd as part of that you could learn how to extract files transferred, starting with simple in-the-clear FTP, and progressing to “secure” connections that you’re eavesdropping on (in your lab of course).\n\nLearning traffic analysis is a good way to back into all kinds of application-layer stuff that the internet runs on, particularly DHCP, DNS, HTTP, and TLS, and also lower-layer stuff like TCP, IP, ARP, and so forth.  Once you master the basics it’ll be much easier for you to understand what might be happening when looking at network traces.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acpbmi",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1acpbmi/what_the_hell_is_ptaas/",
+    "title": "What the hell is PTaaS?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Can I use it to pay someone to go to the gym for me?",
+        "points": "62 points",
+        "children": [
+          {
+            "comment": "Yes it’s actually Personal Training as a Service im amazed OP didn’t know this",
+            "points": "24 points",
+            "children": [
+              {
+                "comment": "Need some PTaaS because exercising is a PITA ;]",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The terms usage varies from vendor to vendor, but usually it means one or both of the following:\n\nProviding Penetration Testing services in a more real-time manner utilising a custom built dashboard or off the shelf software like Plextrac instead of forcing you to wait for some consultant to craft a PDF in word\nUsing crowd-sourced gig-workers to more quickly spin up a penetration test at a lower cost.\n\nAs a former crowd-sourced hacker I have a pretty negative view on the term and the commoditization of security testing at the sake of quality as a whole.",
+        "points": "46 points",
+        "children": [
+          {
+            "comment": "My current view is that crowdsourced pen testing should not be considered a valid test methodology.\n\nAs you’re in the know; am I wrong here?",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "I wholeheartedly agree. We regularly see customers who have had a \"pentest\" from the major crowd-sourced vendors where those vendors failed to find glaring and obvious vulnerabilities.\n\nWe actually just had one that got a pentest from a major provider. That vendor missed an obvious SQL Injection flaw that even most automated DAST tools can (and do) identify.\n\nBecause you're often relying on gig-workers who may hold jobs across 4-5 other crowd sourced platforms, or a tool that's just a wrapper for an off the shelf scanner, you're going to get the quality that aligns with that.",
+                "points": "11 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "If your only goal is to meet a compliance requirement or have the appearance of competency when your service is inevitably breached, this kind of bottom-of-the-barrel service is very attractive. If your goal is to actually find and fix vulnerabilities, it’s probably better to use a more traditional approach.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I also share that as a bootstrapped founder of a company that both offers Penetration Testing and is building security testing automation software that often competes with PTaaS, I also see this term used a way to try and convince VCs it's some hot \"SaaS\" like thing when in reality it's often just a services business with a glorified project management software layer.\n\nSince we are not VC backed at /u/glitchsecure it gives us some freedom to not just jump on the bandwagon of what everyone else is doing just to go raise more money.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "“Not being VC backed”… it’s impossible to build any robust, autonomous Pentesting platform without VC backing, unless you’re pouring in millions of dollars of your own money into r&d\n\nFor context…\n\nfrom 1/2020-1/2024 we’ve spent ~$40M in R&D developing an autonomous Pentesting solution, and we’re barely scratching the surface\n\nin 2023 alone we generated 1.5 billion attack events (nodes and edges in a knowledge graph) generated via 26K pentests executed\n\nthose 1.5B events feed into a corpus of proprietary training data. That data is not publicly available anywhere, it must be collected during the execution of a test. More over, it’s not just “positive” events that are collected (exploit XYZ was successful), but negative events (exploit failed because EDR was configured in a specific way) and the context surrounding every action\n\nthe storage and compute costs to train new decision models using that training data is expensive, and only increasing in costs\n\nin addition, you can’t just deploy new decision models, you need an entire “shadowing” infrastructure and process that runs the current and new algorithms in parallel to test, validate, and tune decision making algorithms\n\nSo whenever I see a “bootstrapped” company trying to build a Pentesting platform I immediately assume it’s a glorified human + Nessus + custom scripts trying to squeeze out 40% margins on a services contract… unless “bootstrapped” means the founder put in $5M-$10M of their own money to get up and running\n\nbut ... It takes conviction & guts to start a business, especially if you bootstrap. I hope you succeed",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "Your customers let you feed data from attacks on them into your model? They know you’re doing it?",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "Yes… (and customers are fully aware). We collect anonymized telemetry that’s used to improve the product.\n\nThis is actually a big problem for tools like pentestGPT. We had to invest a lot of calories into ensuring data protection and anonymization of the telemetry, and be able to prove responsible stewardship of data to our customers\n\nConsultants using ChatGPT or pentestGPT are copy+pasting highly sensitive output from various commands into ungoverned AI tools, which could be serious data leakage.\n\nThink of how sensitive the LootDB is for example, a lot of controls must be in place to fiercely protect that data from leakage and insider threat. Consultants could walk out the door with the LootDB on their laptop or could copy+paste into GPT (which means it could be retrieved with the right prompt)",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I think the term was created because it was easier to sell. \"Crowdsourced security\" sounds scary to some people + companies usually don't have a budget allocated for that...but they definitely have a pentest budget.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I saw a major Ptaas vendor's backend end tooling when they were building their engine.\n\nIt is a hodgepodge of other testing platforms with mapping to the frameworks in the backend. It was a shocking revelation that they didn't code it themselves.\n\nDon't get me wrong, they're smart people who built the platform, but I confronted one of their eev team and he wasn't shameful about marrying free and commercial products to get good results for paying clients.\n\nI think CONTINUOUS pentesting is necessary and can help cover exposures of the latest variants. The power to do this \"on the fly\" not just every day, but mid-day as well.\n\nCybersecurity people aren't machines and can't possibly keep up with ever increasing variants and pivots. Continuous pentesting is necessary in modern infrastructure.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "aaS is just marketing speak for outsourcing. If you wanna sound cutting edge and web 2.0 and shit just call whatever you're selling Thing As A Service and you'll immediately get executives and MBAs swooning and patting themselves on the back for how innovative they are for leading the org with the latest in hot tech.\n\nSee also: AI, ML, cloud. Just sprinkle that shit in there and baby you'll be trending on LinkedIn in no time.",
+        "points": "19 points",
+        "children": [
+          {
+            "comment": "Non aaaS pentesting is just internal Red/Purple teaming.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I work for one of the most popular Ptaas companies and ours is pretty dashboards in a platform and human testers. The “on demand” part is where it gets murky as scheduling and having to take a sales call come in to play",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Everyone wants their own acronym",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "EWTOA :)",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "As a Service.\n\nSo that should be EWTOAAAS",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "now we just need to monetise this :)",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "I’m in! 🤣",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Many have different wording, but most of it boils down to your one point: automated scanners and fancy dashboards.\n\nSome may include a human element, but many do not. Intruder.io is one such example that markets itself as PTaaS.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "If you compare intruder.io vs cobalt.io both seem to be selling some type of PTaaS which is not the same thing as one another",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "There is no concrete definition for it, these companies are just using it as a sales buzzword at this point. Everything is - aaS these days and the execs eat it up.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Cobalt is a small crowdsourced security/bug bounty company",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "They are by no means small, they advertise a pool of 400+ \"global\" contractors and to a large extent have been the incumbent in this space until recently. Intruder on the other hand is a UI for a well known network vulnerability scanner from what I understand.",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "400 isn't very big compared to their competitors. Cobalt's raised less than half of the amount of money as their main competitors in the bug bounty/crowdsourced security space.",
+                        "points": "-1 points",
+                        "children": [
+                          {
+                            "comment": "Bug bounty and PTaaS are different things, if we look at pure crowd-sourced PTaaS it actually is.\n\nThe big crowd sourced companies like HackerOne and BugCrowd have moved to the PTaaS space, but they're pool of contractors doing this isn't any bigger because not every bug bounty hunter makes it into these programs.",
+                            "points": "-1 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pretty simple. You send a request to our team, we run the pentest. At the end of the month, we charge for total number of pentests. Pay as you go vs full time staffing.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's how we refer to vendors now, you know, because of cloud.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In the UK it tends to mean \"on demand\" testing, rather than project based testing and isn't crowdsourced.\n\nOur PTaaS is essentially a pool of days that a customer can draw from at any time they like, via a request portal. That request is serviced via the same staff and methodologies as if they were engaging on a per project basis.\n\nTypically it's software developers or larger orgs that utilize the service as they like to test specific releases/changes that require a wider context, but not a wider test.\n\nSo it can be a specific API endpoint of a web app that's had a change, needs a test to verify and release to prod. Rather than go through a full scoping every time they do something, they can just request that specific endpoint is tested.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We offer PTaaS. We provider quarterly testing on an app. This model works a bit better because every engagement is typically a pen test and maybe a retest or two. During those retest we look to see if you fixed the stuff we found. Reality is we probably found one or two more through the course of the retest. However, it’s outta scope. With PTaaS we’ll just essentially schedule four retest for the year. Then during the retest or quarterly engagements, we’ll look for the ones you should have fixed and identify any new ones.\n\nFor businesses, it enables to have folks on hand annually vs looking for out sourced services to fit the immediate need. For customers it allows them a little more visibility without the cost to do it as much.\n\nI think it has its benefits. I’d buy it if I was a manager and funding allowed for it",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Based on how I heard it first, it's a combo of number 1,2,5,7 form your list, with the added benefit of spreading the discovery of issues over time as things change.\n\nBut most important thing is that REVENUE STREAM comes in more consistently, and they can also plan the work more consistently...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Here we go. Whatever they called it its still a highly questionable service. At the bottom line it is:\n\na glorified pentest \"simulation\", done either by in-house teams where they have max three four seniors bored to death by doing appsec stuff, and the rest juniors all across the place, or global outsourced. Again, no serious multi skill like cloud offensive stuff, iot, redteam, pretty much all the real stuff.\na SaaS platform. And here is where the things get tricky because all of your sensitive data belongs to that company at a certain degree. Yes, your platform does have nice colors, yes, I see 20 issues, but what's the value of having that when all of them are low / medium, not directly exploitable and less important to our business model?\n\nFrom our experience searching for a \" killer\" vendor, if their service is called Pentest as a Service, then RUN. the skill level is limited, the talent pool is coming from dodgy places, or and working as freelancers. And man, this really sucks at your bottom line because that means no accountability. NO MATTER WHAT THEIR VALUE PROPOSITION IS.\n\nAs a quick example, the guys we are using currently have this rule, if no mediums, highs, criticals, they credit us back a percentage from the overall job cost on top of some other things they also offer.\n\nNow is there anyone out there that knows any other vendors willing to put their skin in the game like this? Because we weren't able to find that similar others. Are they perfect, no, but ffs, the issues we got are such a different ball game.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Fair play to the vendor you're using for doing that, but that seems like an outrageously bad business model.\n\nAs a counter to your bad experience with PTaaS, we don't outsource and it's not just a vuln scan/automated. We use the same staff and methodologies as any other engagement, the PTaaS is just a business engagement model.\n\nSo I suppose it depends on the definition of PTaaS (I agree with OP as it seems everyone has a different definition)",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "PTaaS is like ordering a mystery box of security tests - everyone’s box looks different and surprises are guaranteed.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "First time I invented it, it was just my customer was shot at scheduling and raising po’s and just everything around getting pt’s sorted for all their stuff. We’d been doing it for a year, so I gave them a bundle, 50% upfront payment and we’ll throw in the pm/coordination bit. Rest of it is just regular pt’s against apps, infra and web. Another Custer PTaaS is just getting a week’s testing every Forest week of the month, use it or lose it, but we’ll chuck in an extra day if needed. For us it’s just a mechanism to sell more pentests by making them easier to buy and use, but maintaining the quality and integrity of the test and the team.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aco4dx",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1aco4dx/programming_languages_for_soc/",
+    "title": "Programming languages for SOC",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Most SIEMs have a query language you can learn. I do a lot of my investigations and threat hunting with Python. But I don’t think it matters as long as you know one.",
+        "points": "24 points",
+        "children": [
+          {
+            "comment": "Can you give me some examples of your use-case for threat hunting w/ python?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "api testing, data ingestion and filtering, binary testing, etc",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I find JSON and SQL to be far more useful as well.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Agreed, to be good at threat hunting/investigation, you really need to be good at using SIEM, seeing too many people said they want to do threat hunting but their SIEM query skill just sucks...",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depends on your environment. Mostly Windows? Get comfortable with some Powershell. Linux? Would get good to know some Bash.\n\nAfter that, I'd say Python. It's in everything so you may as well learn it to an intermediate level. \n\nAfter that, you don't need to know how to code in them, but being able to read things like JavaScript, VBScript, and some other languages that can be easily decompiled like Java or C# will really help when you start being the one who's asked to take apart the initial malware stages like Office docs, HTML files, and random scripts.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Python and SQL",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Two things, reading and understanding code and logic during investigations and then automation and code you write for things.\n\nStart with something like bash scripting. It will get your feet wet and introduce you to things like loops. It also transfers very well as Linux should be pretty prevalent throughout most environments. Then move your way up to Python. You can do pretty much everything with Python.\n\nYou will have to be able to read as much and Google as much as possible to try to understand what the code in question is doing. Thankfully you have things like chatGPT / Gemini that can speed up a lot of figuring out what code is doing. It is still a little spotty, but can cover a lot of ground quickly.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In order of importance:\n\nPowerShell for Windows IR. Try manually disabling 100 accounts during an incident (awful) with PowerShell it's easy. Wrote a script that does this, 10 lines of code.\n\nPython for:\n\nParsing JSON/CSV files\nPandas + Jupyter specifically will make you STAND out. All data is cyber is CSV/JSON\nCorey Shaffer's demos on these libraries are amazing!!\nWeb API programming\nRequests library makes hitting Web API's so easy.\nIn 10 lines of code you can extract every hash out of HIBP's free tier\nAgain Corey Shaffer is great here.\nRegex\nRe module makes parsing for matches easy\n\nPython will make you STAND out for jobs!! May get an offer specifically b/c of my Python skills.\n\nBash for Linux IR/General knowledge. Self explanatory. Being able to check SSH configuration, dump processes, SUID files, etc is important. Bash scripting basically teaches you the Linux CLI. Python OS module does similar tasks and your Python script will run on Windows and Linux so Bash is a little redundant, but still important to know. Especially for interviews.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "postgres for qradar is a must. sql has gotten me further than most languages. Then python, then java or C++. Assuming you're fluent in HTML and other web markup.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "How do you use html in cybersecurity?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "webapp analysis",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Even if you just learn the syntax of SQL it'll be plenty helpful considering a lot of SOC tools are built with similar ideas, eg KQL is used quite commonly",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Learn bash, sql, powershell as the basics\n\nThen learn a scripting language like js (node specifically), python, ruby, etc.\n\nI would want that minimum from an analyst, rrt, etc in my SOC (I don't work in infosec anymore but used to run an SOC)\n\nI'd really like some exploit dev xp and understanding of memory space...so low level xp with C and/or C++ is a big plus. Blue team or red team it makes me think you can dive deep into the subject. I'm also more likely to think you've got some passion for it. Blue side it might be useful for certain L7 filters.\n\nOn the scripting side an upside to ruby is you can use it to write metasploit modules. You want python and/or js on top of just ruby though...ruby won't be enough alone.\n\nHere's one I used to see a skill gap on ALL THE TIME: regexes specifically PCREs. Know regexes inside and out. They're useful in every language. They're useful in sublime text, they're useful in nano...you need them all the time.\n\nPerl could come in handy there's still some weirdos writing exploit scripts in it. I'd just learn how to transpile that shit...it's not worth learning unless you REALLY want to.\n\nA lot of this is a reflection of a general hiring attitude. I'm not hiring an L1. I'm hiring a future L2 or L3. I want to see you dabbling in the skills that make an L2 and an L3. Hiring and training is expensive I want someone that I think has the highest chance to advance down the line..not an L1 housecat.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bash python and C",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All.",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acng0d",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/19b2lpt/tier_iii_soc_engineeranalyst_career_advice/",
+    "title": "Tier III SOC Engineer/Analyst Career Advice",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This is the second time you have reposted that guy's post, why?",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Career advice would be to set low expectations, invest some of your money each pay, keep learning, and everyone's path is different, so good luck.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acnd9k",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/",
+    "title": "In major gaffe, hacked Microsoft test account was assigned admin privileges. How does a legacy test account grant access to read every Office 365 account?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Now that legacy account’s legacy is truly cemented.",
+        "points": "163 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Indication of a well-implemented zero trust architecture.",
+        "points": "115 points",
+        "children": [
+          {
+            "comment": "Don’t understand; care to expand?",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Per Microsoft’s own landing page on Zero Trust Architecture they list principles of Zero Trust (verify explicitly, use least-privilege access, assume breach) that their accounting of events seems to be a direct contradiction to.",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "Well dang. Seems like this was actually marketable for Microsoft",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "A pillar of ZT is Least Priv",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "🤔 legacy, non-prod system publicly exposed, with an over permissioned test account, with poor detection capabilities or conditional access controls in place then hit with password spraying and credential stuffing. Glad they caught that cozy bear so quickly and they weren’t in the environment checking in on execs, security and legal teams for months. …..oh wait.",
+        "points": "89 points",
+        "children": [
+          {
+            "comment": "Cis top 18 controls or nist, anyone??",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is KARMA for their insane licensing models, guess someone missed that key control was a M5+P2+O2 in Azure cloud admin Entra ID and not a M5+P2+O2 in azure cloud Entra ID",
+        "points": "125 points",
+        "children": [
+          {
+            "comment": "And then separately license Sentinel so you can hunt for stale accounts with privileges.",
+            "points": "42 points",
+            "children": [
+              {
+                "comment": "If I were Microsoft, I’d give away Sentinel and security tooling for free. You can do so much more with on-prem AD “for free” - like GPOs - where you have to pay for Intune to do the same.\n\nSo maybe small and medium companies can’t afford the complete shift to cloud, and can’t realise the potential security advantages.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "For free, you can get the Security Default managed by Microsoft. How trustworthy they are, I don't know.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "this is fu*ing hilarious",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Excuse me",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "And now Microsoft will annonce a new product : Microsoft 365 Defender for Microsoft !",
+        "points": "48 points",
+        "children": [
+          {
+            "comment": "against Microsoft",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The account was testing everything so it had to have rights to everything…",
+        "points": "13 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is wild. I mean, I enable MFA on test accounts. Heck, my lab environment has MFA everywhere!",
+        "points": "27 points",
+        "children": [
+          {
+            "comment": "I believe legacy protocols can bypass mfa\n\nI dont know if it's still true, but it used to be true\n\nhttps://www.kroll.com/en/insights/publications/cyber/three-tactics-to-bypass-multi-factor-authentication-microsoft-365\n\nWhich is why conditional access policies are soooooo important. That test tenant should have had a blanket policy which only allowed logings from specific IPs.\n\nMicrosoft has everything at their disposal, there's just zero excuse for this.",
+            "points": "27 points",
+            "children": [
+              {
+                "comment": "Yes, but default security settings, best practice CA policies all have “block legacy protocols”.",
+                "points": "9 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "What sort of MFA are you referring to? This was likely a service account used for programmatic access, not a user account.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Service accounts in my lab environment use certificates from internal PKI, not secrets/passwords.\n\nFrom what I understand about this hack, it was an normal account which had rights to create service accounts, but I could be wrong.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Well that's not really MFA. Thats single factor certificate-based authn.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Service accounts cannot use MFA in Entra ID. They can use certificate or “secrets” (really passwords).",
+                        "points": "-1 points",
+                        "children": [
+                          {
+                            "comment": "I know that but you mentioned your lab accounts use MFA, which confused me hence my question.\n\nThis is wild. I mean, I enable MFA on test accounts. Heck, my lab environment has MFA everywhere!\n\nMy point being MFA in the tradtional sense - i.e. additional authenticators - would not help in this scenario since a service account was likely affected. What would have helped would be conditional access requirments (IP allow listing), mTLS, or other L7/application authentication methods (e.g. OAuth).",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Sorry I wasn’t clear. Admin and test user accounts in my lab have MFA setup. Service accounts in my lab use certificates.\n\nAnd yes, some additional CA requirements could have helped. The details are scant, though and it seems they may have abused some oAuth issue. I don’t know if you can enforce certificate usage for service accounts in conditional access.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "How could their customers do it right If Microsoft cannot do it right?",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "They can't\n\nActive Directory is nigh unsecurable. That's why we see this constant stream of orgs being hit by ransomware.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's more complex than the test account had those privileges already. Regardless, it's just really embarrassing for those admins and for their respective security teams. I imagine new detections and compliance policy will be implemented or existing policy reinforced. Perhaps their security teams were aware of out of policy systems but lacked the teeth to enforce. Seen that before. Hopefully not the case here.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's almost as if you can't have CyberSecurity without a focus on Identity Security...",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ted stopped working here like 9 years ago, he was always really good at fixing email tho",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can someone explain what happened after the test account was breeched? how did it link to the legacy application and how did the legacy application create more malicious oauths and user accounts? And how did it assign full access to those accounts/oauth apps? thanks!\n\nfrom what i understood from the statement, the test account had no additional rights, but the legacy oauth application has.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Too bad there isn't a setting to make a test account expire, just in case you forget. /s",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lazy admins the same the world over. Get used to god tier privs and being too lazy for security measures because “that’s for the plebes” and like things to be quick and easy when testing changes. That’s why job rotation and review of process is important.",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "I could easily see how this is due not to laziness, but thr constant changing Microsoft does with their security controls, and recommended practices annnndddd poor/outdated documentation\n\nI have someone going after my ceo's account from various IPs across the globe. I have no good way to stop the attempt BEFORE it locks the account. We have smartlock enabled, didn't do shit for is.\n\nAlso, I found out that if you need smtp basic auth for a printer to use, they enable it globally for the tenant and a null value on the user account is an \"enabled\" instead of disabled.\n\nSooo damned dumb. I had 18000 attacks on that alone this month once I got it turned off.\n\nAlerting? Nothing out of the box. I should have known somehow defender wouldn't see that as suspicious.",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "Create a rule in Conditional Access in Azure to only allow logins from the US (block everything but countries you have users in). Then assign a group to that CA rule. Add everyone to that group. Do the same in your MFA if it’s not MS.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I have that in place. That doesn't stop the password spray on existing accounts with legacy protocols. It stops an already successful password from logging in. (Order of operations thing)\n\nThe one time we got breached, they used a jump box from a hosted provider who would geolocate your rented IP anywhere in the world no questions asked, which can beat the geofence.\n\nMicrosoft needs to rethink how to stop these attacks. We have no reason for a login from China. Don't even allow the attempt.\n\nOh, and allow us to block logins from these shady as fuck hosted providers",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Fantastic question",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "lol",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Big Whoopsie",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Microsoft pussies downvoting you. Btw Security Now did good cover of this topic in their latest ep.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I blame lazy admins",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "Poor monitoring and compliance enforcement, which is ultimately management’s failing.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "Yes. Legacy auth should have been disabled long ago. However there are some applications where you have no choice. And this where your point make sense. They could have added more layers of security. I have ran into such situations and came up with alternatives",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Create strong policies, require senior leadership approval for exceptions, document exceptions, review exceptions at a regular interval.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Totally agreed 👍",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "In face i did cover this topic in details on my podcast last year",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "And this is the dilemma that not all leadership is techie - they wait for things to go down",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Totally. Probably the most frustrating part of our jobs",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "I am surprised that how come Microsoft (security operations) team ignored. They knew it and they had been pushing it and missed it. Imagine many enterprises and small shop they wouldn’t even know",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Risk management 101! Plus don’t forget to audit the living daylights out of it!",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "HFS",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This would be a nice addition to the CSRB review agenda.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Secure Future Initiative they said...\n\nhttps://www.bleepingcomputer.com/news/microsoft/microsoft-pledges-to-bolster-security-as-part-of-secure-future-initiative/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good luck to all of the companies here trusting Microsoft cyber security products",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Come on guys it's an backdoor environment",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They should've used Defender for Cloud Plan 2. It would've detected this... Jokes aside, their infra is massive, they just need more security analysts I think.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acnbbv",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1acnbbv/is_there_a_cyber_scenario_tabletop_exercise/",
+    "title": "Is there a cyber scenario tabletop exercise scorecard excel template I can use",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Like, you want to issue experience points for successful decisions for your ttx?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "As a facilitator, score the group on various aspects",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Honest question- what's the value in that? When I'm reporting the outcome of the ttx, I'll call out strengths, weaknesses and recommendations as a narrative. Numerical metrics seem both punitive and misleading.",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "They do want strength, gaps, recommendations but also plan to do few iterations and want to see quantitative progress",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acn84k",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://csirt-cti.net/2024/01/23/stately-taurus-targets-myanmar/",
+    "title": "Stately Taurus Targets Myanmar Amidst Concerns over Military Junta’s Handling of Rebel Attacks",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acmlck",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1acmlck/help_with_management/",
+    "title": "Help with management",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It is the responsibility of the business to make business decisions. This includes more than just security. Further, not all vulnerabilities are equally important.\n\nIt is your responsibility to ensure that vulnerabilities are appropriately understood (you did include the severity, why it's that severe, and what damage could be done, right?).\n\nIt's also your responsibility to ensure vulns are properly reported. What are your internal reporting requirements? Who does your company's process say is allowed to accept the level of risk that these vulns represent?\n\nIf the business wants to accept the risk, it's your responsibility to cover your butt. Get the risk acceptance in writing.\n\nIf that's all done, then you have a choice: * let the vuln(s) be and do your work * quit * fix the vulns anyhow, and risk breaking other stuff, risk getting reprimanded or fired * see if there's a reporting agency that you can inform (who might already be aware of the vuln). This also risks retaliation (even if illegal).",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aclj2c",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1aclj2c/it_is_cybersecurity_andor_infosec_audit/",
+    "title": "IT, IS, Cybersecurity and/or InfoSec Audit",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Audit is not really the same as pentesting. Audit is pretty comprehensive top down approach that check all domains of information security.",
+        "points": "29 points",
+        "children": [
+          {
+            "comment": "What are some good resources for Security Audits? How do I start my journey (trainings, courses) to becoming a Security Auditor ?",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Learn; ISO 27001, GDPR, PCI DSS, NIS 2, DORA those are probably the biggest things in the industry now that you need to know of auditor in addition to how to audit.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "It's really region and industry-specific.\n\nFor instance, in the US, when auditing anything related to the federal government you'd need to know:\n\nNIST Special Publications (there are many, it'd depend on what you're auditing), FISMA, GAGAS (Yellow Book), and/or FedRAMP\n\nYou wouldn't use ISO 27001, GDPR, PCI-DSS, etc.\n\nSo OP if you have experience where you're at, I'd look at what standards they use and see how their auditing works.\n\nThe CISA would be a good certification to look at.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Read PCI DSS from top to bottom until you understand most of the controls. This will at least boost your chance of landing a GRC job and also help with the interview sessions.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Cheers!\n\nI’ve seen “Series 7” exam mentioned in a few job postings, would that be a certification that’s worth pursuing ?",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "I've got no idea what Series 7 exam is. I'm in APAC and maybe that's why. I started off with CISA, got myself into one of the Big4 as an IT auditor, and then got CISSP before becoming a PCI QSA.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "In the US FINRA Series 7 is a 4 hour exam you have to take to become a wealth manager or investment advisor.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "I thought the seven series is for trading stocks? 🤷🏼‍♀️",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "You should start with the regulations then the frameworks like Cobit, nsa guidances, standards like iso 27k",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The CISA certification is considered the gold standard for IT auditors",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "There are many tools that you can learn to do various tasks. If you are dipping your toes, I would check out HackTheBox for PenTests and learn about Azure Active Directory. Microsoft has a lot of free resources on their Learn and Technet sites. Tenable Nessus has a free Vuln Scanner you can download and test out. It's limited to 15 IPs but it's enough to get an understanding.",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "Thank you very much for your kind support.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "If you want to use a tool for audits it depends what environment is and what the audit is. As well as what the scope is.\n\nYou will learn the scope of your audit from an SOW and define your LOE for it\n\nI.e if you want to conduct an audit on an AD or even a Microsoft Entra environment. You could use tools like SCC for SCAP compliance (which is the government’s term for CIS benchmarking). Or even use a tool such as Purple Knight from Semperis.\n\nAlso remember ChatGPT is your friend if you use it correctly. So don’t forget to use it for any knowledge gaps on audits you may be conducting.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Thank you very much for your kind support.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "That’s not auditing. Penetration testing can be apart of the audit. But that’s usually not the case. For example I conducted an audit on an agency’s Splunk environment.\n\nThat has nothing to do with penetration testing. Also I’m curious as to what kind of audits you’ve done as a SOC analyst?\n\nAlso Nessus is a great tool in vuln management that can be used in audits. So great mention there",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depends on the sector but your official job is to ensure federal regulations are being follow.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So before you go down a rabbit hole in this, there are some things you should know as a starting point.\n\n1) IT and CyberSecurity are definitely not the same and the approach to auditing different areas of technology will be materially unique.\n\n2) It's important to have a process, procedures, and framework to how you approach an audit far before you start evaluating tools\n\n3) The tools are irrelevant without #2. The tools are not the answer to performing a good audit. Audits live and die by the questions you ask. Better questions = Better potential outcomes and less gaps in the information you are capturing.\n\n4) Even the best auditors/audit tools can fall prey to fabricated artifacts. The tools are NOT going to prepare you nor mitigate for this.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Audits? Excel spreadsheets. Serious but also joking answers aside, security is a massive field. Vulnerability management or vulnerability hunting is one tiny little piece of the pie. GRC (governance, risk, and compliance) is about the same distance from red team stuff as earth is from Jupiter. I’d suggest starting by learning what each team does. Read up on blue teams and their functions, red teams, and purple teams where the lines blur between red and blue. You can start getting more specific from there and then look at processes and tools",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "This guy fucks. Excel spreadsheets, interviews and screenshots 😂",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I always wonder how audit choose a particular system for auditing in PCI or SOX. The SOX audit every quarter drives me nuts since my system doesn't hold any financial data.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I understand your urge of collecting tools and try them, however you will accumulate your own list, when doing certain tasks.\n\nI would recommend searching for tools based on the tasks you are currently working on. As you might find write-ups, where you are able to see/read people using certain tools, you can collect them and try them immediately on your own. Important is, that you always try different tools and find the one fitting your style & needs.\n\nIn regards to more offensive security related guides, I would recommend you the following guides:\n\nhttps://book.hacktricks.xyz/welcome/readme\nhttps://swisskyrepo.github.io/PayloadsAllTheThingsWeb/\n\nHope this is somewhat helpful - happy hacking!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I know that audit always constitutes with Governance risk and compliance. You can try kali linux on proxmox ve or bare metal.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Some things to look at\n\nAuditing:\n\nLearn; ISO 27001, GDPR, PCI DSS, NIS 2, DORA those are probably the biggest things in the industry now that you need to know of auditor in addition to how to audit.\n\nPen testing:\n\nHack the box, look at YouTube channels like john Hammond, live overflow\n\nVulnerability management:\n\nNmap scan, cve, cvsw, cwe, cwss, epss\n\nIncident response\n\nFirst.org",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "CIS cat pro is free and good",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Came here to tote the CIS Benchmark tool, agree it’s not a cure all but a good place to start.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  }
+]

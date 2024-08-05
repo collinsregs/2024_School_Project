@@ -1,0 +1,641 @@
+[
+  {
+    "id": "t3_1bgy79o",
+    "subreddit": "r/gadgets",
+    "dataType": "link",
+    "dataUrl": "https://spectrum.ieee.org/virtual-reality-head-set-8k",
+    "title": "VR Headsets Are Approaching the Eye’s Resolution Limits",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I'm glad the article touched on the many other important properties of VR equipment beyond just resolution. In a way, hitting high enough resolution to reach the limit of human perception is a good thing. Now that aspect can plateau so R&D can focus on other areas. HDR / OLED optiona and other improvements to the image itself, FOV, FPS, Foveated Rendering, heat reduction, reduced power consumption, cost savings of manufacturing, etc....\n\nAnd thats just the screen hardware. There's a lot of room for improvement and just general advancement in other hardware and software that drives those displays. Wired/ wireless standards also improve for data transfer where needed. We're getting better SoCs every year on smaller process nodes. There's a bright future ahead as long as there's both cutting edge models and budget friendly consumer models that offer compelling productivity and entertainment options that people actually want.\n\nEdit: I totally agree with the suspicion as well. With quality upscalers and better hardware of native resolution, there may be ways higher resolution still can improve visual perception once the pixels and screen door effect are behind us.",
+        "points": "139 points",
+        "children": [
+          {
+            "comment": "And WEIGHT...I want the ready player one goggles :) the BSB is on the right track",
+            "points": "38 points",
+            "children": [
+              {
+                "comment": "I want elon musk's neuralink so I can get shot and killed in VR while I die of a brain infection IRL",
+                "points": "12 points",
+                "children": [
+                  {
+                    "comment": "With Max Headroom type seizures…",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I would take this with a grain of salt. Remember when they (incorrectly) said anything past 30fps was a waste because our eyes can only see 24fps. 30fps feels like a slideshow compared to 60fps. 120fps is where things really feel fluid for me.\n\nJust because we can’t make out individual pixels doesn’t mean increasing resolution won’t improve how things look.",
+            "points": "38 points",
+            "children": [
+              {
+                "comment": "Listen son, you got 2 eyes. Why would you need more than 2 frames per second? That's just greedy!",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "30fps feels like a slideshow compared to 60fps. 120fps is where things really feel fluid for me.\n\nThis is really interesting. Worked on visual perception back in the day. Back in the late 90s/early 2000s I could tell the difference between 24 and 30 pretty easily—and I mean 30 progressive, not interlaced (which is basically 60). But as time has gone on I can't do that so easily any more. And I've never been able to tell a difference between 60 and 90/100/120.\n\nBack in the early 90s we were experimenting with \"high frame rate\" cameras and we got them up to 120. We couldn't get people to tell the difference between 60 and 120 or 24 to 30 but between 30 and 60 was a huge, massive spike in what people were perceiving. We tested maybe 1500 people and got something like 65% noticing a difference between 30 and 60 but 3% noticing 60 to 120 and maybe 1% from 24 to 30.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "You can't really compare the scene capture of real-time rendering vs physical cameras... or fundamentally different display technologies, or indeed different forms of media which feature different motion characteristics.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Film vs interactive media is a pretty big difference though. I don't think I could tell the difference beyond 60fps on film, I'm not even sure I could reliably spot the differences on 30fps vs 60fps film (on some scenes you definitely can but I don't think it's a huge difference), but the input latency is very noticeable. I think for anyone to tell a difference between 120fps and higher frame rates just eyeballing it on a screen would require superhuman perception, although it can still provide fringe benefits up to a point, but 60fps on a VR device feels very bad, pretty much unusable without some latency mitigation like interpolation to try to mask it.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "I sold electronics for a while, I could definitely see the different framerates some TVs had, and the level of choppiness between low end and high end. 90% of customers I told about it couldn't see it, even if I pointed it out. So it definitely highly depends on the person.",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "That’s crazy because it’s hard for me to play some games that are locked to 60fps no matter what you do. I think 120 FPS is bare minimum for motion to be good imo. If it’s like fluctuating between 80-120fps it can be sorta alright too.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "switching my tablet from 120 to 60 and scrolling a menu was what did it for me - like 60 felt like I could physically see the position of black text refresh where 120 was more fluid when compared immediately between the two\n\ndunno if I could tell with video, but with interaction and switching it on and off it was pretty easy to tell which was which",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "My phone has a power saving feature that kicks in at midnight every night, and as part of the things it does is to reduce screen refresh rate down from 120hz to 60hz. It will occasionally happen as I'm actively using it and it is just awful. 60hz screens are so much worse.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "I think interaction has a huge part in this, like watching a movie at 24fps is actually okay but playing a video game at 24fps is miserable to interact with\n\nwhen games went from 30 average to 60 it felt like a huge leap, and going backwards was painful even though movies stayed the same, because movies you're just watching\n\nphones at 60 going to 120 have this same feel, where once you've felt the smoothness of scrolling at 120 it makes 60 feel like you're watching a slide show when you scroll in comparison",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "because our eyes can only see 24fps\n\nNobody argued our eye could only see 24fps, 24fps was a holdover from film because 24fps is when film motion looked similar to what we see, film was fucking expensive so using the lowest fps footage was the standard. Plenty of filmmakers though tried shooting higher fps and then slowing it down in the edit. Most video in the 80s was shot at 30fps and in gaming that was the standard until computers could handle 60fps, then 120 without lag.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The 30fps thing was a popular meme but it wasn't actually seriously believed by folks that worked in film or graphics. High-end CRTs could easily do 120 hz refresh rates, while early LCDs could not. People can and did make content that looked visibly smoother at higher framerates.\n\nThere is still a difference between that and adding additional density of pixels. More pixels mean they're smaller and more densely packed. If you have normal vision, there's only so small that you're able to perceive - there would be no point in making pixels work at the nanoscale level, for example, unless your viewer had microscopes for eyes. There is very clearly an upper-limit.",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Remember when they (incorrectly) said anything past 30fps was a waste because our eyes can only see 24fps\n\nNobody fucking said that except 4channers, as a meme",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "It’s not the same comparison. We already know and have tested the eye’s ability when it comes to resolution because we can move the distance back and measure.\n\nWe’re approaching the eye’s fidelity ability when the screen is just a centimeter away from your eye. We have done gone well past that when the screen is further away.\n\nAnd experts knew that humans could see refresh rates higher than 30fps, it was just the public that were ignorant to it. In fact there was always many millions being spent researching higher refresh rate displays.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Be careful about sharing the opposite opinion in this thread…\n\nThey don’t take too kindly to intelligence.",
+                "points": "-12 points",
+                "children": [
+                  {
+                    "comment": "This seems needlessly antagonistic, lol",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "It is, but if it’s an eye for an eye around these parts, I’ll happily oblige.",
+                        "points": "-2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "If they could just figure out sickness for most of us, that would be great.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah exactly what I was thinking, this is great news, can’t wait for them to focus on all those other areas of improvement.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I agree. They need to focus on other aspects of VR headsets like preventing the lenses from steaming up while I am jerking off.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Based.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Until they find a way to improve said eye’s resolution limits >:)",
+        "points": "22 points",
+        "children": [
+          {
+            "comment": "Yup. Time to make new eyes.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Just what I need. Everyone to be able to see all my nasty pores and shit from 20 feet away.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I already preordered my iEye",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Theres a great bit in bg3. No spoilers but people who know will know",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "New Kiroshis in yet?!",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "VR headsets sit right up next to your face. This isn’t an 8K TV sitting 10 feet away. You’ll notice the pixels and more importantly you’ll notice the aberrations from the pancaked lenses.",
+        "points": "43 points",
+        "children": [
+          {
+            "comment": "My new Varjo Aero is the first one where I can't really see the individual pixels clearly. It has also real lenses instead of fresnel lenses. It was a humongous jump up from HTC Vive pro.\n\nI'm really happy with it.",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "Go to some large environment and try and look at something far away, that's always where it becomes noticeable to me.\n\nNow that we're past dealing with the screen door effect it's not too hard to look really good close by, things further still suffer because they require way smaller pixels.",
+                "points": "9 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "As far as I can see the Aero is EOL and no longer being made. Varjo don't really seem to do much in the way of consumer products, and their business ones seem to start at like 4000 euros.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "There's already 1080p 0.5 inch OLED screens used in AR glasses. All depends on the FOV it covers once you look through a lens. Xreals glasses put the 1080p in like a 45 degree FOV which makes the density much higher than Apples 4K or whatever. I didn't notice pixels looking at full quality video through them, wasn't really trying though",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I mean, not if you get them small enough. Personally, I just take my glasses off when I use VR lmao, I can barely make out the pixels on my quest 2 if I really strain to focus",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Taking my glasses off would be a kind of solution. Can’t see pixels if everything is blurry.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "A 4k screen the size of a phone has a significantly higher pixel density than an 8k 50\" TV.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As if there is powerful enough current hardware capable of rendering decent graphics in those resolutions.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "I’ve seen a lot of content on these headsets that were simply awful, regardless of the resolution",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "That's my thought too, but it may be more relevant to AR than VR to have these levels of clarity. Apple is constantly beefing their SoCs to the moon, so a future Apple Vision with no discernible pixelation isn't too far fetched and the hardware would likely be working far less hard than rendering as it would be with games for example.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I mean with ai who know. You dont have to render anything at natives resolution. As long as the end image is as good it doesnt matter.\n\nCurrently dlss quality of a 4k monitor is extremly good.  And its just going to get better.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ready for my direct optic nerve input. Hook me up. Plug me in. Let’s go.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That's what they said about sound and fps for the longest time",
+        "points": "14 points",
+        "children": [
+          {
+            "comment": "This one is more so based in reality though. At a certain pixel density and distance your eyes can’t actually distinguish between the individual pixels.\n\nA 4K TV’s don’t need any higher quality as long as you’re sitting farther away from the TV than the length of the TV (this should be correct but the exact numbers may be wrong)\n\nWith VR headsets the screen is obviously much closer to your face requiring a much more pixel dense screen. And what this article is saying is that we are approaching that level of pixel density.",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Nah, it was always a meme and a handful of idiots.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "When it comes to human limits there is no magic number, it's more of a spectrum. You can't say \"Ok, we have reached 14000ppi. Anything above is useless because you couldn't tell the difference. 13000ppi is dogshit and 15000 is overkill\".\n\nChances are, you will still notice the difference in an extremely subtle way that isn't really worth it. Call it diminishing returns.\n\nIt's like with iPhone's Retina screen: 400ppi is theoretically the limit your eyes can discern the pixels from your typical smartphone viewing distance, but if you pick up an Xperia with 800ppi you'll feel the difference. But obviously, a 4K screen on a smartphone is a resource hog so diminishing returns kick in and it stops being worth it.\n\nI see it more as Bell curve than a hard single point limit.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "but if you pick up an Xperia with 800ppi you'll feel the difference\n\nWill you feel the difference, or see the difference? Or interpret the visual difference as a feeling?",
+            "points": "",
+            "children": [
+              {
+                "comment": "You see it, but not in a way you can pinpoint. For example, from 200ppi to 400ppi you can say \"Yeah, it's different because I cannot see the pixels\". From 400ppi to 800ppi you won't able to verbalize it, but you'll see it subtly.\n\nThis kind of subjective experience really hits a wall when you have to translate it into language.",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "That’s what people said about refresh rate a few years ago…",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No they’re not.",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "This is the correct answer.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Yep. My first thought was 15 years ago when people said that the human eye couldn’t register more than 60 FPS on a monitor, so there was no point in making monitors > 60 Hz",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "It’s sad to see a reputable organization like ieee spreading misinformation",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Funny, I got downvoted to hell for saying exactly the same thing.",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "You didn't say the exact same thing though. You said, \" No, they aren’t. 😂 \" which is not equal to \"No they're not\". /s",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "You win this round, u/timeslider, my arch rival! 😐",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "They said this about the iPhone 4 lol",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "And it was true back then too for screens at arms length away. This claim is for screens right next to your eyes.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good. Hopefully they can make it affordable now",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good, now they can focus on lighter headsets with longer battery life. 🤷🏽‍♂️",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "New VR gear, replace your eyes.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do I interpret this correctly- that in the future VR footage/animation won’t have to portray things a certain length away anymore or.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "i thought it was at the point that we get either 30K or 60K per eye though",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The last one I saw still had a screen door effect....I don't think it's there yet. I'll have to see the apple vision pro. But I'm not that impressed yet.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Vision Pro and Pimax Crystal are pretty damn magical in terms of visual fidelity. Can’t go back to any other headsets.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m anticipating affordable gear that brings the visual field past my peripheral vision and so get even more immersive!",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Power saving and form factor. If it’s too big it’s gonna give you a headache. And if it eats battery it’s not fun to use.\n\nFix those first",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Tell me when the FoV is wide enough that I don't feel like I'm in a fish tank",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No they aren’t, not even close.\n\nEdit: I thought I’d give the article the benefit of the doubt and try to actually read it instead of just responding to the headline, and the very first thing is this:\n\nBut here’s the real surprise: TCL’s new TV isn’t the most pixel-dense or exotic display ever produced.\n\nWow, really? You’re telling me the least pixel-dense 4K TV ever produced isn’t the most pixel-dense display ever produced? What an unbelievably stupid article.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Oh cool. I’ve only seen this claim consistently for 20 years about various technologies",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "no they aren't, in that there's a lot to go still.\n\notherwise of course they are, wtf else would they do....",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "There are a lot of screen properties that are being improved beyond pixel density. Even if we talk about 1080p screens, surely you don't think they're all the same as long as they have the same size?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, they aren’t. 😂",
+        "points": "-32 points",
+        "children": [
+          {
+            "comment": "What a well reasoned counter point you have internet stranger with no credentials. The supporting sources you provide really drive your point home.",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "Want to know why no one ever says this about 4K TVs? Because 4k isn't the limit of the human eye. That's also not how any of this works at all.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "What a kind and influential response you gave to my comment, other internet stranger!\n\nYour sarcasm and mocking tone are really making me reconsider my position and want to listen to you because I’ve been intimidated by your misplaced confidence!\n\nI’m so afraid of downvotes from a bunch of 20 somethings that I’m just gonna roll over and die!\n\nI don’t need to provide credentials or sources to share an opinion. If you don’t like it, downvote it and move on. If you feel the need to mock and degrade others to make your point, perhaps you should consider not placing your self-worth into an internet article you agree with.",
+                "points": "-34 points",
+                "children": [
+                  {
+                    "comment": "Man's never known the touch of grass in his life 💀",
+                    "points": "14 points",
+                    "children": [
+                      {
+                        "comment": "Bro needs to get some cans of fresh air shipped to him",
+                        "points": "3 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "The irony of telling me to go touch grass with a comment history like yours. 👍",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "That’s rich considering I was just chastised for sharing an unsubstantiated opinion.",
+                        "points": "-4 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "So weird you are trying to play some sort of moral high ground when you are mocking and dismissive of what was posted here. You provided no sources, no nothing. So I don't see how their response to you was so offensive and no one would be wrong for disregarding someone who starts off being so incredibly immature.",
+                    "points": "4 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "When faced with the kind of silly people that believe that anyone cares that they disagree with the facts for no reason whatsoever, just because they think they are entitled to their own facts they came up with, mocking is the only correct response.",
+                    "points": "3 points",
+                    "children": [
+                      {
+                        "comment": "Ya’ll keep fanboying about the state of VR tech and treating people with dissenting opinions like shit.\n\nLet me know how it works out for you when you grow up and realize you were wrong on both accounts, assuming that ever happens.\n\nBunch of children.",
+                        "points": "-4 points",
+                        "children": [
+                          {
+                            "comment": "You don't have \"dissenting opinions\". You were presented with a fact, and claimed that fact isn't true... and nothing else. Well, go ahead and give us evidence to show \"why\" it is untrue. Otherwise we will just continue to point and laugh at your ridiculous behavior. Saying \"no\" isn't an opinion, the term for that is \"childish tantrum\".\n\nWe would welcome any actual proof that the article is wrong, but we know you won't provide any because you are just full of shit, and think you deserve respect for being full of shit and telling us. Alas, you don't.",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "Look at the balls on the guy, claiming facts in the face of a history of “facts” that turned out to be false.\n\nYou want to call me childish, fine. It’s not going to change the truth that you have invested so much of your excitement into a clickbait article that you’re willing to suspend your critical thinking and dismiss my view simply because I didn’t provide evidence.\n\nI have seen no one in this thread so far provide any actual evidence either. Just an article that most of these people didn’t read which also provides no proof.\n\nGet in a room with an ophthalmologist and a display engineer, interview them, and then come back and tell me we’re approaching the human limit.\n\nWe’re not.\n\nAsk yourself why you’re so upset about this. It’s sad to watch someone who’s probably otherwise very intelligent fall for such obvious false hype.",
+                                "points": "-1 points",
+                                "children": [
+                                  {
+                                    "comment": "Who said I believe in the article... or that I'm upset at all? I just know you don't know shit, or you would have said it by now. But you have \"that gut feeling\", right? You really believe that \"if you talk to an ophthalmologist\" they would say you are right... but you never have talked to one about this, have you? Or done any research on the subject... or read any research on the subject... but I bet you watched a lot of YouTube videos that told you that, right?\n\nYou mistake our mocking of your ridiculous \"no, they don't\" without ANY supporting evidence, as meaning that we support the original article. No, we are just pointing out how silly you are. I doubt that anyone voting you down even cares if the article is accurate or not. I know I don't. I don't have to think you are wrong to point out that you are behaving like a child.",
+                                    "points": "1 point",
+                                    "children": [
+                                      {
+                                        "comment": "",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "Q.e.d. 😉",
+                                            "points": "0 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "It’s hilarious that you spent more time typing out a snarky reply than you did typing out your unsubstantiated “opinion.”",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "\"The sun is blue\"\n\n\"What makes you say that?\"\n\n\"It's my opinion and I'm entitled to my opinion!\"",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "I’m glad I could make you smile.",
+                        "points": "-2 points",
+                        "children": [
+                          {
+                            "comment": "Ya know, my daddy used to say every man's got a devil. And you can't rest 'til you find him. What happened back there with you and your girlfriend - I cleared that building. Hell, nothin' in this town happens without my say-so. So I'm sorry if I spoiled your wedding plans there, friend. But, if it's any consolation to you, you have put a smile on my face. - Top Dollar",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is awesome can't wait to program in vr",
+        "points": "-2 points",
+        "children": [
+          {
+            "comment": "Oh yes, because a hot brick strapped to your face is going to make that more fun.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "All VR and AR headsets still cause serious balance and nausea issues which seem to persist despite extensive efforts to resolve them.\n\nWhat's it matter how far they extend this tech if it just makes most people puke and fall over?",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

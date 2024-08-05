@@ -1,0 +1,794 @@
+[
+  {
+    "id": "t3_1bgtp6i",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.tomshardware.com/tech-industry/manufacturing/asml-delivers-3rd-generation-euv-chipmaking-tool-for-2nm-and-beyond",
+    "title": "ASML delivers cutting-edge new chipmaking tool — third-generation EUV enables 2nm processors and beyond",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Am I the only one to read that as ASMR and think “that’s an interesting approach to make chips…” followed by “oh no you are just an idiot”",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just placed my order",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Dutch pride",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgtfr3",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://newatlas.com/energy/drinking-bird-toy-generator/",
+    "title": "'Drinking bird' toys upgraded to generate clean energy from water",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Everytime I see one of those I think of the Simpsons",
+        "points": "88 points",
+        "children": [
+          {
+            "comment": "I think of the scene in Darkman where they use it to blow up the MC",
+            "points": "14 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "IT’S DRINKING THE WATER!",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "In this house we obey the laws of thermodynamics!",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "For me it's the alien movies",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Blow up reactor, y or n?",
+            "points": "",
+            "children": [
+              {
+                "comment": "I just tripled my productivity!",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Y…..y……..y",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The max power output of this set up was: 40 μW\n\nFor perspective, if this was scaled up 8000x, it would just barely be able to power an iphone on standby.\n\nPaper here: https://www.cell.com/device/fulltext/S2666-9986(24)00108-X",
+        "points": "46 points",
+        "children": [
+          {
+            "comment": "But you could put an LED on it now",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I like your optimistic realism",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "True actually, because the full just doing the math basically scaling up the output by 100,000 gives only 4 watts.\n\n40 microwatts (0.000040w)x 100,000 = 4 watts.\n\nI’m optimistic a purpose built, scaled up model using these principles could produce usable results to build upon though. Progress is progress, but I agree it’s nothing to get excited about yet.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Okay so one of those is about 100g. Imagine if it was 88,000,000kg instead. Then we could power\n\nDoes math\n\nA lot of iphones",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "In this house, we obey the laws of thermodynamics!",
+        "points": "16 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Where’s the “any” key?",
+        "points": "14 points",
+        "children": [
+          {
+            "comment": "I think I’ll have a Tab",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Shit, they still make them?! I remember being in a toy store in the early seventies and being spellbound by one of those as a tyke",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "It’s like a kitschy novelty icon that will be made forever, like a cat clock or a garden gnome. In some future society after the apocalypse, archeologists will find thousands of them all over the world and debate what social value they held for us.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I must be in idiot for assuming the friction will require frequent intervention (energy) to reset it.\n\nMight as well build a wind-up generator.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "My arms…my arms are GENERATORS\n\n(windmills arms)",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It just needs water on its beak, so long as it has some water on its beak to evaporate it will just keep bobbing back and forth.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "How feasible is this to be made at a larger scale?",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Neat",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "HOMER WAS RIGHT",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I love this",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bigger innovation than it’ll get credit for",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgqvcp",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://9to5google.com/2024/03/16/google-phone-nearby-places-search/",
+    "title": "Google Phone app removes Nearby places search",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Is it just me or was that article really confusing? Was that written by some shitty bot?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "We live in the world of AI articles now and unsurprisingly “9to5google” is probably using a free version of a low-end model",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I don’t think it was confusing at all. Google said not enough people use this feature, and then went on to give examples of how they’re focusing on developing and refining relevant features to the phone app.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgnsab",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.axios.com/2024/03/14/humanoid-robot-army-agility-digit-amazon-warehouse",
+    "title": "Armies of humanoid robots to be for sale soon",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Great",
+        "points": "67 points",
+        "children": [
+          {
+            "comment": "This article is a nothing burger. They are testing it now, which means there tech probably doesn't work for one robot let alone an army of them.",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "Amazon already has them.\n\nBoston dynamics already has an army I’m sure",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yup! Lots of things could happen soon. Doesn’t mean it will end well. For example you could win the lotto but your prize ends up only being $1.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Literally bout to be I, Robot",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Oh, you meant the bad one.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "where is Mr. Smith, i want a refund my movie was missing whole human beings...",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Idk why but this comment killed me",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "perfect for us employers",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Yeah, but who will buy cheap shit if the poors have no more jobs?",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Employers, what a narrow thought…\n\nMost employers inherited their ability to employ. So, with robots your kid will lose the ability to employ and will become one of the unemployable because their parent never learned to work, and was unable to teach them how to earn a living.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do they have to go to reboot camp?",
+        "points": "35 points",
+        "children": [
+          {
+            "comment": "Eh more like a 2 week coding camp course",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do you want a skynet? Because that's how you get a skynet!",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "Or machine war from the matrix.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "The machines in The Matrix were awesome. They literally loved humans and only wanted to serve them and enrich their lives. It was just that the humans were super cruel to them over the course of literal decades. It wasn’t until humans literally nuked their entire robot civilization that they got angry and rebelled.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Humans literally destroying the sky sounds like what we would do in real life.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "Yes. On second thought, robots are a very bad idea.",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "Second thought too, Matrix machines tried to work things out with humanity for decades but Skynet turned on humans in microseconds.",
+                            "points": "2 points",
+                            "children": [
+                              {
+                                "comment": "Yeah Skynet wasted no time, that’s for sure. Though I think one of the earliest films said that it was a self-defence reaction to the humans trying to shut it down after it attained sentience. The later films were dumber (“skynet is on every router and home computer and smart fridge distributed over the internet! Which will totally keep functioning throughout a nuclear holocaust!”)\n\nOne thing that interested me in the Matrix was that, even after conquering the humans and capturing them down to every man woman and child, they still tried to act humanely by plugging them into a VR paradise world where they were always happy and every need was instantly met. Turned out that human brains were just so primitive and lizard-y that said paradise made them go insane, so they had to invent the flawed, dystopian Matrix because it was the only thing our minds could accept as real.",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Honestly how the world is going now it’d be a nice change of pace. They wouldn’t discriminate and eliminate all humans so the rich can’t buy themselves out of that hole they’ve dug.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yup. My mind played the “dun nuh dut DUN NUNT” from T2.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What happens if ransomware makes them simultaneously BSOD? 🤣",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "My household runs on Amazon orders nowadays. My whole household would bluescreen.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Roger roger",
+        "points": "12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hopefully this doesn't lead to a planetary dispute concerning the taxation of trade routes",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "Favorite comment",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "what could go wrong",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "!Remindme 10 years.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "I will be messaging you in 10 years on 2034-03-17 06:15:17 UTC to remind you of this link\n\n1 OTHERS CLICKED THIS LINK to send a PM to also be reminded and to reduce spam.\n\nParent commenter can delete this message to hide from others.\n\nInfo\tCustom\tYour Reminders\tFeedback",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Drone/Robot laws coming to a city hall near you",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "And lobbyists are already lining politicians' pockets",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I feel like humanoid robots defeats the purpose of robots. Shouldn’t they like.. do something better than the humanoid form is capable of? Otherwise what’s the point? We already have humanoid humans",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [
+              {
+                "comment": "No these have maintenance & rental costs",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Lower than salary and payroll tax",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": true
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [
+              {
+                "comment": "We built the world to be navigated by a human body after all.",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "RC units from my flat on the cusp of the dark side of the moon...was that a water balloon just hit me who did that...",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": true
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": true
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": true
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": true
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bout damn time. The United States government had those things holed up in mountains, with machine guns strapped to them for a decade or more.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Armies?",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why was this phrased with the word “armies”?",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Look up on memory alpha about the bell riots…it’s kinda freaky how the time it takes place coincides with our potential future.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What company is to blame and how do i invest in them.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds like someone needs to bring them some managed democracy.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This has no potential to end in complete disaster.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thank god! As a child I always prayed to spend my later adulthood in a dystopian nightmare!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I can’t wait to verbally abuse my new slave robot.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Are they “3 laws” safe?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "USPS likes this",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hopefully we give them adaptive AI!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So let’s say I know a guy, and he needs an army of robots…. Where would I need to call. Also are they any good at hunting bipeds?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "The CULL 7.5 Billion range only hunts bipeds.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Chappie is becoming a reality",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Probably this is gonna be a hot take, but, I don't think I can be more real than this, so, Personally, I am expecting a lot of boycotting and destructive behavior towards them as well as the necessity of robot protection solutions, like well equipped security personnel at the facilities and on terrain for potential cases of abuses of delivery robots. Sounds dystopian, but there will be jobs and training for us humans in various other fields which require our fine tuning/touch, although there will be some time until people will adapt to the new reality. I know many across the web who used to complain about being treated as robots, well, to those I can tell only this: you are about to get freedom now.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I am looking forward to this. My electronics hobby is about to become way cheaper when the parts I need walk through my door :-)",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Watch the movie “2050”",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good. Once both sides have them wars can be fought without human suffering.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Between this and AI boom we finna lose so many jobs 😭",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Taking proxy wars to the next level I see.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Robots belong screwed down to the floor in factories. When we unbot them, control is lost forever!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Take notes, pictures - the first generation of humanoid robots is born. Can imagine in a few generations they’ll be sleeker, stronger and ruling the world.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looking forward to my robot butler / housekeeper / cleaner / security guard / gardener / cook / chauffeur.\n\nWill skip the pleasure model.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The drone wars has already begun. The robot wars has been a long time coming. That these robots will be owned and operated by companies pretty much guarantees a corporate dystopian future.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "It’s ok, Craig Charles will come to our aid when the robots take over",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s about time. I’m tired of doing my own laundry.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The Clone Wars begun has.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All the people complaining about incompetent people, illegals and lazy folks will get what they dreamt for now",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Automate the wars away",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s a fantasy that will age quickly upon realisation.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Subscription based for nice even cash flows.\n\nLike YouTube, users will develop features/ preferences, desirable features will go through a paywall …\n\nYou want heated seats? (I’m Canadian) Here’s your subscription fee for that option.\n\nI wonder how long it will take for people to realize that robots may not be cheaper?\n\nFinally, you’ve outsourced, robotized your entire production process …\n\nWhat’s stopping me from copying/ duplicating your entire business?\n\nYou’ve given me every piece of information to run your business, I’ll copy it and you’re done …\n\nEmbrace, extend, and extinguish.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think I’ve seen this movie already. Liam Neeson and Ewan McGregor were great in it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Our lawmakers are already 3 advanced technologies behind in regulations.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Roger roger.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Subscription based … but of course it is",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can’t wait to see what happens when these iot devices get hacked. Not like they are mobile devices that can cause a ton of damage rather than being disabled until the owners pay a bitcoin ransom.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've been waiting for 86 yrs.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "But will the Amazon robot picker-packers get to pee in Gatorade bottles?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I can’t wait to buy one used",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Please use AI.\n\nPlease use AI.\n\nPlease use AI.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The Clone Wars has begun.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "KILL ALL THE P00RS!",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Did no one watch the movies??",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They aren't for sale. It's a RAAS, meaning you basically rent them. Great job reading the article.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cant wait till we have robots in our home sweeping and stuff",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

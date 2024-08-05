@@ -1,0 +1,85 @@
+[
+  {
+    "id": "t3_19en3ka",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://www.youtube.com/playlist?list=PLnAxReCloSeTJc8ZGogzjtCtXl_eE6yzA",
+    "title": "From transistors to CPU - how computers really work",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19emga9",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://stratoflow.com/writing-software-documentation/",
+    "title": "10 Best Practices for Writing Solid Software Documentation",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19elxfj",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/RjKgvPT-3Bw?si=vyHiBIJikLoIOMq5",
+    "title": "Unlocking iPhone/Ipad Secrets: A Guide to In-Depth Inspection Without a PC!",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19efddw",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://metrophiladelphia.com/youth-coding-program-code-ninjas/",
+    "title": "Youth coding program aims to grow STEM education in South Philly and beyond – Metro Philadelphia",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ed9jx",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/techtofreedom/method-chaining-in-python-a-technique-for-elegant-coding-de44ab7fe249?sk=a74b9a096333eab49e9f713b37d3e0c0",
+    "title": "Method Chaining in Python: A Technique for Elegant Coding",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19eb4tb",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://hakibenita.com/fast-excel-python",
+    "title": "Fastest Way to Read Excel in Python",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If you need to do something fast enough that you’re worrying about milliseconds you shouldn’t be using python",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Time adds up and optimizations can be made to existing stuff",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thanks! I was actually looking for something like this!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19eb0m6",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://thoughtbot.com/blog/handling-errors-when-working-with-external-apis#when-to-choose-a-resumable-strategy",
+    "title": "Handling external API errors: A resumable approach",
+    "points": null,
+    "comments": []
+  }
+]

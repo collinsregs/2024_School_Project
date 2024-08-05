@@ -1,0 +1,252 @@
+[
+  {
+    "id": "t3_19czkxx",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://spectrum.ieee.org/ev-charging-station-bt-group",
+    "title": "BT Group Converts Telecom Infrastructure to EV Chargers | The telecom giant says 60,000 curbside cabinets could be adapted",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Like many places Valencia Spain city streetlights we’re converted to LED leaving a power infrastructure curbside that is under utilized. Valencia is using it to install curbside Level 2 chargers for EVs. There are probably more opportunities out there to utilize existing power infrastructure for charging stations.",
+        "points": "17 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I do see like tons of abandoned AT&T Telecom cabinets everywhere from land lines, but they are definitely not in spots that's easy to charge a car.\n\nWhat they need to do is everytime we rip and replace the roads, require multiple conduit to be installed for utilities. This can help make expanding charging and Internet a lot more easier and faster.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "They don’t need to place the EV charger directly where the cabinets are located. I forgot the distance but it’s significant (within 18 meters maybe). The key thing, at least for the cabinets in the UK, is they have a metered power feed already available. Not every cabinet will be suitable but the UK has a large amount that will be.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds awesome. The only time you should charge at Ionity for £1,000/kWh is when you’re going cross country.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nice to see an organization being inovative",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "until someone trips over the charge cable crossing the side walk? Most are not near the side of the road",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Six to eight hours to charge a single car? Doesn't sound feasible to me.",
+        "points": "-6 points",
+        "children": [
+          {
+            "comment": "For residents that’s plenty. Car parked mostly over night on the streets will be fully charged by morning. For people that are going to the shops for a few hours, again it’s good. EV drivers aren’t constantly running on low charge and usually adapt their driving habits to facilitate leaving the car to charge while they do other things.",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I charge my EV once a week. On Saturday morning I drop it off at a charger, go live my normal life for the day, and then I come back and pick it up around 4-5PM.\n\nIt rarely gets in the way of my plans for the weekend. If it ever does, then I simply use fast charging that day in order to cut the charge time down to ~1 hour.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It’s European so you have to convert it from metric",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You can’t get parked at one of theses cabinets even when it’s your job to work on them, so good luck with that I guess.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I won’t lie this is the only way EV street side charging will develop to a common scale in the UK. In a world without ICE’s on the road it’ll take things such as this given our government.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19cyp2d",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://spectrum.ieee.org/flexible-electronics-flexram",
+    "title": "Liquid RAM Flexes for Wearables, Robots, Implants. A non-volatile version could be on its way, too.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "While organic thin-film transistors built on flexible plastic have been around long enough for people to start discussing a Moore’s Law for bendable ICs, memory devices for these flexible electronics have been a bit more elusive. Now researchers from Tsinghua University in China have developed a fully flexible resistive random access memory device, dubbed FlexRAM, that offers another approach: a liquid one.\n\nIn research described in the journal Advanced Materials, the researchers have used a gallium-based liquid metal to achieve FlexRAM’s data writing and reading process. In an example of biomimicry, the gallium-based liquid metal (GLM) droplets undergo oxidation and reduction mechanisms while in a solution environment that mimic the hyperpolarization and depolarization of neurons.\n\nThese positive and negative bias voltages define the writing of information “1” and “0,” respectively. When a low voltage is applied, the liquid metal is oxidized, corresponding to the high-resistance state of “1.” By reversing the voltage polarity, it returns the metal to its initial low-resistance state of “0.” This reversible switching process allows for the storage and erasure of data.",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "So basically metal chromatine?",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "So each drop only stores 1 bit of information?",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "From the description I’d assume so, which seems impractical unless these droplets were tiny",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "‘“The conceivable size scale for these FlexRAM devices can range widely,” said Liu. “For example, the size for each of the droplet memory elements can be from millimeter to nano-scale droplets. Interestingly, as revealed by the present study, the smaller the droplet size, the more sensitive the memory response.”’",
+                    "points": "6 points",
+                    "children": [
+                      {
+                        "comment": "Oh sick, if it can get down to nanometer droplets for a bit that’s a pretty comparable size for most current storage methods iirc",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "This could help bring a lot of innovation to hearing implant/aid devices, I bet.",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "Hold on bro my color change shoes file in my shoelaces isn’t rendering the right color and is clashing with my pants render…",
+                                "points": "1 point",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can it run Tekken?",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wetware",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Fucking unreal",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "In 500 years people will be finding plastic containers filled with liquid gallium in their crawl spaces and attics filled with people’s porn stashes.",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "That’s not what RAM is for, long term memory storage is usually on a drive of some kind. I imagine it would probably be a lot harder to do a liquid SSD or hard drive, but I’m no expert",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "as long as the ram is being powered it would work i think?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Not with this stuff.\n\nIn a low- or no-oxygen environment, FlexRAM can retain its data for up to 43,200 seconds (12 hours)",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah but can it run DOOM?",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Prepare the Acid RAM!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "too many tabs open, gotta get more memory liquid\n\n-Billy Gnosis",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Great just one step closer to the T-1000",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Holy shit you are right",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I was thinking just the same thing!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "But I WANT to wear the volatile version! 😩",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just started reading Prey by Michael Crichton and I’m getting nervous",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hello /r/titlegore",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

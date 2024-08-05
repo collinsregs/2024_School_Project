@@ -1,0 +1,3338 @@
+[
+  {
+    "id": "t3_199lbos",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199lbos/360_view_for_a_hotel_rooms_intended_for_a_single/",
+    "title": "360° View for a hotel rooms , intended for a single hotel just for advertising",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_199laz0",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199laz0/font_awesome_integration_js_svg_loading_time/",
+    "title": "Font Awesome integration: JS + SVG - loading time optimization - 859 KB?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_199krtr",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://github.com/apexpl/levis",
+    "title": "Levis v1.0 Released - Lightweight PHP Framework",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_199kmdi",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199kmdi/i_am_being_almost_crazy_with_webpush_ios/",
+    "title": "I am being almost crazy with webpush ios :(",
+    "points": null,
+    "comments": [
+      {
+        "comment": "same issue here for my pwa. currently I'm just adding instructions for the user to \"Add to home screen\" :/",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I am sorry not to explain detail.The problem is that it doesn't work with showNotification in\n\nself.addEventListener(\"push\", function (event) {\n...\n})\n\n\nI don't know why it doesn't work. I am sure push event called with postMsg function. I already tested it 'message' eventlistener in js side.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199juw7",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199juw7/are_progressive_web_applications_pwas_still_good/",
+    "title": "Are progressive web applications (PWAs) still good this 2024?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_199jqt4",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199jqt4/ga4_alternatives_for_ecomm_and_site_tracking/",
+    "title": "GA4 Alternatives for E-Comm and Site Tracking",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Do you already know Matomo? You can also host it yourself and it is also available without cookies.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199jqa6",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199jqa6/estudiando_una_certificación_en_programación_qué/",
+    "title": "Estudiando una certificación en programación, ¿qué me recomiendo ser front end o back end?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Creo que tu solo te diste tu respuesta. Se front end. Como ya dijiste, seria mas conveniente ser front end ya que estudiaste diseño y seria contraproducente ser back end. Pero si realmente tienes la dedicacion y el tiempo puedes intentar ser fullstack y ser los dos. Sera mucho mas dificil pero tus posibilidades de conseguir un buen trabajo seran mucho mejor.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199i81s",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199i81s/what_is_your_preferred_backend_framework/",
+    "title": "What is your preferred backend framework?",
+    "points": null,
+    "comments": [
+      {
+        "comment": ".NET",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "Heh I feel like a dinosaur using .NET and then reading this subreddit",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I've seen .NET for years, especially in more corporate job specs. Can you explain what appeals to you about this framework over others? Or is it purely because you're more familiar with C#?",
+            "points": "-1 points",
+            "children": [
+              {
+                "comment": "EF Core",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The idea that .NET is only used in the corporate world is quite dated now.\n\nAt least in Europe, most startups seem to be using either .NET, Node or Go.",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Other",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "Which other?",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Spring Boot",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Java, right? What appeals to you about that framework?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Because that's the only decent Java backend framework",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Quarkus?",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ruby on Rails. I love how fast I can get an MVP up and running, along with the amount of Rails jobs in my area.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "One of my ex-bosses was a ROR lover. From what I've heard over the years, it's got everything you need, Ruby is a fairly simplistic, magical language, and the framework is used on a number of large websites operating today.\n\nThe issue I have with going down that route for any project of my own is that I'd have to work with Ruby, which I don't think is a growing language - or at least not growing as fast as other languages.\n\nLooking at the poll, it seems that ROR is in last place, which is unfortunate. I was kind of expecting ROR to beat maybe NestJS at least.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Interesting results so far. All of these frameworks are good and perfectly capable of taking on basically any project. Laravel has come a long way over the years and the performance/scalability you can get out of php/laravel these days is absolutely insane. Ruby/rails is like the OG that keeps hanging in there and will never die, and I pitty the fool who thinks otherwise. Django is great for this new generation of developers who are so data oriented, it makes it so simple to take their knowledge in data science and apply it to build fully featured web software. Nest has built on the back of giants(express) and will undoubtedly continue to slowly absorb projects wanting to expand from ExpressJS, although I would not count AdonisJS out of that race just yet.\n\nAlso, just another thought here, I know this discussion is about backend, and I wont get into frontend frameworks but I will add just a little spice. I predict a major shift from the way we are building frontend these days, a new paradigm is coming into play and currently working out some of the disadvantages of the current industry standard. And to that I will leave you to your imagination.\n\nIts truly remarkable to sit back and think about the continual evolution of web frameworks I have witnessed throughout the years.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I am a Rails guy. JavaScript frameworks don't come close in features. Django is almost abandoned (look what brought the latest version -- nothing). Laravel looks great on paper, but I left PHP and not going to return... so it's Rails.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Have you seen the honeypot documentary on ruby on rails ? if not go check it out, I really enjoyed it.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm so conflicted on the Django vs Rails debate. I'm not particularly familiar with either. I only touched Rails like 7 years ago very lightly and I've forgotten it. Is it possible that Django is in such a sweet spot that there's a sentiment that there doesn't need to be many updates? For something that's almost abandoned, it's still super popular.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Axum.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Ooh, a Rust framework? What'd you say the difficulty level is for getting into that? What made you get into it in the first place?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Express.js seems to be leading the poll here. What appeals to you about Express.js? The simplicity and freedom of it? What about lack of immediately available ORM, etc, and various other features of other frameworks?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I work with heavier frameworks in production. I like using Express.js for smaller hobby projects where I don't have to worry as much for build times or complexities later down the line.\n\nFor production I'd go for Spring Boot due to standards, but I'd be open in learning .NET for my love of C# through my experience in Unity.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Interesting. Reason why I posted this is because I'm considering backend frameworks for my old projects. Most of them are database-driven content sites with some basic up and down voting functionality. They're all using super old PHP with no front or backend framework. Thinking about bringing them into the modern era as an exercise to have more desirable stacks on my portfolio for my own projects.\n\nI'm pretty confident about the frontend aspect - NextJS with something like ChakraUI, but not entirely sure about backend. I have a predominantly PHP background, but wouldn't mind branching into JS (or rather, TS where applicable). In fact, it'd probably be beneficial for my career to pivot that way.\n\nI can either use a different framework on each one so I can experiment and get a feel for things, or simplify it by using, say, Express JS, because really, they're not really extensive projects and classify as 'hobby'.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "If its already in php, you could probably get it into laravel fairly easy if you know php already. Also, vue pairs up fairly well with laravel.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "I’ve worked with Laravel a little bit. It’s good. Worked a tonne with Symfony for my last contract that spanned the last few years, but not sure I want to go that route for any of my stuff because it’s pretty extensive.\n\nNot done much Vue - used React/NextJS more. Probably something I should dabble in.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Axum(Rust)\n\nhttps://docs.rs/axum/latest/axum/\n\nhttps://github.com/tokio-rs/axum/tree/main/examples",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm still a sucker for CodeIgniter. :)",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Ive never used codeigniter, always wanted to check it out though.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Actix, believe it or not it is not as complex as people say and it is ..... wait for it.........\"BLAZINGLY FAST\"",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Since I'm Python fan, Django is my preferred one always. But Rails is my second because I started my coding path with Ruby long time ago and it's kinda special to me.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Flask",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Phoenix without any doubt",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199h8gp",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199h8gp/should_i_use_nestjs_if_my_app_is_only_a_login/",
+    "title": "Should I use Nestjs if my app is only a login system?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I'd guess stick to Express if it's pretty straightforward and doesn't need the bells and whistles of NestJS. If it's not broken and you can do what you need to do, why fix it or change it?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199eviv",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://github.com/Frityet/LuaWebsiteTemplate",
+    "title": "Write websites in pure Lua! This template lets you create static sites with pure lua, and run lua on the browser easily",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_199dr72",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199dr72/embedding_a_heavy_spa_in_an_ms_teams_tab/",
+    "title": "Embedding a heavy SPA in an MS Teams tab",
+    "points": null,
+    "comments": [
+      {
+        "comment": "UXer here. We UXers have no idea about much, but somehow get dragged around to every part of the business because we need to translate to human machines at work and their machine's problems.\n\nIf it helps a little, Teams is nothing but Chrome Electron, and your app will be... likely rendered... in an iframe. Performance-wise, being in an iframe, you'll get your own process thread, so performance-wise it should not be awful. CSS is contained as well. I suppose you'll be using some iframe messaging via JSON to teams for whatever functionality/communication with teams is available. Notifications, get user data, the works.\n\nIf it helps a little, Teams is nothing but an Electron instance running Chromium, and your app will be... likely rendered... in an iframe? Performance-wise, being in an iframe, you'll get your own Chromium process thread, so performance-wise it should not be awful. CSS is contained as well. I suppose you'll be using some iframe messaging via JSON to teams for whatever functionality/communication with teams is available. Notifications, get user data, the works.\n\nUh, I just remembered they were going \"native\", but still, you'll be running web regardless, but in Microsoft Edge WebView2. I'd say you are still good, regardless and the above still applies.\n\nI wish I could help. All I can do is share your pain.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Thank you for answering, knowledgable UXer.\n\nThat it is ‘just Electron’ and an iframe or webview with its own process thread certainly puts some of my worries to rest, while some others remain.\n\nIframe or WebView – so the app will likely be fully mounted and unmounted upon navigating to and away from the tab? But any cookies/localStorage stuff might work just like it does within a normal browser?\n\nPerformance – iframe good, Electron bad for overall system performance, but I guess it’s comparable to having a combination of the Teams Electron app and a separate browser with our web app running alongside each other anyway.\n\n—\n\nI guess my biggest remaining concern is what level of integration Teams users expect – if it’s common to expect the ability to be sent directly to various URLs or to run specific actions belonging to our various features directly from within the outer Teams app, or the other way – that people expect to see Teams supported within the embedded app in various ways?\n\nAs an example, our core ‘People’ module could probably (?) have a shortcut for ‘Add person from Teams‘ -> do some API call over the bridge -> present matching users -> pick one -> map attributes into our create person form.\n\nWhile this would be nice from a user perspective, I wouldn’t so much enjoy adding a lot of such very proprietary ‘if app is running within Teams then…‘ code branches across the app.\n\nWould having our app in a Teams tab without supporting anything like this feel kind of pointless, or is the expectation for these Teams tabs just that a web app is made easily available in a sticky tab without any integrations at all?\n\nI guess Teams users might also expect being automatically authenticated, especially in an a tab web app that already supports Microsoft [Entra] SSO? That is a whole realm of stuff I don’t really know much about, from Teams users not having user accounts in our system yet, having user accounts on mismatching email addresses, to how the Teams app would communicate authentication. I guess we’d have to move away from or support more mechanisms than just a normal OAuth redirect flow?",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199cn91",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://www.webtoapp.app/",
+    "title": "WebToApp.app - Convert your Website into an iOS and Android app in minutes",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_198s7d5",
+    "subreddit": "u/HeroWarsDominionEra",
+    "dataType": "link",
+    "dataUrl": "https://www.hero-wars.com/?delayedsignup=true&nx_source=adx_reddit.{{AD_NAME}}&cp=-.ag-{{ADGROUP_NAME}}.agid-{{ADGROUP_ID}}.aid-{{AD_ID}}.cid-{{CAMPAIGN_ID}}.post-{{POST_ID}}.rdt_click-{{CLICK_ID}}",
+    "title": "Many failed before. Will YOU complete the trial?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "A black hole is a region of spacetime where gravity is so strong that nothing, including light and other electromagnetic waves, has enough energy to escape it.[2] The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole.[3][4] The boundary of no escape is called the event horizon. Although it has a great effect on the fate and circumstances of an object crossing it, it has no locally detectable features according to general relativity.[5] In many ways, a black hole acts like an ideal black body, as it reflects no light.[6][7] Moreover, quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, with the same spectrum as a black body of a temperature inversely proportional to its mass. This temperature is of the order of billionths of a kelvin for stellar black holes, making it essentially impossible to observe directly.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wait, you actually opened the comments? Are you stupid?",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Just to see whether I'm alone or not...",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "they are",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm that lonely and bored...",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The world would be such a better place without you people in it.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "You start!!!!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "this you?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "nice",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "son ellos",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "with many on the title this is a juicy clickbait .",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "who is upvoting this why",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wasn't expecting comments on this",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Techbible is your go-to tech community. Ask questions and get expert answers on all things SaaS. Stay updated on the latest tech news, discover trending tools, and share your tech stack with the world. Don't Forget to try it out.\n\nhttps://techbible.ai/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "wow",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199bxvz",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199bxvz/i_spend_too_much_time_with_css_and_layout_instead/",
+    "title": "I spend too much time with css and layout instead of practicing javascript",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I understand. I personally love working with CSS and it's solely because I enjoy making beautiful and accessible designs more so than building business logic. But on the other hand, that logic is necessary. You can make a set of CSS variables to speed up your dev time across projects and focus on building the logic first then working on perfecting the design.",
+        "points": "16 points",
+        "children": [
+          {
+            "comment": "i hate writing css , i prefer tailwind",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bootstrap",
+        "points": "17 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I love building my own design systems from scratch. Not all of them are perfect, but so what. Don’t beat yourself up too much. There are plenty of JS developers that don’t have a deep knowledge of CSS. Thus the reason why things like Tailwind exist.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I started using Tailwind and just copy pasting component markup. Free ones from tailwindcss or flowbite.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is why frameworks exist, for everything. Many of us can't be bothered to mess with styling everything, we have more important shit to build.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think i will use bulma or bootstrap components, i just spent 2 hours building a login",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "That's not that bad",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ive been doing a ton of CSS for a contract this week and nearly zero JS. It’s been bliss. I will happily do 10 hrs of CSS before one hour of JS.\n\nThat said, better is the enemy of done, and pixel perfect layouts are a fools errand. Make it responsive and sensible.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm the same. I like the JS logic, but all my designs look terrible. I'm sure I would get somewhere if I approached CSS with the same gusto, but I just want it out of the way.\n\nI would use Bootstrap, but it has that bootstrap look that a lot of Bootstrap sites has. Like those half- assed shopify sites you see.\n\nAnd don't get me started on responsive design. You will find breakpoints where your work will look terrible.\n\nI don't know where you are in your career. As I am starting out with the hopes of being a freelancer, I'm going to have to get good at it all. If you are lucky to work to your strengths, that's awesome.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do you mean designing them or building them? Because building them shouldn’t take thaaaaat long or be a perfectionist about. Once you get the margins and paddings and container widths and gaps of the design it’s just plugging them in the css and letting it be. Like if there’s a container with two Div groups inside of it and on desktop the left one is 600px wide while the right one is 400px wide and they are on opposite ends of the container. Easy. Start mobile first, make the container class a vertical flexbox. Gap of like 48px, widths on the two Div groups 100% and max with at 600px for the left and 400px for the right. On tablet set Flexbox to row direction, justify-content space between and let it grow and you’re done. Nothing too fancy in that layout. Let the flexbox do the work.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I felt the same. I just use bootstrap and dabbling with tailwind. Pico is cool too.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can I give you crazy advice? Don’t fucking touch css until you’re done with the JavaScript lol. “Get it right in black and white”\n\nAt the VERY most just put in some flex boxes or whatever so you can get a basic layout.\n\nGet all your JS on the page first. Once all your elements are rendering, go nuts on that css and watch it all clean up so nice.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm the opposite. I need to have solid functionality first then I beautify it. put the bare minimum effort and only the elements you need to get something working then pretty it up before moving into the next thing. I understand though. CSS has more instant gratification than JS.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199b5f8",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199b5f8/email_integration/",
+    "title": "Email Integration",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Purelymail is for receiving mail as well.\n\nSignup for Sendgrid for transactional and marketing email sending. They have a free plan you can use.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Purelymail is perfect in terms of having no limitations with users/mailboxes, etc. My developer just can't seem to figure out how to automate and integrate it with my app.\n\nA lot of companies cap you on emails/accounts which I'm not looking for. Will check out sendgrid, thanks!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199ak1v",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/fc7rsq3jz2dc1.png",
+    "title": "Why are the phone numbers overflowing?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I was asked to add an element shown in the picture to a website. I consider myself pretty good at wrangling flex, but the overflowing phone numbers have me stumped. I have figured out that the issue can be fixed by not using flex in the rows and just changing the child elements to inline-block, but I'd really like to know what I'm missing here. Any ideas?\n\nEDIT: The real width of the icons is 16px, the flex-basis of their containing element, .consultant-address-icon, ends up being 24px. When I set it to auto, the phone number moves by exactly the right amount to fit within the bounds. Applying an 8px right margin to .consultant-address-icon or an 8px gapto .consultant-address-row restores the spacing AND everything resizes properly.\n\nStill, I think my original solution should've worked too.\n\nEDIT2: Setting width: 1.84615rem on .consultant-address-icon along with the existing flex: 0 0 1.84615rem also fixes the issue. I think I would consider this to be the \"correct\" solution to the problem as it is. However, I have decided to go with the inline-blocks instead.\n\nHTML:\n\n<div class=\"consultant-address-container\"> <!-- This is a containing div within the white panel -->\n    <address class=\"consultant-address\">\n        <div class=\"consultant-address-row\">\n            <div class=\"consultant-address-icon\"></div>\n            <h5 class=\"consultant-address-info consultant-address-name\">\n                Abcdef <strong>Info-line</strong>:\n            </h5>\n        </div>\n        <div class=\"consultant-address-row\">\n            <div class=\"consultant-address-icon\">\n                <i class=\"icon-phone\"></i>\n            </div>\n            <div class=\"consultant-address-info\">+555 5 555 555 55</div>\n        </div>\n        <div class=\"consultant-address-row\">\n            <div class=\"consultant-address-icon\">\n                <i class=\"icon-phone\"></i>\n            </div>\n            <div class=\"consultant-address-info\">+555 5 555 555 55</div>\n        </div>\n        <div class=\"consultant-address-row\">\n            <div class=\"consultant-address-icon\">\n                <i class=\"icon-globe\"></i>\n            </div>\n            <div class=\"consultant-address-info\">www.abcdef.com</div>\n        </div>\n    </address>\n</div>\n\n\nSASS (don't mind some of the weird numbers, they're calculated dynamically and I inherited this thing):\n\n.consultant-address-container \n    display: flex\n    flex-flow: row nowrap\n    justify-content: center\n\n.consultant-address-list \n    flex: 0 0 auto\n\n.consultant-address \n    font-size: 1.23077rem\n    font-style: normal\n\n    &:not(:last-child) \n        margin-bottom: 36px\n\n.consultant-address-row \n    display: flex\n    flex-flow: row nowrap\n\n.consultant-address-icon \n    flex: 0 0 1.84615rem\n\n.consultant-address-info \n    white-space: nowrap\n\n.consultant-address-name \n    font-weight: 700\n\n    strong\n        color: red",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Try adding min-width: 0 on .consultant-address-info",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Tried it, unfortunately nothing changed.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Damn. Might be the wrong element. Also wouldn’t hurt to just add * { min-width: 0; }\n\nhttps://www.bigbinary.com/blog/understanding-the-automatic-minimum-size-of-flex-items",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm on mobile so I can't test it, but I think you may want to change the flex-flow to flex-wrap, with the proper specs for that",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Which one?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Sorry, I didn't realize there were 2. I'd try the one inside the address row (the inner most one) because that's where the text is",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Hm, what's incorrect about how I have it? flex-flow is a shorthand for flex-direction and flex-wrap, row nowrap should be a valid value for it.\n\nI have tried setting them separately, though, and nothing has changed.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It might have to do with your flex-grow being 0 and nowrap being set but idk. I'll tinker later when I'm at my laptop .\n\nReal weird one, idk why the container isnt growing to fit the child elements here.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I'm starting to think it's some weird behaviour regarding what is considered to be the width of child elements for the purpose of calculating the final width of their containing elements when their flex-basis is set. See my edits to the main comment.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": ".consuktation-address: width:auto; or max width auto",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199af9a",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199af9a/ecommerce_solution_for_software/",
+    "title": "E-commerce Solution for Software",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Ask your ChatGPT client? lol",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I did.. but it didn't help at all..",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "So you probably don't need any of the other stuff until it does help.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Have you tried swearing at your computer? I find that helps, sometimes.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "There's a membership system in PHP called aMember Pro which would suit your needs. It's been around a long time, but still maintained and updated. I'm sure there are other similar solutions, but I know this one will cater for everything you need.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1999kp6",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1999kp6/my_staff_be_eng_vs_senior_fe_eng_are_getting/",
+    "title": "My staff BE eng vs senior FE eng are getting pretty heated on who's responsibility it is to decode a URL, would like to hear some opinions",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If it's JSON, it should be escaped for JSON. &amp; is a escape code for HTML, and requires any usage of the API to assume that a certain value is escaped for a different encoding. What if you're not using the API from a HTML-based frontend? Then you suddenly have to include HTML entity decoding without ever using HTML.\n\nThe backend API should give a pure URL without any HTML escape sequences embedded; the only escaping done should be that which is required by JSON.",
+        "points": "424 points",
+        "children": [
+          {
+            "comment": "This is a great response, thank you! And thanks for not being completely condescending like so many others in this post.\n\nI will say we are returning raw HTML in a \"content\" property, so its not really a unique link property but I felt it was easier to explain my problem the way I have in this post. Our FE actually parses the HTML into components... its a sad solution for a massive legacy system, but its what we have to work with right now.\n\nWe actually built true json responses with all html elements broken down into json properties, but FE doesn't use it on all the main code that's been around for years. Any new consumers we get use our new pure json endpoints.\n\nI can see now why this seems kind of \"dumb\" to a lot of commenters here based on the way I described the problem, but since we are dumping a blob of HTML and not a specified link property, seems its a little more questionable?",
+            "points": "60 points",
+            "children": [
+              {
+                "comment": "If the URL is part of a larger HTML blob, the entire HTML blob should be JSON escaped only. Whatever is parsing that response should automatically unescape when storing into variables.",
+                "points": "25 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "What's the use case for handing back html blobs?. Sounds weird and possibly dangerous depending who the recipient is",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "Wordpress, it’s how they send the content of a post in the core rest api. The json has properties for title, array of meta, dates and so on and one property for container that contains a big string of html",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "we are returning raw HTML in a \"content\" property.. Our FE actually parses the HTML\n\nThis changes the story completely. If that JSON property is meant to be HTML, then HTML entities need to be decoded properly (such as &amp; to &) in the frontend where it's being parsed.\n\nMost people answering in this thread assumes that the JSON property is meant to be a URL, in which case there shouldn't be any HTML entities.",
+                        "points": "17 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s pretty simple: this is a JSON document from an API. The string contains html entities. An API should be agnostic to the application consuming it. Would you expect a native desktop application to decode this escaped html string, even though there is no html in that context?",
+        "points": "219 points",
+        "children": [
+          {
+            "comment": "here is your winner",
+            "points": "25 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "et voila.\nAn API should be decent.",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "More simply: If the API returns JSON, it returns JSON.\n\nNot some Frankenstein mix of HTML inside JSON. The URL is not properly encoded JSON, which begs the question - how is the backend generating the JSON? This REEKS of hand-written JSON encoding to me, which is prone to error, security issues, and various encoding problems.\n\nTell your backend devs to use a proper JSON library and grow up.",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "&amp; is unfortunately not decoded by decodeURI -> therefore it's not trivial to do in frontend.\n\nI always use the principle: if doing an action once in the backend saves the frontend work for every API call, it's probably better done in the backend.",
+        "points": "123 points",
+        "children": [
+          {
+            "comment": "super helpful, thank you!",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "if doing an action once in the backend saves the frontend work for every API call, it's probably better done in the backend.\n\notoh, backend work consumes electricity that you (your company) pays for, frontend work consumes electricity that you don't pay for.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "First: This is fucking stupid and it should be trivial to do in the BE.\n\nThe answer: Do it in the BE. It's presumably coming out of one place which means one place to do it whereas potentially many in FE. There's no guarantee the URL has to be encoded either. FE can decide to encode it if needed.",
+        "points": "136 points",
+        "children": [
+          {
+            "comment": "Pro tip, if a Staff Eng and a Sr Eng get into a serious enough argument about this topic that their EM is posting to reddit asking for help, there is something wrong. I don't know where though, based on the limited info at hand (it could be any one of the three: the FE, BE or OP).\n\nThe info presented is insane, anyone and everyone can do it. On the other hand, my gut is that maybe this is only half the story and there are one or more weird legacy systems, or extremely clean-of-business-logic systems that one of the FE or BE both want to avoid dealing with, hence the hot potato.\n\nTo give an example: Once upon a time I worked with a large insurance company that moved everything to Mule and had a completely incompetent and understaffed support team. I was forced to modify a REST API to only use \"POST\" calls b/c the the gateway didn't support anything besides GET/POST (\"Mulesoft doesn't support PUT and DELETE calls\" they said). This original sin caused all sorts of API design arguments as we tried to abuse POST operations, and I could forgive the team manager for not realizing the root cause (b/c that Mulesoft team required an exec to fix it, and it wasn't gonna happen).",
+            "points": "15 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's worth noting that in webdev subreddit you're gonna get folks slightly more skewed towards frontend alignment and sympathies, but ... in this case they're right I think. This is a JSON payload from a backend API. It's inappropriate for it to return anything but a string representation of a URL unless its specifically formatting it for some frontend use-case as part of some optimization.",
+        "points": "36 points",
+        "children": [
+          {
+            "comment": "helpful, thank you. I updated my post to include some more details. The way I simplified the problem removed some context on how we are actually doing it.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "While there are many good responses here, u/acoustic_embargo is the most correct response imho.\n\nOne thing gets me though, maybe it’s just a lack of imagination, I can’t think why the string coming from the backend would be formatted that way in the first place. Like maybe it was taken straight from a form and saved as-is to the database? That seems messy to me. Never mind the API, are these saved as escaped strings in the DB???\n\nEither way, yeah, APIs should be agnostic about the frameworks and languages that use them when possible. That’s one of the core principles of REST in the first place. Even the Wikipedia page on REST mentions that: “the coupling between the user agent (client) and the origin server must be as loose as possible”",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "It’s how Wordpress saves the links from its block editor and then delivers then full html in a property of its json api",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Ah, so it’s not a bespoke system. You’re stuck doing things how Wordpress prefers it. That makes sense, thanks!",
+                        "points": "4 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why is the BE HTML encoding it in the first place?\n\nSounds like the BE is not upholding separation of concerns, and is involving itself in the FE's concerns right off the bat. Stop encoding it, problem solved. Just return the data like ur supposed to, and let the FE worry about what to do with it.",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'd find out why it's being stored like that in the first place. It's not html, it's a url. Only possible reason I can think of is it's coming from an xml document in which case you should be using cdata sections.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Always do it in backend unless it's needed in front end.\n\nCase in point - form validation: This needs to be done on backend. Should this also be done on frontend? Yes.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "BE",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This isn't that hard to check:\n\n```\n\ndecodeURI(\"https://site.com/thepath/?queryvar=something&nextvar=somethingelse\") 'https://site.com/thepath/?queryvar=something&amp;nextvar=somethingelse' ```\n\nWhich is to say, decodeURI doesn't actually decode this URI because its using HTML elements.\n\nAdditionally, as others have noted, an API design shouldn't be based around someone needing convenient access to a decodeURI equivalent in their language in order to consume your API. Its just not a great design decision. Particularly since escaping the URL does actually nothing for you in this situation.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "It looks like you shared an AMP link. These should load faster, but AMP is controversial because of concerns over privacy and the Open Web.\n\nMaybe check out the canonical page instead: https://site.com/login?locale=us\n\nI'm a bot | Why & About | Summon: u/AmputatorBot",
+            "points": "-14 points",
+            "children": [
+              {
+                "comment": "Bad bot",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Fits the definition of Bike Shedding...",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Trying to parse your edit… <a href=“http://foo.com?ben&amp;jerry”> is valid HTML. <a href=“http://foo.com?ben&jerry”> is invalid html (but the kind browsers will generally accept). So, if that’s the case, backend guy is right.\n\nThe actual example you gave makes it look like this is some JSON payload that has a string value. In that case it shouldn’t be HTML encoded from the backend. They don’t know what context it will be used in. Encoding for HTML doesn’t make sense if the URL ends up getting passed to some non-HTML context.\n\nNow, you also have escaped forward slashes, which makes me suspect this isn’t just a JSON payload. Is this also inside an HTML document? (Ie does it have a script tag with some JSON-like blob in it?). In that case, I’m honestly not sure whether the ampersand ought to be encoded or not.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "It’s json but has html inside it. I didn’t want to say it out loud because I know how Reddit feels about it, but it’s a Wordpress back and its core API does this to links in the post content property",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "If the field does not contain a URL but HTML that contains a URL, the best way to do it does a 180.",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Staff level eng should know better than this, I'd keep a close eye on that one",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Yea it seems like the title of Staff engineer was given too leniently",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Look at the RESTful spec. Links are part of the spec and are not encoded.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If the API spits out the encoded version, then it forces two assumptions:\n\nthat the consumer is JavaScript, or at least has some decodeURI equivalent\nthe UI has to assume that the URL needs to be decoded\n\nBoth of these might be true now, but won’t be forever. For example if the API consumer becomes a mobile app, do Swift or Java/Kotlin have built-in URI decoding? I’d assume so but I don’t know. Are they as easy to drop in as JavaScript’s decodeURI? I have no idea. The same questions arise if the consumer is another backend service, written in something that isn’t Node.\n\nFor the front end assumption, calling decodeURI(response.cta) might work now, but what if the API changes and the URL is just an unescaped URL? Will it still work?\n\nWhat if the URL is something like …&amp;nextvar=something%20else? decodeURI will spit out …&nextvar=something else which is not a valid URL.\n\nIf the backend API instead responds with a normal, unescaped URL string, all these assumptions and pitfalls go away.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is just bikeshedding and if your team is spending time on stuff like this idk what to say, doesn't feel productive. Are they in conflict because of something else and this is just how it manifests?",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "I feel you, I hate how siloed our teams are. I moved up from senior to manager on BE team a couple years ago and its the biggest head ache teaming up with FE to do a new feature. I'm trying to change the culture a bit but there's a lot of \"this is your responsibility\" tension throughout the year and I don't know how to fix that at my level since I have no power over the FE side of things at all. Maybe once I reach a director level I can make this a priority.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Inho do it on BE.  If you don't have access to BE or if it's too complicated (how it can be completed if you have workers) do it in FE.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://www.techtarget.com/whatis/definition/Parkinsons-law-of-triviality-bikeshedding",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How is it sent to the backend? If the front end is sending it to them through another API then the format should be the same as it’s sent.\n\nI’m just wondering how it’s being encoded in the first place. But ultimately if I had to make a decision then I’d say it should be given the way it was received.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The backend should never trust that the front end is doing things right. The front end should never trust that the back end is doing things right.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well what are their arguments for doing it a certain way?",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wow 😮",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Frontend guy as always is correct, you are sending JSON.\n\nDon't believe me, go see any top tier company network tab.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just use decodeURI, I don't know why the FE eng would spend time arguing this. Not everything needs a debate.",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I feel like you should always use decodeURI on the FE by default.",
+        "points": "-10 points",
+        "children": [
+          {
+            "comment": "But decoding something that's not encoded could cause unwanted issues. You should absolutely not just blindly pass things through decodeURI without being certain they were previously encoded. That's potentially gonna lead to some weird and confusing bugs.\n\nhere are some totally valid URIs that decoding would mangle\n\nhttp://example.com/page?param=%3Fother\nhttp://example.com/page?note=C%2020\nhttp://example.com/page?param=%2520\nhttp://example.com/path%20with%20space/page?query=100%",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Aren't these URIs actually invalid (according to RFC 3986) if they're using '%' without encoding it? I always try to make URIs follow RFC 3986, which indicates that % is unsafe and therefore must be encoded.\n\nLink to the part where this is stated: https://datatracker.ietf.org/doc/html/rfc3986#section-2.2:\\~:text=2.4.%20%20When%20to%20Encode%20or%20Decode%0A%0A%20%20%20Under,percent%2Dencoding%20an%20already%20percent%2Dencoded%20string.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "My brain is fried from a long day, so I'm struggling to read the RFC or put this in a clear way. And yea, maybe a couple of those URIs I gave aren't actually valid (particularly the one ending in ?query=100%), but I think the point still holds.\n\nTaking the link from your post, I can encode it a 2nd time.\n\nhttps://datatracker.ietf.org/doc/html/rfc3986#section-2.2:~:text=2.4.%2520%2520When%2520to%2520Encode%2520or%2520Decode%250A%250A%2520%2520%2520Under,percent%252Dencoding%2520an%2520already%2520percent%252Dencoded%2520string\n\nIt's still a valid URL.\n\nI can keep doing running the resulting URL through encodeURI\n\n'https://datatracker.ietf.org/doc/html/rfc3986#section-2.2:~:text=2.4.%252520%252520When%252520to%252520Encode%252520or%252520Decode%25250A%25250A%252520%252520%252520Under,percent%25252Dencoding%252520an%252520already%252520percent%25252Dencoded%252520string'\n\nIt remains valid, but is different every time. Similarly, the amount of times its \"decoded\" will end up with URIs that mean different things.\n\nHope that helps explain what I mean.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Entities aside, why are the slashes escaped?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don’t know your exact use case and why the ampersands are encoded here in the first place so it’s easy to make wrong assumptions. But just for the json itself you wouldn’t need it. I would also suggest to respond with a json that holds the url without html entities in this case. If you push this responsibility to the frontend you need to make sure that on all occasions where you fetch the api this decoding has to be done which is easy as long as you only have one frontend that you control. But it also means that if you ever want or need to support more than one client or open your api to third party apps etc every client needs to deal with this encoding/decoding.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "BE should do it",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If my back end is sending you a json response { \"content\": \"<div id=\"test\">text</div>\" }\n\nI have sent you invalid json.\n\nHow do I avoid this?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "BE needs to do his job.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "At my company we clean that up on the backend to keep the front end as clean and smooth as possible",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Seeing as the Backend and API are the single source of the data, then it should all be done in the BE. You could have multiple front ends connected to that API and each one would have to have the logic to decode every response. If you have a front end connection that isn't using HTML then why would you expect them to decode for that? The API if responding in JSON should escape any of the HTML that would break the response. Same for when the front end talks to the backend. The API should know that JSON responses that contain HTML were always escaped.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sheesh",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This sounds like a backend thing to me, personally.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Every layer should be encoding or decoding it as necessary based on the interface requirements.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I find it odd the API is returning a complete/absolute URL, as well as it being encoded like that. I would assume the API to return partial or relative links, and the client to build the complete link.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You shouldn't really make your consumers have to work to get the correct format of data if its an likewise issue.\n\nThat said, every team and system is unique and context ought to be applied to the given situation at hand. So given that general rule, it does seem like BE work, but given the fact the front-end has to do smelly work anyway I'd say it can go either way.\n\nI'd say there's a bigger issue overall regarding the passing of a elements that have urls inside. This is kind of just shit? Maybe something can be done instead of that method...? probably a win/win.\n\nI wouldn't like \"heres the raw html, you parse it\" type approach. But as you said since the FE needs to work with this and essentially create its own application to do this work, why not add an extra step in that process? Maybe you guys just need to both step back and structure it better, if possible.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If the BE is rendering it, it’s BE’s responsibility. If FE is rendering it, it’s FE’s job. Wherever it is used should be wherever it is decoded.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you have staff and SR engineers arguing about this type of nonsense, you have deeper problems my friend.\n\nThis is no offense to you, btw.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The Backend dev should do it.\n\nBut honestly, if they are arguing over something simple like this, it's likely something bigger that's actually causing them to fight.\n\nMaybe there's some personal conflict going on under the surface",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds like a pretty cool argument. Wish mine were like that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds like it should be stored in db differently or it’s a backend problem to solve. Not the worst thing to do FE but objectively worse given the info",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If I understand this correctly, you’re sending a json response where there’s a content key which contains escaped HTML, then in the frontend you parse that HTML and depending on what you find there you instantiate the React components that match this content. You never put the html you received directly into the DOM. Is that right?\n\nIt might be a bit more work, but if I got the situation correctly and I were in your shoes I’d consider how feasible it would be to do ALL the parsing work in the backend, so that instead of returning an html blob to the client it will return a valid json tree that represents the DOM the client is going to build components for. Basically a conversion from HTML -> json tree of html elements with their props.\n\nThis will solve this (and future) similar discussions, as well as provide a much cleaner API. I believe it will be more secure due to being able to server side remove insecure tags (such as script, on click props, etc). And one of the most important benefits, it will cause less cpu work for your users browsers, which will make your frontend more responsive and drain less the battery on mobile devices.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Or… just put the HTML blob into the DOM as is, add a few jQueries and call it a day. TBF that’s the expected way to work in Wordpress, sad but true.\n\nYour biggest problem here is the mismatch between the “New world” and the “Old world”",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "One other argument nobody mentioned is that sending & instead of &amp; will save the backend some precious bytes of network traffic!\n\nBut seriously, BE should always send pure non-contaminated values",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "backend should give clean ready-to-use url. or if that is impossible (though i see no reason here), frontend can decode it without any war effort. did you ask why those kids haggle over such minor things?",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1999fjy",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1999fjy/does_employer_expect_me_to_know_everything/",
+    "title": "Does employer expect me to know everything?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If an interviewer expects you to memorize all methods then that interviewer is terrible. Interviews should be about how you approach problems and solve them, not like an exam at school.",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "no.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Absolutely not. I care that you know how to solve problems, are able to read and understand code, prioritize task, work well in a team, can gather business requirements and convert them into technical requirements…\n\nI don’t care if you need to look up if the index or object comes first in the function you pass to map.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depends on the company and position.\n\nFor junior level jobs they may require a bit of knowledge of the basics of the framework and language of their choice. For coding interviews mostly they give you a problem and they are interested in how do you solve it. How do you come up with a solution - if you can come up with one on the fly by yourself actually, then describe how would you do that in that specific programming language, and why like that. And if you find that some detail is missing or it is wrong, then how do you approach to fix it. Can you do brainstorming, find solutions with search, or do you just get brain freeze because of the pressure. These are basic skills for any programming job. They would like to see how do you perform, do you have the needed skills to fit into the team. At least that's what I've been looking for when interviewing new candidates. Others may do it differently.\n\nFor medior or senior level jobs we require deeper knowledge not only specific programming languages and frameworks but paradigms, design patterns, the application layers, architectures, integrations and how can the candidate structure and build/arrange each of these parts together for the big picture. Again, how does the candidate come up with solutions, what approaches did he/she take in the past for common problems, what projects they've been working on before and what role did they have, and by that we can tell approximately how deep knowledge does he/she have on different topics including communication skills, how many programming and scripting languages can he/she understand, plus what kind of servers does he/she have experience with, different dbs, APIs, containers, maintenance, scaling, managing projects, does he/she have experience with cloud providers, and is it enough to give him/her the position to lead the development and review others. So for these kind of candidates we are really interested that their experience can be useful for our company's projects.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If the interviewer asked you about every method and gotcha questions then you really don’t wanna be working there. Interviews reveal so much about the company culture and tendencies. You don’t need to memorize everything. You just need to know how to break the problem into smaller parts and how to find out how to solve it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Employers only see if you can make them profit.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19999yy",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19999yy/anybody_here_use_vuetify/",
+    "title": "Anybody here use Vuetify?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "After they botched the transition to Vuetify 3/Vue 3, I have very low confidence. This is a shame, because it was an excellent library.\n\nI’m using PrimeVue now and find it wonderful to work with.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I remember using PrimeFaces back in the JSF days. Recently I checked out their newer offerings and was pleasantly surprised by PrimeNG and PrimeReact.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You already used it on two projects. What else is there to learn? It's just a UI library like any other. There isn't really much to learn. It's basically copying and pasting components.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1998oya",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1998oya/interactive_flowchart_from_json_data/",
+    "title": "Interactive Flowchart from JSON data",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1997tpx",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1997tpx/is_there_a_way_to_simplify_website_bookmarking/",
+    "title": "Is there a way to simplify website bookmarking process to a phone home screen?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "AFAIK, there's no easy way, on purpose.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "That's what I was afraid of but that makes total sense.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Couldn't be any other way or every site you visit would have left a screen icon.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1997muy",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324",
+    "title": "Scaling Airbnb’s Payment Platform",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Just the essentials:\n\nThis post, written by Angela Zhu & Karen Kim from Airbnb Payments Engineering, delves into the evolution of Airbnb's payment platform. Initially, Airbnb's transactions were offline and cumbersome, leading to the decision to handle payments in-house. The early system was simple, using PayPal for guest payments and paper checks for hosts. As Airbnb grew internationally, the need for a more sophisticated, global payment system became evident. This led to innovations like integrating local payment methods, such as Boletos in Brazil, and addressing the complexities of currency conversion and regional payment preferences. The payment infrastructure underwent major changes, moving from ad-hoc integrations to a more structured system with a Billing Interface API, a unified Payments Gateway, and a scalable Financial Data Pipeline. These upgrades facilitated easier integration of new payment methods, improved financial reporting, and supported Airbnb's global expansion. The post highlights Airbnb's commitment to owning and continuously improving its payment system, which has been pivotal to its success as a global travel platform.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1996ksa",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1996ksa/vite_vs_live_server_doesnt_render_same_thing/",
+    "title": "Vite vs live server doesnt render same thing",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Vite in dev mode does not reload files as they change the way other dev tools do. Vite in dev mode streams changes directly to your browser. This is how it can do its thing ~100x faster than other dev env tools.\n\nVite will build your files into a production-ready bundle, but that's a different process.\n\nThe upshot of this is you can't easily mix-and match vite for bundling with another tool for hot-reloading. Not that you would want to, vite is orders of magnitude faster than most other hot-reloading dev env tooling.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Oh okay i see, thanks a lot. So i guess i wont have any problems, if everything works fine now on Vite.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1995tc1",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1995tc1/cost_of_developing_a_small_web_app/",
+    "title": "Cost of developing a small web app",
+    "points": null,
+    "comments": [
+      {
+        "comment": "$10,000 USD to make a minimum viable product. 1 month turnaround time. This is a rough estimate, to be sure.",
+        "points": "47 points",
+        "children": [
+          {
+            "comment": "Thank you for the estimate. What would you say the high effort items/requirements are?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "My gut says the data validation, testing, ensuring that the formulas work as expected, ensuring that the data is handled without parsing issues. Storing blindly is one thing. Storing without introducing any errors in manipulation along the way is another.",
+                "points": "20 points",
+                "children": [
+                  {
+                    "comment": "That is fair, thanks for the insights!",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "\"Import ~100 columns and ~30 rows of data from the client's SQL DB to my own DB\"\n\n- How are you getting access to the client's data?",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "\"generate weekly static reports\"\n\nIf it's generated, then it's not static. WHat does a report entail?",
+                    "points": "7 points",
+                    "children": [
+                      {
+                        "comment": "Apologies, when I say static I meant the reports every week would display the same metrics using that week's data.\n\nA report would entail totals of product produced, how many notifications were sent, quality metrics of the product by grade etc. Formulaically, I think these would be easy to create(simple additions or averages) but the UI might be another story. Having said that, I would expect something pretty simple for an MVP that I could modify myself later on. This piece itself is a low priority requirement that I don't necessarily need for an MVP.",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "Templated report is what you're looking for rather than static.",
+                            "points": "4 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Their data is stored in an SQL server, I would assume some sort of remote connection would need to be setup for continuous access.",
+                    "points": "-3 points",
+                    "children": [
+                      {
+                        "comment": "So you have connection details to the clients database? Or the client has to set this up thsmelf? As in you have to create a client side program to get data from their database and send it to you?",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "Funny enough this piece is what's made me nervous about the whole project since I'm not sure what the answer would be and I hope IT doesn't just shut the whole idea down.\n\nI'm not sure how other SaaS apps get around this but I would hope a connection could be setup?",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "You have to investigate this part, that’s why I mentioned it. No developer can hack into clients databases and retrieve information. You need some way for the client to send you that information. For example they might need to create an API for you to retrieve the data.",
+                                "points": "9 points",
+                                "children": [
+                                  {
+                                    "comment": "Depends on what OP is doing. Does it make sense to create a UI to streamline and simplify the method of exporting data to OPs database? Or does it only require an api that can be incorporated into the client's current application? How technical is the client having to get with exporting said information? Just adding thoughts for OP to go through.",
+                                    "points": "1 point",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "From experience, this could go from a 5 min email to two months of never ending meetings. This is one of the reasons why projects go out of budget and timeframe.",
+                                "points": "4 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Personally I'd say bootstrapping and production worthiness. Otherwise its just a lot of small tasks. Though vague you're requirements seem simple. Things change once you go more into detail though for sure.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I’d double that from personal experience. The more vague the requirements, the higher the price.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I agree with your sentiment. There is a lot of wiggle room in both minimum and viable aspects. I used to be a commercial landscaping estimator (from 2010 - 2016) and negotiated upwards of million dollar contracts. One thing I learned is you can make money on three things: material, time and labour. Time can always be adjusted. The same can be applied to webdev projects.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is definitely a more backend intensive gig. Meaning, you may (should) not focus on creating a beautiful looking UI. So the most time spent as the developer will be on the backend portion.\n\nPersonally, a project like this would take me roughly about 50-90 hours of work at a rate of $65 an hour. I would say closer to $4k - $7k.",
+        "points": "19 points",
+        "children": [
+          {
+            "comment": "Thank you, I agree. UI is something I can improve myself once I have a working solution. The backend connections, data manipulation and QA is what I would need.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'd do it for $10-12K for an MVP.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "10K would be reasonable, you'll also have to give API (probably purchase) keys for sending email and text messages. I assume this needs auth too.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The requirements can be fulfilled by Azure Synapse/AWS. Why do you need a web-app to be developed?",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "They already use DOMO for big data analytics but I think a web app would be useful for a few reasons:\n\nThe text/notifications to inform them of time dependent issues. Not sure if this can be configured in Synapse but I don't think it is typically used for that purpose\nThe formulas also allow for time dependent decision making in a manufacturing setting, which can mean lowered costs throughout the day\nI had developed something similar to this concept using SQL and a VBA script in the past and it worked as a proof of concept which couldn't be replicated by DOMO",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "The 3 things you have listed have nothing to do with a web app though all of those things are backend bound",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "On the surface of it it seems simple enough however it sounds like you need an integration between the clients db and your own. Be it a small api setup on their server or a dedicated connection to their database. Things like this require integration testing and tbh 10k sounds reasonable.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ι would ask around 4 to 5 k But the cost of developing isn't as much as the cost of the server.\n\nI would ask around 500 per month for hosting an app that would stretch my server every 2 minutes.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "The 2 min requirement came from when I had created a VBA script to perform the same functions as the original post and refresh every few minutes to capture new data in the client DB. I'm hoping with something more sophisticated, there is a connector that can recognize new data and pull it automatically, which could reduce the impact to the server?",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’ll do it",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "1 - set up a script that runs on the clients machine on a schedule that pulls the data and hits an endpoint on the webapp for ingesting the data\n\nprobably the least invasive way to do it, IT wise. I'm available if you need help",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I could probably do that in a weekend or 3.\n\nMinimum estimate if we're goin off hourly rate, $60 x 10 hrs x 6 days (optimistically) = $3600\n\nIf things go straight to hell and there's problems on problems it may take longer, or if it's a median between optimal and hell, only marginally longer, in either case it means you'd be paying more.\n\nHow much more? Dunno till it happens, but that's the part you have room to haggle with in contractual conditions.",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "10 hours for that is quite optimistic as I'm sure more things will pop up that aren't listed here and nothing is ever as easy as someone else that doesn't know how to do it thinks it is.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "10 hours x 6 days = 60 hours... forget programming you need to go back to elementary reading.",
+                "points": "-6 points",
+                "children": [
+                  {
+                    "comment": "I just had a brain lapse. It happens, but not you I'm sure.",
+                    "points": "5 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "We can do that in 4k. Just let me know your thoughts.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1995sxk",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1995sxk/handling_private_messages/",
+    "title": "Handling Private Messages?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Try pusher or build your own node/go service",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thank you!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1995pf4",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1995pf4/creating_an_immersive_3d_digital_experience_in/",
+    "title": "Creating an Immersive 3D Digital Experience in Three.JS to Help Drive Sales (Case Study)",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1994jmn",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1994jmn/small_question_about_hexadecimal_in_web_apps/",
+    "title": "small question about hexadecimal in web apps",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It isnt a hexadecimal. It is an UUID hash.",
+        "points": "15 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depends on the web site.\n\nMost likely you are seeing an internally generated \"unique id\" for the media. It could be a hexadecimal representation of a UUID, or something else unique to that application or web site.\n\n40 hex digits equates to 160 binary digits (1.46e48 possible values). The set of possible values are so large that simply \"guessing at random\" isn't practical. You'd need an index or catalog to find out which values are legitimate.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "thanks, thats what im trying to ask, is there a way to generate an index/ catalog out of whats available to me?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Only if the web site provides one.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Its called an enumeration attack, and we use uuids to prevent it.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "No, it would take longer than you will live to do that.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, not really. That 40-digit hex can be anything, but it's likely a SHA-1 hash of the file. 40 digits of hex == 20 bytes == SHA-1 hash size, which is still common to use for file hashes.\n\nFile hashes are handy to ensure that a file hasn't changed. If the file changes, the hash in the file name changes, so you never have to worry about accidentally using stale cache. Without the worry of stale cache, you can cache for MUCH longer, like a year.\n\nIt saves a lot of money, if you have the ability to tag your files with a hexadecimal hash digest (such as SHA-1).",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No, that's usually the point. It's used to prevent enumeration.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Those 40-digit hex codes are unique IDs for media on the site, made to prevent unauthorized access. Trying to guess them is a no-go — it's against the rules and can be illegal. They're usually random and not meant to be predictable, for security reasons.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1994ftl",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1994ftl/how_to_create_a_low_latency_geometry_configurator/",
+    "title": "How to create a low latency geometry configurator",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1993bdk",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1993bdk/setting_up_windows_as_a_linux_guy/",
+    "title": "Setting up windows as a linux guy",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Just do everything in WSL if you are at home on the terminal. You'll have a pretty good experience. I did. I'm also a terminal enthusiast. That's all I've got, because I haven't used windows for dev for about 5 years.",
+        "points": "20 points",
+        "children": [
+          {
+            "comment": "The app Windows Terminal (from the Windows Store) is great as well. You can use it for PowerShell or your favourite shell in WSL.",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Terminal is really the best.\n\nIt's a shame that MS isn't more vocative about some of their tools - like Power Toys, Terminal, WSL - because they have some really great stuff out there for devs and admins.\n\nhttps://learn.microsoft.com/en-us/windows/dev-environment/",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Came here to say this. The only thing I miss about Windows is IDM and Windows Terminal",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you’re using node nvm-windows https://github.com/coreybutler/nvm-windows",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I like Microsoft Powertoys. Specifically the Alt + Space to search or open a program. I like it more than using the Windows key for searching. It comes with other things too.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "This is the page for Powertoys. It has a lot of useful utilities that I use often. Fancy Zones is nice, the color picker is great, and others.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "WSL2 on Windows 11 is a very compelling platform. Easy to setup, easy to install Ubuntu, easy to get started in a dual Windows/X11 GUI environment.\n\nIt's a two way street (even inside of Ubuntu): you can access your windows C:\\ directory from Linux's /mnt/c, launch chrome.exe from an Ubuntu shell, and launch Ubuntu X11 apps like gimp and be happy that the integration is very tight and very smooth. Awesome engineering feat, MS.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "And `code .` works, so you can open a visual editor if you like one.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Things in my WSL2 ~/.zshenv\n\nMOZILLA=/mnt/c/.../path/to/chrome.exe\n\nEDITOR=code\n\nVISUAL=code\n\nexport MOZILLA EDITOR VISUAL",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Oh, and you'll need a good text editor like notepad++",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you like using the terminal, just install VS Code, then just choose Terminal from top menu --> New Terminal, install all your shit from there. It's basically just a Powershell window running within VS Code.\n\nIf for whatever reason whatever program or CLI etc you're trying to run responds with a message like:\n\nThe term 'hit' is not recognized as the name of a cmdlet, function, script file, or operable program.\n\nIt just means you need to add that program to your Environment variables PATH variable. Just tap WIN key then type 'Environment' and it will come up and you can modify it there (usually requires a restart of Terminal to reflect it)\n\nOther than that you can do everything in VS Code or for backend I prefer Visual Studio (for C#) or Eclipse (for Java). Its actually not much different",
+        "points": "-2 points",
+        "children": [
+          {
+            "comment": "I think the main issue is that the powershell environment is just different from bash or zsh. I use both, and occasionally forget that commands like touch or df don't work.\n\nI've used Git Bash, which is just a bash-like emulator for windows for a bit and it's an okay solution, but WSL is better.\n\nI have also just learned to use powershell for some stuff. File manipulation and permissions modifying in Windows is just better if you use tools made for Windows. It's not the easiest to switch between, I think the syntax and conventions are pretty different.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I use MAMP but I'm a hobbyist, not a professional. There is also WAMP. I think MAMP was originaly designed for Mac users but I prefer the windows version of MAMP over WAMP.\n\nLocal WP is good if you're doing any WordPress development. https://localwp.com/",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Check out scoop or chocolatey for program installation :)",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Or use winget - it honestly became my go-to choice on windows.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you don’t want to use WSL, you could put Virtual Box on windows and run you preferred Linux box that way/ or dual boot into Linux on another partition.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Git bash + cmder or windows terminal (it is actually a goid thing now)",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Since I don't know what your tasks are, it's a bite hard to give specific advice. So I'll just describe some of my working habits. I work with Windows and Debian, but for different tasks. I manage my vhosts through putty in a bash shell, but on Windows I rarely leave my IDE, as it has all the tools I need integrated. My dev environment runs on WSL2 Debian, and tough it is not quite as performant it is fine for me. Got everything set up in de IDE and I'm running all build, testing an qc tools through shortcuts from my IDE.\n\nMy general advice is: embrace the pros of each system. Windows is, imho, just the best GUI client and I have tons of shortcuts and macros set up, that make working with it easy. Windows Explorer is imho the best file manager - shipped with an OS - and you can control almost everything with shortcuts. WSL is all the Linux goodness integrated in a system that also runs your favorite games.\n\nI would of course never run a production apache2 or postfix or whatever on Windows, and still use the bash shell very often for server tasks. But I also love working on Windows and recently leaned hard into the VCS tools of my IDE, and now feels stupid that I merged my stuff like a caveman. But a commit? still on the terminal ;-)\n\nConclusion to all the rambling: don't be a fool, use your tool. The terminal isn't the best at everything, and a GUI is sometimes just a hindrance. But on Windows and with WSL you have a real choice to get the best of both worlds and an OS that runs just everything that is compiled for an x86. I don't think there is a really good and viable alternative to that.\n\nNow, I'm doing this for over 20 years, so I probably forgot how cumbersome the way to get here was. But I went through stuff like Windows ME and NT 3.5 and SUSE Linux and no package manager at all. It's never been easier to get going on a computer, and fuck some stuff up, than it is now\n\nI love them all (except for macOS, fuck that shit).",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "WSL2 + Windows Terminal and you got linux in your windows.\n\nBut if you would like to not emulate linux, I would recommend Cmder for terminal.\n\nAlso you can turn off animations and transparenices if you go to settings > display to make things a bit snappier.\n\nFurthermore, windows 10 (and win11 even more so) can be annoying with some features(cough bloatware cough) but you can turn them off if you are willing to do some registry fiddling.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "A lot of people are saying WSL, but I find MSYS2 easier to use. WSL runs on a virtual network drive, but MSYS2 uses your real drive - you can even make it use your windows home as it's home (so c:/user/yourname = ~). It also works well in the Terminal app, so you can switch between Msys and PS easily.\n\nI also recommend going through the group policy editor and disabling stuff that you don't need.\n\nLastly PowerToys provide some power user things you might be used to on Linux (best of which is a tiling wm replica, which acts like the one in newer versions of KDE).",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you’re used to using a window manager, glazeWM has been working for me. I switched for school a bit ago.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Definitely BonziBuddy. /s",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1992knu",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1992knu/whats_your_goto_solution_for_sending_emails_from/",
+    "title": "What's your go-to solution for sending emails from a web form?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "> Considering trying Python if it's easier\n\nWhen you run into an issue, throwing an entirely new language onto the stack is almost never the solution.",
+        "points": "112 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "PHP Mail: Check the php error logs, this is the tell. Make sure it's setup correctly in the php.ini. Check the recipient spam folder too. For more details check out this post.\n\nSendGrid: follow their documentation more closely because if it isn't working you probably didn't set it up or use it correctly.",
+        "points": "32 points",
+        "children": [
+          {
+            "comment": "Yeah pretty sure the issue is in my SMTP settings. I get the following error when trying to run the script: \"Failed to connect to mailserver at \"localhost\" port 25, verify your \"SMTP\" and \"smtp_port\" setting in php.ini or use ini_set()\". I have 2 php.ini files in my php folder -- php.ini-development and php.ini-production. Do you know which one I should tinker with?",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Does your host have SMTP? Does your provider permit outbound SMTP connections? Have you spent the thousands of dollars and hours to make sure that your IP address has been cleansed from spam lists?",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "I'm using localhost rn for testing. My provider is my university gmail account... it's the only one SendGrid would let me set up. That could be the problem.\n\nShould mention this is a small app for a family member. I'm doing it as a favor to them and to learn.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "If the provider is your uni , localhost will not work if you do not have an smtp server running there. Try a docker image for an smtp server for testing , which can run on localhost but accepts email via your code and returns correct response - here is an example - https://maildev.github.io/maildev/\n\nAlternatively sign up for a free mail service like gmail and put their smtp server details in for testing and always send the email to yourself etc",
+                        "points": "4 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "If you focus on getting SendGrid to work you wont have to deal with localhost, ports etc. It will work everywhere when its setup correctly. We always have to arrange a few DNS changes for SPF and DKIM to work properly. I think SendGrid has an insight dashboard for all emails where you can view if there are problems with delivery.",
+                        "points": "4 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Port 25 is rarely used nowadays (probably because of spam), try to use tls/ssl, smtp ports like 465 / 587...\n\nOr, if is some basic form, use standard php mail() function so you don't need to set up entire smtp",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "if you want to test if your code for the form and php mail works you can test it with Gmails SMTP. https://mailtrap.io/blog/phpmailer-gmail/\n\nYou will just need to allow your \"gmail to use unsecure apps\" apps or something like that. You could make a gmail account for testing. That way you know if it's an issue with how your mail server is configured.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You gotta explain the issues. Changing languages won't solve any of them.",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Mentioned in another comment but I'm getting this error when trying to use the PHP mail function: \"Failed to connect to mailserver at \"localhost\" port 25, verify your \"SMTP\" and \"smtp_port\" setting in php.ini or use ini_set()\". Pretty sure the issue here is in my php.ini.\n\nWith sendgrid I think I've followed the integration guide correctly but I'm getting \"permission denied/ wrong credentials error.\" I have my API key set in an environmental variable and am using the basic code they recommend to test.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Yes, PHP is not connecting to SMTP. Either it's not configured correctly, or no SMTP service is listening on port 25.",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Sendgrid is just an api call isnt it?",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe PHPMailer? That's what I use anyway.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"keep running into issues\"\n\nWhen you're asking for a solution due to a problem, you should usually elaborate on the problem if you want a solution to it.\n\n​\n\nWe have a contact form with a honeypot, CSRF token, captcha, IP rate limiting which then sends to our PHP backend to verify everything is legit. If it is, we use the Sendgrid API to send an email to us.",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you're doing anything production grade I would recommend a third party service like Amazon SES, mailgun, mandrill, etc. you'll want to handle bounced messages, DKIM validation, etc.\n\nConfiguring your own internal SMTP server in a way that won't be abused and handles all the message signing, etc is kind of annoying versus paying AWS a couple bucks a month.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I use PHPMailer. It is fantastic.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Check out Formspree or Netlify Forms.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I use MailGun usually, fired off via JS or whatever language I'm working in. They have a toolkit and API that works pretty easily across everything.\n\nWould be good to know what kind of issues you're running into. Issues from PHP sending the emails, or clients blocking them/spamming them, etc.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nobody else still using formmail.pl from Matt’s Script Archive? :)",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I use mailelite they have an api for sending emails if the website is public you should make your own api and then from there make the api call to the mailerlite api(or any other service you use) for me it took me 2 or 3 days to set it up because I didnt know anything about sending emails but mailerlite has a great documentation most of the time went to searching for a service that I can try for free",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Netlify forms + Zapier!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://github.com/PHPMailer/PHPMailer",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Mailgun is pretty simple to use.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m running sendgrid on all my projects. With the dynamic templates. Have you used the domain verification or sender address setup tool in SG? That might be the auth issue you’re running in to.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've had no negative experiences with nodemailer",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Phpmailer.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I just did this last week for my web app and used EmailJS. Took an hour to set everything up and got it working since then with no issues whatsoever",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "PHPMailer",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just serialize your email object to json, then throw an exception with the json in the body. Then setup a global error handler that uses SendGrid or whatever.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sendgrid or Amazon SES\n\nBoth production ready systems able to handle traffic and security items like DKIM.\n\nBoth have great documentation and community resources online.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1991slw",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1991slw/issue_with_sharing_link/",
+    "title": "Issue with sharing link",
+    "points": null,
+    "comments": [
+      {
+        "comment": "We transferred the domain from IoNos to GoDaddy.\n\nYou poor sap.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Please feel free to elaborate!",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Use the search method in this sub. In short, godaddy sucks.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If i understand ur scenario accurately, ur site from godaddy should be available at www.blah.com over the internet, but when someone types www.blah.com in the url bar it redirects to www42.blah.com ? This could be bcos of an incorrect DNS redirection rule setup at your domain registrar side aka godaddy. Have you tried asking their support?\n\nIt could also be if ur wordpress site is being redirected to another domain and the redirect is configured incorrectly. Have u checked the wordpress site like they mentioed here ?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1991ng1",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1991ng1/screen_recordings_with_no_narration/",
+    "title": "Screen recordings with no narration",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1991l3t",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1991l3t/what_r_some_remote_job_worthy_projects_for_entry/",
+    "title": "What r some remote job worthy projects for entry level Position",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Imo, there are no projects that will guarantee a job. And doing side project after side project will not impress employers. What employers are looking for in entry level positions are: 1) an obvious passion for what you are doing 2) the ability to communicate effectively (verbally and non verbally) and 3) basic knowledge of your preferred language. There are just way too many people jumping into the industry that personal projects hardly give you an edge. I’ve had multiple potential employers tell me in interviews that they don’t even look at peoples projects anymore. Seek out any personal connection you have already in the industry, as that is going to be your absolute best resource to finding a job.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Applying for jobs is not enough? We have to seek out personal connection 😕",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "That’s honestly true for any job ever, but it’s especially true now given the over-saturated entry level market. Put yourself in the employer’s shoes, would you rather hire someone you’ve never met who claims they are a great fit, or would you rather trust one of your already proven employee’s personal connections? If you don’t have any connections, start attending tech meetups in your area or online. Look for volunteer work that shows you can take a brief from a client and build what they desire (does a local non profit need a website revamp?). But in the end, connections and real world work experience get you jobs much more reliably then mass applying.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1991h7o",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/1991h7o/how_to_run_an_ios_app_through_a_web_app/",
+    "title": "How to run an iOS app through a web app?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "There are services like appetize.io that stream mobile devices and can be accessed through a website, but you're going to be paying far more to stream and run a mobile app as a website than just recreating it for the web, it'll also be more complex in the long run.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19913v9",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19913v9/i_need_help_on_somthing/",
+    "title": "I need help on somthing.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If the website was just launched, it won't be immediately available on Google. Even when it gets listed, you need to do SEO to climb the rankings. Check this out: https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+        "points": "22 points",
+        "children": [
+          {
+            "comment": "Thanks. it was made for about 2 moths ago and we just today fount this out. i am studing for web dev but im at basic. so i have never workt whit uploading website to internett only to git hub.\n\nI will look into the link when im whit my dad, thanks:-)",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Look up google search console and start there. It won't rank for important things for a while (if ever) but setting it up with google is a decent first step that a layman can do.\n\nMaybe budget for a contractor to do SEO",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would have a conversation with the developer about the domain. Failing that, we (this sub) would need more information to see exactly what's going on.\n\nHow, exactly, do you access the site at the moment? Where is it hosted?\n\nAs far as Google goes. It can take months to years for a site to rank. This depends on how well the site provides it's identity and proves that it is the canonical source (or, at very least, a trustworthy source) for the information it provides. You can submit the site to the various search engines to get it crawled quicker, but that doesn't mean it'll rank.\n\nYou can also pay for ad placement, but that can get pricey pretty quickly depending on the industry.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "its not a website to sell stuf more so of contacting him and what the business does. he have hade a few and all of them work fine. its more so that he want it so be found if you type the name but not .no at the end. also if you type gronnhus and gronndus it will stil found the right site. he alredy have a good business he just want to get people he talk to be able to find it if the spell it wrong. When it comes to ads i dont think he wants/needs it but i can ask him. also i dont know wher it is hostet but i can ask him when he is home:-)",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Theres no way for someone to be able to type gronnhus and have it automatically direct to gronnhus.no - You have to specify the ending as theres likely a gronnhus.com or .net",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "oh my bad, what i mean is that if you type in gronnhus you wil get gronnhus.no at the top of the search bar.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Ah ok. Yeah thats a DNS issue. Your developer needs to correct the Aname I believe.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What he needs is some kind of SEO evaluation and a potential action plan to ensure the site is getting the best rankings possible given the context.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "thanks. will this also help if somone is not putting the .no in or if they spell is wrong?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "What you want is for the site to be searchable by search engines.\n\nSEO means “search engine optimization”.\n\nAdding the “.no” is probably just directing users to the URL instead of using the search functionality.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "oki thanks",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Could be that the robots.txt is not allowing site to be indexed. It happens when developing WordPress or any other type of site. The developer turns indexing off, so that Google doesn't index the site while it's being developed. And it can happen that the developer forgot to allow robots once the site goes live.\n\nSource: happened to me 😃\n\nSo have your developer check robots.txt file.\n\nAlso submitting a sitemap to Google should help and it will also give you info if the site indexing is blocked or if there are any other errors.\n\nThis should also be done by the dev, it's prey simple to do for WP sites since they usually generate sitemaps automatically.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "thanks. i will look into it:-)",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You might need to go into Google Search Console and ask Google to index it. Your developer should have done that, but I guess they didn't.\n\nDo you have access to your dad's domain registrar? You'll need to go in there to add a record to verify to Google that you're the owner of the site.\n\nAs someone else said in another comment, Google will take months to index the site, so get started ASAP.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "will do",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Generally, a website is hosted on a specific IP, and this IP is referred to by DNS by a name.\n\nIf you type in \"Facebook.com\" into the address bar, you are actually typing in the IP Address of Facebook, which returns the website.\n\nWhat you are looking for, is something called \"SEO\", meaning Search Engine Optimization.Google only showcases links that it likes at the very top. If you search for Facebook on Google, the correct website shows up because of SEO. This is a very big topic on it's own, and you will need to consult an expert for your specific search engine needs.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Like how when you type \"Spotify\" in the search bar, you get links to Pandora",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "oki thanks",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don't know if this will help you, but there are browser extensions that can check the SEO of your website's pages and make recommendations.\n\nI don't remember which ones are the best, but I think you'll easily find articles on the subject.\n\nMaybe this will give you some clues as to what is missing or could be better configured.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "thanks, i will look into it:-)",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Download the yoast plug in for WordPress. Yoast will tell you what needs to be optimized for SEO. Optimize the keyphrase and meta description and add alt tags to all your media. Sprinkle in some internal and external links. Theres a bunch of yoast tutorials on YouTube that can help you.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You need to purchase a domain name to your liking (very cheap, usually 10 dollars a year) to have something like 'www.myawesomewebsite.com'.\n\n​\n\nPeople pay money to google to have searches put your stuff at the top",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "if he dont care for www can somthing like Google My Business / SEO help?\n\nIts more so for it do be more easy to find if you spell somthing wrong and if you searth him up online since he want it so when you searth for his name the site will show up.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "gpt told me to this: Google My Business (GMB): and Search Engine Optimization (SEO): can help. any tips or maybe other ways?",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "Yeah, start researching SEO. The better your SEO, the easier you are to find on google. It takes time and work, so don't expect any instant results.\n\nOn the brightside, if you get decent with SEO it's a great career and pays well here in the states. Not sure about Norway",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Thanks. will do",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "what?",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "?. what, i am just asking how to get my dads website to show up more when you look for it",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The website needs to be indexed and basic onpage SEO has to be done. Further such scenarios are common with amateur web developers.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_199094s",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/199094s/guide_me_please/",
+    "title": "Guide me please!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Protip: do not mention anywhere or check the domains availability on godaddy without registering it immediately unless you want to pay a few hundred dollars for it.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No issues with that. Buy the domain and turn on auto-renewal.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes, although I would highly recommend Cloudflare, in fact it's the only service I would recommend for domains. It's possible that you need an extension they don't offer, in that case, Namecheap is not bad either.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "What does Cloudflare offer that makes them better than other services?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Their domain management system is the best in my experience. They offer way more features, even on the free tier. They also charge less per domain than most registrars.\n\n​\n\nYou can also just point the nameservers to Cloudflare while your domain is registered elsewhere, but I find it way more convenient when the domain is also on Cloudflare.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lol yeah man. I have like 3 or 4 good ones that are in queue for \"Dev time\". If it's previously unregistered it's usually only like 12 bucks a year.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have domains that I bought 10 years ago that I’m still waiting for development time.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes, definitely buy now! Some people make a \"career\" out of thinking up marketable domain names and buying them so they can sell them on when a company wants it.\n\nI've bought about three domains \"just in case\" that I'm not currently using.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wouldn't even put the name into those services without really buying it. Some \"check if the domain is available\" services will actually nab it up. You should buy it immediately.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198s7d5",
+    "subreddit": "u/HeroWarsDominionEra",
+    "dataType": "link",
+    "dataUrl": "https://www.hero-wars.com/?delayedsignup=true&nx_source=adx_reddit.{{AD_NAME}}&cp=-.ag-{{ADGROUP_NAME}}.agid-{{ADGROUP_ID}}.aid-{{AD_ID}}.cid-{{CAMPAIGN_ID}}.post-{{POST_ID}}.rdt_click-{{CLICK_ID}}",
+    "title": "Many failed before. Will YOU complete the trial?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "A black hole is a region of spacetime where gravity is so strong that nothing, including light and other electromagnetic waves, has enough energy to escape it.[2] The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole.[3][4] The boundary of no escape is called the event horizon. Although it has a great effect on the fate and circumstances of an object crossing it, it has no locally detectable features according to general relativity.[5] In many ways, a black hole acts like an ideal black body, as it reflects no light.[6][7] Moreover, quantum field theory in curved spacetime predicts that event horizons emit Hawking radiation, with the same spectrum as a black body of a temperature inversely proportional to its mass. This temperature is of the order of billionths of a kelvin for stellar black holes, making it essentially impossible to observe directly.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....All this squares make a circle....",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wait, you actually opened the comments? Are you stupid?",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Just to see whether I'm alone or not...",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "they are",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm that lonely and bored...",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The world would be such a better place without you people in it.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "You start!!!!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "this you?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "nice",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "son ellos",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "with many on the title this is a juicy clickbait .",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "who is upvoting this why",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wasn't expecting comments on this",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Techbible is your go-to tech community. Ask questions and get expert answers on all things SaaS. Stay updated on the latest tech news, discover trending tools, and share your tech stack with the world. Don't Forget to try it out.\n\nhttps://techbible.ai/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "wow",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198zvw4",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198zvw4/how_to_use_hls_audio_only_with_multiple_audio/",
+    "title": "How to use hls audio only with multiple audio tracks?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "HLS uses the stream wrapper to define multiple instances of the same media but at different bitrates.\n\nIf you want multiple languages, you'll need multiple HLS stream wrappers each with a different language, not one stream wrapper with all the languages.\n\nAdd each of your language .m3u8 files as <source> in your <audio> element\n\nTell video.js about each one using AudioTrack.\n\n``` <audio id=\"my-player\" class=\"video-js\" controls> <source id=\"lang-en\" src=\"https://domain.com/en.m3u8\" type=\"application/x-mpegURL\"> <source id=\"lang-es\" src=\"https://domain.com/es.m3u8\" type=\"application/x-mpegURL\"> </audio>\n\n<script> const player = videojs('my-player');\n\nconst langEn = new videojs.AudioTrack({ id: 'lang-en', kind: 'translation', label: 'English', language: 'en' }); player.audioTracks().addTrack(langEn);\n\nconst langEs = new videojs.AudioTrack({ id: 'lang-es', kind: 'translation', label: 'Spanish', language: 'es' }); player.audioTracks().addTrack(langEs);\n\n</script>",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198xz7v",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198xz7v/website_domain_not_working_please_help/",
+    "title": "Website & Domain Not Working (PLEASE HELP)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Give it some time, sometimes dns propagate 24 hours or more.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "There's online tools to help checking this. Try searching for \"dns propagation check\"\n\nAnother thing you may want to check is to perform a whois lookup and check the nameservers listed there are correct.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198xj3s",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://socket.dev/blog/devtools-podcast",
+    "title": "DevTools Podcast: Rethinking Open Source Security Beyond Buzzwords",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_198xhxb",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198xhxb/seeking_best_practices_streamlining_validation/",
+    "title": "Seeking Best Practices: Streamlining Validation Across RESTful APIs and Frontend Forms",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_198wvxl",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198wvxl/what_frameworks_should_i_use_for_this_app/",
+    "title": "What frameworks should I use for this app?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "SvelteKit",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Check out frameworks with SSR (server-side rendering), Next.js is an option.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well.. we'll need a bit more info than that. What kind of app is it, what do you want it to do?\n\n​\n\nfast interactions\n\n​\n\nwell if you want something that renders really quickly then vue.js and other DOM oriented frameworks will be the 'fastest'.\n\nhowever, keep in mind that these 'fast' lightweight frameworks are that way because they're stripped down to the essentials. You'll end up writing more javascript to implement basic features than you would using a more robust framework.\n\nIf you want something that'll minimize time between an api call and the response... that'll largely depend on the API you're calling (how fast it executes to do what you asked) and the network latency ( at the end of the day, the data needs to go back over the wire to the user.\n\nyou can mitigate some of this with caching (the first call takes forever, but subsequent calls just use that first cached response) Or, if you've got money to spend, a CDN and co-located servers to reduce latency that way.\n\nAs a general rule for frameworks:\n\nfast, good/reliable, easy-or-quick-to-implement; pick 2.\n\n​\n\nminimal client javascript\n\n​\n\nWell.. this is hard to answer without knowing what you're doing.\n\nIf you're writing a game, and dont want to define a million little functions to handle the gui, then you'll want a framework like P5.js that already has alot of what you need in it.\n\nIf you're doing complex math in your page, then something like theorem.js will have all the basic math functions built in and implemented for you.\n\nIMO, if you dont want a calculation done on the client side, you'll need to build a back-end API for the client to call to do the calculation.\n\nin enterprise level software, this is usually how it's done. The UI should only contain JS for making API calls and logic for rendering data. Any calculations or 'heavy lift' computations should be done by a separate API.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "HTMLX",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think this requires a bit more information about the app. What's the scale going to be? How much interactivity do you need? First, you need to decide between MPA vs SPA. Generally SPA is better but more difficult to set up and more JS heavy. If it's a simple app with minimal JS and not intended to scale, I would say go for MPA. Otherwise you may want to use a framework like React, Angular, Vue, Svelte or Lit. For the backend, I would recommend Express or Fastify. I love Koa but I'm not sure about its future. It's possible to use some other frameworks like Nest but I don't like having to transpile on the server.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Thanks for your reply! I've just added more context to the post. I've always used react and vue for my projects and I would like to try something more like go or rust for the http server and templating.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "it would be better being an SSR MPA. think of an app like reddit or spotify interactivity-wise but without any authentication logic\n\nIf you are looking for something like Reddit or Spotify, I think that calls for an SPA actually. They are both written as SPAs. I think you should decide if you need SSR or not. If you need pages to load super fast or SEO is a concern, you may want to do SSR. Otherwise, I'd say skip that. It's not worth the effort. I am not a fan of NextJS, so I don't recommend that either.\n\nI don't understand how you would use Go or Rust for http server though. You said you already have an API. What's that written in? Go or Rust? I like Go more than Rust by the way. I feel it's better suited for web applications, but it's not a well-informed opinion.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "In fact I forgot that SPAs could have routing, then I think that would be a better option.\n\nMy concern is that if JavaScript apps tend to be slower or need more processing from the client (like reddit and discord) than compiled and fast languages like rust or go (the latter having a better web ecosystem).\n\nWhat do you think?",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "I think it's safe to say JS has the most developed web ecosystem. Compiled vs interpreted language performance differences on the server are usually miniscule. You should write your APIs to respond in less than 200ms. Compiled language may save you 5-10ms at best, depending on where you spend the time. If you design your code correctly, the bottleneck is usually the database, not the API.\n\nThere's also the \"perceived\" speed of the web page. If you have a lot of JS, it can cause slowness of load/interactivity. You need to check your web vitals. SSR helps in that case, but I would recommend reducing the load with Svelte or Preact instead. They are super light.",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "awesome! thanks for your help.\n\nthere's a new alternative to react virtual Dom called million.js that is just a vite plugin and can decrease loading times by more than 40%, it's worth taking a look.",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "MillionJs is cool, but Preact/Svelte is still better in my opinion. I think you can still use Million with Preact, but the benefit is so small that it's not worth it.",
+                                "points": "2 points",
+                                "children": [
+                                  {
+                                    "comment": "what about routing? does people still use react-router nowadays?",
+                                    "points": "2 points",
+                                    "children": [
+                                      {
+                                        "comment": "I like Preact Router. It's quite simple. But yes, react-router is still the most popular, I think.",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "My concern is that if JavaScript apps tend to be slower or need more processing from the client...\n\nThe performance difference is pretty negligible here in the context of a user's experience. I'd wager that for what you need, JavaScript will do just fine. You might want to give Next.js a look. You get the SEO benefits of SSR while keeping the speedy DOM changes of SPAs.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Go/Java/C# backend that serves html.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "do you have any go lib in mind for serving and templating?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Java and C++ have mature ecosystems and frameworks and with go usually built in library is kinda enough.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "With go you can set your own html render engine with goview but if you want type safety templ is a good choice and it works kinda like JSX",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "In my experience the absolute fastest stack right now is going to be with SvelteKit.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Definitely worth looking at next.js imo. Not sure about it satisfying your minimal client javascript ask, but it’s great for rapid development and comes with some great server <-> client features.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198vbk5",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198vbk5/react_server_components/",
+    "title": "React Server Components",
+    "points": null,
+    "comments": [
+      {
+        "comment": "all you need to do is run an effect hook or something like the mount event before the render\n\nEffects run after initial render anyway... usually you would pass data store to react outermost component that already has data in it that react can use to render correct state.\n\nServer components still require SSR but the way they work and what features they offer when comparing to simply rendering on server side is quite a big difference.\n\nServer components render exclusively on server and they are immutable. There is no state, no side-effects and component itself is a async function.\n\nBasically you want to use server components when you have to render pure visual components.\n\nYou don't have to use it if you don't want to but there are use-cases where you may benefit from it, especially if you have to render a lot of display data. The component itself will be less complex than using side-effects and states.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Thank you for the explanation. I meant running something \"like\" the effect hook. I know it runs after the render normally. Why can't we have an SSR hook like it that will pre-populate the state before the render. In the client you would run it post render if needed.\n\nWhy would I want to render a component only on the server? Why would that be less complex than using state?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "It's less overhead = quicker loading. That's the main reason as far as I understand it.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "A bit of a nitpick, but I don't think 'pure visual' is useful as an abstraction. Server and client components are both visual and I never ask myself \"is this component visual?\" before making one. I ask myself something like, \"do I want this information available on first load\".",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I think it's rather \"does this component require any interactivity\"",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Yeah, sure, guess it depends what you default to",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198v8v7",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198v8v7/how_we_reduced_laravel_saas_app_database_from_85/",
+    "title": "How we reduced Laravel SaaS app Database from 85% to 45%",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Please don't give advice you're not qualified to give.\n\nUsing PURGE BINARY LOGS BEFORE NOW() is a great way to make your replicas lose data/be out of sync.\n\nThe correct approach is documented in the manual here — in short, check the slave status to see what the oldest log currently being replicated is and only purge to before that date.\n\nAn better option is to set the binlog_expire_logs_seconds system variable to something approaching your maximum replica lag time (default is 30 days, you could likely set it to 1 day and reap most of the space saving benefits without any concerns). This also means that it will be automatically maintained rather than needing to periodically run the PURGE BINARY LOGS statement.\n\nOn a final note, a 25GB DB is tiny in the world of data, and giving results in percentages is silly when it's not a fixed size thing you're talking about, if the DB were 2.5TB, you would've gone from 0.85% down to 0.45%, and it's highly unlikely if you were using 45% of 2.5TB that you would balloon to 85%, and even if you did, these tricks would be unlikely to yield the same result.",
+        "points": "28 points",
+        "children": [
+          {
+            "comment": "OP is also not saying WHAT data they're storing. They're saying 4000 users are using 25GB of space (probably more like 10 after all the log purging) that tells me they're likely storing binary data in the database. Get that into S3 or another server.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "So the hot tips for using less disk are:\n\nDisable debugging in production.\nHave a log file management strategy.\n\nThis is basic stuff. If you're running an app that has real user data and not doing these, you need to consider hiring some professionals.\n\nNext hot tips, slow query optimisation, indexing and partitioning...",
+        "points": "12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hi there, I recommend you purchase and read the book “designing data driven applications”. This book explains what the log data that you just deleted is used for and why it’s important.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lmao, I’m no expert and not going to tell OP what he should/shouldn’t have done but from seeing the comments I get that he’s getting absolutely roasted right here",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Laravel documents clearly states (https://laravel.com/docs/10.x/telescope#introduction):\n\"Laravel Telescope makes a wonderful companion to your local Laravel development environment. Telescope provides insight into the requests coming into your application, exceptions, log entries, database queries, queued jobs, mail, notifications, cache operations, scheduled tasks, variable dumps, and more.\"\n\nSo, this is in fact a rookie mistake to enable this in production. The tip here should be: do not enable in production what is for development only",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198v7o5",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://grants.rune.ai",
+    "title": "$100k in grants for open-source web games",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Rune seems like an interesting platform, but I have a couple issues with this program:\n\nA grant is an up-front cash payment that enables someone to do work they couldn't otherwise fund. It's not a grant if devs need to build and release the completed game before seeing the money. It's spec work. Once you've made devs submit an application and be accepted, show a little trust and cut that check.\n\nInsisting the game be MIT-licensed is not cool. Devs should be able to choose any open-source license they are comfortable with. The website says \"your game remains yours completely,\" but is that really true if anyone can fork it and profit without sharing the improvements they make to the code? I don't think so.\n\nBottom line: You're asking a lot for $500, which, where I live, is a couple weeks worth of groceries and gas. And $5000 is not enough for that MIT license restriction, even if I already had a game made with Rune sitting here, ready to submit.",
+        "points": "91 points",
+        "children": [
+          {
+            "comment": "I haven’t read the full terms, but I think (once you’ve completed the base game) you can probably fork it yourself, add improvements/updates, and re-publish that under any license. Right?",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "To answer your questions:\n\nThe grant is not to fund work that they otherwise couldn't fund. It's to help boost devs who would otherwise want to make a web game. That's also why we help promote the devs and specify in the FAQ that you definitely shouldn't do it only for the money.\nThe code should be MIT-licensed, but the content can be any license (incl. non-commercial ones). No one can fork your game and profit because they won't have the right to the art, sounds, etc.\n\nSounds like you don't like open-sourcing your code and that's totally fair. We also sponsor game jams with prizes and will soon have a creator fund that offer other monetary incentives to make a Rune game w/o sharing their code.",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "The grant is not to fund work that they otherwise couldn't fund. It's to help boost devs who would otherwise want to make a web game.\n\nIf without your help someone couldn't get started then this counts as funding, you are just using different words, like \"boosting\". 500 indeed sounds too low.\n\nIf someone is not doing this for the money, then why do this at all? Maybe use that 100k to launch a YouTube channel and educate people about OS game development.\n\nNo one can fork your game and profit\n\nThat's not how MIT works. If I put a MIT license to the root of my repo, then it applies to every single bit I created in that repository, not just source code.",
+                "points": "16 points",
+                "children": [
+                  {
+                    "comment": "That's not how MIT works. If I put a MIT license to the root of my repo, then it applies to every single bit I created in that repository, not just source code.\n\nIt's very common in game dev to use different licenses for code and content. Even the original Quake game was released with different license for code and content. You just specify it in the readme or license file :)",
+                    "points": "-7 points",
+                    "children": [
+                      {
+                        "comment": "Sure, but then you expect that people will be knowledgeable about this. Maybe you could offer an option for Creative commons non-commercial.\n\nOut of curiosity, have you created all these games? https://github.com/rune/rune-multiplayer-web-games/blob/staging/open-source-grant/games.md",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "Out of curiosity, have you created all these games? https://github.com/rune/rune-multiplayer-web-games/blob/staging/open-source-grant/games.md\n\nWe have created 8 out of the 12 Rune games listed in that table to make sure our SDK is solid and as inspiration for other devs. You can also see them in the examples part of the repo readme. They're all MIT-licensed :)",
+                            "points": "5 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Maybe you could offer an option for Creative commons non-commercial.\n\nWe actually specify on the page that you can use Creative Commons non-commercial for your game content (art, sounds, etc.).",
+                            "points": "3 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "If someone is not doing this for the money, then why do this at all?\n\nTo mix fun and help advance their career? Lots of web devs make open-source side projects for fun and would probably benefit professionally from adding an award to their LinkedIn and GitHub.\n\nOur thinking is that if you're an aspiring web dev or a web dev trying to get into game development, then this might be a good opportunity for us to help. And even if you're an established dev, it can be nice with more recognition of your work.",
+                    "points": "-9 points",
+                    "children": [
+                      {
+                        "comment": "I don't understand why this is down-voted so much.",
+                        "points": "-3 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yeah, but it doesn't really help if you withhold the money until the game is complete and launched. That's a ton of work on spec in the hopes that Rune actually pays out. I hope you guys will consider paying once the person's application is accepted (like a normal grant), or reconsider calling this a grant, which is incorrect.\n\nAnd I think you misunderstood my position on open source. The MIT license offers no protection from others using the code without contributing anything back. You should let devs license their projects under the GPL or similar if they want.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I was interested and clicked through immediately! 100k!!\n\nThen I saw the page and laughed bitterly",
+        "points": "19 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How are you all defining multiplayer?",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "It's using the Rune platform for multiplayer, there's links to it in the post :)",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is the server proprietary? We can't self host?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Yes, Rune provides a backend. You can also make your own backend server and self host it as part of the grant if you want",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "We at Rune believe there's lot of awesome multiplayer games just waiting to be made by talented web devs. So we made this grants program to help support devs interested in making a game on Rune. You can apply with a new idea, an existing multiplayer web game, or even an existing singleplayer web game that can be adapted to multiplayer.\n\nWe think it's a win-win for everyone:\n- New exciting multiplayer games on Rune\n- Interesting open-source code that others can learn from\n- Free money for web devs having fun making a game\n\nI'm one of the organizers, just let me know if you have any questions :)",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "That’s very cool, hey any chance we could do some kind of partnership with our collaborative workspace platform - we’d be happy to give free user seats so people have a platform to plan and manage their projects with their teams. Our founder is a former game engine developer, and we’re looking to work closely with the community",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Sure, that sounds cool. Let's explore that more.\n\nYou can write me on the Rune Discord, I go by my first name there (\"Bjarke\").",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "See you there",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Can you send me a discord invite link, a couple came up in the google search so want to make sure I join the right one.",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "It's at the bottom of the grants page :)",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "403 forbidden on the form? Yeah, no.",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "Fixed, thanks for letting me know!",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Seems like an issue with Typeform when linked from GitHub. You can enter the exact same URL in your browser and it works 🤔 We'll fix it.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198uy5l",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://www.reddit.com/gallery/198uy5l",
+    "title": "When I upload my web optimised images to the website the textures go weirdly pixelated. The images have tightly packed detail (the serration in the ramps). I tried changing the quality and different sizes. It happens to old pictures as well taken in lower quality. Is there any way to avoid this?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Scaling down the Dimension of the source image will fix that",
+        "points": "24 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s a moiré effect",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "🎵 That's a moiré! 🎶",
+            "points": "11 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://youtu.be/OnFlx2Lnr9Q?si=S3uW_r-zxtkY2F0B",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would use a blur or desharpen tool in a photo editor to select the troublesome areas and apply a subtle blur (to the original images). You should get less moire effect during the optimization phase.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198uoxi",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198uoxi/tell_me_about_the_best_dev_you_worked_with_lol_or/",
+    "title": "Tell me about the best Dev you worked with? Lol or the worst Dev?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Best: humble senior that had a positive spin for every problem\n\nWorst: over confident junior that left a mess I am still untangling",
+        "points": "42 points",
+        "children": [
+          {
+            "comment": "Yeah, pretty much. Team lead at my first job was pretty awkward, but super nice and was actually a very good teacher. I made a lot of mistakes those first few months, but they always turned it into a learning opportunity.\n\nCurrently dealing with the opposite. Acts like we’re buddies while being a yesman to our CEO. Timelines are whack because the CEO sets our timelines and team lead just goes with it.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: Humble older Lead dev who had seen so much that he just knew what to do 99% of the time because he'd done it before. Very generous with his time. Had many a late night conversation with him when I was on call and ended up having to phone him to escalate something, then got talking. Great to drink with. I could see he was the one to learn from, so I actually followed him to new employers twice. Nothing to prove. Still in touch.\n\nWorst: Asshat younger Senior dev who would lord what little experience he had over you, nitpick unnecessarily in meetings (to the point where higher ups once told him to \"shut the fuck up now\"). ALWAYS failed code reviews no matter what. I got a failure for a magic number once. Usually fair, except the constant was called thisSpecificThingWithUnit and had a nice comment explaining what it was. It was hardware-related and needed to be defined somewhere in the executable... Nobody else on the team knew what he expected, and neither did he. It passed without change. Wouldn't give you the time of day unless told to. Also loved to piss and moan about every facet of working life at the company, but had been there for 5 years and wouldn't just move on. Constantly trying to prove he was the smartest smarty that ever smarted. Very much not in touch.",
+        "points": "14 points",
+        "children": [
+          {
+            "comment": "Seeing a lot of \"incompetent juniors\" for worst, but IME, young seniors are more likely to think they know more than everyone else and actually know a lot less than they think they do.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "For sure. I expect juniors to be less skilled. As long as they show they are willing to learn I don't mind. I don't expect them to be overconfident though.\n\nLots of younger seniors who are overly opinionated and/or arrogant really need to simmer down and wind their necks in.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's interesting that a lot of responses say \" humble senior dev' for best and \"incompetent junior dev\" for worst. That's been my experience as well.",
+        "points": "19 points",
+        "children": [
+          {
+            "comment": "don’t all humble seniors start as incompetent juniors tho ?",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "Yeah, you don't get to senior level imo without crashing your way through some pretty big mistakes.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Good point. 😁",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I mean, it's basically \"experienced developer\" vs \"inexperienced developer\".",
+            "points": "11 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I once mentioned to a senior dev I think it's best to extract js to a file instead of inlining it for themeing on-prem Sharepoint.\n\nHe wrote a letter to my manager basically saying how dare I and mentioning his years of experience. Worst thing was I had no clue he even took offense to my suggestion - just went straight to the manager. Oh, and he would become irate if my code had literally an extra space in it. I think he hated me.\n\nSo yes as long as they don't have a chip on their shoulder and most don't they are usually awesome.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "For me, competence matters less than being open to feedback and learning from people who have been there. I'd just way rather work with the junior dev who isn't confident that they know something, asks questions, and bounces their hesitations off of you, than the junior dev who thinks they know everything and can't take feedback.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I agree. I should have said \"incompetent and arrogant junior dev\".",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Worst: Me\n\nBest: I wouldn't bloody know!",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "Same answers as me! 🤝",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: current team lead. Sometimes a bit slow to catch up on your issues, but once he's there, he's moving steadily towards a solution and you learn a lot from him.\n\nWorst: senior dev that had the development speed of an intern. It's still a meme that if there's very wonky code, chances are you're gonna find his name in the Git Blame.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: a humble senior who was an absolute god at coding. Very approachable, I think I learned more from him in a week than I did in a year’s experience.\n\nWorst: a lazy dev who was a supposed subject matter expert that never even bothered posing a story. Eventually another senior engineer and myself just waded into the unknown and tried to complete his work. It took us under 3 hours to complete a story he had been “stuck” on for over a month.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Junior I managed, who worked remotely.\n\nAttention to detail was terrible (I was understanding as he's a junior and tried to coach him), quality of work would sometimes be good, other times it was awful, refused to jump on calls when I wanted to, would always delay, or some up with ridiculous excuses.\n\nTurned out he was outsourcing the work I was giving him to a random bunch of other junior developers who didn't even work for us...\n\nFigured he might have been doing this when he was completely unfamiliar with a project he was the main developer on, and when screen sharing, he couldn't even find various repositories he'd supposedly been working on.\n\nNeedless to say, he was let go!",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I once reviewed a pull request where the person had run some code for every number between 1 and 10 by copying and pasting the function 10 times and changing one number.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Please tell us that he was an intern",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Nope, they were a fully fledged software engineer who had come from some tiny little web agency with no real coding standards and nobody to learn from",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "That’s actually sad 😔",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: lead that dealt with everything and was still able to code.\n\nWorst: a guy who would talk himself up every chance he got but his code was garbage and he didn't do anything.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Worst: A senior \"styling expert\" that told me using grid for a complex layout is a hack. He was the most lazy dev I know, if it wasn't for nepotism i doubt he would have a job.\n\nOffline/away for the majority of working hours. And every time he took a feature, he would overestimate it by a shit ton, would not add anyone but a single person that was in on his deal with the company as a reviewer on his PRs. He also has the biggest defect turn over rate in the team for QA.\n\nWhen a change request comes that affects something he has written. I avoid that ticket like the plague no matter how small it may seem.\n\nBest : A very slow paced meticulous dev that quadrupled check everything and questioned every change. I loved working with him cause I was the complete opposite. I worked and thrived in chaos, multiple PRs at the same time. Git worktrees, multiple branches, rebasing and cherry picking. Working with him made me realise that I need to slow down by a lot and be much more methodical.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My first senior was amazing, he introduced me to TypeScript, Clean Code and Solid. Most motivated guy I know, he read so many coding books and all about architecture and structures. Writes the most clean code I know, although sometimes he overdo it.\n\nI learned a lot from him, funny enough he went trough a big process as I see some of his old code and gave name to each phrase, like the code gold phrase, the mega over engineering phrase and so on.\n\nToday he’s the team lead at a different company, hoping he’s a good manager, but he was a great mentor for me, and I am glad I took the shortcut by him teaching me the final phrase and I didn’t had to go through them myself",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For a trick, my best and worst is the same person, after he got good management.\n\nMid-level engineer who made everyone feel dumb whenever they talked to him, and he snickered and chuckled anytime someone asked him a question or made a suggestion in a meeting. People genuinely hated him. It took a lot of coaching, good managing, and then also some understanding from others working with him, and putting him in the right spot, and now he's one of the best members on the team.\n\nHe's not actually *the best* I've worked with, but he's great to work with especially for people who know how to work with him.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Worst: All the junior/mid developers who ive had to work with who dont dont pay attention to details and test properly. So whenever i have to code review/test their code i know it will be a shit show. You explain coding standards to them and their next pull request has all the same mistakes the last one did. Code doesnt even work when it reaches you with their last comment being \"Should work\".\n\nBest: Senior/tech lead ive been working along for a few years. The man machine. Juggles idk how many projects and is still by far the most productive coder of all of us. Super knowledgeable, always willing to jump on a call. Not the best explainer as i feel hes not always good at ELI5, but eventually he will help you to solve anything.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not web devrelated but c++. it was a startup where a guy had been developing solo for years with little code oversight. I came in to take over his role while he worked on other things. Turns out his code was awful and uncommented. To make it worse when you asked him for assistance to understand it, his response was if you cant understand it youre not a competent dev. The company was knew he was a dick but still let that stuff slide. I didnt stay long",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Worst: Someone who refused to learn new things. Every suggestion of trying to do things in another way was met with hostility. They were using display: table and table-cell to create layouts, and since I was lower experience than them, I had to use them as well. When I had tasks where I was the only person on the project / fronted, i was writing layouts using flex and grid and I tried showing them how they work. They had no interest, and only recently, after nearly 2 years, I've seen them using flex and grid, but without much understanding on how they work.\n\nThey would only use var and for loops in javascript, they would create tables or write data to a SQL db only through the GUI, the controllers would be full with copy pasted code instead of creating an abstraction and so on. Generally very messy code and an attitude of \"I already know everything\" and \"If it works why bother\".\n\nBest: idk anyone who bothered to write documentation.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: me\n\nWorst: me",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The worst developer I ever worked with was at a company that put workforce diversity above competence. That individual would not have been hired if not for the obsession with diversity quotas. An awful developer with a terrible attitude\n\nI have worked with some very talented people, it’s hard to narrow it down. But they are by far the seniors who are approachable, willing to take the time to explain and help, knowing that 30 minutes now saves hours later.",
+        "points": "-6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wish that the technically best dev was somewhere near the list of the best devs with personality…",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: Pragmatic, easy-to-talk with and always motivated.\n\nWorst: Technical architect with a goal to overtake the company with intentional technical dept & no documentation, that made all of our lives miserable.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: senior that questions himself constantly and is still ahead of everyone\n\nWorst: non-web dev that had to help on a project and had no interest in learning or doing stuff the way the web-team did...",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: someone who took initiative to help with work and learned the new stack. Worst: someone who obviously copy/pasted their way through their journey and who couldn’t solve a single task by themself when it came to project time leaving me to do even more work everyday so we could get done on time.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Worst: current “senior” engineer who might have lied on his resume. Legitimately can’t trust him to write even simple code and ends up causing a cascade of pointless “process” meetings that are really just ways we can put up more guardrails for him. Total detriment to the team.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best: I work with a team of the smartest, and nicest people I've ever met. Every one of them VERY good at what they do, and always willing to help everyone else. The quality of code they output is some of the best I've seen.\n\nWorst: I worked with a person that was the opposite of this team - complete loner, and aggressive, VERY aggressive towards everyone. I was scared to go in to work.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198t9rm",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198t9rm/how_to_test_saml_without_paying_for_a_business/",
+    "title": "How to test SAML without paying for a business account?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "For O365 you can easily get a test tenant with https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program-get-started renewable as long as you are doing \"active\" development.\n\nFor others, I guess you need to contact them directly and hope they accept to create a test environnement for you.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "You have saved my day",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Sorry for disturbing you again.\n\nThe developer program does not work because of the error:\n\nWe can't continue with the signup process for the following reason:\n\nYour phone number did not pass security checks.\n\nI have tried it with 3 different phone numbers, but none of them works. All of them are used to text and call every day.\n\nThis error has been opened many times on Microsoft support and Office 365 developer Github. They are all closed without being solved.\n\nDo you know how to solve this issue?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Try to make your device as generic as possible:\n\nNo VPN/ mobile data\nDeactivate your ad blocker on the page\ndeactivate your browser do not track if it has one\n(Optional) Use edge \n\nIf this still do not work, I guess the easiest would be to create an Azure tenant and use their support",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_198ss2r",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/198ss2r/payment_gateway_issues_for_travel_industry_in/",
+    "title": "Payment gateway issues for travel industry in Australia?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Run for the hills.\n\nIf you can't do that, do whatever the reputable processors say, they will have those restrictions for a reason, and trying to worn around it with a dodgy provider will likely result in a sting.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "thanks, security is definitely a consideration",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "At the moment the API provider is suggesting capturing the card details including CVV number and using public key encryption to transfer them by email. Then running the payment through manually.\n\nI'm sorry, what?!\n\nI mean, I know Aussies are at the bottom side of the earth, have miserable internet, and every animal on the continent is out to kill you on a daily basis, but surely even they have moved on from that.\n\nI'd suggest they get their clients to physically mail their credit card to the head office. Then use one of these bad boys to process the payment before mailing the card back to the customer 👍",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "thanks. I'm not even sure i understand the issue to be honest. I'd love to hear from some Aussie devs :-)",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The travel industry has very low average margins - around 2% I think - but refunds and chargebacks can have high individual values. Add to this that when travel companies go bust it can cost a lot to repatriate travellers to their home countries - which is why these companies usually need to be licensed and hold a bond with someone like ATOL.\n\nFor this reason, it’s common that payment processors have a default position to not work with these companies. If your company has higher than average margins, you can potentially present a case based on that, your licensing, historical refund/chargeback rates etc and try to persuade a processor such as Stripe that you are a reliable partner.\n\nBut never get involved in handling card details yourself, even encrypted.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Thanks for the explanation u/hoppo that definitely cleared things up a bit. :-)\n\nWhat solution would you propose for this issue? What do Aussie travel agents do?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Would accepting payments over Bitcoin be an option here guys? Maybe a link to a payment interface you could use with your card or maybe a QR code to pay with?\n\nCan you use your card to pay over bitcoin? or do you need to set up a wallet etc?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Ultimately that would be a question for the business, but:\n\nNo, you cannot make a bitcoin payment via card. (Some niche product that allows this might well exist, but your average customer can't.)\n\nYou'd still need to convert those bitcoin into hard currency at some stage to pay suppliers, employees, airlines, etc. If it's that hard to get a payment provider to accept a travel agent because of the risks, then imagine a travel agent that accepts bitcoin. Any payment provider would hop to the hills faster than a kangaroo.",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "t3_1afbza2",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/gitconnected/html-tags-that-help-you-build-modern-frontends-a57296ccb4c1?sk=20d15de1fdae5e1fd071d959f7ac9c6a",
+    "title": "HTML Tags That Help You Build Modern Frontends",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1af38em",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://minato-ai.streamlit.app/",
+    "title": "Best AI coding tools?? - Minato can read 1000+ file codebases",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Spam, this account only has posts about the tool",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aeujfh",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://onehive.beehiiv.com/subscribe",
+    "title": "My AI Newsletter I Created🔥",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aeuia2",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://www.watermelontools.com/post/awaiting-for-responses-in-rag-errors-weve-seen",
+    "title": "Awaiting for Responses in RAG: Errors We've Seen",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aekrtv",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/techtofreedom/9-fabulous-python-tricks-that-make-your-code-more-elegant-bf01a6294908?sk=a5818c31ad2285863f517fd928185b9e",
+    "title": "9 Fabulous Python Tricks That Make Your Code More Elegant",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Ternary Conditional Operators can fuck right off. Code readability is much more important than packing everything into one line.\n\nAlso, the example given:\n\nif a<b:\n  min = a\nelse:\n  min = b\n\n\nWill set off some \"code smell\" alarms and ask for this:\n\nmin = b\nif a<b:\n  min = a\n\n\nOf course, this is a contrived example that would best be represented as min(a,b)\n\nSame goes for lambda functions... readability is important. Other than that, no notes.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I actually like conventional ternary operators, but python just had to be extra special with its weird if-else one-liner.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes, I code all my functions as recursive lambdas, it's much more elegant.\n\nWtf is this guide?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Create an account to read the full story.  \n\nThe author made this story available to Medium members only. If you’re new to Medium, create a new account to read this story on us.\n\nmedium and its consequences have been a disaster for the human race",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aetuj4",
+    "subreddit": "u/plutotvofficial",
+    "dataType": "link",
+    "dataUrl": "https://v.redd.it/r4eepwaa3mfc1",
+    "title": "FRANKIE'S FEARS ARE VALID. 🤡 Stream Cake Boss for free on my new Warner Bros. TV Sweet Escapes channel!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I would rather hammer my fingers into my hands than ever watch cake competition",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anal",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "⣿⣿⣿⣿⢟⣯⣵⣿⣿⣷⣦⣭⣶⣶⣶⣶⣤⣀⠀⠀⠀ ⡇⠹⣿⣿⢯⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀ ⡇⠶⢈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⣿⣿⣿⣿⣿⡄ ⣣⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣡⣿⣿⡟⣿⣿⡿⠟⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⢚⣹⣿⣿⠀⠀⣤⣤⡄⠀ ⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⢠⠀⠀⣼⣿⣿⣷⣿⡆⢻⡿⠀⠀ ⣿⣿⣿⡿⠟⠉⠀⠀⠖⠂⠀⠀⣶⠹⣿⣿⡿⠿⠃⡜⠁⠀⠀ ⠿⠛⣡⣴⣾⣿⣿⣿⣷⣄⠐⣼⣿⣷⣦⠀⠀⠰⠞⠀⠀⠀⠀ ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢿⣿⡿⢃⣴⣦⣤⣀⠋⠀⣀⡤ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⣶⣯⣴⣿⣿⣿⣿⣿⡆⠀⠈⠁ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣿⣿⡏⣿⣿⣿⣿⣿⣷⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⣿⣿⣀⣌⢿⣿⣿⣿⣿⡀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⣿⣿⣿⣿⢈⣿⣿⣿⣿⡇⢀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠈⠋⠁⠀⣼⣿⣿⣿⣿⡇⢸⡄ ⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⣿⣿⠀⢰⣿⣿⣿⣿⣿⠁⢸⡇ ⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⣼⣿⡏⠀⣼⣿⣿⣿⣿⣿⠀⢸⣇ ⣿⣿⣿⣿⣿⣿⡟⠀⠠⠀⣿⡿⠀⠀⣿⣿⣿⣿⣿⣿⠀⢸⣇",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bure-nya~",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This shit sucks 🔥🔥🔥",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⢀⣀⣀⣀⡀⠄⢀⣠⡔⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣰⢿⣿⣿⣿⣿⣿⣿⣷⡆⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣻⣟⣿⣿⡿⣟⣛⣿⡃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣾⣿⣷⣿⣷⣿⣿⣿⣷⣽⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⡟⣟⣿⣿⠺⣟⣻⣿⣿⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡝⠻⠵⠿⠿⢿⣿⣿⢳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣧⠈⣛⣛⣿⣿⡿⣡⣞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡧⠄⠙⠛⠛⢁⣴⣿⣿⣷⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⡿⠟⠉⠄⠄⢠⠄⣀⣠⣾⣿⣿⡿⠟⠁⠄⠈⠛⢿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡟⠉⠄⠄⢀⠠⠐⠒⠐⠾⠿⢟⠋⠁⠄⢀⣀⠠⠐⠄⠂⠈⠻⢿⣿⣿ ⣿⣿⣿⠋⠁⠄⢀⡈⠄⠄⠄⠄⠄⠄⠄⠄⠁⠒⠉⠄⢠⣶⠄⠄⠄⠄⠄⠈⠫⢿ ⣿⣿⡟⠄⢔⠆⡀⠄⠈⢀⠄⠄⠄⠄⠄⠄⠄⢄⡀⠄⠈⡐⢠⠒⠄⠄⠄⠄⢀⣂ ⣿⣿⠁⡀⠄⠄⢇⠄⠄⢈⠆⠄⠄⢀⠔⠉⠁⠉⠉⠣⣖⠉⡂⡔⠂⠄⢀⠔⠁⠄ ⣿⡿⠄⠄⠄⠄⢰⠹⣗⣺⠤⠄⠰⡎⠄⠄⠄⠄⠄⠄⠘⢯⡶⢟⡠⠰⠄⠄⠄⠄",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "⠀⠀‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎⠀⣠⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢰⡿⠋⠁⠀⠀⠈⠉⠙⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⣿⠇⠀⢀⣴⣶⡾⠿⠿⠿⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⣀⣀⣸⡿⠀⠀⢸⣿⣇⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣾⡟⠛⣿⡇⠀⠀⢸⣿⣿⣷⣤⣤⣤⣤⣶⣶⣿⠇⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀ ⢀⣿⠀⢀⣿⡇⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⠿⣿⡏⠀⠀⠀⠀⢴⣶⣶⣿⣿⣿⣆ ⢸⣿⠀⢸⣿⡇⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⣿⡇⣀⣠⣴⣾⣮⣝⠿⠿⠿⣻⡟ ⢸⣿⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⣠⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠉⠀ ⠸⣿⠀⠀⣿⡇⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀ ⠀⠻⣷⣶⣿⣇⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿⣿⣛⣛⣻⠉⠁⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢸⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⢸⣿⣀⣀⣀⣼⡿⢿⣿⣿⣿⣿⣿⡿⣿⣿⡿⠀",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "⣿⣿⣿⣿⢟⣯⣵⣿⣿⣷⣦⣭⣶⣶⣶⣶⣤⣀⠀⠀⠀ ⡇⠹⣿⣿⢯⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀ ⡇⠶⢈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⣿⣿⣿⣿⣿⡄ ⣣⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣡⣿⣿⡟⣿⣿⡿⠟⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⢚⣹⣿⣿⠀⠀⣤⣤⡄⠀ ⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⢠⠀⠀⣼⣿⣿⣷⣿⡆⢻⡿⠀⠀ ⣿⣿⣿⡿⠟⠉⠀⠀⠖⠂⠀⠀⣶⠹⣿⣿⡿⠿⠃⡜⠁⠀⠀ ⠿⠛⣡⣴⣾⣿⣿⣿⣷⣄⠐⣼⣿⣷⣦⠀⠀⠰⠞⠀⠀⠀⠀ ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢿⣿⡿⢃⣴⣦⣤⣀⠋⠀⣀⡤ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⣶⣯⣴⣿⣿⣿⣿⣿⡆⠀⠈⠁ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣿⣿⡏⣿⣿⣿⣿⣿⣷⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⣿⣿⣀⣌⢿⣿⣿⣿⣿⡀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⣿⣿⣿⣿⢈⣿⣿⣿⣿⡇⢀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠈⠋⠁⠀⣼⣿⣿⣿⣿⡇⢸⡄ ⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⣿⣿⠀⢰⣿⣿⣿⣿⣿⠁⢸⡇ ⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⣼⣿⡏⠀⣼⣿⣿⣿⣿⣿⠀⢸⣇ ⣿⣿⣿⣿⣿⣿⡟⠀⠠⠀⣿⡿⠀⠀⣿⣿⣿⣿⣿⣿⠀⢸⣇",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pussy bitch grow up",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Franky? From One Piece?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Penis",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

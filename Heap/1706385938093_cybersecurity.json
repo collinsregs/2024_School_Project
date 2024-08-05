@@ -1,0 +1,818 @@
+[
+  {
+    "id": "t3_1ach39f",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1ach39f/risk_management/",
+    "title": "Risk management",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Does your company have policy/standards?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Yes they do",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It depends on what industry your company is in plus what are the ways you're company makes money.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Construction , we sell SaaS",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acixrq",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1acixrq/why_use_arpspoof_when_you_can_just_use_monitor/",
+    "title": "Why use arpspoof when you can just use monitor mode?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acf7sf",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1acf7sf/1_year_to_go_tips_on_jobs/",
+    "title": "1 year to go tips on jobs",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acbvoy",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1acbvoy/ideas_for_masters_degree_research_project/",
+    "title": "Ideas for Master’s degree research project?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I made a suggestion to someone else at https://www.reddit.com/r/cybersecurity/comments/192y15q/looking_for_opinions_and_input_regarding_a/khb5v5q/?context=8&depth=9.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Check out Ecole Polytechnique France they have a lot of research and a Master in Cybersecurity",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac96pd",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1ac96pd/can_anyone_help_with_c2c_zeus_trojan_controlling/",
+    "title": "Can anyone help with c2c Zeus Trojan controlling? (School project)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Google 'ZeuS Admin Panel' if you haven't already, seems like you're missing half the picture. (The command and control (c2))\n\nAlso, if you're googling there was so much trash posted about Zeus, amend your searches with site:GitHub.com to find some decent examples.and filter out the noise.\n\nGood luck with your project.",
+        "points": "15 points",
+        "children": [
+          {
+            "comment": "Thanks you. There wasn’t much on google for it but I got it all set on the victim just having a hard time issuing the commands on the control panel",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You should presumably have an admin panel running on the controller that the victims are talking to. Ignore the idiots who seem to think they are critiquing a professional redteam exercise",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "it’s the xampp control panel connected to MySQL database. I see the “I think” admin panel that shows list of bots and says scripts under them. I’d show pic but don’t see a pic insert",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What kind of school are you going to?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "College. The class is a security class that participates in hackathons",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Ah, I don’t often see school used for college or university studies, so I was wondering what kind of high school you were going to lol.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Lol",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Its like 10 year old. Why do you want to use this shit?",
+        "points": "-15 points",
+        "children": [
+          {
+            "comment": "He literally wrote in the title it’s a school project?",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Read the description lol school",
+            "points": "7 points",
+            "children": [
+              {
+                "comment": "Use things that are modern and your teacher should know these things.",
+                "points": "-22 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Op is script kiddie and has found a bunch of Win7 machines he wants to pwn. \n\nBut, if it's for \"school\" it's okay. Sure",
+            "points": "-14 points",
+            "children": [
+              {
+                "comment": "You guys are so weird lmao. Guys just asking for help with a school project and you go straight to calling him a script kiddie. Grow up",
+                "points": "16 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Teacher literally gave us the malware on protected environment and told us config it and make the bot shut down the victim. The next project is installing snort. You guys must have never went to school.",
+                "points": "11 points",
+                "children": [
+                  {
+                    "comment": "most people probably just didn't go to a cool school that does stuff like this.\n\nme included, so I had to install my own RAT on school systems to get some experience...",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Wow so educated",
+                    "points": "-26 points",
+                    "children": [
+                      {
+                        "comment": "Wow omg I’m on forums to troll girls won’t let me talk to them in life I’m gonna go online to troll",
+                        "points": "12 points",
+                        "children": [
+                          {
+                            "comment": "Actually married with multiple kids, six figure job, and a masters degree 👌🏿\n\nAlso, here’s a tip, if you’re in “college” learn how to communicate in a way which doesn’t make you look like you’re in junior high lol.",
+                            "points": "-5 points",
+                            "children": [
+                              {
+                                "comment": "Zero self awareness",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "That is a great tip thank you",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Some ones mad and jealous that they havnt had the opportunity to learn this instead of watching network chuck, don’t forget your coffee and good luck OP, wish I could help ya",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "Imagine going on an anonymous website and making fun of someone who has made hundreds of thousands of dollars from helping and teaching people for free just so you can get a few updoodles.",
+                            "points": "-3 points",
+                            "children": [
+                              {
+                                "comment": "Imagine going on an anonymous website to troll someone asking a simple question for help on something, yet you “help” people for free. Why even comment something stupid? You do that to people asking for advice at your professional job too?",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "He made an arrogant self-righteous comment and I was simply responding to the state of his education.",
+                                    "points": "-1 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Lol, the reddit police is here😂😂",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "You’re dumb",
+            "points": "-11 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just uninstall everything and install it correctly Here's the GitHub repo https://github.com/Visgean/Zeus?tab=readme-ov-file",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac8a8y",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://kyivindependent.com/military-intelligence-claims-powerful-cyberattack-on-russian-it-company/",
+    "title": "Military intelligence claims cyberattack on IT company providing services to Russian defense industry",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hello, everyone. Please keep all discussions focused on cybersecurity. We are implementing a zero tolerance policy on any political discussions or anything that even looks like baiting. This subreddit also does not support hacktivism of any kind. Any political discussions, any baiting, any conversations getting out of hand will be met by a swift ban. This is a trying time for many people all over the world, so please try to be civil. Remember, attack the argument, not the person.\n\nI am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac7li9",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1ac7li9/question_on_the_size_of_soc_teams/",
+    "title": "Question on the size of SOC teams",
+    "points": null,
+    "comments": [
+      {
+        "comment": "As a mssp we got around 100 analysts working round the clock. Prolly 80 in the night, 120 during day.\n\nBut it really depends on the setup. True 24/7? Or just on call for high severity? SLA and escalations n all that",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Let's say on call for high severity.\n\nIf I may ask, how many SIEM systems does your company manage?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I would say about 50 customers in total.\n\nBut then there are small customers in the sub 4k users and then there are largest ones, and then very large ones.\n\nI would say average customer is in the 8k users size.\n\nBut we also offer xdr services and ndr services, not all got Siem.\n\nBut we are also a very large mssp. And remember there are also other roles than analysts.\n\nBut only our analysts are working around the clock. Siem operations are on call, so if a data source goes down or something.\n\nBut i guess if its just on call, you can get away with relatively few people.\n\nWe did a \"hostile takeover\" from a competitor. When reviewing the users who took the cases it was 2 people really, with 80% being one.\n\nBut that service was really bad... 15-18k users size. We prolly do 1.5 fte, but that is around the clock, not just 2 people covering 24/7 and we got a full team that covers many customers, so bit hard to put exact numbers. Because at the end of the day its about how much work a customer needs.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Wow, I would say we are about the same customer size but quarter of the staff 😞. However, we have a heavy focus on automation, tuning and optimization, so things stay generally low volume. Moving to cloud SIEM also allowed us to shed a lot of maintenance work.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This depends on several factors, but not limited to: (A) Response Time/SLA (B) 24/7 Service? (C) Quality of detection rules and automation",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would look at your tools, alerting load, processes and work backwards to scope the people requirements.\n\nFor A and B you could likely get away with a minimal staff with one T3 on call for high complexity incidents.\n\nSome organizations chose to bring in expensive tools in an effort to replace manual analyst efforts, but we don’t know what your situation looks like.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Minimal staff means 1 analyst or more like 5? No additional tools. Also 24h/7 but not \"true\", only on call for high severity",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You staff to cover your SLA/OLA (if it's 24/7 you staff one full role). Then you add a shift here and there based on need. You'll hit a point where you can see the team has more work than they can handle easily but not so much you'd add another head. Along the way you've been making improvements but this is your point where you tell the team that another head won't be coming and we need to tighten our processes.\n\nI target an 80-90% utilization with the left over time for admin and process improvement. That coupled with proper ticket metrics tends to get me the best results. Keep a close eye on your team, have regular 1:1s to understand if they're feeling like they're under pressure.\n\nOh, and if a contractor is a possibility you always add one of them first to see how that changes the dynamic. If it's too much manpower people will start to slack from boredom. If it's too little you can add another. Ride the waves for a year to see if it's seasonal/spikey/etc. then, again, staff accordingly. By then you should have a good feel for what's going on.\n\nThat's ideally.\n\nNormally, however, you get told what the staffing is or some arbitrary number is used (server count, seat count, whatever). It gets close but I find that approach usually leaves little time for admin/personal development and process improvement without adjusting SLAs.\n\nEither way, you take your shot and you adjust.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thank you for the information",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Just to chime in, because i much so agree with the utilization.\n\nThere is a need to keep people active, not overworked. I think 90% is too high, because they also need to train, certs and improve.\n\nTalk about service/work improvements, how automations we need. What enrichments, knowledge sharing etc.\n\nYou also want to keep your people, and not just churn through them.\n\nI think we have a 3 month training before they even see customer environments. And 6 months before they are let loose.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I prefer 80 to 85% but consulting you get a lot of 90% expectations unless you want a bonus then it's 110% or more billable. (nope, not joking)\n\nI dumped that org after 2 months. I work to live.\n\nOn top of what you said, if some big hat appears covered in ants and on fire...I don't want my team so overloaded that we can't immediately take care of whatever without being overwhelmed and ruining our workflow/queue.\n\nHaving a buffer allows us to flex without breaking. Something high utilization shops can't seem to figure out. Your team is already at 100% if you push more you burn them out, force things to get dropped, it makes a bigger mess and you lose more money.\n\nNo. Work. Harder.\n\nSure Ivan...sure.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Our consultant goal is 66%\n\nAnd yeah, fully agree one the point of you need the head room for a spike. A big zero day, a large compromise etc puts extra load on people, you need to capacity to deal with that.\n\nSimilar to CSIRT, you dont sign retainer with more than you can cover.\n\nWe remove the CSIRT contact options from out website when they are at max load",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "The heck are you people thinking?\n\nAll that's going to do is make people want to work for you, improve their quality of life, reduce turn over, and guarantee loyalty when things get tough. And worse, you're going to deliver a quality product to your clients. I mean...do you even modern business?\n\nYou'll never burn through the human capital you need to in order to hit an artificial quarterly goal...\n\nC'mon man...use your head...\n\n​\n\nAlso, love that...great approach.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "We are just based in Europe ;) People still leave, grass is greener thing.\n\nBut we got a lower turnover than others.\n\nIt will be interesting now that blue voyant is looking more into Europe. But we also start to look into US, soo...\n\nAt least im happy here, and the pay is good",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "Oh, well that explains it. LOL. Of course it's Europe.\n\n*** cries in US dollars ***",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "start with four at least and grow from there",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "6 for 24/7, where two covers the day shift except weekends where you 2ppl do 2 12h shifts",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac7a4d",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1ac7a4d/do_you_recommend_any_ptaas/",
+    "title": "Do you recommend any PTaaS?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Out of curiosity, what does PTaaS even mean? I would assume all pen tests are delivered as a service. Does PTaaS just imply an ongoing subscription?",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Typically aaS is associated generally/generically with cloud stuff. Like Function, Software, Infrastructure, or Platform as a Service.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Penetration Testing as a Service",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "PTaaS stands for Penetration Testing as a Service",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not sure of edgescans pricing but could look into them",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How much are you prepared to pay? What is your budget? That will significantly impact the recommendations you will receive.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://packetlabs.net",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "[removed]",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": true
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": true
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "No recommendations on PTaaS, but you'll typically find providers in that space charging anywhere from $4,500-20,000 USD depending on the size. BugCrowd is an example and lists their pricing publicly.\n\nAs a word of caution, PTaaS (Pentesting as a Service) is a fancy name for a two-sided marketplace that connects you with gig-work hackers, because of this quality will vary widely.\n\nConsidering your low budget, there may be some other more budget friendly options to look at. Connecting directly with a budding researcher is one way to go, another is looking at DAST and SAST tooling to help identify some of the low-hanging fruit a PTaaS provider will find. OpenVAS, Snyk, Semgrep, Dasterdly, and OWASP ZAP are all some good low cost or free option to explore first.\n\nLastly I'll say that smaller boutique firms like the one I founded (/u/GlitchSecure) probably aren't a good fit since we typically work with slightly larger software companies who value quality over saving a buck. That said, I know a few security consultants who don't work for us I'd be happy to recommend that do good work and are more affordable than typical PTaaS.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We offer PTaaS using our platform, but not in a bug bounty style, so potentially outside your budget. Also there's a bunch of contracts that need signed, terms agreed and payments made before you can request a test.\n\nThis gives access to qualified and skilled testers though, with robust methodologies for high levels of assurance.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "maybe check out Cobalt",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac5b4n",
+    "subreddit": "u/lazyturtlegames",
+    "dataType": "link",
+    "dataUrl": "https://store.steampowered.com/app/2797220/Necroforge",
+    "title": "Unleash your dark side in this Hexen and Heretic inspired game! Wishlist now on Steam!",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1abtfir",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1abtfir/is_hacking_getting_boring/",
+    "title": "Is hacking getting boring",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Your concerns about hacking and its reliance on tools are more or less valid.\nBut it is important to recognize the distinction between different roles in cybersecurity.\nBeing a hacker, red teamer, or pentester or even a blue teamer involves different skill sets and attitudes. Imho being a hacker is about having a passion for creatively solving or exploiting problems in unique ways, which often requires a deep understanding of systems and networks.\nI think it's fair to say that the availablity of scripts and tools has made certain aspects of hacking more accessible. Still i believe this doesn't diminish the value of technical skills like programming. These skills are crucial for understanding and customizing tools, as well as developing new methods when existing tools might fail. The art of hacking isn't just in using scripts or tools imo but it's in adapting these tools/scripts to fit specific scenarios. And this requires a solid foundation in IT and various technical skills (that's btw. also the reason why people always recommend to start in a service desk position because you learn a lot of problems and how to troubleshoot those).\nIf you're considering a shift towards programming, that is of course a valuable skill and can help you as a hacker or in cybersecurtiy in general.\nWhether you choose to pursue programming or remain in the hacking sphere, the key is continuous learning and adapting. Your (technical) skills will always be an asset, no matter the path you choose.\nI think the moment you realise that hacking satisfies you might be a later point in the journey. Before that, you might have to struggle with the usual tools and scripts to build up a basic understanding.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Yes thanks also i read as tools get better security gets better so tools cant keep up so there is always going to be a need for technical skills and also you can only get so far by unsing tools am i right and i also need ur opinion for the first point",
+            "points": "-5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The large majority of people who work in cybersecurity aren't hackers. It's just the only thing people new to the field seem to care about. It's a bit strange you want to leave the whole field because you think \"hacking\" could be boring. If your only interest in the field of cybersecurity is getting to \"hack\" then you probably should leave the field anyways.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://pocorgtfo.hacke.rs/pocorgtfo00.pdf\n\nPerhaps you are just in a slump, neighbor.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Wdym",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "I mean, the crux of your argument is that there is a tool for everything.\n\nMY take on that is, there is a tool for everything YOU know about.\n\nMeaning, you hear about things when tools are released.\n\nMeaning, you aren't building your own tools.\n\nMeaning, you are bored using other people's tools.\n\nFurthermore, you are bored not finding a problem that NEEDS a tool.\n\nThat is very understandable. Perhaps you should give building your own bird feeder a go?",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Id look at it from this perspective - you currently see it as a negative but in physical labor jobs when new tools are developed it drastically impacts performance and ensures people last longer. Now obviously us sitting at a desk aren’t doing hard labor for 8-12 hours but each tool helps us do the job better/faster - and you having a development (programming) background gives you a unique opportunity to create new tools or automation to make people’s lives easier. As you stated now days its easy to find open source scripts to run malware - but why not also publish ways to prevent it, block it or create tools to detect/block it automatically? Yes IDS/IPS exists but lets be real it doesn’t get everything so you being skilled should mean you find the things it misses and help either develop new tools to do it or fix your own configurations to catch it. The catch here is also dont screw us all out of a job like some software engineers did by automating everything - there is a limit to this that shouldn’t be crossed.\n\nEvery field gets boring at some point but just shooting some questions, thoughts, and ideas your way.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1abu8er",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1abu8er/grc_product_manager_moving_to_it_risk_management/",
+    "title": "GRC Product Manager Moving to IT Risk Management",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1abzchn",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1abzchn/csrf_assignment_guidance/",
+    "title": "CSRF assignment guidance",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ac2fom",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1ac2fom/i_need_help_with_an_spf_record/",
+    "title": "I need help with an SPF record",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Go to https://DMARCtester.com and send an email. Share your results at the end (share button), and we can tell you what needs to be done.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "I did this, but it started creating records for my domain, which only has half the variables I have to deal with, for the website I need help with.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Get SPF and DKIM running, then worry about DMARC.\n\nSPF should be a small text change in your root DNS for your domain. Probably wherever your website is hosted, or perhaps your e-mail, or perhaps O365 is where this lives.\n\nDKIM should be a similar change involving asymmetric cryptographic keys in DNS, although this implementation gets trickier if you use any third party mail routing services.\n\nDMARC is a similar change in DNS, just ensure you have somewhere setup for the reports to be sent to. You can work on parsing them out or use a service to report on deliverability.\n\nThat's it. I'm sure Google would provide a plethora of resources to help you get this done, no real need to invent the wheel. It's more of an administration question than it is security.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "SPF should be a small text change in your root DNS for your domain\n\nI understand it as adding a txt record to the DNS registrar database where the domain name is registered. But I'm a bit confused.\n\nThe domain name \"myserver.com\" is registered at hover.com. The name servers belong to Rackspace which was bought out by Liquid Web. On the old Rackspace server is a CNAME record pointing to mx2 emailsrvr.com. The email that will be used to send email is email@myserver.com.\n\nSo if this doesn't belong in Reddit forum, would you be able to point me to the right one where I can get help with this?\n\nThank you.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "okay I've run DNS Authentication from zero to reject before, I'm a bit rusty and I'm not sure I have all the information I need to help you right now. I will however provide some steps to get you started with DNS authentication, hopefully I'm not totally barking up the wrong tree!!\n\nSet up a mailbox for reporting\n\nfirstly, set up a new email account called dmarc@[domain].com replace with your domain.\n\nPut DMARC Into Report Only\n\nThen enter the following into your DNS:\n\n_dmarc.[domain].com IN TXT v=DMARC1; p=none; rua=mailto:dmarc@[domain].com; ruf=mailto:dmarc@[domain].com; fo=1;\n\nThis will place DMARC in report only and begin directing aggregate and forensic reports into your DMARC mailbox so that you can see what mail is being sent on behalf of your domain. Aggregate reports contain basic information on the authentication results, where forensic reports contain much more detailed information, including message content. Few servers send forensic reports.\n\nSPF\n\nThere's \"two\" mail addresses you need to be aware of, the header address (the address you see in the email client) and the enevlope address (the address that you don't typically see, and is used for mail routing)\n\nYour domain (hypothetically) is myserver.com\n\nSPF will be authenticating based on a set of sending servers which are authorised by you to send mail and partially on the mail envelope address.\n\nIf you send mail from [bob@myserver.com](mailto:bob@myserver.com) (header address) the mail envelope address may be [bob@010134mailserver.gmail.com](mailto:bob@010134mailserver.gmail.com) and the sending server will belong to gmail.com.\n\nin this case, your SPF record could look like:v=spf1 include:_spf.google.com a ~all\n\nwhat this SPF record will do, is include a lookup for google's SPF authentic senders, and your domain's A record in DNS. Anything that is sent that does not come from a server matching one of those two lookup mechanisms will be soft-failed (denoted by the ~) do not place a plus (+) before the all, as this will allow any sending server to authenticate on your domain's behalf with SPF.\n\nTo authenticate additional sending servers with SPF, you can analyse mail headers from legitimate mail and look at the envelope address' domain. Take the domain and use mxtoolbox to find the SPF lookup you need to include:https://mxtoolbox.com/SuperTool.aspxexample:\n\nDKIMDKIM can be a bit more painful, typically it will involve reaching out to any service providers and requesting a DKIM public key and requesting they enable DKIM signing.A DKIM key will then need to be placed into DNS and can be done in a few ways.A service provider may give you a TXT record with a single public key, such as\n\ngmail1._domainkey.mydomain.com IN TXT DKIM v=DKIM1; k=rsa; p=[key]\n\nMimecast typically uses singular TXTs and if you have access to the admin console you can follow this guide to authenticate mail from mimecast with DKIM:https://community.mimecast.com/s/article/email-security-cloud-gateway-configuring-dns-authentication-policy\n\nOr alternatively, in the cases of Microsoft and Salesforce, you may be given two CNAME records such as:selector1._domainkey.mydomain.com IN CNAME selector1.01048.microsoft.com\n\nselector2._domainkey.mydomain.com IN CNAME selector2.01046.microsoft.com\n\nUse of CNAME records allows for the service provider to rotate the DKIM keys without needing you to change our DNS records.\n\nOnce you're confident all mail is not failing DMARC, you can begin to look at enforcing DMARC using quarantine (which will either hold the message in the case of an enterprise SEG, or deliver to junk in a personal account) and then to reject (which will block the email)",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thanks for your reply. But it's complicated. The IP of myserver.com points to liquidweb.com nameservers. But the nslook up shows there is a redirect to Rackspace (that has been bought by Liquid Web) where the website really is, and a CNAME record points to this mail server: emailsrvr.com, which I assume is on Rackspace.\n\nnslookup shows: Found a referral to rwhois.liquidweb.com:4321.\n\n%rwhois V-1.5:003eef:00 rwhois.z.int.liquidweb.com (by Network Solutions, Inc. V-1.5.9.5) %referral rwhois://root.rwhois.net:4321/auth-area=.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "okay just for clarity are you able to DM me a mail header snippet? it could be that you can include a single SPF lookup mechanism in your DNS which will capture all. I'm happy to take a look and see if I can provide a recommendation, I usually prefer to look at the mail headers from a sample email if one is available. (Please be advised I am only on reddit on weekends)",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Hello. It appears as though you are requesting someone to DM you, or asking if you can DM someone. Please consider just asking/answering questions in the public forum so that other people can find the information if they ever search and find this thread.\n\nI am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1abuqv1",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1abuqv1/learning_python_for_siem/",
+    "title": "Learning Python for SIEM",
+    "points": null,
+    "comments": [
+      {
+        "comment": "NO it would not\n\nYou can learn Splunk for FREE - https://www.splunk.com/en_us/download.html\n\nhttps://www.splunk.com/en_us/training.html\n\nhttps://www.splunk.com/en_us/blog/learn/splunk-cheat-sheet-query-spl-regex-commands.html\n\nIf you know python or want to learn python that's fine, but its not going to help you with an SIEM solution unless you have already learned how to use that particular platform\n\nIf you already know python check out - https://olinux.net/wp-content/uploads/2019/01/python.pdf\n\nIf you need to learn python, then check out - https://online.umich.edu/series/python-for-everybody/ and https://www.py4e.com/",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "This is helpful, thank you! I'd likely use it to deploy/build SIEM and SOAR solutions. I'm definitely trying to get the biggest bang for my time. I'm at the leadership lvl, but want to have some hands in knowledge in my back pocket. If I have to learn a SIEM specific language, Splunk seems to be the most valuable.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "IMO you should learn Regex insted of Python.",
+        "points": "19 points",
+        "children": [
+          {
+            "comment": "Why's that?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Regex for the ability to create/modify parsers that are used for data. If you were moving toward automation and not SIEM then python would be a good move.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I was initially consider python for SOAR, but SIEM work seems to still be more commonplace. Clients appetite for SOAR still isn't as high in comparison to SIEM.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "as you said, you don’t use python in a siem, so unless you’re trying to create custom soar playbooks or modifications for a specific app, no need to learn python. but each SIEM has their own query language, so personally, I would learn, spun query language, and nothing further.\n\ni agree, learn regex, but to be honest AI does it so easily now a days it’s kind of an obsolete skill lol",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "Awesome, yea SIEM will go further IMO so I'll likely go's tih Splunk. Last question. I've taken some Splunk trainings and have been around it for years. Is there a process to work with SPL query language vs trying to know how to write all the commands/etc?",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "im not understanding ur question; u would start by understanding Splunk QL syntax, and begin writing small queries; stuff like how to query by vendor, parsed fields etc. Then u advance by combining it all in 1 query.\n\nwhat do u mean commands? i assume u mean SPL query?",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "You nailed it. Yea, learning the Splunk QL syntax, then writing small queries. I get overwhelmed a bit by the longer use case queries, a good reminder to start small.",
+                                    "points": "0 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Most SIEMs use a flavor of Structured Query Language",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "Interesting, so learning it would lay a base.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Yep! Learn the basics of SQL and you should be able to piece together these other flavors. If you want to target certain SIEMs on your resume and stand out learn something like Kusto Query Language, which is what Microsoft Defender uses.\n\nAlso this has changed since I've been in front of a SIEM but it seems like there are some Python scripts out there to do KQL -> SQL these days.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Possibly, but not for the SIEM itself. Some SIEMS have client agents that send data directly in and Python could be used to parse data before ingestion. But, for using a SIEM no they usually have their own language.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don’t mess with SIEMs but do use Python for data analysis of results from several tools we have. Frankly, data visualization in existing scanning tools is often terrible but if they give me good data in csv it Excel I can still work with it",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1abttaw",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1abttaw/darknetblackhet_osint_monitoring/",
+    "title": "Darknet/blackhet OSINT monitoring",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Yeah, but most breaches are documented on clear web sites.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Fair enough, but I'm interested in just seeing how they communicate, post their exploits & buy/sell etc. I have no intention of doing anything unethical, I just find the whole cybercrime market fascinating, and I'm interested in a career in CTI.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I get paid to monitor the Dark web. Go to college and do dark web research in a controlled environment or join the military/three letter org and learn to monitor the dark web with ethical oversight.\n\nIt isn't a healthy place to be. Honeypot and pervs are everywhere, AND you will click on Rus/Chinese APT malware links.\n\nIt isn't a spectrum of bad behavior in the forums. It's full of criminals.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "Fair enough, thanks for the reply and the word of caution.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "This is an aspect of information security on which I'm poorly informed.\n\nI'm also curious, as an individual is there anything I can do to remove my personal exposure from Dark web sites? I pay for credit monitoring and my service notified me that some of my ID/PW combos have been discovered in known data breaches.\n\nI've since retired those passwords and no longer use them for anything but the email addresses are still active. Is there any sort of service that can scrub that info or should I just start fresh with all new email accounts, 16 character randomized passwords for everything, etc.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Not really. The data just gets passed and reposted in attempts to re exploit the victims.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1abrjmu",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1abrjmu/stay_or_go_advice/",
+    "title": "Stay or go advice?",
+    "points": null,
+    "comments": []
+  }
+]

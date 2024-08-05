@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "t3_1bhbcmc",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bhbcmc/career_help/",
+    "title": "Career Help",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgwwqh",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bgwwqh/losing_hope/",
+    "title": "Losing hope",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhp5a3",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bhp5a3/linux_level/",
+    "title": "Linux level",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhp0gd",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://therecord.media/china-hacking-volt-typhoon-response-nsa-rob-joyce",
+    "title": "US is still chasing down pieces of Chinese hacking operation, NSA official says",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhnxvh",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://samglambert.substack.com/p/the-one-question-every-developer",
+    "title": "The one question every developer needs to ask themselves",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Tl;dr “Can this be done? If so, has it been done before?”\n\nThe article isn’t really one question.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhnk3v",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@marcel.rickcen/ics-ot-penetration-testing-of-siemens-simatic-s7-1200-a-beginners-guide-4488e35e96a1",
+    "title": "ICS/OT Penetration Testing of Siemens Simatic S7–1200: A Beginner’s Guide",
+    "points": null,
+    "comments": [
+      {
+        "comment": "S7-1200 is an incredibly common model PLC found in an amazing number of process automation setups. And yes \"hacking\" this is really that simple.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well, this looks more like a metasploit guide.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhn068",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/maritime/comments/1bhmhar/what_is_the_current_situation_with_maritime/",
+    "title": "What is the current situation with maritime cybersecurity?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhmjvh",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bhmjvh/mintlifys_disclosure_about_their_recent_incident/",
+    "title": "Mintlify's disclosure about their recent incident",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhko5u",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://jads.blog/generative-ai-shifting-the-paradigm-with-copilot-for-security-c5692d305ed4",
+    "title": "Generative AI: Shifting the Paradigm with Copilot for Security",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhk74k",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://vandanpathak.com/kernels-and-buffers/return-oriented-programming-buffer-overflow-part-1/",
+    "title": "Return Oriented Programming Buffer Overflow exploitation Part 1 - In Lab Exercise",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhjuym",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bhjuym/how_to_score_nonsensitive_information_leakage/",
+    "title": "How to score \"non-sensitive information leakage\" using CVSS",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Is there any reason why Integrity and Availability are both high?\n\nIt sounds like this is strictly a confidentiality breach, and not a big one.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "The way I see it is that an attacker would need access to the system through one of the important roles (thus the AC:H/PR:H), idk maybe using session hijacking or something -- which if succeed then the attacker can do many things to damage the integrity and availability heavily.\n\nLol, I'm honestly confused on how should I think or assume on both the attack and impact. How about you, how would you score it?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Let me know if I'm understanding it wrong.\n\nBut going off the two vulnerabilities, it seems like the issue is that these things are publicly accessible (like the information on the roles). Using session hijacking to then see the Admin Only manual isn't too relevant, because that would be leveraging a separate vulnerability to gain the access.\n\nYou might want to look at the data that is publicly accessible, I'm not sure how deep the question goes, but I would be looking at the classification of the data (public, internal, confidential etc).\n\nAlso from my understanding, the Attack Complexity might not be high, since it might just be feasible via the right Google search.\n\nAlso the PR rating might also be low, since you were able to access data without having any privileges at all.\n\nThat's just my humble opinion, let me know if I completely misunderstood the vulnerabilities you put forward :D",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Also just read the last paragraph of your post. I would agree that looking at \"worst possible outcome\" is definitely a mistake, and one that make a lot. It's a lot easier to reign yourself in when you have a team of subject matter experts giving their 2 cents.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "So in other word, scoring CVSS should be created with the mindset of \"how can this vulnerability be done (as it is) and what the impact would be\", and not \"how can someone use this vulnerability, leveraging it by combining it with something else, then what's the worst impact that might come\". Is that correct?\n\nUsing the first mindset, I can see how AC and PR should be Low. And just the same, then the Integrity and Availabity impact should be None, right?\n\nAnd about the leaked data, I'd say that its just internal and not confidential. The manual book just consisting of the roles available and what each can do, while the indexed error page is just showing the absolute path of the related file where the error happens. With that, should I score the Confidentiality impact with None or Low?",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "I'd say that's a perfect way to break it down. Assess each vulnerability in a vacuum. Make your hypothesis \"if this were to be exploited on its own, what impact will it have\" and as you saw, it was just some internal documents.\n\nIntegrity and Availability will definitely be \"None\" as there is no evidence that the attacker can change the data (integrity) nor is there evidence that they can take the website down via this way (Availability)\n\nSo, if this data was classified as Internal in the organisations policy, I would consider the impact of confidentiality to be Low at most. Something you should dig deeper and come to your own opinion on is, would you consider someone's role in their job to be strictly internal information? My own experience says no, as LinkedIn exists, and people can put their roles on there with no issues.\n\nBUT having the information on someones role and their tasks might be good information for someone to leverage in a social engineering attack.\n\nSorry if I just kinda steamrolled you with all that lol. Best part of infosec is collaborating and whatnot so I get carried away.",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "BUT having the information on someones role and their tasks might be good information for someone to leverage in a social engineering attack.\n\nI want to score the Confidentiality as None for a bit, but then this is exactly what I thought.\n\nAlso, if it's None, while Integrity and Availability are also None, then the score would be zero. Is it okay for a vulnerability to be scored zero? If I was a sys-admin, I will not pay attention to vulnerability with zero score lol.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "I think that's fine, most vulnerabilities in an org setting are wildly generalized, they then get assessed against the internal controls so there's chances vulnerabilities would be downgraded even further due to how locked down the system is.\n\nTo your point, a sys admin definitely would not pay attention to the vulnerability, and that's fine imo, you have assessed it, and the impact it will have based on the 3 main factors, and found it to be negligible. This also gives everyone space to work on more severe vulnerabilities.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "That clears my mind. You've been a big help. Thank a lot mate!",
+                                    "points": "0 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "I think you’re getting it! Each VULN gets scored individually. One thing I would say is that I’d take a real close look at the data exposed. If it has any type of credentials then that could be considered a SCOPE change being possible. Essentially, if the vulnerability is exercised, the adversary has the ability to affect other components.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "More question... Lets say that there's some data exposed containing credentials like database user-password, but I cant just use it because it needs to be connected from VPN, then how should I make the impact score?\n\nShould it be only Credential is High, or Integrity and Avalability are High as well (meaning that I had the assumption that I can somehow connect to the VPN and get in to the database)?",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Make no assumptions about the VPN. It’s a mitigating factor and should be considered when taking all of the vulnerabilities into account during the risk assessment. You look at each vulnerability individually when scoring them. It often helps to not take the system design into context until risk assessment and filling in the CVSS environmental values.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah, you’ve kinda said that the IMPACT of a breach is going to be high for integrity and Availability. Are they maybe low or none if this is strictly a confidentiality concern?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Hmm idk at the moment. I'm still trying to understand on what mindset should I have while scoring CVSS. Should I assume the worst or what, etc. Maybe you could kindly give your further opinion to the other comment I've wrote.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Another thing to point out.\n\n\"User interaction\" refers to making someone inside the org clicking a phishing link or something to start a remote code execution or something.\n\nSince this was accessible by the outside threat (you) without that, user interaction should be \"none\" :D",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Ah I see. That was because the thought of leveraging the attack using session hijacking lol.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhjhs6",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://www.forbes.com/sites/paultassi/2024/03/17/massive-apex-legends-hack-disrupts-na-finals-raises-serious-security-questions/",
+    "title": "Massive ‘Apex Legends’ Hack Disrupts NA Finals, Raises Serious Security Concerns",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Not sure if this suits r/cybersecurity but I thought this was incredibly interesting. I've never seen any type of exploit carried out this way - what appears to be remote code execution on various users devices during a large tournament? Crazy to see this happen live.",
+        "points": "73 points",
+        "children": [
+          {
+            "comment": "Definitely belongs here! Friends and I are huge Apex fans and we couldnt believe this happened! You’d think they would think they should have hosted this on the LAN or something instead.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "even LAN tourneys arent offline in apex 💀💀",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "There’s still active RCE exploits on Xbox 360 and they even store your login credentials in plain text in memory.\n\nMost older COD games on PC are RCE exploitable and they refuse to acknowledge it for years. CVE-2018-20817\n\nThere needs to be a security audit on these companies that run online services.",
+        "points": "58 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And people bitch and moan that they want an intrusive anticheat that works at the kernel level.",
+        "points": "53 points",
+        "children": [
+          {
+            "comment": "This is one of a handful of reasons I don't play Riot games.\n\nI remember all the post that came out when Valorant was released and FPS players got their first look at how insanely invasive Riot's anitcheat is.",
+            "points": "19 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Did you forget a /s? If this story is to be believed, the software is a piece of shit that allowed for remote code execution. Such poorly-written software should be nowhere near the fucking kernel lol.",
+            "points": "31 points",
+            "children": [
+              {
+                "comment": "Yes I was being sarcastic. It is a bad idea :).",
+                "points": "16 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Fun fact. Nowadays, kernel-level exploits against anti-cheats are no longer the common method in many games.\n\nNowadays there are DMA cheats (direct memory access) and AHK cheats (auto-hotkey scripts). AHK is in a kind of gray area and DMA cannot be detected by a kernel-level exploit if set up correctly, as it accesses the hardware directly.",
+            "points": "13 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have thousands of hours in that game until i quit playing it recently. EA has done a poor job with this game which at one point was bringing in a billion dollars a year. Instead of giving it the proper resources, they keep firing people and try to squeeze whatever money they can out of it. This is the result of that",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhi0bm",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bhi0bm/soc_homelab_email_security_and_edr_logging/",
+    "title": "Soc homelab- email security and edr logging",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Send a DM",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhcvfc",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bhcvfc/mentorship_monday_post_all_career_education_and/",
+    "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Not the usual question: Been in the industry for 7 years, have cissp and have worked as sec analyst/engineer and recently security manager. Company I used to work at previously have offered me a security architect role for significantly money, but my current company has countered with a similar offer but only in response to the offer I received. I don't feel like I am at architect level at this point in my career and am apprehensive of taking on either, but leaning more to the old role as it feels more merit based. Any advice for what to do in this situation, and what to focus on if I were to transition into an architecture role?",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Programming for IT resources. I took a Python class, but at the time, it was with the CS teacher, so we didn't code with it programming mind. Recommendations?\n\nCurrently, my long-term goals are cybersecurity BAS with CCNA and Sec+ while doing NCL/local cups and hopefully having a part-time job in IT/cybersecurity. What else should I be looking into?\n\nEdit: two quarters away completing my AAS in IT with an emphasis on cyber defender (honors).",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hey there, I want to get into IT-Security, especially ethical hacking and seek for guidance. More specifically I want to find out about my chances & options and get some help laying out potential paths. About me: - 32 years old - Got into coding at ~20: data scraping, API development, web dev, docker etc for hobby & research. - Been casually following IT-Sec since the same time out of curiosity (podcasts, talks, lurking at the CCC conference) - B.Sc and M.Sc. in Environmental Science and Sustainability Development. - One skill I want to point out: The Master was very much about System Thinking and bringing people from different disciplines together to solve problems. - Founded a small hotel+bistro with a group of friends. Was the \"IT-guy\" there for ~ 5 years (e.g. some networking, integrating all the vendor systems, full stack dev for website and internal service) but that was only part of my job. - Started HTB a couple of month ago and been chewing through my first boxes. - Always had a hacker mindset in the sense that I utilised things in unconventional ways and broke stuff to see what's inside. - Located in Hamburg, Germany. Want to stay here or further north. - I can sustain myself for a couple of month before I have to earn money again. The German social system would fund me a course+cert (or even a study program) if I get a job offering that requires this.\n\nMy dream position would be as part of a small team that conducts physical and technical pentests, OSINT and Social Engineering. I figure that Penetration-Testing is not a common entry-level position. So I am wondering - What is a good first position for my desired goal? - What certs should I have? - Should I aim to get the best cert before getting into work again, or to get a position as quickly as possible?\n\nFurther: - Should I focus on a specific penetration testing area or learn as much as possible to get a broad understanding?\n\nAny piece of advice is much appreciated! Thanks for your time and help!",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hello! I finished up the google coursera certificate which I used alongside college resources to prepare for the sec+ exam and was wondering if anyone knows of any other useful courses on coursera that are good study/practice for a useful cert or themselves hold credibility (as the google one was good for learning but not worth too much on a resume).Thanks in advance for your input!",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hi Hackers, I'm a Cybersecurity Engineer and have CEH master certificate. I have experience in API, Web, Mobile VAPT. So, I like to enter into Cloud security this year starting with AWS, I know Cloud is vast but I dont need to know everything about Cloud for pentesting right?(like to be a web pentester, it doesn't require to know every programming language)\n\nAs I can use tools like Scoutsuites and others. My question is what is the best roadmap to enter into cloud pentesting? (Any course, certificates, good platform recommendation will be so good)\n\nThank you in Advance",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Hi friend! Let's see if we can help.\n\nI know Cloud is vast but I dont need to know everything about Cloud for pentesting right?(like to be a web pentester, it doesn't require to know every programming language)\n\nI won't lie, this isn't the best elevator pitch I've ever heard for a prospective cloud cybersecurity employee. But hey, you're asking questions and want to self-improve (and that's always great!).\n\nThe whole deal with cloud-based security evaluations is that cloud ecosystems are complex and difficult to understand the many nuances that go into architecting them. AWS is particularly guilty of being challenging to grapple with even for folks that work with it regularly. There are many ways to go about performing the same action and - consequentially - it's quite challenging at times to determine if you're going about something the right way, let alone the secure way.\n\nThis is a long way of me saying, \"yes, you should probably know quite a bit about at least 1 Cloud platform if you expect to be consulted on securing it\". For AWS, I'd suggest going with Adrian Cantrill's training.\n\nAs I can use tools like Scoutsuites and others.\n\nSo can your clients - it's open source. Maybe I'm confusing the messaging here and I'll apologize upfront if this sounds reductive, but there's a distinct difference between \"vulnerability scanning\" and \"penetration testing\".\n\nThe former is trivial to perform and doesn't require much subject matter expertise; it's a point-and-click process, governed by rules, plugins, and automation. In most cases, it just catches obvious/egregious misconfigurations - though more often flags a litany of false positives to get triaged.\n\nThe latter requires subject matter expertise, an experienced hand, and wisdom. It's a methodological approach for prioritizing targetry, identifying vulnerabilities, and exploiting them in a timely fashion all with respect to the business interests of the client. Yes, scanning software is useful and you should use it, but presuming you can offload your capability as a penetration tester onto scanning software makes you redundant, costly, and ineffectual. More to-the-point, what happens when you encounter a client that's unwilling (or unable) to provide you the requisite deployment requirements for your scanners?\n\nMy question is what is the best roadmap to enter into cloud pentesting? (Any course, certificates, good platform recommendation will be so good)\n\nMore generally, I advise first focusing on 1 particular cloud platform upfront (e.g. AWS, GCP, Azure, etc.). Each of them has their own training pipeline(s) that you can consult for attaining familiarity with said platform. If you have clients already lined-up or in-mind, you might consider prioritizing their chosen cloud platform(s) - otherwise, just by the numbers, you should probably consider AWS or Azure.\n\nInitially, the process is not going to be unlike folks that want to be cloud architects/developers because you simply need to learn how the tools work. Eventually, the training should turn to be more security-oriented; this latter pivot should be more trivial for someone already working in cybersecurity like yourself.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Thank you so much friend. It will help a lot.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "[removed]",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Hi friend! Interesting question(s).\n\nI'll fall on a sword here and say I've never heard of any of these universities - besides Stockholm - as an American philistine. Even in the case of Stockholm U, I'm unfamiliar with their graduate school curriculum, let alone the Information Security department.\n\nHaving said so, I'll provide you the more general list of considerations for you to chew on:\n\nHave you performed an audit of all 3 programs of consideration? This should include, among other things, identifying the courses you'd take, surveying past syllabi, looking-up the staff and their published research (more notably, have they published anything recently), calculating the net cost of attendance, etc. This exhaustive process is quite intensive for even a single university, let alone 3 - so that work is on you to perform.\nHave you outlined more concretely a set of educational objectives you're looking to satisfy beyond merely wanting to integrate your love of the humanities with the more technical implications of cybersecurity? These should be clear and actionable, without differentiation based on institution/program (e.g. \"I want to be the leading author of a published paper in a peer-reviewed journal\"). Have you held up these objectives against the audit(s) you performed? How did the universities fair when compared against these?\nAs you can probably appreciate, no one needs to go to graduate school (outside of those aspiring to teach formally in academia); applying/attending is a very deliberate decision. Ergo, why - as someone who is currently an undergraduate in a related major area of study - are you considering this venture more generally (vs. these schools more narrowly)?\nYour chosen universities are all over the EU/UK map (i.e. it feels rather arbitrary); is location a factor at all in your decision-making process?",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bhbxyr",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bhbxyr/api_integration_security/",
+    "title": "API integration security",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Don't reinvent the wheel, take an established framework and tweak it if necessary. Given no details about your project, the most general answer is going to be OWASP API Security https://owasp.org/www-project-api-security/",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Data at rest. Data in motion. Data in use. Data for disposal. Confidentiality, integrity, availability.\n\nSo. How is the data at rest protected? In transit I assume tls 1.2? What about in use, how are the endpoints secured? What standards? When and how is the data disposed of? How are you ensuring only authorized parties have access? How are access and changes logged and audited? What happens if the endpoints get swamped? How are you insuring availability?\n\nIf it were me I'd start by asking SOC audit questions really digging into the questions above.",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "I don't think this is good advice. SOC is not designed to answer the technical details of API integration security, unlike something like the OWASP API security project.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Thank you.\n\nWould it be possible for you to more a list of SOC audit questions? I will share with the third-party company as vendor risk assessment.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Ok lets go higher level on this. If you had an asset worth $1000, but it cost $1m to protect, would you? Of course not. Security has to align with business objectives, and has to know the value of the asset you're protecting.\n\nHigh level, C suite provides policies that say things like \"comply with all relevant laws and industry standards\" or \"be an industry leader in NIST compliance!\", etc, etc. These statements are aligned with desired capabilities and messaging. Mid-level (CISO to ISMs) information security managers are concerned about ensuring policies and standards are in place. Operational security then ensures those policies are followed and those standards are enforced. If you're at the endpoint of that chain, operational security, and you're trying to create a policy on API data - there's a much larger problem.\n\nSo start by identifying what standards and policies you actually need around this data. To do that you need to evaluate the value and sensitivity of the data. if its just a timestamp then maybe its not worth protecting. If its customer data, probably should protect that. If it's customer payment data, yea - you have PCI DSS standards to follow. This is the kind of stuff that a SOC 2 audit would look at - what controls are in place to meet the required standards. It'll be different in each organization, and with each vendor, and with each data set.\n\nSo the real question is - what kind of standards do you need to apply to the data in question?\n\nBefore proceeding, talk with your manager and see how far down this rabbit hole he/she/they/other wants you to go. Look into PCI DSS and NIST SP 800-53. Fine tooth comb these things. Then perform a gap analysis - where you are now, versus where you should be per standard. Perform a total-cost-of-ownership to risk-adjusted reward analysis and present your recommendations accordingly. This process is not simple and may generate hundreds of recommendations. Some will be things like account controls, or code controls, or encryption controls, etc. Its a wide wide range of items.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Ever hear of chat gpt ? Not trying to be a wise ass but it's great at generating queries like this.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Can we get reliable answers from it? I have used chat gpt when I was stuck with some reg ex while coding and the result yielded was not helping.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Yes. Gpt 4 has accurate answers. Just as accurate as random people on Reddit I'd reckon.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Secure the key on server. Vault it and do not hard code in source code.\n\nIf there is client side integration better to check for cross domain issues like postmessage origin checks.\n\nI would recommend pentest on the integration",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Use a gateway.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bgz2hd",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bgz2hd/security_assessment_help/",
+    "title": "Security Assessment help",
+    "points": null,
+    "comments": [
+      {
+        "comment": "... me trying to look like I knew what I was doing\n\nWelp junior, ya' dun f**'d up! You should have been honest and said that you don't know. This is your first lesson.\n\nAs for how to properly conduct a Security Assessment - that's involved. Have a look at the following:\n\nhttps://vapt.in/\nhttp://www.pentest-standard.org/index.php/Main_Page\nhttps://owasp.org/Top10/\n\nThe how is too long to explain.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Best to be honest about what you know and what you don't. Good news for you is that the resources are out there and you can figure out what you need to do with Google searches or chatGPT.\n\nGood luck and god speed",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "First you need to identify what your boss thinks a \"security assessment\" is, I would start with the assets he thinks he wants assessed, whether or not this is purely technical, or overall security (administrative, etc), and how long he expects it to take.\n\nIf there any any examples of previous \"security assesssments\" he has in mind the report would tell you most of what you need to know, then you have to find how to improve it.\n\nThe possible list of things he might mean is much bigger than what has been suggested to you so far, so be cautious and find out what his understanding is by any means, including, asking him as part of a \"scope/planning phase\" to the security assessment you are carrying out.\n\nGenerally speaking such things vary in detail but not in high level approach, and you want to use an established one with a recognised name, not make up your own version.\n\nScoping- what is included in the assessment and what is not. Also, what deliverables your boss expects at the end\nIdentify ideal goal against framework (all of the things/controls/recommendations, or only some of them? Most framewrks have \"levels\")\nInitial assessment - What level are we right now? Review/audit the in-scope things against the chosen framework (the \"checklist\" - don't make up your own, use an established one suitable for the scope)\nGap assessment - what will it take to get from the level we are right now, to the level we ideally want to be?\nReport - put it in the way that stakeholders need it, both for upstream (boss, bottom lines) and sidestream (fixing, details)\nRemediation - project plan the fixing of things missing.\n\nThis is a loose cycle of things, chronologically, to do over and over. Don't reinvent the wheel, don't make it up for yourself, put the work in up front to identify the right framework and scope for whatever this is.\n\nEven the best pentests are done essentially in this manner, but they may not have an established framework. In my experience, the worst and best pentesters don't use one, and the competent but not excellent or junior ones do. Pentests should always be part of a broader security assessment effort, or they risk becoming security theatre.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh1kp4",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bh1kp4/3_weekbbusiness_trip_to_china_for_vip_exec/",
+    "title": "3 weekbBusiness Trip to China for VIP Exec",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The US dept of state has some recommendations for devices going into China on their site\n\nhttps://www.dni.gov/index.php/ncsc-how-we-work/ncsc-know-the-risk-raise-your-shield/ncsc-travel-tips\n\nAlso what others have said. Get anything of a sensitive nature off of it",
+        "points": "28 points",
+        "children": [
+          {
+            "comment": "All of this, but I would also look into the travel advisories for the PRC and make sure they had the appropriate contacts in the event of wrongful detention:\n\nhttps://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/China.html",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Get a burner device like a Chromebook. I would advise against bringing anything you would be plugging back into the network upon returning.",
+        "points": "20 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Look into setting up a baseline OS that is hardened beyond the default OS config in Intune or whatever asset solution you are using. \n\nFresh image on the laptop when you boss gets back and offer it to colleagues when clearing out old assets or recycle it.\n\nIt doesn't matter if your boss has State secrets or not. I would assume that there is atleast some IP or sensitive information somewhere in that ShareDrive and China is one of the largest thieves of IP.",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Whatever hardware you send is a write off. Analyze if you're up to it or destroy the unit. If you want to annoy the spys send weird hardware with tamper seals (glitter nail polish ftw). If you want to be extra cheeky put thread lock on the SSD and case screws.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "I'm sure they're opening/messing with all westerner's devices. I'm pretty sure China or Russia would purposely tamper with the screws even if they didn't open it, just to screw with you (Pun unintended but apt).",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Don’t forget they might be forced to unlock their device(s) while going through customs. I’d suggest documenting what you think is the correct level of risk mitigation for the trip and get sign off on the risks you don’t plan to or cannot reasonably mitigate.",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Reduce access to all unnecessary assets. Reduce scope of data with historic context to immediate need with short horizon. Delegate all operational duties to trusted backups while traveling and connecting in areas at high risk of threats.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Are you doing bitlocker or a self-encrypting drive on that machine in case it goes missing?",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I highly recommend studying this, and going down the rabbit hole on all included links\n\nhttps://www.osac.gov/Content/Report/77b1dc96-82d6-497f-9836-1c4f67baa024\n\nThe post by u/stullier76 with the US DNI recommendations for devices is excellent as well, and a good baseline for device hardening.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Get them a burner laptop, burner phone and follow any recommendations from the state department. Give them the bare minimum to do their job and assume anything that goes into the country might stay there.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I doubt that Mullvad VPN would work in China",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "They have guidance for it: https://mullvad.net/en/help/connecting-to-mullvad-vpn-from-restrictive-locations",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "A sheet of paper with phone numbers on it. That's it. They can get a burner phone in China, ring up their family or colleagues back home, no sensitive information is mentioned. They throw out the phone in China before getting on the plane.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "iPhone: - wipe it before he goes and restore it with just the apps he needs. If he has to unlock it at the border they'll be able to get into email etc but there won't be years of downloaded documents, cached creds on the device etc - VPN: quite unpredictable which ones they block or not so ensure if his VPN is blocked he can still work (fail open) - on return wipe the phone and use it for future trips, give him a shiny new one\n\nLaptop: - consider a trip specific one such as a Chromebook which accesses all the cloud resources he needs but stores minimal data on the device. - if he is insistent on taking his regular one take the same approach as iPhone by minimising what is on it before the trip and reprovisioning or replacing after\n\nHome base: - monitor his accounts during the trip for new sessions, failed logins etc - know the two trip devices and also monitor for those devices attempting things\n\nOther: - yubikey round your neck is handy MFA. Also if his devices are taken for a time then their officials have to come ask you for the key. You then at least know what is up and can call it in as soon as you clear customs. - on return kill all sessions and do credential reset - take a look at gifts, sometimes they have extra \"gifts\" in them - have a debrief on anything weird, what folks were interested in etc, it helps build threat models for regular use and future trips.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "New email? He will need to download WeChat on his phone for him to buy things. WeChat pay is gold standard. No one will accept cash.\n\nHotel: it is highly likely they will leave a hot girl phone/ business card into his bedroom. (Similar to the ones be you get in Vegas). Don’t call! Or a random hot ass smokin’ girl will pop out of nowhere. Tell him it is not worth it. Just wait until he comes back!\n\nHe will stay at a hotel that only accept foreigner. He will have to register his passport with the hotel that connects with the local police.\n\nAll information are on r/China.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh3wkd",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bh3wkd/20m_uk_cyber_security_advice_insight_on_how_the/",
+    "title": "[20M] UK cyber security advice & insight on how the tech industry",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Who you know\n\nNetworking is important in all careers, cybersec no different. The more people in your network that you engage with the higher your chances of standing out and being \"luckier\" than others. Knowing one or two specific people with influence is always a benefit, if you don't have such contacts yet, aim to identify who could potentially become them and align some of your efforts to impress them in particular. Be realistic about your chances, and never do something that is contrary to your overall success/strategy. There is an old saying \"If you want advice, ask someone for money, if you want money, ask them for advice\". This could apply to internships a bit, too.\n\nCCNA and CTF/hack challenges as start to career paths\n\nYour choices here are appropriate for someone looking to be on the engineering, architecture, design, IHIR, SOC, DevSecOps and many other career paths. This is a well trodden entry level route to a solid career and you maintain your options while getting highly relevant experience even for non on-prem environments. HAving the CTF challenges too means you are going as deep as anyone else at your stage and you keep the more offensive security paths open too.\n\nSIEM software choices for home lab\n\nIn general, use FOSS, go as low level as you can with tools (BPF is not too low!). A good combination of tools, the setup of which alone is useful for a home lab, is Security Onion (there is a free version). pfsense for the gateway, try and include non virtualised boxes in combination with virtualised nodes. Aim to get at least to a stage with a labyrinth and a honeypot alongside the ability to detect, prevent and investigate using established methods.\n\nGetting internships\n\nIt's about differentiating yourself from the crowd, so building up the networking to have a broader and deeper audience, building up your online profile by doing the hack challenges, attending meetups, contributing to the open sources community in any way you can, showing enthusiasm and passion for the subject, and keeping a journal in public (at least partially if not fully) of your experiences, observations and progress can be a good tool in this regard.\n\nHaving got some profile to refer to, a 3-pronged approach to your internship can help: (1) understand what hiring managers actually care about (2) identify when they are hiring and what for (3) identify at least 2 ways to contact them outside of the job-application procedures/systems - since you are asking about internships, and willing to potentially be unpaid. Always remain humble, positive about what they are doing, and offer to be helpful wherever you can, share your profile, and say you have no demands/expectations. Even then you will need volume to get opportunities, but they will happen if you remain consistent.\n\nGood luck !",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cyber is hard to get into as a fresh grad. You need some real world experience like development, IT, or something like a badass score on bug bounty programs.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m sorry to say that cyber security hiring managers want experience, not qualifications. You could try applying for entry level IT jobs such as service desk to start with then move laterally into cyber security later. Alternatively just grind out applications, emails and send LinkedIn messages directly to anyone who is even remotely connected to a cyber role. Be persistent and make sure your CV stands out by being well formatted, no more than two pages, relevant info at the top.\n\nThe only other route I know is the cyber security apprenticeship which requires fairly little experience, your uni work would meet the entry requirements. I did mine with a company called QA. You work and learn at the same time.\n\nhttps://www.qa.com/apprenticeships/cyber-security/",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh4vrf",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bh4vrf/book_recommendations_for_file_forensics_class/",
+    "title": "Book recommendations for File Forensics class",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh63cc",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bh63cc/threat_hunting_interview/",
+    "title": "Threat hunting interview",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What have you discovered so far about this topic which you have been studying? Happy to help guide you but you have to put the effort in first. :)",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh8lun",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bh8lun/network_attack_vector_question/",
+    "title": "Network attack vector question",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Here is a pointer my cyber guys and gals.\n\nCopy the description of the vulnerability.\n\nPaste this into ChatGPT or another advanced AI model and ask how an adversary can use this to exploit the vulnerability.\n\n**EXAMPLE*\\*\n\n\"\"Heap buffer overflow in libwebp in Google Chrome prior to 116.0.5845.187 and libwebp 1.3.2 allowed a remote attacker to perform an out of bounds memory write via a crafted HTML page. (Chromium security severity: Critical)\" Describe how the adversary can exploit this vulnerability on a host system.\"\n\n**RESULT*\\*\n\nThe description of the vulnerability involving a heap buffer overflow in libwebp as it affects Google Chrome versions prior to 116.0.5845.187 and libwebp version 1.3.2 points to a classic web-based attack vector. The critical severity rating from Chromium's security team suggests that exploiting this vulnerability could lead to serious consequences, including arbitrary code execution, system crashes, or information leaks. Here's a breakdown of how an adversary might exploit this vulnerability on a host system:\n\nCrafting a Malicious Web Page: The attacker starts by creating a specially crafted HTML page designed to exploit the heap buffer overflow in libwebp. This would involve embedding WebP content that, when processed by the vulnerable library, triggers the overflow. The content would be crafted in such a way that it overruns the buffer boundary allocated for the image data.\n\nEnticing the Victim to Visit the Page:\n\nNext, the attacker needs to distribute the malicious page. This could be done through phishing emails, social engineering, compromised websites, or other methods designed to convince the victim to visit the URL containing the exploit.\n\nTriggering the Vulnerability:\n\nWhen the victim visits the malicious page using a vulnerable version of Google Chrome, the browser attempts to render the WebP image. Due to the heap buffer overflow vulnerability in libwebp, the malicious content overflows the allocated memory buffer.\n\nExecuting Arbitrary Code:\n\nThe critical aspect of this vulnerability is that the overflow can be designed to overwrite specific areas of memory with arbitrary code. The attacker can craft the payload in such a way that it injects and executes malicious code on the victim's system. This code execution could occur within the security context of the browser, potentially allowing the attacker to gain unauthorized access to system resources or sensitive information.\n\nExploitation and Post-Exploitation:\n\nSuccessful exploitation could enable the attacker to perform a range of malicious actions, depending on the nature of the payload. This might include installing malware, creating backdoors, exfiltrating sensitive data, or moving laterally within the network to exploit other systems.\n\nMitigation strategies for this type of vulnerability typically include updating the affected software to a version that patches the vulnerability. In this case, users should ensure their Google Chrome browser is updated to version 116.0.5845.187 or later, and any direct usage of libwebp should be updated to a version beyond 1.3.2. Additionally, employing good security practices, such as using web filters, anti-exploit tools, and educating users about phishing and other social engineering tactics, can help reduce the risk of exploitation.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Adversary hosts a malicious webpage then tricks the victim into navigating to said webpage where the exploit is then ran in the browser.\n\nBrowser = Pwned.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Also the scoring system v3 has some detail worth checking into about how to decide between multiple AVs if more than one apply. Worth understanding to avoid confusion with the CVSS",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bharmk",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bharmk/personal_projects_for_github_resume/",
+    "title": "Personal projects for GitHub resume",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Fork the OWASP juice shop repo. Get it running and try to solve the challenges on there and be able to talk about each category of the top ten.",
+        "points": "33 points",
+        "children": [
+          {
+            "comment": "Is this the repo in question?\n\nhttps://github.com/juice-shop/juice-shop\n\nI had a look at the documents but can’t seem to find the challenges. Maybe I’m missing something",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "This might help a little, has challenges and tips: https://pwning.owasp-juice.shop/antora/companion-guide/snapshot/part2/README.html\n\nJust get the website running from the read me and then go through the list. Just assuming that's how it is haven't gone through it yet",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can't speak for hardware.\n\nRed team stuff.\n\nCreate your own port scanner\n\nusing the above knowledge, create a program that can take in commands from a remote source and execute them on the machine, then make the connection secure, then try to make it look like some type of legit traffic.\n\nI don't know much about openvas, but take netdiscover results and feed them into openvas (it should have an API), then have it start a scan and punch out results. That will get you use to interacting with API's, and vulnerability management is one path into red teams.\n\nIf you have some money, buy some drones, or IOT devices, or just use what you have and see what you can find. What information does an xbox send for example?\n\nTry to hunt down schematics for different devices and see what you can find, if you can afford them try and see what you can do to them based on your theory's.\n\nThat should stretch your knowledge of python a bit, and be a nice warm up for advance python classes.",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good plan! You are well on your way to standing out from other candidates.\n\nYou can also try this idea with\n\nhttps://github.com/WebGoat/WebGoat\n\nhttps://github.com/roottusk/vapi\n\nhttps://github.com/rewanthtammana/Damn-Vulnerable-Bank\n\nhttps://github.com/NeuraLegion/brokencrystals\n\nhttps://github.com/convisolabs/CVWA\n\nhttps://github.com/RhinoSecurityLabs/cloudgoat\n\nDon't be afraid to work any kind of project you like and tweak it for your own needs, if you like a scraper or massscan type tool, go for it.",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "See if you can find proof of concept vulnerabilities in the wild, recreate the proof of Concept, write about how that matters in the context of a larger program or system (e.g if it's not patched, what can a threat actor do?). Then, talk about how safe coding practices would prevent it for example. For extra credit, see if you can find exploitation attempts or reports of it in the wild and do a small write up on the threat actors involved.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hello. It appears as though you are looking for someone to review your resume. We suggest you go to /r/resumes, which is a subreddit created to fine tune your resume and can give you specific advice on what to fix or alter. If you believe that this post has been removed in error, please contact the mod team.\n\nI am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have some ongoing opensource Security Projects if you want to DM me and join in.\n\nRegards.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Hello. It appears as though you are requesting someone to DM you, or asking if you can DM someone. Please consider just asking/answering questions in the public forum so that other people can find the information if they ever search and find this thread.\n\nI am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Second thoughts, with those IoT devices you could team up with this poster and explore side channel attacks together. https://www.reddit.com/r/cybersecurity/comments/1bh7r07/comment/kvdyore/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh9w3z",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bh9w3z/reporting_a_security_vulnerability_to_an/",
+    "title": "Reporting a security vulnerability to an independent hotel.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Bro they left the default password on the router. They dont care.",
+        "points": "420 points",
+        "children": [
+          {
+            "comment": "People will keep their old wireless routers and plug them into the new ISP modems with built in 6g wifi and use their 4G network just so they don't have to tell everyone a new wifi password.",
+            "points": "40 points",
+            "children": [
+              {
+                "comment": "Password2 isn’t difficult to remember",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I have two old wireless routers at my house. Both have public SSIDs and fairly simple passwords. Neither are plugged into anything. Figured if someone is going to try to wardrive my street, then they are probably going to get frustrated breaking into two routers that lead to nothing. Reminds me, I probably need to reboot them! 🤷‍♂️😂",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "You say that but it could just be one shitty outsourced company that administers their network doing it. I think its more likely the actual hotel manager and above cares about the bare minimum like stuff like default creds",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I regularly reset them and put better credentials on them, it's the only way to be sure they're safe and guarantees access on my next stay.",
+        "points": "87 points",
+        "children": [
+          {
+            "comment": "I did that once at a clinic and then forgot the password I can’t remember why but it was a pain to fix.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "3) 1000%",
+        "points": "295 points",
+        "children": [
+          {
+            "comment": "This seems conservative 😂",
+            "points": "26 points",
+            "children": [
+              {
+                "comment": "By the rules of The Price Is Right, 1001%",
+                "points": "18 points",
+                "children": [
+                  {
+                    "comment": "Actual retail price $8,499 ! u/sxspiria come on up and play the price is right!",
+                    "points": "9 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I mean you technically committed a crime so I would say nothing. They don’t care about their security posture obviously so you talking them will accomplish nothing as they likely don’t even have an IT person on site and won’t report it. If they do it’s going to come out as “someone hacked us and told us what we need to do to fix it” does that really sound good from a legal standpoint?\n\nEdit: in my experience, people who don’t understand technology will not understand what you did. They will likely think you “hacked” them and possibly “put a virus on there” and can access all their banking information whenever you want. It sounds extreme but trust me. They may not believe you are simply informing them and may think you will demand payment later. Really hard to know how people will react with this information and you are already in the red zone since you did it without permission. Another scenario is what happens if someone does actually do something malicious to it after you tell them, guess who they’ll blame? It is admirable what you want to do but it probably isn’t in your best interest to.",
+        "points": "139 points",
+        "children": [
+          {
+            "comment": "If OP really is gung-ho on reporting this back to the owners, maybe wait one month till a bunch more travelers have came through. Use an online email system that allows you to send anonymous emails. Send them an email that can’t really be traced back to you letting them know of the vulnerability, assuming they have an email to contact the management.\n\nIf nothing seems to come of it, maybe put an anonymous post on like Yelp a month after. Maybe posting they are using default logins for the wifi to Yelp might motivate them to change some shit.\n\nOh and maybe also use a VPN when doing all this too just in case",
+            "points": "34 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Even if OP got permission, something else happens they will blame the OP.",
+            "points": "13 points",
+            "children": [
+              {
+                "comment": "Yep lol, “you were on my computer yesterday and now my car is on fire so you must have done something wrong.”",
+                "points": "29 points",
+                "children": [
+                  {
+                    "comment": "💀",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "What's the name of the crime?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "He logged into the router admin page without consent so it would fall under “Unauthorized Access”\n\nTypically you have to prove “criminal intent” for most crimes so I doubt he would get more than a stern warning but it all depends on the judge and jury (if it makes it that far).",
+                "points": "23 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Depends on the state. If OP is telling the whole truth there was no federal crime.",
+                "points": "-3 points",
+                "children": [
+                  {
+                    "comment": "I keep a section in my cybersec notes for this:\n\nSection 2701 of Title 18 of the CFAA (computer fraud and abuse act) makes it an offense to intentionally access, without authorization, a facility through which an electronic communication service is provided.",
+                    "points": "10 points",
+                    "children": [
+                      {
+                        "comment": "Doesn't that one require scienter, i.e., you must have malicious intent to be guilty? Trying to fix your wifi when the manager's out wouldn't be considered malicious by any AUSA, let alone a judge or jury.",
+                        "points": "-1 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "[deleted]",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Oxford dictionary:\n\nFacility - a place, amenity, or piece of equipment provided for a particular purpose.\n\nNetwork equipment clearly falls under \"a piece of equipment provided for a particular purpose.\"\n\nAnd for those who aren't aware yes the fact that that is in the oxford dictionary would definitely be used to say this is covered under the law.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Is a federal crime. Check your laws again. Unauthorized access, regardless of intent, is a crime.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You just described 80% of networks in small offices or businesses like this. They probably purchased it, plugged it in, and that's the way it will stay.",
+        "points": "42 points",
+        "children": [
+          {
+            "comment": "Currently dealing with this at my church lol, basically their sysadmin/network/av/sec",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "That is a bit of an understatement. 😆",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Which means laws like this one are very welcome: https://www.pcmag.com/news/california-to-outlaw-weak-password-use-in-connected-devices",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Yeah, that was in 2020. How well has that worked out?",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Give it another 40 years",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Dunno, I don't live in California. It's obviously useless if not enforced, as are all laws.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "3.",
+        "points": "15 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They think you “hacked them” and call the police.",
+        "points": "57 points",
+        "children": [
+          {
+            "comment": "... isn't this #2..?",
+            "points": "15 points",
+            "children": [
+              {
+                "comment": "Idk #2 implies the owners know something about pen testers and authorization. #4 feels more like “hello police, some hacker cryptoed my WiFi like Trump warned us about and I have his credit card. Lock him up!”",
+                "points": "14 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's a rather large security issue for both the business and the customers.\n\nThey could easily take legal action against you if they desired. Despite whether or not your intentions and actions were good, you accessed a system you didn't have permission to access.\n\nIt's likely they don't care even if that is the wrong answer.\n\nNow if you had found that they were using a default username and password and immediately left the system; you would likely be fine and not have issues. However, once you started running commands and rebooting equipment, you definitely crossed the line.",
+        "points": "12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hunt on companies that will pay",
+        "points": "16 points",
+        "children": [
+          {
+            "comment": "It's okay to just be nice once in a while.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "that's one way to see it",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Chances are higher you get in trouble, because technically you gained access to an information system without authorization and that is most certainly against the law\n\nBut nobody will care about that either.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Unsolicited tech support",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I mean you technically committed a crime so",
+        "points": "11 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I once reported an insane wifi portal compromise at a large boutique hotel chain. it was downloading payloads onto guests computers. The response I got was skeptical at best but they did eventually resolve it and tried to minimize it to me.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's a rather large security issue for both the business and the customers.\n\nThey could easily take legal action against you if they desired. Despite whether or not your intentions and actions were good, you accessed a system you didn't have permission to access.\n\nIt's likely they don't care even if that is the wrong answer.\n\nNow if you had found that they were using a default username and password and immediately left the system; you would likely be fine and not have issues. However, once you started running commands and rebooting equipment, you definitely crossed the line.",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "So can I ask why accessing login page and signing in isn’t as bad? You still signed in, even though there’s a login page where it’s only supposed to be accessed by authorized people.\n\nNew to the sec world, been sysadmin in past, now in networking.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Some bug bounties or pen tests, you have to prove how the access is detrimental. This means you'll have to dig deeper while staying within scope. Other times you might have to immediately stop and report. You could even run into both scenarios on the same project.\n\nIn this case, it's definitely in the gray area. He had no legal permission to be there. I think we all agree about that. But once he realized default credentials were being used, he should have left the system and responsibly disclosed his finding to the business owner. Once he started rebooting equipment, he fully moved from gray to black. One could even say he went black if he started snooping around the admin panels.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Why does “rebooting” draw a legal technical boundary?\n\nTo be clear, I used there own (well routers) admin panel.\n\nI didn’t do anything from my endpoint. No ARP poisoning. No netcat. Etc.\n\nThanks!",
+            "points": "-3 points",
+            "children": [
+              {
+                "comment": "The issue is you didnt have their permission, written permission to be specifically. I never trust verbal permissions. Now from a technical perspective:\n1. You didnt have permission to interact the way you did with their system. Such as that, you are not an employee nor an administrator of the said hotel\n2. You masquerade as an employee/someone with authorized credential when you supplied the credential to the system. The system cannot distinct the different between an authorized actor and an actor with stolen credential. An lawyer would argue you authorized into the system with a stolen credential.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "I agree, but the initial point raised was rebooting. Not logon",
+                    "points": "-2 points",
+                    "children": [
+                      {
+                        "comment": "Bottom line, you aren't an employee or contractor of the business. Therefore, you shouldn't be accessing their admin console. A misconfiguration doesn't give you justification to start doing things to their network",
+                        "points": "5 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "That is covered in #1. \"You didnt have permission to interact the way you did with their system\". You rebooted the system",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "A good defense lawyer could shred that argument, showing an absolute and therefore fully indemnifying absence of malice, and implicit authorization in the contract that the hotel would provide wifi service which /u/r00tbeer33 restored with the minimum action necessary when the property manager was unresponsive. If the hotel really wanted to be liable for failing to observe the terms of their contract, which they almost certainly did not, they could have set non-default credentials. There's no criminal liability and no injury upon which civil liability could be based. OP can reasonably bill the hotel for the service, although collecting if they refused might be impossible. But, for example, if all the other customers would have demanded a refund because they couldn't connect to the internet, it might be reasonable for the hotel to pay a nominal service fee. On the other hand it's an amateur hour security question so anything could happen.",
+                            "points": "-2 points",
+                            "children": [
+                              {
+                                "comment": "Good luck! People got fined or jailed for less.",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "I'm not sure I believe that, but I suppose it depends on how you define \"less.\"",
+                                    "points": "-2 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "First you accessing the system in the first place was illegal. You had zero authorization to connect to the admin page as you are not an administrator there.\n\nSecond after you connected you made unauthorized changes to the state of the network by rebooting the WiFi. Yes this is worse, because you effectively illegally accessed someones property but instead of leaving that property you started utilizing it for your own purposes. That choice of staying within the system and making changes to its state is worse from a legal perspective compared to choosing to leave the system when you gained access which would demonstrate at least some goodwill that you did not intend to affect change in a system that you were not authorized to be in.\n\nOn top of that, while rebooting the network solved the issue for you there is still a chance that you affected the availability of an employee or customer. A great clear example (but not the only example) of this is if this is a multi-functional device that serves as both an access point and has ethernet ports. If the issue was with the AP portion of this device you would have killed the availability of the network for wired devices, effectively causing a denial of service.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just leave it be....",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Don't say anything and keep it to yourself. You are just looking for trouble.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You technically broke the law so you should not rat yourself out.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It will affect everyone in the hotel, including those in contact with the hotel.\nIt's a very grey area. Still I would consider that as unethical but no malicious intent\nI agree with the first comment on top. Definitely",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The part of the story that concerns me is that you then used that wifi connection.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depending on where you were, unauthorized access is most likely a violation of law already. Your intention to help was good but what you did was most likely criminal already. Leave it alone.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Door open but you didn't have permission or authority on their behalf... just saying that it could be an issue if someone's having a bad day",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you do tell them, do so anonymously. No good will come of taking responsibility for this.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Use VPN. At a hotel and while handling sensitive data, always use a VPN.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Drop it. They may get defensive and claiming you're hacking their system and come after you. Big companies understand it better than the mom & pop shops. Perhaps you could anomalously report it through some proxy emails but they still probably won't spend the time and effort to fix the issues.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Saying this as someone who worked in hotels for 5+ years, I think a pretty believable story is that you simply overheard a conversation between other guests where somebody talked about doing this (this assumes they had enough occupancy where this is even plausible). As an IT/security professional, you know this is a glaring issue that puts all of their guest's PPI at risk. That includes yours, and you're not happy about it. You want it fixed or you're not staying there again.\n\nIdk, maybe a mom and pop will just act concerned and do whatever they can to get you out of the door. Any hotel with a minimal degree of professionalism will understand not to fuck around with guests' private information. Everyone else here is right in saying that it was technically a crime. And at the end of the day, that's probably all that matters. All I'm saying is if they're using a default password, and if they have no reason to think you're the one that did it, I doubt anyone is ever going to track it back to you.\n\nAll that said, any involvement is involvement. Most people in that situation would probably just let the issue be, and it's hard to fault them. Do you care about this enough to be the only external person involved with this issue, even if they don't think it was you?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "When I find this situation I write the information and the solution in an anonymous email to them.\n\nThen as I am leaving a few days later, I give them \"feedback\" that my \"office\" didnt let me connect from their wifi due to some \"security misconfiguration\" for which I was grateful as I got a few days off - and have a laugh with them about it.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "At that point, I would go and speak to the owner directly. This really isn't a vulnerability per say but more of a misconfiguration which is a potential vector for an attacker.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "per se",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Keep in mind it’s possible they could find out it’s you that did it if you didn’t hide yourself when you did it. Probably best to just leave it.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I did",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Time to put on your mr robot mask and do something sneaky that would alarm them",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "They won’t care doubt they have any important info on it anyways",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Truth is that small to medium companies have bigger fish to fry. Of all the things they need to spend money on just to keep from going belly up in the next quarter this is near bottom of the list.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That's like every second router that people use.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds like a good argument for using a VPN",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just wait until the incident disclosure",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What if the USG had a national bounty program that would reward people for reporting vulnerabilities that they find on businesses, in which the gov will go and conduct a formalized pen test to verify the vulnerability and if so, files a report on the stated vulnerability and notifies the business and considers this an infraction, in which multiple infractions lead to a fine, increasing in severity with repeat offenses, and I guess distribute a portion of those fines as dividends to pen testers that discovered the vulnerability.\n\nObviously it could probably be gamed corruptedly, but I'm just spitballing ideas at this point",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Just like the food industry has random safety inspections (as technology advances) I’m surprised that routine vulnerability test/inspections are not periodically done on businesses.\n\nIf this is a thing I’ve never heard of it. I know paid by the company 3rd party inspections are performed from time to time but this should be a normal practice by county/state to ensure the “virtual safety” of the business and its clients.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "In the UK the NCSC does this sort of. They scan UK IP addresses for known vulns.\n\nhttps://www.ncsc.gov.uk/information/ncsc-scanning-information",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Slip them a note on your checkout. Check for cameras so that you aren’t identified. Leave the rest up to them. You at least warned them and the’ll know somone knows. If they don’t action it. It’s their stupid fault.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I did this in a hostel in Costa Rica once. Updated their firmware, set a better admin password and wrote it on a note to them. They were happy for the help.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Genuinely though what can you do from gaining \"unauthorised access\" from a basic router?\n\nAssuming it's a basic ISP router that is, there is virtually nothing you can do, you won't be able to redirect traffic, maybe block some IP's, change password and firewall etc but thats about it.\n\nIt's not great but doubt you can do a lot like deploy a script.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Technically it’s a crime. If anything they’ll understand it as, “omg you hacked us you’re a hacker!” and they could even call the police. Unlikely. But they could. Either way they 100% don’t care.\n\nWhat you should say is nothing. On here. To them. Just move on.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I landed an internship years ago as a network security consultant. Job was located in between three college towns. I ended up only finding housing at some shitty college apartment complex.\n\nWhen I attempted to navigate to my default gateway it logged me into the microtik router for the whole apartment with no credentials. There were well over 1000 people living there lmao. I never did anything with it.\n\nMan that internet sucked ass.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My comment will get you into grayhat territory: change the password, put on a white button-up shirt and khakis, approach the front desk, and say \"good morning! My name is r00tbeer and I'm working on the Wi-Fi. Is the Internet box in that office or somewhere else? I just need to put a sticky note on top of it. Can you put this note on top of the [name of ISP] box for me? Thanks! Have a great morning!\"\n\nIf they balk, change it back and walk away. They won't audit logins and if you're on WiFi, I think it will be difficult to track you down. Randomize that MAC lol.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Steal the soap bar and a towel to compensate for your job.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pretending to be concerned about how to responsibly disclose this issue as a cover for bragging about what wouldn’t qualify as “hacking” is embarrassing.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "This is dead wrong. I never said I haxxord anything. I did the bare minimum to restore service. I work in IT. I have a desire to become a pen tester. And I specifically picked netsec terms not 1337 skiddy terms. I’m a white hat. K thx",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Saw the same thing at an apartment complex I was staying at a while ago, I changed the WiFi password and enjoyed the bandwidth just for myself lol",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "You're evil.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Not evil, but 17 with a strong urge to play CSGO without lag",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "Don't play on wifi then",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "It was a veeeery long time ago, no need to tell me it's wrong lol",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "So you basically found an unlocked car with the keys in ignition, you got in, drove around the block and left it in the same spot.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "IMO, I just restarted the car! That I had rented",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Yea. The police isn't going to take your side on this one.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hotel won’t care, or the 200IQ reception staff will and call the police because you’re an evil Russian haXor sent by Putin and logging into the mainframe. No good deed ever goes unpunished.\n\nI would have just reset the password to something random forcing the IT guy to factory reset it in 5 years time.\n\nI’ve logged on to wifi and seen public shared drives with sensitive hotel information in it which was actively being used. Best way to solve this is legitimately download 5GB of cat photos and fill the shared drives with it so someone notices.\n\nSometimes to be white hat you have to be grey",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No one cares",
+        "points": "-2 points",
+        "children": [
+          {
+            "comment": "I mean I care a little bit.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "It's an access point in a hotel with default creds. Tell the owner and move on. No need to post in here. Did the OP test to make sure it wasn't accessible from Internet? Did he check logs for suspicious traffic? Doesn't sound like it. Such a weak post. And the FUD about it being a crime. Don't make me laugh. No one will care.",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Change the password for them to stop future issues for customers. If the owners even notice (unlikely) they can always factory reset it.",
+        "points": "-8 points",
+        "children": [
+          {
+            "comment": "Stupid advice that could get you arrested.",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "If the staff isn't smart enough to change default password, I highly doubt they're smart enough to find out who did it, and track them down lol",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I don't know, it's not a bad idea. How would they ever know?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh7r07",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bh7r07/topics_for_undergrad_project_report/",
+    "title": "Topics for undergrad project report",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Side channel attacks against hardware, firmware and implementations are a hot topic now as ever and it may be sufficiently familiar to your lecturer to be something he feels comfortable supporting and grading well. If so, this might be the right blend of subject matter to do both security, hardware, and something a bit different/interesting, without needing your professor to be totally \"security\".",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hardware Trojans, SCA and secure design",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I suggest you to write about Spectre and Meltdown vulnerabilities, they are a very recent vulnerabilities that target the CPU, You will find it very interesting believe me!",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Yeah our lab engineer actually mentioned those briefly! So do you think writing about both vulnerabilities is not too substantial for a project over a few weeks? Is there maybe a good overarching topic that would be suitable? Something like “modern cpu vulnerabilities” or something like that? I don’t have much context. I haven’t looked into Spectre or Meltdown yet, but I’m guessing they’re considered recently discovered vulnerabilities that are currently being worked on solving?\n\nWhat I’m saying is I don’t know the history of cpu/hardware vulnerabilities. I was planning on looking into it tomorrow before I hand in my draft for the project topic. Thanks for the tip!",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The growth of IoT/OT in the healthcare industry outpacing the security of these same devices. Many are very poorly protected yet have critical access to live patients' vitals.\n\nSame risks for critical infrastructure. Poorly secured internet connected devices controlling our water supply, water treatment, sewage treatment, power plants.\n\nHardware supply chain risks. With China's aggressive attacks on hardware supply chains combined with their already pervasive access as one of the world's main suppliers, it's becoming increasingly difficult to secure it.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "upvoted for mentioning supply chain as an interesting and relevant hardware based engineering security topic.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "That's not hardware related....",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The growth of IoT/OT in the healthcare industry outpacing the security of these same devices. Many are very poorly protected yet have critical access to live patients' vitals.\n\nSame risks for critical infrastructure. Poorly secured internet connected devices controlling our water supply, water treatment, sewage treatment, power plants.\n\nHardware supply chain risks. With China's aggressive attacks on hardware supply chains combined with their already pervasive access as one of the world's main suppliers, it's becoming increasingly difficult to secure it.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh5cuy",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "https://lcamtuf.substack.com/p/product-security-barking-up-the-wrong?utm_source=cloudseclist.com&utm_medium=referral&utm_campaign=CloudSecList-issue-229",
+    "title": "Product security: barking up the wrong tree",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh4umk",
+    "subreddit": "r/cybersecurity",
+    "dataType": "link",
+    "dataUrl": "/r/cybersecurity/comments/1bh4umk/can_i_hear_from_some_ot_folks/",
+    "title": "Can I hear from some OT folks?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I work mainly OT, it’s very “interesting” to me personally. The threats are different, mostly nation state or advanced because of the isolated nature. There’s also some insider threat sprinkled in, although these are usually idiots not spies. Because of the these reasons the job security is better and pay is usually better because of old tech and the necessity of the systems uptime. There’s typically physical consequences for system downtime. You have to know your system / primary function as well as the threats - professionals coming from enterprise IT won’t be able to walk in the door and perform without some adjustment. As far as certifications the CISSP still carries weight, if you’re into SANS the GICSP is a great option as well.\n\nI think the idea of getting general cyber experience is a great idea, obtaining knowledge of NIST 800-53 and possibly even hands on technical experience (lab/real world) of older operating systems or embedded systems is also a strategic endeavor. Can’t stress the importance of soft skills as well - Communication and Teamwork, translating topics to leaders, etc. Good luck!",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm new in the OT space, coming from IT so this is just my observation thus far, take it with a grain of salt as I'm still learning. They're very, very similar. There are two distinct differences: (1) the consequences of a breach/threat actor exploitation is much higher in OT and (2) the threat actors in OT tend to be more state actors as the payoff requires quite a bit of investment on their side because of the age of some of the technologies (though as things are being replaced, the OT environment is becoming more homogeneous making it less costly).",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I used to work cybersecurity on aircraft and then ship based systems.  I left that for cyber focused software development because it was very heavy on travel.  I loved the work, but it was hard on my family.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I enjoy OT cyber because it matters. It’s not some stupid product or social media. It’s power, water, medicine, etc. The pay is good. Generally, better than traditional IT. As far as job security goes, it’s about as stable as you could ask for. It seems like nothing is stable right now, but people will always need critical infrastructure. The SANS trainings are good but pricey. If you can get someone else to pay for them then that’s perfect. 410 is a bit too basic. You could replace 410 with free training from CISA on their website. You can and should use the free training from the government such as the ones from CISA/DHS and DOE. Look into ICS red vs blue. It’s free and amazing. Same for DOE CyberFire. The only problem with the free classes is that they can be hard to get into.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Second vote for the CISA 301 classes. The instructors know their stuff, most are incident responders, and the class ends with a hands on red vs blue exercise with an actual “plant”.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I work in both, but I enjoy OT more. Granted I was an industrial automation engineer prior to going into cyber security… but OT security is in a massive growth stage and both I and most governments feel it has been neglected and needs attention desperately. Cyber security is a wide range. Go after what interests you and will keep you excited to keep at it. If you already work around OT, dive into that. The SANS courses are great. Of all the courses I’ve taken, theirs were the most enjoyable and beneficial. Do it in person, participate in the Netwars (CTF) and other night time training and sessions.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you want to try out OT training prior spending a lot on SANS, check out 301 and 401 trainings here: https://www.cisa.gov/ics-training-available-through-cisa\n\nWhat do you do now? I started cyber doing security assessments now assessments are heavily focused towards OT systems. For the future, OT cyber may benefit you well. It's a still small community where you will keep bumping into the same folk at conferences. I think we are seeing a trend, at least I am, where it makes sense that more critical infrastructure regulations will be coming sooner than later. Get on the ship before it leaves port.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Check out SANS GRID certification.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

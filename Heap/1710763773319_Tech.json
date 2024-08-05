@@ -1,0 +1,1364 @@
+[
+  {
+    "id": "t3_1bhnzvi",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://spectrum.ieee.org/pacemaker-laser-driven",
+    "title": "Laser-Driven Pacemaker Guides Ailing Hearts With Light | PV semiconductor tech could find applications in neurostimulation, too",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhnvv2",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://www.science.org/doi/10.1126/sciadv.adl4027",
+    "title": "World’s smallest QR code inspired by insect ‘invisibility cloak’ adds new layer of digital encryption",
+    "points": null,
+    "comments": [
+      {
+        "comment": "From ZME Science",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh51cf",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/korean-researchers-power-shame-nvidia-with-new-neural-ai-chip-claim-625-times-less-power-41-times-smaller?utm_medium=social&utm_source=twitter.com&utm_campaign=socialflow",
+    "title": "Korean researchers power-shame Nvidia with new neural AI chip — claim 625 times less power draw, 41 times smaller",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bgxloq",
+    "subreddit": "r/tech",
+    "dataType": "link",
+    "dataUrl": "https://www.popsci.com/technology/windwing-ship-sails/",
+    "title": "A cargo ship’s ‘WindWing’ sails saved it up to 12 tons of fuel per day",
+    "points": null,
+    "comments": [
+      {
+        "comment": "argh mateys; we’re so fucking back",
+        "points": "464 points",
+        "children": [
+          {
+            "comment": "Yo ho yar har fiddly diddly Dee!",
+            "points": "52 points",
+            "children": [
+              {
+                "comment": "Being a pirate is alright to be!",
+                "points": "12 points",
+                "children": [
+                  {
+                    "comment": "Do what ya want cuz a pirate is free!",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Somalian pirates we",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Hoist the sail.",
+            "points": "14 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Why are pirates scary?\n\nBecause they argh!!!",
+            "points": "12 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "We never left… just chilling out for a bit mateys ☠️🏴‍☠️",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "TIL: cargo ships use more than 12 tons of fuel per day.",
+        "points": "325 points",
+        "children": [
+          {
+            "comment": "For our passenger vehicles, we talk about miles per gallon. The big cargo ships use tons per hour.",
+            "points": "201 points",
+            "children": [
+              {
+                "comment": "It’s also the nastiest stuff they burn (bunker fuel), the stuff that remains once you distill gasoline, diesel, polyethylenes, everything useful out of crude oil. It is one of the most polluting substances in regular use.\n\nBut here’s a fun fact - it is still absolutely the most environmentally friendly, clean and effective way of shipping per kg moved.",
+                "points": "215 points",
+                "children": [
+                  {
+                    "comment": "But here’s a fun fact - it is still absolutely the most environmentally friendly, clean and effective way of shipping per kg moved.\n\nbecause it is so energy dense, its extremely long chains of hydrocarbons, too long to be useful elsewhere, so either its burned at the refinery, or burned on a ship to move a massive piston at 300rpm max. The injectors they use on ships are huge, and the burn time is so slow that the engine cannot turn more rapidly. recently, the great lakes banned using bunker fuel, and the stuff coming out of the stacks of the ships doesn't look like disgusting black tar anymore, and doesn't leave sticky bits all over them anymore. The local refinery now just burns their bunker fuel or ships it off to the coast for ocean going vessels.\n\nanother fun fact about bunker fuel, it comes in 3 varieties, A, B, and C. Most large ships have to preheat their fuel to 150C before they can even pump it, and then again have to preheat it to 350C before they can spray it out of the injector because otherwise it is too thick to move, pump, and won't even ignite or burn. The waste oil that doesn't get burned gets mixed in with their \"lube oil\" and has to be pumped out of the sump of the engine and stored until they reach port. That waste oil that is contaminated is then refined into more bunker fuel. These large ships also very often have very complex fuel systems that will do way more than just filter the stuff before it goes to the engine to burn.",
+                    "points": "184 points",
+                    "children": [
+                      {
+                        "comment": "Thanks for all the fun bunker oil facts",
+                        "points": "59 points",
+                        "children": [
+                          {
+                            "comment": "Thank you for subscribing to bunker oil facts. To unsubscribe reply with the chemical structure of bitumen.\n\nFact: Bunker oil is not named after tv’s lovable curmudgeon Archie Bunker.",
+                            "points": "36 points",
+                            "children": [
+                              {
+                                "comment": "But is Archie Bunker related to Bunker fuel? Distant cousin perhaps? Both pretty crude.",
+                                "points": "2 points",
+                                "children": [
+                                  {
+                                    "comment": "Archie Bunker famously doesn’t like blacks.",
+                                    "points": "5 points",
+                                    "children": [
+                                      {
+                                        "comment": "",
+                                        "points": "",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "That raises the question then: If we lowered bunker fuel consumption by a large amount, would that actually lower emissions? If it’s already a byproduct, would it just get burned at the refinery once it was unprofitable to sell? And if so, are we anywhere near that point in terms of consumption ratios?",
+                        "points": "6 points",
+                        "children": [
+                          {
+                            "comment": "I mean we make 1000 different things from oil the goal is to slowly lower the usage of all of them. Also different wells contain radically different compounds. That’s why the US while being a net exporter of oil still imports a shitload of oil from the Middle East.",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Did the taconite carriers on the Great Lakes burn bunker fuel? If they did and it’s now banned, did the engines need to be modified in anyway to accommodate a different fuel?",
+                        "points": "6 points",
+                        "children": [
+                          {
+                            "comment": "older style \"steam\" boiler ships get exceptions and are allowed to burn bunker fuel, but anything that has piston driven engines is now required to burn marine diesel.",
+                            "points": "9 points",
+                            "children": [
+                              {
+                                "comment": "Marine diesel is only required with in a certain distance from land. MARPOL has set limits to the amount of sulfur in the fuel oil and is now requiring them to use VLSFO (very low sulfur fuel oil) while they are out at sea. Its slightly better for the environment",
+                                "points": "2 points",
+                                "children": [
+                                  {
+                                    "comment": "The sulphur used to cool the planet",
+                                    "points": "1 point",
+                                    "children": [
+                                      {
+                                        "comment": "",
+                                        "points": "",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "I see, I hadn’t considered that distinction. Thanks for the reply.",
+                                "points": "1 point",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "I grew up (30 years ago) on the river connecting Lake Huron to Lake St. Clair (and onto the Detroit River and Lake Erie). In the summer we ate outside on a screen porch a lot. Every day we would need to wipe all the black soot specks from the table before setting it.\nWe still clean it before weekly family dinners, but it isn't as dirty now after a week as it used to be after a day.",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "I live near an interstate with constant prevailing winds and the dew leaves soot.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Man if I could go back in time I would want to be a bunker fuel engineer",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "Guy 1 at ye olde refinery: hey, what do we do with this left over dregs of the process?\n\nguy 2: some of it can be mixed with rocks and shit to make roads. we will call it bitumen.\n\nguy1: cool, what about the rest of this?\n\nguy2: lets just burn it\n\nbeancounter: I wonder if we can sell it as a coal replacement for ships\n\nguy2: perfect\n\nguy1: cool, now we need to grade this shit.",
+                            "points": "6 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "This is fascinating! How do I learn more commercial shipping factoids?",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "I wondered why the fuel lines were insulated and had foil wrapped round them.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "the fuel lines are often wrapped in hot water or steam pipes to keep the fuel heated, because if it cools in the line, it can't be moved.",
+                            "points": "3 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Sounds like hash oil.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Tell me more about",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Ew",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "I agree. we should pump this shit back into the ground and stop burning it entirely.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "The RTA96-C, which powers the E-class Mærsk ships and a handful of others, maxes out at just 120 RPM.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Are they running #6 on the lakes now?",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Even crazier is that there are even clean and filthy tiers within the oil they use. The stuff they use near the shore is substantially cleaner than what they use in open water. A large part of the reduction in things like acid rain comes from the regulation of dirty fuels in costal waters",
+                    "points": "20 points",
+                    "children": [
+                      {
+                        "comment": "Nah.\n\nAcid rain reductions came from desulfurizing heating oil and road diesel.\n\nCause both of those are used in way higher quantities than shipping oil.",
+                        "points": "10 points",
+                        "children": [
+                          {
+                            "comment": "Probably some coal stuff too",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "Oh right.\n\nDesulphurizers in coal powerplant smokestacks.\n\nForgot about that.",
+                                "points": "1 point",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "It has also accidentally done terraforming experiments, because the high sulfur content increased the albedo of the North Atlantic by increasing cloud cover. I believe a change in fuel quality was part of why ocean temperatures suddenly rose so high last year.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Yeah, I was amazed when I learnt that even though shipping burns huge amounts of heavily polluting fuel, the amount of goods each ship can carry makes them outperform even diesel trains let alone road trucks in CO2 emission per tonne transported.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "We actually work in cubic metres of fuel\n\nWork offshore",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I once had to do a report for ows, lube, bunker, etc for an oil client using a coastal like 20m loa boat. Everything has to be reported in cubic meters.  It was fun to write like 0.001",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "The tanker I was on has a barrels per knot setting.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "A VLCC (very large crude carrier) can use around 50-60 metric tonnes of fuel oil per day. Depends on where they buy it but fuel oil can be around $600/metric ton.",
+            "points": "17 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Each container they carry can weigh upwards of 20 tonnes and they have loads of them, so in that sense it seems reasonable.",
+            "points": "17 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I once heard the factoid that if a big ol' nuclear aircraft carrier were ran on gasoline instead, it'd get about six inches per gallon.",
+            "points": "14 points",
+            "children": [
+              {
+                "comment": "Giggidy",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "[deleted]",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "You added in a 0, I believe this fuel is $600/ton for them.\n\n$600/ton = $7200/day",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I can just see all the gigantic CEO bonuses now!",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Even still, they carry so many containers that each gallon gets a container 100mi and across the pacific for 25gal.\n\nIf a container has 400 flat screen TVs, each one is <0.1gal across the pacific.\n\nIt’s all marvels of efficiency.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Yeah, shipping goods by sea is so efficient that it cost cents per kg. It’s why we can produce and transport goods across the world cheaper than if it were produced domestically.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "They said it’s a 14% decrease. So quite a bit more. Also I think most days were like 3 tons.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It’s also REALLY SHITTY fuel.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Way way way more",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "A LOT more",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "12 ton savings was on the best conditions days. On average, they said 3.3 tons... or about 14%. This means they burn ~24 TONS DAILY. HOLY FUCK they burn a LOT of fuel!",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Per amount of mass moved it's high efficiency. Comparing to trying to move that much cargo by cars it would be way more than 24 tons to cover the same distance that that boat travels in a day.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "A Boeing 747 burns 10-11 tons of fuel per hour.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Of course, they're also going 500 mph!",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Yeah but a fully loaded container ship probably weighs around 500, 747s when fully loaded",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "A Panamax bulker uses 30-36 metric tons a day. Which right now costs about 650$ a ton. Saving 12 is substantial",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "And they tend to have very nasty emissions",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Awesome. Implement it on a large scale.",
+        "points": "51 points",
+        "children": [
+          {
+            "comment": "This is where the industry is going. There are many players with different approached to this.",
+            "points": "26 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "They can't yet, because of the reasons highlighted in the article...",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "I’m here to read comments, not articles.",
+                "points": "9 points",
+                "children": [
+                  {
+                    "comment": "Based.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "All you need to do is tax shipping fuel and it will be on ships in less than 5 years.",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "US Govt: best we can do is make it more costly and difficult to use. Thank you, BP",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "",
+                "points": "",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "For larger ships, there is also a neat sail known as the rotary sail. It's incredibly strange, resembling a cilinder, but it saves a significant amount of fuel.",
+        "points": "72 points",
+        "children": [
+          {
+            "comment": "This is what I initially thought the ship was using after glancing at the picture. Then I re-read “WindWing” and said realized oh that’s just a sail lol",
+            "points": "26 points",
+            "children": [
+              {
+                "comment": "If the engineers called it a “sail” instead of the super modern innovative term “wind wing” then they wouldn’t have gotten their big ass bonus for the original thought of putting sails on a ship to decrease fuel consumption.",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "Probably comes from them using a wing-sail aerofoil rather than a bit of cloth. Its used all over the place on modern racing boats and is distinct from more traditional sails due to the amount of lift it generates and because its stiff",
+                    "points": "5 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Weren’t they experimenting with a hydrofoil type of wing to make the ships cut through the water more efficiently? I wonder if any of the newer ships use anything like that.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Well hydrofoils have been around a long time. Is that what you're thinking of? I haven't heard of them being used in shipping, probably because they need a certain minimum speed to lift out of the water, and shipping usually doesn't need that speed.\n\nHydrofoils can be electric or even human powered. The US Navy used them for fast attack boats for a while, but abandoned them because of their high fuel consumption.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Flettner rotors?",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yep, a \"Flettner rotor.\" The use the Magnus effect, which is how Beckham can bend it like Beckham! The same principle can be used for airplane wings. But I believe they're being abandoned because a big spinning cylinder is too heavy or complex. I could be wrong.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I want to know what heavy wind and rough seas do to these bad boys. I can imagine the carnage if they broke and slammed into the deck or bridge.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Oh!! I used to make paper airplanes like this!!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Variations on the savonius rotor.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Add more sails! Remove the engines completely! Add cannons for defense against pirates! Arrrrgg!",
+        "points": "42 points",
+        "children": [
+          {
+            "comment": "Cannonballs made of biodegradable materials aaaargggg!",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "GUNPOWDER REPLACED WITH HYDROGEN AIR COMPRESSERS ARGGGG",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "110,000 ships in service now. Responsible for 2-3% carbon emissions. This tech can reduce it by up to 30%. Huge. Need to retrofit ports unless there is some design where the swing/fold out of the way during loading/unloading.",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "Bridges. Many ships are designed to fit under specific bridges, which limits house and stack heights. The masts can be lowered.",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "How many tons do they use?",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "Article is kinda unclear but at one point it says “on its best days, that could mean a [GHG] reduction of 37%”\n\nSo call it 35-40 tons of fuel a day? Kinda insane",
+            "points": "27 points",
+            "children": [
+              {
+                "comment": "37% seems like a worthwhile reduction.",
+                "points": "24 points",
+                "children": [
+                  {
+                    "comment": "That was the best days. Overall, a 14% reduction. Still nice.",
+                    "points": "20 points",
+                    "children": [
+                      {
+                        "comment": "for sure. Seems like that could translate to real money",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "At current prices up to 7200$ a day saved.\n\nLast year it costs about $2.55m to install them. But that’s one specific, still paid at a premium, brand with cutting edge tech. So best case scenario that’s 362 days of sailing to break even. But more realistic would be 4-6 years or 10 if fuel prices come down again. But if it’s starting to get popular prices for these sails should come down with more regular production and an investment with a ROI of 3 year even with average fuel prices, not just high ones would result in widespread adoption.",
+                            "points": "9 points",
+                            "children": [
+                              {
+                                "comment": "If nothing else it’d hedge against volatility in the global oil market. There are a lot of conflicts that could potentially disrupt the global oil supply. If something like that happens and oil prices spike, investing in these could be the difference between profitability and going out of business.",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "",
+                                    "points": "",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "",
+                                "points": "",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I did the math once and obviously it depends on the engine but each piston stroke uses a cup of oil.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "How far does the boat go with one stroke of the engine?\n\nI used to seeing engines doing 2000 RPMs and that large engines like that are slower, but how much slower.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "About 300 RPM. Some are even slower. That fuel burns so slowly that a faster speed would result in an incomplete combustion cycle. It’s nasty shit.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "50-60 for large ships but then again it depends on the specific ship. Article also says that the retrofitted ship averaged savings of 3.3 tons saved per day, it just topped out around 12 at some point in its journey.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Talk about a slam dunk. I had no idea cargo ships used this much fuel but obviously we need them, and per the article each ship outfitted with this is a GHG savings similar to taking almost 500 cars off the road",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "It’s worth remembering, the fuel used per ton of cargo is still better than any other form of transport.",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "Better than freight rail too? That surprises me but I’ll take your word for it. But regardless saving 14% on top isn’t nothing",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Definitely not better than freight rail. But freight rail can't do across water.",
+                    "points": "6 points",
+                    "children": [
+                      {
+                        "comment": "Ships are still more efficient than trains. It's just easier to push boats through water than it is trains over rail. Trains are still the most efficient transportation far and above over land, but ships beat them out. That said, the difference between trains and ships is peanuts compared to the difference between either and trucks or planes",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "About 25% the CO2/ton-mile as rail.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Does this mean “Big Shipping” has gone “woke?”",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Are the sails made of recycled men’s tampons?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Are men’s tampons the ones Russian soldiers need to provide themselves for bullet wounds?",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If only we knew about this before, which we did",
+        "points": "12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Woah woah woah, we can use WIND to move our boats instead of fossil fuels? What a wild, new, new, TOTALLY BRAND NEW technology. Wind, hah! Who woulda thought? What will these kids make next?!",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Well listen to this, it's a brand new rehabilitation program for prisoners, they get plenty of exercise, fresh air and they learn to work in a team. There's even music!",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Also a handy sniper nest for pirates.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Between the fuel used and the amount of plastics used to wrap the pallets being shipped, we absolutely need to revamp the shipping industry. This is a good start. Who was the Senator whose wife’s family owns a shipping company?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "That’s Mitch McConnell. Unfortunately, I don’t think he’s the kind of guy that would openly believe in protecting the environment.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Thank you. We need to highlight that these “leaders” are only harnessing our tax money and economic power to further their goals.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I have to believe he’s not looking too kindly on electric cars at the moment.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hey guys sails are back on the menu!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Now this is a great combination of old school and new tech...",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Propeller salesmen hate this one weird trick",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Arrrgh, matey, who would’ave though the scallywags would brin’ wind into the picture!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "37% reduction is incredible for starters, and this pilot ship is only using two wings. Production models will use three wings, adding even more reduced fuel consumption.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Best days. Works out to ~14% on average",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "That’s insanely cool",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wait what? Is this a typo I need one for my truck asap",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The shipping industry is trying to transition away from fossil fuels and this could be a significant contribution in that direction. One of the main challenges with alternative fuels that are being explored (eg ammonia) is that the energy density is lower than bunker fuel. This means that ships aren’t able to carry as much in “stored energy” if they are to carry the same amount of cargo. Having wind-assisted propulsion will certainly help mitigate this challenge of cargo space/fuel capacity trade off and hopefully bring us closer to carbon-free shipping.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ahoy! ⚓️",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Holy shit how much fuel does a cargo ship store to save 12 tons a day?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sails. Who woulda thunk",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah but these paper straws are gonna really reduce pollution guys",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This will make shipping cheaper, right?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Probably not, at least in the short term while any fuel cost savings are offset by the cost of investment in the ships, plus any potential loss of cargo space - just my opinion",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Mandatory start-stop ?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m assuming they can fold down in a storm. But how do they get them to have a low enough profile to not cause a problem?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "could feather them into the wind",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Who would’ve thought you could use the wind to sail the seas? These are truly amazing times we’re in",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wonder how it compares to Seawings. Similar idea but seems a bit less trouble when it comes to docking in port. https://interestingengineering.com/innovation/giant-kite-sails-21528-ton-ship-atlantic-ocean",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "As someone who knows very little about the science behind these things...isn't that just a sail? Like, the thing boats have been using for thousands of years?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "It’s more of a vertical airplane wing, stuck through the deck of a big ship. A hundred some years of using those.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sail > Windwing",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That’s wild.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Technology is cyclical, Liz.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "When the ocean rocks, that shits gonna snap",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So they reinvented sails??",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We’ve come full fucking circle",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And we’ve come full circle",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wait you mean that a source of energy invented 2000 years ago that costs next to nothing while still providing movement is actually really useful? I never would have guessed.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ah yes\n\nThe windwing\n\nto go along with\n\nThe Navionics\n\nThe AirSails\n\nThe waterpropellers\n\nAnd not to forget\n\nThe Oceaning gears for when you need to ocean the boat",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Somewhere there’s a committee of nautical engineers who are patting themselves on the back for creating this innovative fuel saving design and somewhere in an office down the hall is some idiot CEO who is writing them ridiculously huge bonus checks.\n\nSails…on a ship…to help use less fuel? Who’d a-think it?\n\n😒",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wasn’t there a test also with a large kite in front of the boat also?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It seems odd that more shipping companies would not have done this sooner. They already operate on the thinnest of margins.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How tall is it? Bridges?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anyone know what percentage of the day 12 tons is? Or how many tons a day they do burn?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Not much. But this is really just proof of concept testing. It’s actually better to have results in a variety of different conditions.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pyxis Ocean reportedly saved an average of 3.3 tons of fuel each day. And in optimal weather conditions, its trips through portions of the Indian, Pacific, and Atlantic Oceans reduced fuel consumption by over 12 tons a day.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Soon: advertising for sale on the sail.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Motherfucker you mean sails?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m curious though since this are metal and not fabric sails, what happens if they get caught in a storm? Don’t they normally take sails down in a storm?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That definitely prevented a least one category 4 hurricane",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We’ve come full circle",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We are so back, Mateys!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We’ve come full circle",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Houthi Rebels rejoice.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So a sail boat?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How many “tons of fuel” do they burn on an average day without the sails?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "About 100.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I thought you were exaggerating. So I looked it up. Some of the larger ships use 200+ tons of fuel per day!! But my SUV is causing global warming. If I did my math right I’ve only used about 70 tons of fuel in my 25 years of driving. Which still seems like a lot if I’m honest.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "You always have to remember the absolute massive amount of cargo a large ship can carry. A large container ship can carry upwards of 20,000 containers. That’s 200,000 TONS of cargo. The largest oil carriers are 565,000 TONS of crude oil at a time.\n\nYou probably haven’t consumed that much weight in goods total in your lifetime either.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "You haven’t seen my gut!! But seriously I get that the amount of fuel per ton of cargo per mile is pretty low but it still seems like a massive amount!",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "It is a lot. When you start doing fuel calculations in tons instead of gallons it kind of messes with you. We just aren’t used to the scale.\n\nI design the things and every time I go to a shipyard it still amazes me how big a ‘small’ ship is in real life.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Imagine - sails use less fuel.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What the hell we’re right back where we started",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is it worth it economically though ? What’s the price of those wings and how long does it take to break even after you’ve done the investment ?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Has it been 6 months already? I guess time for this one boat to make news again",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We have gone full circle.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's called a sail remember. Like we used to have before engines...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How many more times do we hear about this without seeing giant sailing cargo ships. This is at least 5-10 years of talking about this",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "A while. Large ships typically take 6-12 years from when design contracts are signed until they enter service and are huge investments in capital for owners. It’s going to be a while before they are standard.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "The location and support for these sails will cut into shippable cargo. The kite idea I think is more feasible",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "It depends on the ship. For an oil tanker or ore carrier sails will probably be easier. For cargo ships kites are likely easier to install, but they have had issues during testing.\n\nThere probably won’t be a single solution that works for all ships.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "When I heard that working sail was making a comeback, I thought it meant large Spanish galleons were once again prowling the seas.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Besides the price are there any disadvantages to it? Will the ship haul less cargo due to the tech taking up space? I guess it would require special crew training so that's an expense too.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Imagine a ship running on wind power. What’ll they think of next.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "What if the employed people to start rowing?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Weight watchers new limited time special",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Never going to happen. This has been an idea since the 70s I believe, 80s at least.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s evolving but backwards",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What about nuclear powered cargo ships?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "History repeats itself guess 😂",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's a really clever solution but sadly the payback/return on investment period is so long that it's gonna be a hard sell to get mainstream adoption of these on commercial vessels.\n\nThat said, I imagine with more production and more innovation in how to reduce costs of install, this could be fantastic for the industry.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So lets not do something that is efficient, because the oil tycoons need a new mega yacht within a Yacht to park within the Saudi/Emiratis \"floating City\" made out of solid gold./sarcasm in a sane world.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think those are just called sails, but don’t let me get in the way of a trademark.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Finally, they invented a way to harness the wind to travel. /s",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Might need a sailing endorsement in your license.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

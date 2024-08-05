@@ -1,0 +1,1048 @@
+[
+  {
+    "id": "t3_1asz4bc",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination",
+    "title": "AI hiring tools may be filtering out the best job applicants",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asxxto",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit",
+    "title": "Air Canada ordered to pay customer who was misled by airline’s chatbot",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Most people don’t realize that Chat GPT is just a language model. It studies what we’ve said and produces results that sound like what we’d say based on what we’ve said in the past. It’s like an actor going to a medical convention to study how to play a doctor. He can learn to imitate their tone, their delivery, and use medical terms to say doctor-y sounding things. But he’s not a doctor. He doesn’t understand medicine. He’s just imitating what doctors sound like one.\n\nYou never hear a chatbot say “I don’t know”, because it was never thinking in the first place.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asnwxm",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://phys.org/news/2024-02-chip-door-ai.html",
+    "title": "New chip opens door to AI computing at light speed",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1askv7k",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.businessinsider.com/broadband-internet-super-bowl-ad-spectrum-tmobile-fixed-wireless-cable-2024-2",
+    "title": "Suddenly, there's real competition for broadband internet",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Spectrum should rebrand as Rectum.",
+        "points": "52 points",
+        "children": [
+          {
+            "comment": "Or like Rectrum. It’ll through people off more.",
+            "points": "-3 points",
+            "children": [
+              {
+                "comment": "Or like Spectrum, it’ll go right throw your rectrum.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Spectrum in my area has an absolute monopoly and they have terrible service for people!",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Does their phone tech support also rub their nipples and moan at customer satisfaction like cable internet companies do?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "To spell it out: This is from Spectrum, also known as Charter — the biggest cable-TV provider in the US and the second-largest broadband-internet provider in the US. And it’s targeting a rival program from T-Mobile — the third-biggest wireless carrier in the US, which has started selling its own broadband service.",
+        "points": "27 points",
+        "children": [
+          {
+            "comment": "I have the t mobile 5G router, and while the top speed isn’t quite as fast as spectrum’s, it waaaay more consistent (at least in my case). The customer service is probably better, but I wouldn’t really know, because the bill has been predictable and boring, with no surprise fees or services tacked on, and we haven’t had to call them to fix it since we got it 2 years ago. Spectrum was the absolute fucking worst. I was so glad to tell them to fuck off out of my life.",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "Do you lose connection often? Others have told me they have (t-mobile).",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Honestly, no. Not nearly as much as spectrum. I don’t know if we’re just really close to a 5G repeater or what. Maybe we just got lucky. The real motivation for switching was the missus working from home during covid, which she still does to this day. Spectrum would work really well, then just drop to shit, and it was becoming a problem for meetings and presentations. They’d also started charging us some tv services fee, which we’d complain about, have them credit our account back because we don’t actually own a TV, then a few months later, the charge would be back on the bill. We tried AT&T dsl, it was shit, and they couldn’t tell us when fiber optic would be available in our area. So, I saw an ad for the modem, and was quite literally willing to try anything. At the time, they were still kicking it off, so the modem was free, and it was cheaper for a few months. It was a clear upgrade for price and reliability. She uses it all the time for work, and never complains about it. Mind you, it’s 1 or 2 people using it at a time, most.",
+                    "points": "3 points",
+                    "children": [
+                      {
+                        "comment": "Hmm I’ll seriously consider this service based off your recommend if I can get it. I’m in an impossible situation where I’m in a low rent apt where the landlord/building manager won’t re-wire the original telephone wire that my dsl uses and it drops packets constantly, ending my online multiplayer sessions in forfeit. Why am I using DSL? Because the building never bothered to wire for cable early on when everyone else did and now the cable company wants to charge $20k for 8 units. I’d move over this issue if I could afford it. Also I live in a major city.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "spectrum is trash and runs a monopoly",
+        "points": "23 points",
+        "children": [
+          {
+            "comment": "It really is. My elderly parents canceled the tv service and kept WiFi. My father accidentally opened the spectrum app on Roku AND IT SIGNED THEM UP FOR TV SERVICE AGAIN. How fucking shady is that? He didn’t even click on anything that said resume service. Spectrum CS admitted as much.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Returned my Spectrum modem today. Had them out twice last week due to intermittent drops that would last 2 to 20 minutes - usually in the middle of a Teams call. They said it was my WiFi router, so I replaced it. Still happened. They came out again and said everything looked good on their end and it was my equipment. When I told them I replaced my router they shrugged and left. I switched to MetroNet and now no drops.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "MetroNet has been real solid. Realized we’re from the same place. Have been using MetroNet for a few years now and no issues like Spectrum had.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Been using T-Mobile 5G Home Internet for about 2 years now and it works flawlessly. MS Teams, 4k streaming, xbox x gaming, it handles all of it. Customer support is really good as well. The one time I did have issues it was fixed in about 10 minutes.\n\nSpectrum / Charter are absolute garbage from a customer service standpoint. The networks are generally out of date. And the costs just go up and up every year. They shouldn't be worried about telco they should be worried about doing some self improvement.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Same but the comparable is xfinity - just a garbage company.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Internet will not be competitive and equally available for all Americans till it is regulated like a utility.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bye spectrum. Finally more competition",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Nope. Owned by Spectrum.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Does spectrum have a satalite connection?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "No, not for residential use if that’s what you’re asking",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "T-Mobile Home Internet is horrid, but it's better than cable and DSL It took over a year to figure out how to pay my bill without having to call the Philippines at 2:35 a.m. and tricking a computer into letting me talk to a human to pay my bill. It's been about three years and I still can't get a VPN to work with it's crap trash can modem. (As in, looks like a trash can.) Forget tech support, this is only supported by a small team in the Philippines who don't speak English and barely know how to turn on a computer. Also, when I first got it, I didn't get it. I had to complain and they said they want money for the one they sent. I went down the street hoping and finally found out where the morons sent it\n\nIt has also just raised prices and established a data cap, both of which they weren't supposed to do.\n\nIf something can beat it, go for it. It is reliable and fast, tho. Then again Frontier had me believing 2.5 mhz down was blazing fast.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m more curious what pricing will look like after April when the affordable connectivity program runs out of money. Prices jacked up when it rolled out to capture more free money and now companies like comcast have a bunch of accounts on the books that won’t be able to afford their plans but they won’t do shit to give an existing customer a decent rate.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I guess that $20 a month increase in my broadband bill was to pay for a Super Bowl commercial.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "We've had more problems with work from home clients that have T-Mobile broadband. I have a feeling it would be less of an issue if we were using IPv6, but that's out of my hands.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well... im stuck with spectrum. But we're getting fiber in my area from some other company, att dsl, starlink and a few mobile carriers are avalable. Hope they compete and drive prices down.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How is the tmobile for gaming?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1askjwf",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.theregister.com/2024/02/15/feds_go_fancy_bear_hunting/",
+    "title": "Feds dismantle Russian GRU botnet built on 1,000-plus home, small biz routers. Beijing, now Moscow.… Who else is hiding in broadband gateways?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I unplugged my smart coffee maker and now Teams runs faster. Who knew?",
+        "points": "112 points",
+        "children": [
+          {
+            "comment": "The iOT can suck a fat one. I was given one of those light bulbs. Would you like to have it?",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Literally everyone",
+        "points": "23 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe change the default admin password",
+        "points": "22 points",
+        "children": [
+          {
+            "comment": "Na you see, that's exactly what they'd expect us to do. Security is all about outsmarting your opponents, and I for one will not be bamboozled into changing my password like they expect me to do.\n\n/s. Major /s",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have been storing my Pied Piper data on smart fridges for years",
+        "points": "22 points",
+        "children": [
+          {
+            "comment": "Jian Yang!",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I just downloaded this not hotdog app. So far it works.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Iran, North Korea, maybe a few more.",
+        "points": "12 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AllOfThem.",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "Uhhh witerally",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "To be fair, they learned it from the NSA and Cisco.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Please consider pfsense or the forked project opnsense if you have some technical skills.\n\nThey’re both open source router software based on FreeBSD (remotely like Linux but different enough that they aren’t compatible). You can repurpose old computers for a much better and more secure home network.",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "This hack was due to people leaving their gateways with the default username and password. The ubiquiti gateways are still very good",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "Definitely, they are. I should have prefaced it by saying if you’re running a typical home and small-business router like Asus or Netgear, then it’s a good idea to switch if you have the capability.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "A dual NIC minipc with coreboot and pfsense?\n\nCheffs kiss.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I’m looking forward to reading about the botnet running on unpatched misconfigured pfsense boxes three years from now.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Inserts always have been meme...\n\n🌎🧑‍🚀🔫🧑‍🚀",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What the fuck is this headline?",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All the countries do this. Have been for decades.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is this a serious question? The NSA of course.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The CIA? The NSA? The DoD?",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The CIA, NSA, and FBI.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The Israelis in your video cards for real",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Digging the cover photo for the article lol",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Yup. That image together with the headlines implies the US is next… /tinfoil hat.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Giorgio Tsoukalos enters the chat…",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I am waiting on the offshore development story to break 🙃",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Everybody. Companies don't take network security seriously and are unwilling to properly budget for it, and I'm using the blanket statement on purpose. And home users are even worse than that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Doesn’t the new device setup wizard make you change the default password? How does something as basic as this kind of security breach still happen these days ffs?🤦",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "It’s been ages that I’ve seen a consumer grade router that had a default password for the entire product line. The common devices I see come preconfigured with individualised passwords and Wi-Fi keys. Even if you don’t change the default credentials, an attacker would still need to see the physical sticker on the back to learn what they are.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Who would've thought having an internet facing networking device would increase attack surface?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Remember when the most Reddit addicted place was a US air force base when reddit revealed usage data?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Jokes make a full circle before turning a reality: put American firewall ahead of Russian firewall ahead of Chinese firewall ahead of German one, ahead of French one. Then put generic Linux with iptables on top of that to be extra sure.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asaxkm",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.technologyreview.com/2024/02/16/1088505/uruguay-gene-drives-screwworms/",
+    "title": "Uruguay wants to use gene drives to eradicate devastating screwworms. A hereditary defect created with CRISPR could wipe out cattle-killing pests that cost the country millions.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Do mosquitoes first, please.",
+        "points": "37 points",
+        "children": [
+          {
+            "comment": "I know this is generally well meaning, but there’s a consequence to killing off large insect families in an ecosystem.",
+            "points": "25 points",
+            "children": [
+              {
+                "comment": "Not necessarily. No species relies on mosquitoes as their sole source of food. It literally has no place and would not be missed if killed off.",
+                "points": "16 points",
+                "children": [
+                  {
+                    "comment": "Bats would need to change some stuff\n\nI’m generally on your side of this still, but it’s a valid critique all the same. Mosquitos are a food source",
+                    "points": "17 points",
+                    "children": [
+                      {
+                        "comment": "Mature and immature are an aquatic food source. Mosquitos can also be pollinators.",
+                        "points": "3 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Mosquitos are a food source\n\nSo were dunkaroos and crystal pepsi.",
+                        "points": "12 points",
+                        "children": [
+                          {
+                            "comment": "I’m gonna need the anti-mosquito lobby to come up with some better arguments, please",
+                            "points": "8 points",
+                            "children": [
+                              {
+                                "comment": "The fact that its a \"bad argument\" for food is why its a good argument against mosquitoes",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "What about the ham jelly monstrosities of the 1950s?\n\nOk, bad example…",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Arguable",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "As are mosquitoes",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "Incorrect",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "Arguable",
+                                        "points": "1 point",
+                                        "children": [
+                                          {
+                                            "comment": "Doesn’t appear that way. Anyways, how are ya doing? How’s things at home? You just need someone to talk to?",
+                                            "points": "-1 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "This shit hit me hard as an old guy......I miss dunkaroos.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "I will shiv someone for some dunkaroos",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Scientists, aka people who know massive amounts more than you on the subject, have literally said eradicating mosquitos would be fine.\n\nIt’s not a valid critique. That’s not how validity works. We don’t crowd source opinions to determine validity.",
+                        "points": "4 points",
+                        "children": [
+                          {
+                            "comment": "There is not a scientific consensus on the eradication of mosquitoes. I double dog dare you to try and prove there is 😂 At least tell us the episode number of the JRE episode where you heard that",
+                            "points": "9 points",
+                            "children": [
+                              {
+                                "comment": "There doesn’t seem to be a scientific, legal, moral, etc. consensus about anything these days for some reason.",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "That’s a separate issue from what I mean, but I completely agree with it too.",
+                                    "points": "5 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  },
+                                  {
+                                    "comment": "Every scientist minus a few tobacco industry types agree on global warming. Consensus does not have to be 100%",
+                                    "points": "3 points",
+                                    "children": [
+                                      {
+                                        "comment": "My point is that it’s ridiculous that there’s not one subject I can think of where there isn’t someone outspoken (with a following) with an opposite “take” on stuff.",
+                                        "points": "2 points",
+                                        "children": [
+                                          {
+                                            "comment": "You mean some outliers that weren't needed to reach a consensus?",
+                                            "points": "1 point",
+                                            "children": [],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Source?!",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "As someone who meddled in stream ecology mosquito larvae are eaters of algae and your streams would notice them missing.",
+                            "points": "3 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Scientist also suggested introducing cane toads to Australia for pest control in sugar cane farms.. how did that go?",
+                            "points": "4 points",
+                            "children": [
+                              {
+                                "comment": "Great work. I was about to mention this example as a counter point.\n\nAlso, it’s bold to assume that I’m not some sort of “scientist.”",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Apparently mosquitoes, bed bugs, and lice are some of the species of insects that have almost no role in our ecosystem. They can be completely eradicated with no interruption.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "A bit sus all of those are species that bother city folks.",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I seen some where in Africa they make mosquito burgers. So some people eat them due to their circumstances. I wouldn’t say they rely on it tho",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Studies have shown that they are not a sole food source and are terrible pollinators. The really significant impact would be to the virus ecosystem. Win-win?",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "Maybe the mosquitos are population control?",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "This. I can't help but think there could be large and unknowable consequences to the action of eradicating a species through genetic changes.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Not really. Other insects that fill the same niche would increase in population with the reduced competition. There really is no downside… well, unless you happen to be a malaria virus.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Like, what? Grasshoppers turn into locust if you take away their competition.",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "Frankly, other mosquitoes. There are a number of species that don't suck blood.",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Mosquitoes could in theory die out and become extinct of their own volition. In that case, nature would take over and ecosystems would adapt, as they’ve always done. Unfortunately, there is that pesky element of time. According to the University of Alaska, the oldest mosquito fossil is believed to be from 79 million years ago, though scientists think mosquitos have been in existence for 226 million years. 🤷🏼‍♀️",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Don’t care, kill them all",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Is most of the world mosquitoes are an invasive species and are not native. Also we would only eradicate a couple of species that feed on humans. There are a lot more species of mosquitoes",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "They’ve already done this",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "The fact no one knows this is scary.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Lol when was the last time you heard of a Zika outbreak?",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Well you see, they did that as a response to climate change. So if we had just fixed that when we knew about it early instead of sitting here with our dicks in our hands because “lol the economy” then we wouldn’t have to roll the dice by releasing millions of genetically modified mosquitoes into the environment.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "AFAIK, yes, in a lab. But they were weighing the morality and ecological impact of wiping out an entire species.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "They are already releasing sterile mosquitoes in the wild to mitigate diseases and current data suggests it’s working",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "and ticks, fleas, lice, and wasps",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Ticks",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "...if only it was that easy.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What could possibly go wrong",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Ikr! It’s like maybe this is just the environment’s way of saying “yeah buddy, um, you have too many cows and eat too much meat. Perhaps we can slow down a bit. “",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "Maybe this is “the environment’s” attempt to scold us like old testimony God would love to see… or maybe not, and the gene pool editing could save hours of effort and time spend dealing with the pest.\n\nI’ll tell you what I know to be true, daviller definitely does not have a clue and should not be airing their opinion on such a topic.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Says random Reddit user airing opinion…\n\nlol, you speak so confidently about someone you know nothing of and offer nothing of substance. I don’t buy into religion. I only suggested that nature has a way of solving problems in ways we don’t fully understand. I do not believe in fantastical or poetic fairy tales such as biblical or other religious tools used to control weak minds.\n\nI also support the sciences, but would caution that even they make mistakes and do not wholly understand the impacts of their actions. It’s not like we don’t already have a long list of these kinds of attempts that have proven more harmful than not. Be it genetic modification or introduction of different species.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "I am not suggesting to do or not do something. Im just stating the obvious which is that you are jumping to conclusions that you dont understand. Admit it.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "I’m jumping to conclusions? Flappy bought a ticket on the Hypocrisy train. Lmao. My karma suggests I’m doing quite all right.",
+                            "points": "-2 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "You manage to be both a Luddite AND act like you know better than people who literally do this for a living all at once. That’s a pretty special skill you have.\n\nWe had too much open space and that’s why invasive wild boars ended up in the American Southwest? Our lakes were too dirty and that why Zebra mussels ended up in them?\n\nMaybe the issue is a little more complex than some anonymous randos in a Reddit comment section realize?",
+                "points": "-2 points",
+                "children": [
+                  {
+                    "comment": "I love how people get bent out of shape on Reddit. Simply using Luddite to describe someone you also know nothing about.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Bring back mosquitos! /s Mosquitos on the endangered species list. /s",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "The last paragraph in your comment is all i was trying to communicate, albeit in a self-righteous way.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "What!? That’s like saying malaria is the environment’s way of saying: I would like kids to die prematurely and preventably.",
+                "points": "-2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Remember some genius ordered to kill all the sparrows in China?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do.Not.Fuck.With.The.Life.Cycle.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "God I hope so!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Domino affect if u take out a part of the food chain",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Yeah nobody is going to miss screwworm fly, as the same reason nobody misses crab lice.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Is it a substantial part of any specific food chain?",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "Everything has a purpose",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "And that purpose is often lethal. That much vaunted “harmonious balance of nature” is kept in balance through death. Lots of it. Mother Nature is trying to kill you; it’s what she does.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Evolution is not about purpose. Evolution is about \"good enough to make offspring\"",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "tell this to the millions who died from smallpox. like, is this idiotic fucking way of thinking REALLY this common?\n\nobviously it’s not a good idea to, at a whim, make a species extinct. but given time and holistic analysis, we could absolutely weigh the potential benefits and drawbacks of eradicating screwworms, hookworms, tsetse flies, mosquitoes, influenza, HIV, the common cold, rabies, and potentially HUNDREDS of other obligate parasites and pathogens.\n\n“everything has a purpose,” but if its purpose is to merely inflict suffering, then we, as humans with compassion and empathy and the ability to make things better for others, are duty-bound to prevent that purpose from being fulfilled.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Killing cows i guess. We wanna be the ones to do it",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "No, these (flies, mosquitoes) are not keystone species. We can sterilize a harmful species to breed them out of the ecosystem without impacting the balance of biodiversity. The goal is to target just those species that cause harm/disease in humans and the food chain. Not all flies, mosquitoes etc impact humans and can be selected for.",
+                "points": "-2 points",
+                "children": [
+                  {
+                    "comment": "What about the impact of the rest of the ecology that the 'pests ' interact with?",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Look at it this way, insects, in relation to humans is like the number of stars in the universe to our single sun. Bugs run this planet. Insect diversity is robust and removing a couple species will not upset ecosystems. Insect species populations will fill any void.",
+                        "points": "-2 points",
+                        "children": [
+                          {
+                            "comment": "You have no idea what you're talking about.",
+                            "points": "2 points",
+                            "children": [
+                              {
+                                "comment": "Care to explain why you disagree?",
+                                "points": "-1 points",
+                                "children": [
+                                  {
+                                    "comment": "Nothing exists without a role. We may not like what a species does, but that doesn't mean that removing it has no consequences.\n\nBats eat mosquitoes for example, removing mosquitoes will impact the bats that feed on them, as well as the prey that eats the mosquitoe larvae. There was a reason a species evolved in its environment.\n\nTransplanted species are another thing. But that's a different situation.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "You are correct up to a point. It goes back to the argument that there’s enough biodiversity to maintain food chain balance. There are thousands of varieties of mosquitoes that would fill the void from the removal of one harmful species. Bats have a diverse diet as well as all small vertebrate species that rely on insect diets and would not be affected by the removal of one type of mosquito over another. Would you die off if just one of your food options was removed from your diet?",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "Like what, honey?",
+                                            "points": "0 points",
+                                            "children": [],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "Such a fact filled rebuttal",
+                                "points": "-1 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As a kid in Texas in the early 70’s I remember finding the white cardboard boxes that had contained sterile screwworm flies out in our pasture. I didn’t know what they were at the time, but found out later.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Any chance they’ve worried about how that will ruin their whole ecology?",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“Operation Screwdriver” is hard to pass up",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do humans next.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The balance of nature is pretty much in-tune. We off killling something just because it’s a pest and don’t expect consequences? Right…",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do bedbugs next please! Someone provide one good reason bedbugs exist?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "There’s already an effective strategy for eradicating screwworm: release sterile males into an area. We don’t need to mess with CRISPR",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "They talk about this in the article including its limitations. Impressive how long the technique has actually been employed but apparently it’s very resource intensive.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just wind down cattle farming. Nobody needs beef in their diet to survive.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This has been done before the old-fashion way.\n\nhttps://en.wikipedia.org/wiki/Sterile_insect_technique?wprov=sfti1#\n\nTLDR: The female adult screwworm fly have sex only once in her life, she basically stores all the sperm. Once these scientists realized that, if they release sterilized males (by literally blasting them with radiation) en masse, those sterile males will just overwhelm normal males in sheer volume, have sex with females, and she will lay non-viable eggs. If done repeatedly, this will cause a population crash and effectively eradicate local population of screwworm flies without using pesticides or chemicals. These CRISPR gene drive is just more modern, and hopefully more efficient method, of sterilizing these males.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Dew it",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anyone remember the opening shot from the movie adaptation of “I Am Legend”? I’m getting those vibes.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

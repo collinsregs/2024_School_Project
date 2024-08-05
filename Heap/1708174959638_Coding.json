@@ -1,0 +1,63 @@
+[
+  {
+    "id": "t3_1at052h",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://threeofwands.com/the-types-of-errors-in-python-apps/",
+    "title": "The Categories of Bugs in Python Apps",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1asfe6d",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/SxZNxRdkt3s",
+    "title": "A SPEEDGUIDE TO NEXTJS AND FIREBASE AUTH",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ascw42",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/oK9WtiwIqvY",
+    "title": "Do you do pair programming??",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hate pair programming. Instead of working on my own pace and thinking about the problem in silence I now have to narrate everything I do and every single sentence I say might end up as a completely new conversation topic that doesn't necessarily have to help to solve the problem.\n\nI especially hate pairing with that one dude who jumps from topic to topic and never seem to listen to what I tell him. Stuff that would take me 5 minutes alone will take me well over an hour when I'm working with him.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Tried it did not worked out for me. I prefer solo and chatgpt.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Where I work it's the default, BUT there is no obligation to do it all day every day.\n\nInstead each two people negotiate how to do it. Maybe they just coordinate in the morning and then meet again at the end of the day to check up on each other. Or they each have meetings in the morning, then look at some code together after lunch.\n\nAnd of course everyone is encouraged to express their expectations, and over time everyone in the team gets to know each other, at which point the whole thing becomes quite smooth.\n\nLooking at the usual responses that this topic usually gets, also here, I'm pretty convinced that most people haven't given it a real try, or they should really bring their soft skills to an average level.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I really hate pair programming. If you want to teach someone something as a one off, that's fine, or if you need someone's help to solve a problem, but to just do it by default is terrible.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1asa6oi",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/Wit8nv1ZorQ",
+    "title": ".NET 8 WebAPI & Angular 17 Role Based Authentication with JWT Tokens Part - 1",
+    "points": null,
+    "comments": []
+  }
+]

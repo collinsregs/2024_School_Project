@@ -1,0 +1,63 @@
+[
+  {
+    "id": "t3_1bhpgh2",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://cacm.acm.org/research/10-things-software-developers-should-learn-about-learning/",
+    "title": "10 Things Software Developers Should Learn about Learning – Communications of the ACM",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhk0dh",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/gitconnected/python-coding-concepts-that-every-developer-should-know-4b2203b08b4a?sk=993577ab5c5ec089f99eb6535cda4c4b",
+    "title": "Python Coding Concepts",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhjv2r",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/c-sharp-progarmming/c-from-fundamentals-to-advanced-techniques-a-comprehensive-cheat-sheet-fb555aa8e2a2?sk=f291be8bad0c5b5ba946f5ccbc600df2",
+    "title": "C#: From Fundamentals to Advanced Techniques — A Comprehensive Cheat Sheet",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bhe02x",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://missythegod.org/posts/swar-basics/",
+    "title": "SWAR and Hamming Weight",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh2q2s",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://blog.frankel.ch/pitfall-implicit-returns/",
+    "title": "The pitfall of implicit returns",
+    "points": null,
+    "comments": [
+      {
+        "comment": "dont have experience with the other language but the only issue I have with them in Rust is sometimes it is difficult to trace where a return will happen vs not. In truth this is probably more an issue with the code written and not necessarily Rust itself but if you wind up with a lot of if/else or complex let blocks it can be rough.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bh1tzr",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/c-sharp-progarmming/polymorphic-type-support-in-signalr-hubs-c81d129999f2?sk=7ebbb29083761317085d4c4f6b70cd85",
+    "title": "Polymorphic Type Support in SignalR Hubs",
+    "points": null,
+    "comments": []
+  }
+]

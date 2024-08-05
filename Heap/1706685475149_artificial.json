@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "t3_1afc2fi",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.makeuseof.com/ai-powered-to-do-list-apps-to-boost-productivity/",
+    "title": "AI-Powered To-Do List Apps to Boost Your Productivity",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1afbzxw",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.forbes.com/sites/rachelwells/2023/11/22/8-ai-tools-every-project-manager-needs-in-2024/",
+    "title": "8 AI Tools Every Project Manager Needs In 2024",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1afalkt",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1afalkt/my_gtx_3090_burning_ai_candles_in_hell_makes_my/",
+    "title": "My GTX 3090 Burning AI Candles in Hell makes my Soundcard sound like Bubblewrap.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Burning AI Candles in Hell = mining bitcoin, run stable diffusion, or RVC Training, etc.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1afah72",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1afah72/ai_tools_to_compare_pdf/",
+    "title": "AI tools to compare PDF",
+    "points": null,
+    "comments": [
+      {
+        "comment": "chatpdf",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1afabwf",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.reddit.com/gallery/1afabwf",
+    "title": "Pa da pish.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It may be that everything beneath the quantum level is made of cheese.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1afa348",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1afa348/ai_music_research_questions_from_an_undergraduate/",
+    "title": "AI Music Research Questions from an Undergraduate!",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1af9rkx",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1af9rkx/dubbingai_making_weird_sounds/",
+    "title": "DubbingAI making weird sounds?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1af909z",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1af909z/any_other_realtime_avatar_streaming_options/",
+    "title": "Any other real-time avatar streaming options?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1af906w",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1af906w/oneminute_daily_ai_news_1302024/",
+    "title": "One-Minute Daily AI News 1/30/2024",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Thanks for sharing",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1af8131",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1af8131/whats_a_good_ai_tool_that_helps_you_compare/",
+    "title": "What's a good AI tool that helps you compare travel destinations?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1af716w",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1af716w/best_free_ai_question_solver_i_can_use_on_iphone/",
+    "title": "best free ai question solver i can use on iphone.",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1af4pkv",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1af4pkv/restarting_my_life_mastering_ai/",
+    "title": "Restarting My Life: Mastering A.I.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "For some fun initial exploration, watch a bunch of youtube vids on free AI tools and try some of them out.\n\nFor learning to use LLMs like chatGPT, you want to learn \"prompt engineering\", which is how to structure human language questions to the AI that result in the best answers. There are apparently even jobs for this. (one of my favorite playlists on this.)\n\nI'll let others advise you on image/animation/voice stuff, as I haven't spent much time on those.\n\nRegarding hardware, there are two general things AI uses hardware for - training new models on huge datasets, and running a model in an interface that allows humans to interact with it. Training requires immensely powerful and expensive hardware and you won't be doing any of that.\n\nHowever, running the model can be done either remotely or locally. Most AI apps run the model on their servers and provide a web or mobile app interface to it that you can use. They still require the internet though, but can be used with low-powered hardware.\n\nAlternatively, you can run the model locally on your own computer using various tools like GPT4All, and downloading models from the main public repository HuggingFace. See the subreddit /r/localllama for a large community exploring this. If this interests you, there are three criteria you want to look for in your computer hardware:\n\nHighest possible data bandwidth between RAM and CPU or GPU\nLarge amount of RAM (or VRAM, which is RAM embedded on the GPU/video card)\nHighest performance GPU or CPU\n\nAs you've heard, the Nvidia 4090 GPU is the best consumer-level choice atm, but the 3090 is also capable. Alternatively, Apple's new M1, M2, M3 Apple Silicon Macs (Mini, Studio, MacBook Air/Pro) are also capable of running local LLMs (I've only tried text LLMs on mine, haven't tried image/video/audio stuff). Just make sure to get one of the Pro or Max models with maximum 400GB/s memory bandwidth (see tech specs page before buying), and at least 32GB of RAM (ideally 64GB though).\n\nHere are a few of the cheapest Apples capable of this:\n\nRefurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 24‑Core GPU 32GB RAM (keyboard/mouse/monitor not included). $1529 (strongly recommend selecting the RAM upgrade to 64GB for +$350)\nRefurbished 14-inch MacBook Pro Apple M2 Max Chip with 12‑Core CPU and 30‑Core GPU 32GB RAM - Space Gray. $2339.\nRefurbished 14-inch MacBook Pro Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU 64GB RAM - Space Gray. $2899.\n\nFor the Apples, it matters less whether it's M1, M2, or M3 or how many cores, and more whether it has more memory and the maximum 400GB/s memory<>CPU/GPU bandwidth. I strongly recommend at least 64GB Memory if you can afford it at all. Apple's new \"Apple Silicon\" CPU/GPU is so good it will last you 10yrs at least. If you run out of hard drive space during that time you can extend it with an external hard drive, so you can skimp on the hard drive cost up front. But you can't increase the memory/RAM, so it's good to splurge on that up front if at all possible. It will be worth it in the long run, and also in the short term if you want to do local AI stuff with it.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Thank you so much. Great start of where to look and about computer usage and needs! Very helpful!",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "You're welcome, good hunting! :)",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "See GPT4’s response below. I think it’s ok. I’d add Synthesia or Murf. +1 descript\n\nMY PROMPT: You are an expert in the business application of AI tools.\n\nWhat is the best tool, resource, and link to learn each of the following tasks in order to become an AI master? 1 chat gpt / AI bots  2 image generators like dalle or mindjourney etc  3 ai animations  4 ai voice creation / training\n\nANSWER: To become proficient in these areas of AI, it's important to access the right tools and resources for learning. Here's a guide for each task:\n\nChat GPT / AI Bots:    - Tool: GPT-4 by OpenAI.    - Resource: OpenAI's official documentation and tutorials.    - Link for Learning: OpenAI's blog and documentation page (https://openai.com/blog/).\n\nImage Generators (like DALL-E or MindJourney):    - Tool: DALL-E by OpenAI, MindJourney, or similar.    - Resource: Online courses and tutorials focused on generative adversarial networks (GANs).    - Link for Learning: Websites like Coursera or Udemy offer courses on GANs, which are fundamental to understanding tools like DALL-E.\n\nAI Animations:    - Tool: Adobe's Character Animator or similar AI-based animation software.    - Resource: Online workshops or tutorials on AI-driven animation tools.    - Link for Learning: Websites like Skillshare or LinkedIn Learning have specific courses on AI animation techniques.\n\nAI Voice Creation / Training:    - Tool: Tools like Google's Text-to-Speech or similar.    - Resource: Comprehensive guides on speech synthesis and voice AI.    - Link for Learning: Google Cloud's Text-to-Speech documentation (https://cloud.google.com/text-to-speech/docs) provides a good starting point.\n\nRemember, mastering these tools not only requires understanding the software itself but also the underlying AI and machine learning concepts. Therefore, a combination of practical tool usage and theoretical learning is key.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Very interesting. Thank you. Yeah I want to know it all from practical to theoretical. Want to eventually apply to jobs with a solid foundation of knowledge.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Following",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Also following",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ask this same question to chatgpt for a decent jumping off point. The tools are brain dead easy to use. Truthfully, even if you learn them, they're so easy to use that even this job market is going to be over saturated and competitive. I'd spend some time networking while learning.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Good idea. Start researching companies that may benefit from this and connect with them! Thanks.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Your Everyday AI podcast and newsletter has a lot of good stuff. It's free, and they offer a free ChatGPT course. I took it and found it helpful. Sometimes the podcast says in 30 min what could be said in 10, but I still learned a lot.\n\nhttps://www.youreverydayai.com/",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I'll check them out. Thanks!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Similar thoughts here - I'm turning 50 this year.\n\nI found lots of the free online courses (e.g. Coursera) around AI to be excellent quality.\n\nI've also returned to university, in my 3rd year of a part-time online Master of AI course.\n\nI feel like understanding the underlying mechanisms and maths will be more useful long term, as the tech is changing constantly and quickly.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Good luck! Yeah, I figure the real designers of ai side like you are doing would be better. But I don't think that's in me. 😂. So I just want to be the best at that side and be sure to keep up with it!",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "All the best to you as well.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "First off, it's inspiring to see your determination to pivot and master AI technologies! For learning ChatGPT and AI bots, consider starting with online courses from Coursera or edX, which offer foundational to advanced lessons. For image generators like DALL-E or Mindjourney, check out their official documentation and tutorials on YouTube for practical insights.\n\nFor AI animations and voice creation, Adobe offers some beginner-friendly tools, and platforms like Descript can be a good start for voice work. While a high-end GPU like the 4090 boosts performance for AI tasks, it's not strictly necessary for learning. Look for laptops with a decent GPU (like the NVIDIA RTX 3060 or above), a strong processor (i7 or Ryzen 7), and at least 16GB RAM for a balance between performance and cost. This setup should allow you to explore most AI tools without being tethered to a desktop.\n\nRemember, the tech is just a tool; your creativity and understanding of these platforms will be the real game-changer. Best of luck on your journey to becoming an AI master!",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "What kind of AI software can you run on your own PC? I thought most of the AI stuff was running in the cloud on huge systems.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Absolutely, you're right! Most heavy-duty AI processing is indeed cloud-based, so for many AI applications, a high-end PC isn't a necessity. For instance, you can easily access advanced AI tools through the cloud with a standard computer. However, if you're delving into tasks like 3D rendering or running complex local machine learning models, more powerful hardware helps. For example, software like TensorFlow for deep learning projects or Adobe After Effects for AI-assisted video editing can benefit from a stronger GPU and CPU to handle the workload efficiently.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "I hope within a decade mobos will have special sockets for special AI chips so people can do more AI on their own device. Or maybe it will just require more powerful GPUs? IDK enough about the subject... fascinating though.\n\nLately I have been thinking a lot about how awesome if there was an AI assistant for learning and using the information contained within all the manpages on Linux systems.\n\nI have been getting a little too used to asking AI internet search assistants questions and now navigating through manpages feels so archaic. Even using Google feels clunky now.\n\nI really hope there is a built-in AI for Linux help someday. The knowledge base is so vast and often very obscure. I don't know what the hardware requirements would be for a LLM even if it was only tasked with a narrow tech-help scope of knowledge. It seems hard to find information about those kinds of things.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "It's really interesting that you think motherboards will have AI chips in ten years! As technology advances, it's undoubtedly a possibility, with more potent GPUs or specialized AI circuits leading the way.\n\nAn AI helper for Linux manpages is a fantastic concept. More AI-driven, user-friendly support systems are already in vogue, and Linux stands to gain a lot from this. For many users, an AI that makes its extensive, sometimes difficult material easier to access and customize would be revolutionary.\n\nRegarding hardware requirements, if an LLM (Large Language Model) is cloud-based, a user wouldn't necessarily need to have high-end technology. Users might use their regular gadgets to access the AI's capabilities while the AI handles the heavy lifting on distant servers. This method works similarly to how many AI systems do now. It's a fascinating field with lots of room for advancement and expansion.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "/r/localllama - a whole community dedicated to this. Download the free and open source GPT4ALL and see if your PC can run any of the pre-trained models it provides. You can also download more models from huggingface to experiment with different things.\n\nThere two general AI use cases for hardware - training new models on huge datasets, and running those models in a web/mobile/etc interface that allow humans to interact with them. Training requires powerful and expensive hardware and is pretty much all done in the cloud, or expensive hobbyist setups. But running models can be done locally on some consumer level hardware like Nvidia 3090/4090 GPUs and Apple's new M1/M2/M3 Macs.\n\nMore about that in my comment above: https://www.reddit.com/r/artificial/comments/1af4pkv/restarting_my_life_mastering_ai/ko8n5gx/",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "One in particular I've seen is voice changing software. The good ones are run locally and allow real time voice changing. But it's hefty GPU usage.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Thank you so much. I'll definitely check out those places. Yeah I want to understand how all these things connect and work. Don't want to apply for jobs with just \"messed around will dalle on my phone\"to be my experience. 😂",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "For any free local running voice cloning I would go with XTTS from coqui tts or styletts2 there’s a pip install for both",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I dont know what any of that means But I'll save this post and come back to it when I understand it better. 😊 Thanks",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "r/stablediffusion is fun\n\nRandom link I grabbed but they have some great tutorials and I’ve had fun with automatic1111\n\nhttps://www.reddit.com/r/StableDiffusion/s/XER6dD063w",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Thank you!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Your idea for \"master of Al\" is simply to use some applications that use AI under the covers to create images and audio. This is not much of an achievement and considering they are cloud based services you just need something that will connect to the Internet.\n\nYou can also use something https://colab.research.google.com/ to do AI stuff like tensorflow, again you don't need anything other then something to connect to the Internet.\n\nThen we get to using the stuff coming from nvidia and PhotoshopAI and all the stuff coming out of Adobe, yes you need something powerful and soon as you add a GPU to a laptop the price goes way up. Desktops are way cheaper. But realise you are not becoming the \"master of AI\" you are just using software that under the covers that you will never see it may be using AI",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Well I guess it's a master of ai tools. I believe the creative side will still and will for a long time be needed. I believe, and perhaps wrongfully so, that people are needed. While the tools seem simple enough, you have to have the creativity to \"master them\" to get what you want exactly and efficiently.\n\nI know it may not seem like a high end ai goal for some. But to me, being needed for something like this is an achievement. I don't want to walk into a job interview saying I tooled around with chatgpt and dalle. I want to say that I know how to expertly craft what you are looking for. I know which tools are needed and I know how to use said tools. I don't want to get paid less and learn on the job, I want to be the smartest person in the room in regards to the companies ai needs. 😊",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "IYH FWIW same generation, computer security field and same corporate realization and job going poof \"they quickly learned that Al can do all these things, not great but good enough and for almost no money.\"",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Dang that a bummer! 😔 Sorry to hear that.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Go for it!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I do not know jack about consumer behavior, I concede that argument all day long. \"How to become a master of Generative AI\", that is really what ya'll want to buy? You could have anything, that is what you choose? Just making sure. Posts like these and the fact they get upvoted right away leads me to believe these things are true and I am just an idiot for not seeing them.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Just trying to stay relevant and not get aged out of work.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I understand that.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why ask people when you can just ask chatGPT to give you links to resources and create guides? You can also ask it about what laptop/desktop you might need for video/voice.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "True. But since I'm not familiar with what chatGTP does to collect information I don't know the type of answers I will get. Does it just search through Google and give me a list of the top sites or what? So I guess I'm asking her to get more of the personal touch of people who have actually used these things and say yes I've used it this is good or stay away from this site because it's a mess and they try to charge you later kind of stuff.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aetuj4",
+    "subreddit": "u/plutotvofficial",
+    "dataType": "link",
+    "dataUrl": "https://v.redd.it/r4eepwaa3mfc1",
+    "title": "FRANKIE'S FEARS ARE VALID. 🤡 Stream Cake Boss for free on my new Warner Bros. TV Sweet Escapes channel!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I would rather hammer my fingers into my hands than ever watch cake competition",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anal",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "⣿⣿⣿⣿⢟⣯⣵⣿⣿⣷⣦⣭⣶⣶⣶⣶⣤⣀⠀⠀⠀ ⡇⠹⣿⣿⢯⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀ ⡇⠶⢈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⣿⣿⣿⣿⣿⡄ ⣣⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣡⣿⣿⡟⣿⣿⡿⠟⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⢚⣹⣿⣿⠀⠀⣤⣤⡄⠀ ⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⢠⠀⠀⣼⣿⣿⣷⣿⡆⢻⡿⠀⠀ ⣿⣿⣿⡿⠟⠉⠀⠀⠖⠂⠀⠀⣶⠹⣿⣿⡿⠿⠃⡜⠁⠀⠀ ⠿⠛⣡⣴⣾⣿⣿⣿⣷⣄⠐⣼⣿⣷⣦⠀⠀⠰⠞⠀⠀⠀⠀ ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢿⣿⡿⢃⣴⣦⣤⣀⠋⠀⣀⡤ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⣶⣯⣴⣿⣿⣿⣿⣿⡆⠀⠈⠁ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣿⣿⡏⣿⣿⣿⣿⣿⣷⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⣿⣿⣀⣌⢿⣿⣿⣿⣿⡀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⣿⣿⣿⣿⢈⣿⣿⣿⣿⡇⢀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠈⠋⠁⠀⣼⣿⣿⣿⣿⡇⢸⡄ ⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⣿⣿⠀⢰⣿⣿⣿⣿⣿⠁⢸⡇ ⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⣼⣿⡏⠀⣼⣿⣿⣿⣿⣿⠀⢸⣇ ⣿⣿⣿⣿⣿⣿⡟⠀⠠⠀⣿⡿⠀⠀⣿⣿⣿⣿⣿⣿⠀⢸⣇",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bure-nya~",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This shit sucks 🔥🔥🔥",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⢀⣀⣀⣀⡀⠄⢀⣠⡔⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣰⢿⣿⣿⣿⣿⣿⣿⣷⡆⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣻⣟⣿⣿⡿⣟⣛⣿⡃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣾⣿⣷⣿⣷⣿⣿⣿⣷⣽⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⡟⣟⣿⣿⠺⣟⣻⣿⣿⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡝⠻⠵⠿⠿⢿⣿⣿⢳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣧⠈⣛⣛⣿⣿⡿⣡⣞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡧⠄⠙⠛⠛⢁⣴⣿⣿⣷⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⡿⠟⠉⠄⠄⢠⠄⣀⣠⣾⣿⣿⡿⠟⠁⠄⠈⠛⢿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡟⠉⠄⠄⢀⠠⠐⠒⠐⠾⠿⢟⠋⠁⠄⢀⣀⠠⠐⠄⠂⠈⠻⢿⣿⣿ ⣿⣿⣿⠋⠁⠄⢀⡈⠄⠄⠄⠄⠄⠄⠄⠄⠁⠒⠉⠄⢠⣶⠄⠄⠄⠄⠄⠈⠫⢿ ⣿⣿⡟⠄⢔⠆⡀⠄⠈⢀⠄⠄⠄⠄⠄⠄⠄⢄⡀⠄⠈⡐⢠⠒⠄⠄⠄⠄⢀⣂ ⣿⣿⠁⡀⠄⠄⢇⠄⠄⢈⠆⠄⠄⢀⠔⠉⠁⠉⠉⠣⣖⠉⡂⡔⠂⠄⢀⠔⠁⠄ ⣿⡿⠄⠄⠄⠄⢰⠹⣗⣺⠤⠄⠰⡎⠄⠄⠄⠄⠄⠄⠘⢯⡶⢟⡠⠰⠄⠄⠄⠄",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "⠀⠀‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎⠀⣠⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢰⡿⠋⠁⠀⠀⠈⠉⠙⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⣿⠇⠀⢀⣴⣶⡾⠿⠿⠿⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⣀⣀⣸⡿⠀⠀⢸⣿⣇⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣾⡟⠛⣿⡇⠀⠀⢸⣿⣿⣷⣤⣤⣤⣤⣶⣶⣿⠇⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀ ⢀⣿⠀⢀⣿⡇⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⠿⣿⡏⠀⠀⠀⠀⢴⣶⣶⣿⣿⣿⣆ ⢸⣿⠀⢸⣿⡇⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⣿⡇⣀⣠⣴⣾⣮⣝⠿⠿⠿⣻⡟ ⢸⣿⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⣠⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠉⠀ ⠸⣿⠀⠀⣿⡇⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀ ⠀⠻⣷⣶⣿⣇⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿⣿⣛⣛⣻⠉⠁⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢸⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⢸⣿⣀⣀⣀⣼⡿⢿⣿⣿⣿⣿⣿⡿⣿⣿⡿⠀",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "⣿⣿⣿⣿⢟⣯⣵⣿⣿⣷⣦⣭⣶⣶⣶⣶⣤⣀⠀⠀⠀ ⡇⠹⣿⣿⢯⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀ ⡇⠶⢈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⣿⣿⣿⣿⣿⡄ ⣣⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣡⣿⣿⡟⣿⣿⡿⠟⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⢚⣹⣿⣿⠀⠀⣤⣤⡄⠀ ⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⢠⠀⠀⣼⣿⣿⣷⣿⡆⢻⡿⠀⠀ ⣿⣿⣿⡿⠟⠉⠀⠀⠖⠂⠀⠀⣶⠹⣿⣿⡿⠿⠃⡜⠁⠀⠀ ⠿⠛⣡⣴⣾⣿⣿⣿⣷⣄⠐⣼⣿⣷⣦⠀⠀⠰⠞⠀⠀⠀⠀ ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢿⣿⡿⢃⣴⣦⣤⣀⠋⠀⣀⡤ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⣶⣯⣴⣿⣿⣿⣿⣿⡆⠀⠈⠁ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣿⣿⡏⣿⣿⣿⣿⣿⣷⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⣿⣿⣀⣌⢿⣿⣿⣿⣿⡀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⣿⣿⣿⣿⢈⣿⣿⣿⣿⡇⢀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠈⠋⠁⠀⣼⣿⣿⣿⣿⡇⢸⡄ ⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⣿⣿⠀⢰⣿⣿⣿⣿⣿⠁⢸⡇ ⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⣼⣿⡏⠀⣼⣿⣿⣿⣿⣿⠀⢸⣇ ⣿⣿⣿⣿⣿⣿⡟⠀⠠⠀⣿⡿⠀⠀⣿⣿⣿⣿⣿⣿⠀⢸⣇",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pussy bitch grow up",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Franky? From One Piece?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Penis",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1af32t5",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1af32t5/poetroid_open_source_poetryprinting_camera/",
+    "title": "Poetroid Open Source Poetry-Printing Camera.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hah! Thats a fun idea, well done.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1af19v7",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1af19v7/im_searching_for_a_ai_personal_assistant_that/",
+    "title": "I'm searching for a AI personal assistant that matches some requirements.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Currently nothing close to that, but Amazon is working on a paid alexa service that might do it.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aezvyt",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/2ig8q2evanfc1.jpeg",
+    "title": "The New York Times is building its own ChatGPT",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What's with the title of this post? The screenshot says nothing like that.\n\nIt's no secret that every news organisation is currently experimenting with an apparent low-hanging fruit: Take the articles from press agencies who provide factual, unbiased news reports, police reports, etc., and automatically generate an article in the writing style of the respective news organisation with an LLM. Ideally, it is slightly biased toward things that catch the attention of the audience of the respective medium.\n\nThis is nothing about making their own ChatGPT, GPT, or training anything at all. They can take an existing LLM model or use the OpenAI APIs.\n\nIn some sense, it's the most unsurprising and un-innovative use for this technology.",
+        "points": "30 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"funniest thing I have ever seen\"\nYou should probably get out more",
+        "points": "34 points",
+        "children": [
+          {
+            "comment": "And maybe think about a new degree /s",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Firsthand source: We're building a team that wants to learn how to use GenAI\n\nSecondhand source: We're building a team that wants to make GenAI\n\nThirdhand source: We're building a team that wants to make ChatGPT\n\nFourthhand source: a misleading version of the 3rd source\n\nand on and on...",
+        "points": "14 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I presume with no blackjack nor hookers ?",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Brings new meaning to the term RAG.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“Yeah, well... I'm gonna go build my own ChatGPT, with blackjack and hookers!”",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "But... NYT is famously terrible with tech coverage. Isn't Cade Metz their senior tech writer? He's the worst \"successful\" journalist in the business. I don't understand what they hope to gain from this. Their name recognition will let them continue to fool the ignorant masses. Their utter lack of capability isn't going to change, so they won't be attracting the informed audience. Who is in the middle that this move is meant to assuage?",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "I don't understand what they hope to gain from this.\n\nTo be able to write fake news and then blame the chatbot if they get caught?",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Tech coverage and tech usage not same thing. Their infographics is goated.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I have no idea what this announcement means and I work in ai. 😭",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What's funny about this? Journalism has been a known low paying/slim prospect major for over 20 years.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "You think the issue here is that this eliminates journalism jobs?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I have no idea what the issue is, can you explain? Twitter OP's reaction makes zero sense to me",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If they can transfer the expertise of their processes and analysis it could become something.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "It will be shit because they're so focused on how people need to own rights to all their training data, that they'll never be able to actually train it well. Just NYTimes content isn't enough for it to be good.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good idea. This way the New York Times can tap that VC money since VCs love giving to other tech companies that lose hundreds of millions per year.\n\nSounds like a 4D chess move by Andrew Ross Sorkin fresh out of Billions.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It would work for them since they're fine with made up stuff.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No they’re not. And they’re not claiming to.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aevj98",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aevj98/tagging_using_70k_terms/",
+    "title": "Tagging using 70k terms",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Look into how embeddings work. For example word2vec",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Use Open AI embeddings API, get embeddings for everything, then a vector similarity measure can give you which ones are related. \"software\" and \"coding\" will be close whereas \"software\" and \"sandwich\" are further apart. You will need a little coding though.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aetqcy",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aetqcy/image_generating_ai_similar_to_dreambooth_from/",
+    "title": "Image generating AI similar to Dreambooth from Stable Diffusion",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aet9fg",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://iai.tv/articles/ai-needs-the-constraints-of-the-human-brain-auid-2728?_auid=2020",
+    "title": "AI needs similar constraints to the human brain to evolve, argues University of Cambridge research scientist",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This reads like an advertisement for Nature Machine Intelligence. Which is, okay fine fair, probably worth a read. The linked article basically says nothing though. Moore's law is a thing and has a limit. Are we at the limit? Maybe, maybe not. When we get to the limit will it be important to focus on ideas outside just computing capabilities, yes. So what? That seems quite obvious. And it seems obvious to push the limit of compute until it goes no further, and then, and only then, look elsewhere.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aeqycl",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aeqycl/is_there_any_ai_that_can_make_lyrics_videos_of/",
+    "title": "Is there any AI that can make lyrics videos of existing songs for free?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "whispher?\n\nHOW TO Use WHISPER AI TRANSCRIPTION To Transcribe ANYTHING (youtube.com)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aeq7e9",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aeq7e9/best_2d_image_to_3d_ai/",
+    "title": "Best 2D Image to 3D AI?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aeq5xn",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aeq5xn/reformatting_research_papers_with_ai_for_audio/",
+    "title": "Reformatting Research Papers with AI for Audio",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aeq1zu",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aeq1zu/best_way_to_make_consistent_character_with_the/",
+    "title": "Best way to make consistent character with the controll over the pose?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aeq174",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aeq174/best_way_to_make_consistent_character_with_the/",
+    "title": "Best way to make consistent character with the controll over the pose?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ael8ea",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://x.com/realwasmedge/status/1752034261907947652?s=20",
+    "title": "LlamaEdge 0.2.9 is released! More LLMs supported. Shell script now work with any of the 3000+ GGUF repos on Hugging Face.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "From the github:\n\nThe LlamaEdge project makes it easy for you to run LLM inference apps and create OpenAI-compatible API services for the Llama2 series of LLMs locally.\n\nThe Rust+Wasm stack provides a strong alternative to Python in AI inference. * Lightweight. The total runtime size is 30MB. * Fast. Full native speed on GPUs. * Portable. Single cross-platform binary on different CPUs, GPUs, and OSes. * Secure. Sandboxed and isolated execution on untrusted devices. * Container-ready. Supported in Docker, containerd, Podman, and Kubernetes.\n\nThe LlamaEdge project supports all Large Language Models (LLMs) based on the llama2 framework. The model files must be in the GGUF format. We are committed to continuously testing and validating new open-source models that emerge every day.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ael182",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1ael182/will_there_be_a_day_in_the_future_when_we_can/",
+    "title": "Will there be a day in the future when we can easily design and train our own AI models? (Even for zero-experience user like me)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I think one of the hardest parts of training an AI model is getting a good quality, sufficiently large dataset to train with.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes. When is the question. Even with current state non-AGI AI we are seeing automation of any repeatable tasks locally and across nodes. Anything that can be done once can be observed and done again. Originating novel more efficient less wasteful methods and curating quality still requires a human.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "there are plenty of guides online but as far as I know the only thing stopping the average person from 'training' a model is willpower and cost. its expensive!!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My guess? 6 years. In 6 years you'll think about that thing in your pocket as an AI and not as a phone. It will know you, it will be your friend, it will look things up, it will serve up videos and products based on your wants and needs. It will shop for you (\"AI, add to walmart cart\") etc, etc, etc.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "not SOTA models, but yes.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes and no, AI will always advance and we as a consumer will always be playing catch up. It will be more like Stable Diffusion where you get hold of the check points and mod them by injecting you take into it.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aek2oj",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aek2oj/elon_musks_neuralink_implants_brain_chip_in_first/",
+    "title": "Elon Musk's Neuralink implants brain chip in first human",
+    "points": null,
+    "comments": [
+      {
+        "comment": "None of that bullshit. Neuralink is a weaker version of a system used for quadriplegics since 90'. What AI exactly? Is everyone here just straight delusional :D",
+        "points": "27 points",
+        "children": [
+          {
+            "comment": "Is Elon Musk not Tony Stark irl? Do you mean to tell me that he's a businessman first and that the amount of technological progress his various companies make is wildly overblown? I was giving him sloppy toppy so hard I didn't realize",
+            "points": "9 points",
+            "children": [
+              {
+                "comment": "Ehhhh in my opinion, the progress Spacex has made is under blown. Tesla, the progress is making EVs profitable which is huge.\n\nThe rest is probably overblown haha",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Which system from the 90s?\n\nI thought that Neuralink had massively expanded the number of electrodes they are implanting which makes it a pretty different device to previous arrays, is that not true?",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "BrainGate does the same thing and fairly reliably. Neuralink used to employ lots of competent researchers but most of them left. I would ignore everything musk says.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "For BrainGate\n\n\"The sensor is in the form of a microelectrode array, formerly known as the Utah Array, which consists of 100 hair-thin electrodes that sense the electromagnetic signature of neurons firing in specific areas of the brain, for example, the area that controls arm movement.\"\n\nFor Neuralink\n\n\"Each probe contains 48 or 96 wires, each of which contains 32 independent electrodes, making a system of up to 3072 electrodes per formation.\"\n\nIt's at least got 10x more electrodes and therefore is 10x more sensitive.\n\nSo when you say it's a \"weaker version\" what aspect are you referring to?",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "It's a really risky approach with no real benefits. Brain is quite acidic and it moves quite a bit, so everything you put in there is going to have a bad time. Simple wire probes are built so they fail safely with minimum scaring and it mostly proved itself to be so. It's a good proven system. I work on datasets based on that system.\n\nNeuralink's probes fail at higher rates that Braingate's due to complexity, this leads to lots of scaring, insertions are inaccurate, causing lots of bleeding. Also, what seems to happen a lot if insertions are trough blood vessels. It's extremely risky, it killed pretty much all animals.\n\nAnother point is that yes theoretically there are up to 10x as many electrodes but that never actually worked. You are lucky when you get 10-15% of probes operational, plus you filled someone's brain with trash. The distribution will be quite random so not that much of value.\n\nIn reality it's just smoke and mirrors and none their stuff really works. All the important people left the company. It's just bunch of Musk's yesmen murdering monkeys.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Well this is what WIkipedia says about it:\n\nIn July 2023, an investigation by the USDA found no evidence of animal welfare breaches in the trials other than a previous, self reported incident from 2019.\n\nNeuralink received FDA approval for human clinical trials in May 2023.\n\nIf the tech is as bad as you say then why would the FDA approve it?",
+                            "points": "3 points",
+                            "children": [
+                              {
+                                "comment": "Animal welfare in this types of test means that all animals need to die at the end. They were concerned with lying on reports and from videos leaked it's fairly obvious that the animals suffered much more than they had to. This is a big deal when it comes to experiments on animals.\n\nSurgery was reapproved as IDE2, which means extremely risky experimental therapy. Most of the time these go away as no surgeon wants to participate on these. I guess they eventually found someone who really needs money.",
+                                "points": "3 points",
+                                "children": [
+                                  {
+                                    "comment": "I dont think any doctor would be held responsible for accidents involving the implementation of the neuralink as it is a robot doing it.",
+                                    "points": "2 points",
+                                    "children": [
+                                      {
+                                        "comment": "It's not about responsibility. It is the same issue as with \"inoperable\" tumours. If there is nothing to lose they why no try the surgery anyways, right? In reality they just do not want to be the one killing the person. So, with extremely risky experimental surgeries that are not necessary, neurosurgeons usually do not want to participate.",
+                                        "points": "0 points",
+                                        "children": [],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Evidently it's weaker because a certain CEO is at the head of the company. At least that's all I'm gathering.",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "First they claim he contributes nothing. Then that his companies are trash because of him. But it can really only be one or the other.\n\nMaybe Neuralink has a really kind and generous lead researcher who does great work for an overbearing boss. Then on the day of his greatest accomplishment, people who hate his boss shit all over the life's work of this really nice guy and his team of underpaid engineers.",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Generally sound advice",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Sure, you must also think a smartphone is just a weaker version of the telegraph.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Nope, I just worked with datasets from devices like that one.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "If so then you'd realize neuralink was basically stolen from UC Davis college, among others.. for which there was tons of drama. Neuralink is basically billions of dollars worth of government (and thereby taxpayer) funded college research, stolen by a company and turned into a product.\n\n​\n\nThe same people who created the system used in the 90s, created this tech. Which is a more modern version -- which Musk bought (Stole), from public colleges and turned into neuralinks product.\n\nhttps://skepchick.org/2022/02/elon-musks-neuralink-abusing-monkeys-stealing-science/",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Thanks for the info, I wouldn’t have know otherwise. Would appreciate some insights as ai am just a layman intrigued by the news.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Main issue is that it failed test on monkeys, about half of them died during implantation when the robot spazz and pretty much stabbed them into their brains, lots of them died shortly after surgery, some went into coma and 2 committed suicide. Musk considered this to be a successful test. Fortunately this is not car production so government stopped them, now it has to be done by hand by a neurosurgeon.\n\nBrainGate system is in use for about 20 years now and actually works.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "The article says it was implanted by a robot. Maybe they fixed it?",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Probably some sort of compromise as the original bot was garbage, it would insert probes trough veins or just straight murder the monkeys.",
+                        "points": "-3 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This marks a significant milestone in the development of brain-computer interface technology.\n\nWhat is the milestone then exactly? Be specific.\n\nThe aim of Neuralink is to enable people with paralysis to control devices like smartphones or computers with their minds.\n\nWe've been able to do this for decades now. There are non-invasive procedures that allow people to control BCIs. This isn't new, it's been around for ages.\n\nNeuralink has previously demonstrated this technology in animals, showing its potential.\n\nYou mean like this monkey controlling a robotic arm 15 years ago?\n\nHuman implantation represents a major step forward in this cutting-edge field.\n\nNope, it's been happening since 2004",
+        "points": "14 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wish musk was the one they experimented on",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Agree. lol",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Some hero could create a virus that filters out anything he says that’s unkind or untrue.",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Neuralink was not founded by Elon Musk. Like all of his other companies, he bought a controlling stake and drove everyone else out.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "False. He bought the trademark only.\n\nFrom Wikipedia (with references):\n\nNeuralink was founded in 2016 by Elon Musk and a founding team of seven scientists and engineers.[6][14][15] The group of initial hires consisted of experts in areas such as neuroscience, biochemistry and robotics.[7] The trademark \"Neuralink\" was purchased from its previous owners in January 2017.[6][16]",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Ah well, first time for everything.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "SpaceX",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Noble motive to hide a wicked agenda",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wonder why he wasn’t the first human? Surely it would cure his cocaine addiction if it did what he claimed.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If smartphones and computers were impervious to attack or having penetrable attack surfaces then I would think this is a good idea, but since they're not, it would not be hard to send a \"raise clock speed\" command or edit it's rom remotely to do so and then reboot to the asic so they explode in someones brain.\n\nThis is a super dumb idea that ignores everything we know about computer security",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "isn’t that kind of fear mongering melodrama? we shouldn’t research this at all because it can be hacked?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "You have no idea how many wireless security attacks happen on a daily basis in this country do you?",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "i do, again, isn’t this a bit melodramatic, we shouldn’t stop research bc of hacks",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "I do network security.\n\nIt's not melodramatic",
+                        "points": "-1 points",
+                        "children": [
+                          {
+                            "comment": "u gotta look at the picture from the outside",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "RIP",
+        "points": "-2 points",
+        "children": [
+          {
+            "comment": "No worries. The first human is already dead for many thousand years",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Crazy how they dug them up just to put a gadget in their brain",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's like trying to sew with a double-handed greatsword. I hope the person enjoys playing pong with their mind because that's all it is good for.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So, he'll surely be able to read tougts and end with the last privacy frontier?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That’s crazy",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aejs02",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/?sh=439ff18e7a94",
+    "title": "Google Update Reveals AI Will Read All Your Private Messages",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The level of patronizing though... “to tailor its responses to your mood and vibe.” As in, by default I'm not capable of expressing myself based on my \"mood and vibe\"? 😖",
+        "points": "46 points",
+        "children": [
+          {
+            "comment": "“to tailor its responses to your mood and vibe.” As in, by default I'm not capable of expressing myself based on my \"mood and vibe\"?\n\nBig Brother in Washington D.C. uni-party finds your comment problematic.\n\n\"If you have nothing to hide, you have nothing to fear, gentle citizen. Fuck your 4th amendment rights—we'll find a way to subvert them somehow because that's how much we hate America.\"",
+            "points": "17 points",
+            "children": [
+              {
+                "comment": "Does the constitution matter if you signed away your rights in TOS? I thought that ship sailed long ago.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "You're confusing private enterprises with government overreach.\n\nA private auditorium refusing to let you speak is not a 1st amendment violation.\nA bar banning people with guns is not a 2nd amendment violation.\nA guest overstaying their welcome in your house is not a 3rd amendment violation.\nA private company indexing everything you upload to their service is not a 4th amendment violation.\n\nEtc.",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "As if there is any difference between big tech and the government they do anything the government wants",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "My house, a bar, and a private auditorium are not a multibillion user services with only a handful of competitors. The comparison is disingenuous in the extreme.\n\nThat's just an excuse that you're providing corpos to hide behind. Multinationals own more of the world than ever before, and we can't pretend they're just some separate island that has no impact on our country. It's time our laws get updated to reflect this new reality.",
+                    "points": "5 points",
+                    "children": [
+                      {
+                        "comment": "I'm trying to make a point that regulatory and constitutional law are two separate things. Mixing these up confuses the issue when it comes time to pass legislation. As for statutory protections, California has the CCPA, Virginia has the VCDPA, Colorado has the CPA, Utah has the UCPA, and Connecticut has the CDPA. What we don't have is a federal equivalent to the GDPR that encompasses the patchwork of state legislation.",
+                        "points": "4 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Literally everyone knows this. The problem is the government and the big tech companies are elbow deep in each other's shit. If google has it, the government has it or can easily get it without you every knowing.",
+                    "points": "7 points",
+                    "children": [
+                      {
+                        "comment": "They told me Cyberpunk: 2077 was just a video game and not a documentary.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.\n\nThe Declaration of Independence, emphasis mine.\n\nThe purpose and mandate of the government in the first place is to secure the secure our unalienable rights, which would later be enumerated in the bill of rights, including 4th ammendment rights. If another entity aside from government infringes upon these rights, such as a large multinational corporation like Google, then it is a case of government failing to serve its mandate.",
+                    "points": "4 points",
+                    "children": [
+                      {
+                        "comment": "You’re gonna hate to learn what SCOTUS is about to rule, then\n\nhttps://www.npr.org/2024/01/17/1224939610/supreme-court-chevron-doctrine",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "No, that sounds like the right choice. Chevron deference doctrine allows government agencies to operate outside the scope of the law as written by elected public officials held accountable to the will of the public by the election process, such as the ATF enforcing a ban on bump stocks despite no underlying legislation justifying their authority to do so. As a result, we live under the rule of the whim of the executive branch, rather than rule of law.\n\nRegardless, it's questionable whether or not public officials are actually being held accountable by the election process when the preferences of the average American have statistically insignificant impact upon public policy, but removing Chevron deference would be a small step in the right direction, if that were actually the case.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "I think it’s awesome that you think that commerce and technology developments work in 4 year cycles\n\nIt’s a hot take for an AI sub, but hey.\n\nEdit to be more clear: I have no issues with the executive branch having the capability to shut something down hard, now more than ever, if something goes sideways in some AI event. Regardless of which team is in power.\n\nIf SCOTUS overturns Chevron, all of you who worry about what private companies will do with their AI, get ready: this decision will make that worry entirely justified. And enjoy those reactors that will be built next to your homes to power data centers.",
+                                "points": "1 point",
+                                "children": [
+                                  {
+                                    "comment": "I don't. I think the government is largely disfunctional, corrupt, and antithetical to its intended purpose. Where regulation is intended for public safety, it is instead perverted for the purpose of gatekeeping competition for corporate special interest groups. When that power is placed in the hands of unelected government officials, it serves to further regulatory capture, and further seperate government policy from the will of the public.\n\nI have no doubt in my mind that when regulation is enforced on AI, it will come at the expense of normal, everyday, average American citizens, and serve to to protect the market position of massive corporations.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "Jfc man. Paste your last three responses and the chevron decision into your favorite AI. Ask it if your logic has been at all contradictory through all of this, and make sure you ask it neutrally. You’ll learn things",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "Paste your last three responses and the chevron decision into your favorite AI.\n\nDidn't quite have enough space for the last line, but hope this is alright.\n\nhttps://vocaroo.com/1f9m8S5JBtmY",
+                                            "points": "0 points",
+                                            "children": [],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "If you want rights, then go to a national park. They even have a dedicated free speech zone far away so that you won't bother anyone who could hear you !",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Maybe it should be…we can and should change the laws when the existing ones are no longer sufficient or no longer suiting us.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It will change YOU moo d. All your emotions are belong to gOOgle  .. mood targeted adverts.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I mean... you would not be using an AI assistant in chat if you wanted to express yourself on your own? I don't understand your point here.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Not a fan of their copy, particularly in the context of justifying feeding the assistant one's whole message history. \n\nCan I just be annoyed? It doesn't change anything",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "/u/traumfisch\n\nThats literally how AI works, its not patronizing unless you don't understand how AI is working. And yes sometimes you're not in the right mood to express yourself the way you want to, and something like this can help do that. No need to get needlessly offended.",
+            "points": "-8 points",
+            "children": [
+              {
+                "comment": "I am not offended, but thanks for your concern. I hate their copywriting. \n\nIs that okay with you?",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "You fail to mention that in your post about feeling patronized and offended that they think you're not capable of expressing yourself.",
+                    "points": "-6 points",
+                    "children": [
+                      {
+                        "comment": "Yeah no, I never said I am \"feeling patronized and offended\". I was making a point about what irks me about their \"mood and vibe\" stuff.\n\nYou're trying to pick a fight out of thin air 😑",
+                        "points": "5 points",
+                        "children": [
+                          {
+                            "comment": "You're trying to pick a fight out of thin air\n\nThat's pretty much what I said you're doing. Taking offense out of nothing. Have a good day!",
+                            "points": "-7 points",
+                            "children": [
+                              {
+                                "comment": "Dude 🤦",
+                                "points": "4 points",
+                                "children": [
+                                  {
+                                    "comment": "Well done",
+                                    "points": "0 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "happy nsa noises",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Privacy has been dead for YEARS. Snowden explicitly told us that all of our messages are being read already. All of our calls are being listened to. This changes nothing for anyone who has actually been paying attention.",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "I started the process of “De-Googling” a couple years ago and I’ve kind of given up on it. Why even bother at this point?",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "Why even bother at this point?\n\nTo not participate in surveillance capitalism. I started when I discovered they use tracking and algorithms to raise prices depending on what you saw and who you are, to squeeze at much money as they can of you. You're not an international hacker doing crime. You should at least take some precautions to avoid getting scammed, get your info leaked or taken advantage of.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Google literally reads your messages and puts targeted advertising on the page based on the text. I don't know why this surprises anyone at all. Microsoft copilot does this too with their email service. The AIs need to read what you are typing or order to spell check, grammar check, fact check, whatever it.\n\nIt's just a typical fear mongering headline. It's been this way for two decades now and no one has given a shit.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Who didn't see this coming?? Surveillance capitalism needs to run off a fucking cliff",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Probably already trained Bard on it, and this is just an admission rather than a warning",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Those are unrelated things. They're saying that when you ask it to participate in your Messages exchanges (e.g. be a better autocomplete, I imagine) then it is going to read the context of the conversations you've had in order to do so. This is obvious, but Google has been slapped down recently for not stating the obvious.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I know they are very sensitive about doing things like that. I'm 100% sure they did not train Bard on gmail.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The article discusses some important aspects.\n\nAI reading your messages is not google reading your messages, nor does it connect those messages to you (anonymous). The goal is that when phones get powerful enough, all of your data is stored and processed locally on your phone. These days, as the article mentions, even when companies like Apple release their version of generative AI into iPhones, we still need cloud computing for advanced AI computing. This is because phones aren’t powerful enough. The application for AI doing everything with your data is that, in the case of private messages, the AI learns your style, preferred method of communication, and more, which means you have a phone that knows everything about you and only your phone. But the company doesn’t know anything about you (except for your internet traffic, which anyone can infer a lot about).\n\nThis is actually a good thing for privacy (sort of, if more data is entrusted into a localised AI) and increases your phones usefulness, but I’m not hesitant to suggest that this is going to be a given nor will we understand the consequences. But the idea is sound.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "The goal is that when phones get powerful enough, all of your data is stored and processed locally on your phone.\n\nWhose goal are we referring to here?\n\nThe article mentions that this is Apple's objective, as they have maintained a policy favouring local data storage and processing for quite some time. However, it's important to note that this isn't Google's policy. The primary aim of these corporations is profit generation. If they can achieve this by accessing and stealing your data, they're likely to do so.",
+            "points": "16 points",
+            "children": [
+              {
+                "comment": "I understand that. And perhaps I've made some critical errors in my understanding and interpretation here. However, I wanted to point out that AI on your phone could be useful for privacy and utility reasons if it is being used that way without being a spy. As for corporate profits, that's a matter of incentive structure. Google is a search engine and provides lots of other services, which by themselves aren't very profitable, especially if they cost so much to run those services. This is especially true for YouTube. So ads are important, and so is data.\n\nThere are other utilities to data, such as training data for recommendation algorithms or for ad relevance. Perhaps we'll run out of data like that (in terms of usefulness), or maybe that data should be handled by phones when they get powerful enough. In that world, big tech companies could provide a platform for ads, as they do now, but ads might not need data to know if someone will buy their things due to localised AI having that function. And if everything is handled on the phone, then we'll tend to trust that nobody but my phone and I will know what I'm doing. That's what I mean by being good for privacy.\n\nI do think that this is a major paradigm shift.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "But the company doesn’t know anything about you (except for your internet traffic, which anyone can infer a lot about).\n\nIf you seriously believe this crock of shit and whatever crock of shit coming out of the mouth of the former \"Do No Evil\" company called Google...\n\nI got a bridge in Arizona for sale. PM me and I will give you the Redditor discount. The bridge has low miles and I just changed her oil, tires, and windshield wiper fluid last year.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As opposed to them already reading it? I will see ads and receive emails based on anything I’ve typed. At this point I’ve sadly come to expect they know everything about me…except what’s in my journal in my tiny secluded cabin in the woods.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Boomers: \"They're going to read all your private shit!\"\n\nEveryone else: \"Can't they do that already if they want to?\"\n\nBoomers: \"Wait...they can see what I do on my phone?!?\"",
+        "points": "-6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cute that Google thinks everybody gets.. private messages.",
+        "points": "-3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "One more reason to buy an iphone instead of an android_)",
+        "points": "-20 points",
+        "children": [
+          {
+            "comment": "I get the gist of what you intend, but really the serious privacy alternative is to deny both access to personal data, and configure a phone accordingly.\n\nIronically the best way to do that is a Google Pixel phone, with unlocked boot loader, custom ROM, and careful choice of open source applications, including for private messaging, with end to end encryption.",
+            "points": "11 points",
+            "children": [
+              {
+                "comment": "Ironically the best way to do that is a Google Pixel phone, with unlocked boot loader, custom ROM, and careful choice of open source applications, including for private messaging, with end to end encryption.\n\nThat’s not an option for 99.99999% of users.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Why? Is that a cost, ignorance or technical barrier?",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "It's both a cost and information barrier, most people doesn't know how to do that, and they don't have the time/money to invest into learning what to do and how to do it.\n\nedit: Solutions that only works for the nerdiest of nerds isn't going to cut it in this case because if the majority accept having their data stolen, the ability to opt out for the minority of nerds will also eventually disappear.",
+                        "points": "6 points",
+                        "children": [
+                          {
+                            "comment": "To me that is like anything, if you don't have electrical or plumbing expertise you get an expert to do it for you.\n\nEveryone has and will have difficulty avoiding capitalist surveillance until regulations are enacted and enforced to prevent big tech from doing so, or break them up, which is likely the better option.",
+                            "points": "-1 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Its fucking easy. People have YT vids showing the entire process. You just need to not be a total moron.\n\nSource: I'm on one right now.",
+                            "points": "-3 points",
+                            "children": [
+                              {
+                                "comment": "Doesn't matter if you think it's easy. I think it's easy too. Do you think being able to do this makes you smart? People are stressed and broke af and have no time these days, of course they're not going to do this instead of banging their wife or getting drunk to forget their crappy life, or whatever.\n\nGo out on the streets and start helping people do it if you want to increase the odds. Start a campaign. You personally get involved if you want it to happen. Saying it's \"fucking easy\" and all it takes is not being a \"total moron\" is weird and off-putting, why should anyone take you seriously? It's like you're trying to intellectually shame people into doing something? What is the connection between your words and any given human giving af?",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "Dude, I'm saying there are literally step by step tutorials on YT that show how to do this. Nearly every person in America can either do this themselves, or knows someone who could help them\n\nAlso, you're kind of a jerk and wow with the escalation. Take your meds dude",
+                                    "points": "0 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "oh no",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"We already are, we're just letting people actually know about it now\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I am going to switch to an alternative mobile OS for my next phone. I am tired of Google and Apple.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "To think your messages are private on any google product is naive.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aetuj4",
+    "subreddit": "u/plutotvofficial",
+    "dataType": "link",
+    "dataUrl": "https://v.redd.it/r4eepwaa3mfc1",
+    "title": "FRANKIE'S FEARS ARE VALID. 🤡 Stream Cake Boss for free on my new Warner Bros. TV Sweet Escapes channel!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I would rather hammer my fingers into my hands than ever watch cake competition",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anal",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "⣿⣿⣿⣿⢟⣯⣵⣿⣿⣷⣦⣭⣶⣶⣶⣶⣤⣀⠀⠀⠀ ⡇⠹⣿⣿⢯⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀ ⡇⠶⢈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⣿⣿⣿⣿⣿⡄ ⣣⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣡⣿⣿⡟⣿⣿⡿⠟⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⢚⣹⣿⣿⠀⠀⣤⣤⡄⠀ ⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⢠⠀⠀⣼⣿⣿⣷⣿⡆⢻⡿⠀⠀ ⣿⣿⣿⡿⠟⠉⠀⠀⠖⠂⠀⠀⣶⠹⣿⣿⡿⠿⠃⡜⠁⠀⠀ ⠿⠛⣡⣴⣾⣿⣿⣿⣷⣄⠐⣼⣿⣷⣦⠀⠀⠰⠞⠀⠀⠀⠀ ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢿⣿⡿⢃⣴⣦⣤⣀⠋⠀⣀⡤ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⣶⣯⣴⣿⣿⣿⣿⣿⡆⠀⠈⠁ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣿⣿⡏⣿⣿⣿⣿⣿⣷⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⣿⣿⣀⣌⢿⣿⣿⣿⣿⡀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⣿⣿⣿⣿⢈⣿⣿⣿⣿⡇⢀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠈⠋⠁⠀⣼⣿⣿⣿⣿⡇⢸⡄ ⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⣿⣿⠀⢰⣿⣿⣿⣿⣿⠁⢸⡇ ⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⣼⣿⡏⠀⣼⣿⣿⣿⣿⣿⠀⢸⣇ ⣿⣿⣿⣿⣿⣿⡟⠀⠠⠀⣿⡿⠀⠀⣿⣿⣿⣿⣿⣿⠀⢸⣇",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bure-nya~",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This shit sucks 🔥🔥🔥",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠄⠄⠄⠄⠄⠄⠄⠄⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄⢀⣀⣀⣀⡀⠄⢀⣠⡔⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣰⢿⣿⣿⣿⣿⣿⣿⣷⡆⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣻⣟⣿⣿⡿⣟⣛⣿⡃⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣧⣿⣾⣿⣷⣿⣷⣿⣿⣿⣷⣽⣹⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⡟⣟⣿⣿⠺⣟⣻⣿⣿⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⡝⠻⠵⠿⠿⢿⣿⣿⢳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣧⠈⣛⣛⣿⣿⡿⣡⣞⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡧⠄⠙⠛⠛⢁⣴⣿⣿⣷⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⡿⠟⠉⠄⠄⢠⠄⣀⣠⣾⣿⣿⡿⠟⠁⠄⠈⠛⢿⣿⣿⣿⣿⣿ ⣿⣿⣿⣿⡟⠉⠄⠄⢀⠠⠐⠒⠐⠾⠿⢟⠋⠁⠄⢀⣀⠠⠐⠄⠂⠈⠻⢿⣿⣿ ⣿⣿⣿⠋⠁⠄⢀⡈⠄⠄⠄⠄⠄⠄⠄⠄⠁⠒⠉⠄⢠⣶⠄⠄⠄⠄⠄⠈⠫⢿ ⣿⣿⡟⠄⢔⠆⡀⠄⠈⢀⠄⠄⠄⠄⠄⠄⠄⢄⡀⠄⠈⡐⢠⠒⠄⠄⠄⠄⢀⣂ ⣿⣿⠁⡀⠄⠄⢇⠄⠄⢈⠆⠄⠄⢀⠔⠉⠁⠉⠉⠣⣖⠉⡂⡔⠂⠄⢀⠔⠁⠄ ⣿⡿⠄⠄⠄⠄⢰⠹⣗⣺⠤⠄⠰⡎⠄⠄⠄⠄⠄⠄⠘⢯⡶⢟⡠⠰⠄⠄⠄⠄",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "⠀⠀‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎⠀⣠⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢰⡿⠋⠁⠀⠀⠈⠉⠙⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⣿⠇⠀⢀⣴⣶⡾⠿⠿⠿⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⣀⣀⣸⡿⠀⠀⢸⣿⣇⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣾⡟⠛⣿⡇⠀⠀⢸⣿⣿⣷⣤⣤⣤⣤⣶⣶⣿⠇⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀ ⢀⣿⠀⢀⣿⡇⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⠿⣿⡏⠀⠀⠀⠀⢴⣶⣶⣿⣿⣿⣆ ⢸⣿⠀⢸⣿⡇⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⣿⡇⣀⣠⣴⣾⣮⣝⠿⠿⠿⣻⡟ ⢸⣿⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⣠⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠉⠀ ⠸⣿⠀⠀⣿⡇⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀ ⠀⠻⣷⣶⣿⣇⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿⣿⣛⣛⣻⠉⠁⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢸⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⢸⣿⣀⣀⣀⣼⡿⢿⣿⣿⣿⣿⣿⡿⣿⣿⡿⠀",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "⣿⣿⣿⣿⢟⣯⣵⣿⣿⣷⣦⣭⣶⣶⣶⣶⣤⣀⠀⠀⠀ ⡇⠹⣿⣿⢯⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀ ⡇⠶⢈⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢿⣿⣿⣿⣿⣿⡄ ⣣⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣡⣿⣿⡟⣿⣿⡿⠟⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⢚⣹⣿⣿⠀⠀⣤⣤⡄⠀ ⣿⣿⣿⣿⣿⣿⣿⠟⠋⠁⢠⠀⠀⣼⣿⣿⣷⣿⡆⢻⡿⠀⠀ ⣿⣿⣿⡿⠟⠉⠀⠀⠖⠂⠀⠀⣶⠹⣿⣿⡿⠿⠃⡜⠁⠀⠀ ⠿⠛⣡⣴⣾⣿⣿⣿⣷⣄⠐⣼⣿⣷⣦⠀⠀⠰⠞⠀⠀⠀⠀ ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⢿⣿⡿⢃⣴⣦⣤⣀⠋⠀⣀⡤ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⣶⣯⣴⣿⣿⣿⣿⣿⡆⠀⠈⠁ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣿⣿⡏⣿⣿⣿⣿⣿⣷⠀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⣿⣿⣀⣌⢿⣿⣿⣿⣿⡀⠀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⣿⣿⣿⣿⢈⣿⣿⣿⣿⡇⢀⠀ ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠈⠋⠁⠀⣼⣿⣿⣿⣿⡇⢸⡄ ⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⢸⣿⣿⠀⢰⣿⣿⣿⣿⣿⠁⢸⡇ ⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⣼⣿⡏⠀⣼⣿⣿⣿⣿⣿⠀⢸⣇ ⣿⣿⣿⣿⣿⣿⡟⠀⠠⠀⣿⡿⠀⠀⣿⣿⣿⣿⣿⣿⠀⢸⣇",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pussy bitch grow up",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Franky? From One Piece?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Penis",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

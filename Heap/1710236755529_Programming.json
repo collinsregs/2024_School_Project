@@ -1,0 +1,1151 @@
+[
+  {
+    "id": "t3_1bct1zg",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://bloomberry.com/how-ai-is-disrupting-the-tech-job-market-data-from-20m-job-postings/",
+    "title": "How AI is disrupting the demand for software engineers: data from 20M job postings",
+    "points": null,
+    "comments": [
+      {
+        "comment": "What evidence do you have that confirms this is caused by AI and not other causes?",
+        "points": "14 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Without evidence, I might rewrite your research with AI to show that it is the war on Ukraine and the Middle East that did it.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds legit",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bcstf1",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.maartenhus.nl/blog/comparing-javascript-frameworks-part-1-templates/",
+    "title": "Comparing JavaScript Frameworks part 1: templates",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bcslgw",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtube.com/watch?v=i3U6mhh7QqU&si=bdhTYowiXACet6FE",
+    "title": "Character Selection Menu (Unity)",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bcs6oy",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdxs92qS_0dhRH1kOJwCdAQe0FUcNksFlLJw5izGsLYeXTBkQ/viewform",
+    "title": "Programming/coding",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bcs3v9",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://arxiv.org/abs/2403.03893v1?utm_source=tldrai",
+    "title": "From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bcs1m2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/gabotechs/dep-tree/",
+    "title": "GitHub - gabotechs/dep-tree: allows visualising a \"code base entropy\" using a 3d force-directed graph of files and the dependencies between them.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Summary to save a click:\n\nThe dep-tree tool is designed to assist developers in maintaining clean and decoupled code bases. It features the capability to visualize code base entropy through a 3D force-directed graph, which illustrates the files in a project and the dependencies among them. This innovative approach helps in identifying and managing complex dependencies within software projects, promoting better software architecture and easier maintenance.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bcrxk3",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "http://idk.com",
+    "title": "Meta glasses, request from someone with no compsci background",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I don't see why you've posted this in /r/programming?\n\nAlso, from the sidebar:\n\nDo you have a question? Check out /r/learnprogramming, /r/cscareerquestions, or Stack Overflow.\n\nBut since your question has about nothing to do with programming, I wouldn't try those either.\n\nMaybe check out https://www.reddit.com/r/RayBanStories/ ?",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Would it be possible for someone to do it, maybe. Could you do it? Probably not, well not without learning tons of new skills. New hobby?\n\nFacebook would have invested resources in locking it down as there are privacy concerns in hacking it. Turning off recording LEDs etcs.\n\nRealistically you would need someone else to create a project to wrap up all of the technical bits and make it an easy to use process that non technical users can install the custom software and or possibly a replacement app.\n\nI've had a quick Google and there has been some interest in hacking the device but I can't see any actual project i'm afraid.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bcqoy9",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://scanbot.io/developer/techblog/cordova-vs-capacitor/?utm_campaign=%5BReddit%5D%20Content%20Distribution&utm_source=reddit&utm_medium=social&utm_term=cordova-vs-capacitor&utm_content=cordova-vs-capacitor",
+    "title": "Cordova vs. Capacitor: should you make the switch?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bcpqfc",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://mark-burgess-oslo-mb.medium.com/using-promise-theory-to-solve-the-distributed-consensus-problem-4cc2116f24e1",
+    "title": "Using Promise Theory to solve the distributed consensus problem",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bco3t3",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://binaryigor.com/htmx-and-web-components-a-perfect-match.html",
+    "title": "HTMX and Web Components: a Perfect Match",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Key points:\n\nThe post discusses the synergy between HTMX and Web Components for building interactive web applications without complex frameworks. Web Components allow for creating custom, reusable HTML elements directly in the browser, making them framework-agnostic. HTMX enhances this by enabling any HTML element to make HTTP requests, simplifying the development of SPA-like applications without needing to write JavaScript for data fetching. The article walks through creating such components, configuring them externally for flexibility, and integrating with HTMX for dynamic content loading, showcasing the ease and power of combining these technologies.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bcn760",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/openai/transformer-debugger",
+    "title": "OpenAI releases Transformer Debugger",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bckhir",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.nicholashairs.com/posts/musings-on-auth-how-do-we-authenticate/",
+    "title": "Musing on Auth: How we Authenticate",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bckfpz",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://sparkbox.github.io/bouncy-ball/",
+    "title": "Bouncy Ball - Compare Web Animation Techniques",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I hope you like the summary below:\n\nThe link compares different web animation techniques using a bouncy ball animation as an example. It highlights various methods including Vanilla JS, CSS, Canvas, jQuery, GreenSock, and several others, illustrating how each can be used to animate a bouncing ball. The project serves as an educational tool for developers to learn about the strengths and weaknesses of each animation technique, offering a hands-on comparison to help choose the best approach for specific scenarios.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bchgyk",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@jankammerath/underground-ai-unlimited-chat-image-generation-on-your-computer-0e2a2c46b091?sk=b33fd0125e02b23a70468f1b8ddd7e5d",
+    "title": "Underground AI — Unlimited Chat & Image Generation On Your Computer",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Medium friend link without paywall: https://medium.com/@jankammerath/underground-ai-unlimited-chat-image-generation-on-your-computer-0e2a2c46b091?sk=b33fd0125e02b23a70468f1b8ddd7e5d",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bcev97",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@belalsamyyy/blazing-fast-file-management-for-terminal-%EF%B8%8F-ee6bb208d7d1",
+    "title": "My original post was removed from moderators, it kinda look spammy i guess 🙃, I will try to give more context: this is my first article on Medium talking about 3 solutions for making file management in terminal suck less, using Zoxide, Lf Manager & build Tmux-fzf script, I looking for feedback",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Maybe it was removed because it's not programming content.",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "I don't sure about that, it was just a link and i didn't give any context but the article 100% programming content",
+            "points": "-23 points",
+            "children": [
+              {
+                "comment": "No it isn't. It's about utilities for using your computer.",
+                "points": "13 points",
+                "children": [
+                  {
+                    "comment": "In that case, I would argue it’s in the same space as git articles. Just like version control, navigating directories is an integral part of development, especially for sysadmins/cyber. Sure, not everyone uses the command line to find files, but it allows one to work more efficiently as a programmer.\n\nBut I digress. As others have mentioned, the post has some way to go.",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Please have somebody who’s fluent in English copyedit you article before posting next time.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "No problem, but did you find it hard to read or just get annoyed by some mistakes",
+            "points": "-8 points",
+            "children": [
+              {
+                "comment": "Hard to read",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "Appreciate your feedback, i will work on that next time",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don't understand this paragraph.\n\n\"Imagine this scenario, you’re working on file in Tmux, then do quick shortcut open lf in new window, to open any file from same directory \"\n\nI think there is both an issue with me not having the necessary knowledge, and also something abou the language. I'm not sure how to explain how I do not understand, lol. :)",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "I have never tried tmux. But I googled, and it seems like it is a tool that lets one have several shells running, like tabs. Or not? And then one can press a keyboard shortcut, and then...? Something will open in a different tab? Maybe you need to provide a concrete example. What kind of file do you want to open. And how would it normally behave. And how does it behave differently when using this shortcut.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "No problem my friend, this part really assumed you used tmux before, but i will explain in simple terms, imagine that tmux is just like have tabs in terminal, every tab is completely separate terimnal session, i talked here about use quick shortcut suddenly open new tab with file manager running in with same path ( this shouldn't be the case since they're completely different session) .. sorry if it's not clear but i will definitely write article about tmux because it's really cool",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What is brew? Is that article targeted mac users? If so, did you forget to say so? :) (commenting as I read)",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "It didn't only target mac users, but i'm a mac user, so homebrew was my package manager of choice, but the rest of the article applicable for both linux & mac users, thank you for feedback i should consider say something about that for next times",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I, for one, would like to see a bit more analysis. What are the advantages and disadvantages of each tool? Why would I choose one tool over the other? This would be more substantial than glittering remarks like “once you use it suddenly want to use it everywhere”.\n\nI wouldn’t say zsh is a prerequisite? I presume these tools work with any shell. Also I wouldn’t list the tools you’re introducing inside the prereqs, if you’ll be guiding us through installation anyways.\n\nOne thing I do like though, is the quote at the beginning. Really draws motivation for such tools.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I will give you the analysis, compare between taking the ladder vs teleportation, it didn't deserve benchmarking, it's about reducing more steps from your workflow, i use the 3 together, but you don't have to\n\nactually, i don't glittering any of the tools in this part, i was talking about once you get used to vim navigation with hjkl you want to use them everywhere, in fact i use it in my browser ( off course i want it in my file manager )\n\nI had to mention zsh, most of the tools work everywhere off course but for this article, most of configuration work specifically for zsh, for context, i used fish shell before, it's a whole different configuration and syntax specially for lf wrapper function and tmux conf\n\nThank you for mention the quote, it's the whole reason, to do any of this, why we build tools instead of do things the normal way, tools make our life easier but without go to optimizing rabbit hole, just minimal config and that's it",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What is tmux? I don't know, so many other readers will not know. Is that a mac thing? :)",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "No, Tmux is terminal multiplexer, it allow you to have multiple terminal sessions at same time, if you interested, i recommend you to read more about it, I will try to make my next article about intro to tmux",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "I will read about it :)",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "you won't regret it 😉",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm trying to provide feedback. That's what OP asked for, was it not? But all my feedback has been downvoted. Whats the deal? Perhaps Reddit is just not the right place for getting/providing critique.\n\nu/Hefty_Information_39 I need to go to bed now. I know my feedback was very sparse, but thats all I had for you. I like the concept of your article, and I will definitely revisit.\n\nIt's nice to have nice tools :) Nice tools sometimes make tedious jobs less tedious, or even ejoyable.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "you absolutely give me a good feedback, sorry about upvotes if you're talking about me i upvote your comments, really helpful, i'm new to reddit so still figure out what how it works",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bcet0b",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/antonmedv/fx/releases/tag/32.0.0",
+    "title": "Fx JSON viewer now supports YAML",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bccrj7",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.linkedin.com/pulse/motivation-plato-programming-language-christopher-diggins-kknqe/",
+    "title": "The Motivation for the Plato Programming Language",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bcce9i",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@pzelmanski1/integration-testing-of-business-logic-using-dockerized-postgresql-with-test-containers-in-c-2d1e4e617493",
+    "title": "Integration testing of business logic using dockerized PostgreSQL with Test Containers in C#",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bcb22h",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/mufeedvh/code2prompt",
+    "title": "I made code2prompt - A CLI tool to generate LLM prompts from your codebase with prompt templating and token counting",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc8ynp",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/GDgNw0pwdU4",
+    "title": "ChatGPT vs Gemini: Which one can write better code?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "currently, Claude opus is neat.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Gemini is extremely flawed from what I heard in my news feed, so chatGPT is my pick.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Who cares. Both fail to replace a human.",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "Why would you want technology to replace a human? This should be used to enhance our lives as an assistant….",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I care a LOT.\n\nI used ChatGPT extensively for developing various enterprise level apps I developed at my work. It was incredibly helpful. It was like having an assistant that wore dozens of hats, so to speak.\n\nI basically allowed me to work at 10x the speed. I learned in weeks what would have otherwise taken me months.",
+            "points": "4 points",
+            "children": [
+              {
+                "comment": "! I hope you have strong QA and code review policies",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Did you make a typo or you really don't hope for that strong QA?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Am I wrong to think QA is useless if you follow what is expected by the client and write proper unit tests/integration tests ?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc8p2n",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://jacobbartlett.substack.com/p/async-unit-testing-in-swift-the-comprehensive",
+    "title": "Async Unit Testing: The Comprehensive Guide",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc7rnl",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/",
+    "title": "Speedometer 3.0: The Best Way Yet to Measure Browser Performance",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc7pxw",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://lwn.net/SubscriberLink/962788/f0745ec735f074b0/",
+    "title": "A look at Nix and Guix [LWN.net]",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc7eko",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://milestones.dothub.cloud/blog/whats-good-strategy/",
+    "title": "A few words on writing good strategy documents (and presentations)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I've read similar stuff about company values. If they all are anodyne words like \"integrity\" or \"caring\" they are not values. They are meant to be the backstop rules for conflict resolution.\n\nAlice wrote a report. Bob didn't like the findings and tabled it. Alice went over Bob's head and presented her report to Carol. Bob is now mad at Alice and tries to fire her. Alice goes to HR. Who should be fired, Alice or Bob? Depends on what the values are. Well, what does your HR handbook say? What does your company value more, truth/facts/correctness or discipline/order/subordination?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc6zm2",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://hacks.mozilla.org/2024/03/improving-performance-in-firefox-and-across-the-web-with-speedometer-3/",
+    "title": "Improving Performance in Firefox and Across the Web with Speedometer 3",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Seems like the final scores are much lower than before and pretty much all browsers look slow speedometer 3",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc6p20",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://makingsmallercircles.com/articles/transitioning-from-big-tech-to-a-startup/",
+    "title": "Transitioning from big tech to a startup",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Need to provide my email to read it so never mind",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "You can close the email popup. No need to provide an email to read.",
+            "points": "-6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc6npf",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://blog.chromium.org/2024/03/speedometer-3-building-benchmark-that.html",
+    "title": "Speedometer 3: Building a benchmark that represents the web",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Obligatory reality check when it comes to modern web tech \"optimisations\":\nhttps://idlewords.com/talks/website_obesity.htm",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc6esd",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://tech.davidgorski.ca/introduction-to-low-latency-programming-external-processing/",
+    "title": "Introduction To Low Latency Programming: External Processing",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc5g8w",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://shiftmag.dev/benefits-of-value-stream-2833/",
+    "title": "You’re not a weak developer if you don’t always show off your technical excellence",
+    "points": null,
+    "comments": [
+      {
+        "comment": "No I'm a weak developer because I don't know what I am doing.",
+        "points": "159 points",
+        "children": [
+          {
+            "comment": "Hey at least you know that",
+            "points": "28 points",
+            "children": [
+              {
+                "comment": "I know that I know nothing.\n\nSocrates, or some shit",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "How about- I don't know that I know everything.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "i was wrong only one time in my life. it was the time that i thought i was wrong (but i was actually right).",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Me heading into a tech assessment this week lol",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You and millions of us",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "So much text just to say that providing business value is more important than developer's personal experience. Which is a fine point, but it easily gets pushed too far. I'm sure a lot of developers will be happy delivering business value if their respective businesses show any kind of appreciation rather than fighting stress with free pizza.",
+        "points": "292 points",
+        "children": [
+          {
+            "comment": "Yes, it's like telling a cook he shouldn't be cleaning his kitchen because his job is to make dishes (\"deliver value!\").\n\nSure, you don't want your cook spending half his time maintaining his kitchen and repairing his oven but if he has to jump through piles of dirty dishes to go from the fridge to the cookers, and you keep yelling \"deliver value!\" then something is very wrong.\n\nAnd that's the situation many developers have to work.",
+            "points": "130 points",
+            "children": [
+              {
+                "comment": "This is the exact analogy i use at work when im talking about technical debt. I think its a good one.",
+                "points": "35 points",
+                "children": [
+                  {
+                    "comment": "I tend to use the analogy that a codebase is like a home. If you leave things lying around they will eventually pile up to the point that you can’t even maneuver around the home to do anything. It’s in everyone’s best interest to keep things tidy.",
+                    "points": "14 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "It’s definitely a good analogy! But I think it goes in the direction tha OP went - too.\n\nThere’s no value in a clean and orderly kitchen to the business and end users. I never go to restaurants to view the design, cleanliness and awesome appliances in the kitchen. These have value as a means-to-an-end only. They’re important, both to the health/safety of the food, the variety of food they allow to produce and the velocity at which it can be prepared.\n\nIt also carries over to the cook. There’s cooks that make a mess with every dish and produce mediocre results. Experts know how to minimize overhead and focus on food production, either through careful planning, utilization of supporting team members and specialization of roles and tools where it makes sense, yet generalization of most of the work so that bottlenecks can be minimized.\n\nFinally, expert cooks value time tested tools - old knifes, well used pots. But also is not afraid to experiment with new spices and combinations of flavours.\n\nI’ve definitely seen a good share of developers who are so obsessed about clean code that nothing gets done. That doesn’t mean that design patterns and known solutions to common problems are to be ignored and everything should be hacked without any consideration of structure and architecture.\n\nAs with most things in life, it’s a balance and a set of tradeoff - and the context of the development work is also very important. An after-hours solo passion project is not like a team of five developers at a startup, which is also different to a large enterprise team.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "As you say, it's a balance. Unfortunately saying \"it's a balance\" in a blog post doesn't drive views and engagement.\n\nInstead we get a bunch of posts saying \"what matters is delivering value!\" And others saying \"Tackling tech debt is key!\"",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I love how I’m supposed to care so much about the business’ problems while they fail to even give a raise that beats inflation and generally disregard IT’s input (to the detriment of everyone involved). We get treated like an expendable cost, but I’m supposed to also do their job for them by caring about KPIs and their management philosophies?\n\nLet me be clear here (and this might be unpopular on this sub but whatever): I do not care when things ship, I do not care about meeting organizational goals, I get paid the same regardless. And in my (over a decade of) experience, finishing things quickly just means you get more work to do and maybe an attaboy.\n\nYou want me to work harder and ship faster? Pay me by my output. Salary me, “own all my time” (so that what I actually accomplish doesn’t affect my bottom line) and see how little I care about organizational efficiency. It’s not my organization and it’s not my role to care about it. The only real carrot they have is a promotion, but those are significantly easier to get by moving jobs than they are fighting against organizational inertia and budgeting.\n\nThe irony of this situation is that these types of puff pieces usually come from the middle management/agile coach/scrum master level. And the 2 months he quoted to produce a minor feature could probably be cut down to under a month simply by sacking 90% of the people in those fluff roles. How much of those two months consisted of pointless agile rituals that only exist to justify a glut of managers?",
+            "points": "68 points",
+            "children": [
+              {
+                "comment": "About half from my experience.",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I think this is your problem though, you're allowing yourself to suffer. I worked for a big IT company from 2007-14 and felt exactly the same, it was all politics and bullshit.\n\nI decided I'd had enough and wanted to work for a small company where I could actually have some proper input into the business and be valued. Found a small business of around 40 people at the time, now pushing 100, and I've managed to push myself and the business and it's great. I deal directly with senior management, they trust my opinions, there's no bullshit, everyone's playing towards the same goals (you quickly get found out if you try to play politics or can't actually provide output in a small business).\n\nSo if you're struggling, maybe try that approach? I had to take a paycut initially, but now I'm very senior in the company and make a good wage. I highly recommend it if you're skilled and driven.",
+                "points": "16 points",
+                "children": [
+                  {
+                    "comment": "Yeah that’s valid. I’ve actually been considering trying to find a smaller company for the reasons you listed. I’m mostly complaining about Fortune 500",
+                    "points": "5 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "So, I've worked long enough to have started in the world of waterfall. I'm a pretty firm believer in agile and I truly believe it's better than the alternative that's been offered (waterfall).\n\nI also actually do care about (non arbitrary) deadlines. I care about success even more (and those are not necessarily connected, in fact shitty deadlines cause failure...which is why I like agile since deadlines are supposed to be driven by the backlog and sprint velocity...see the non-arbitrary part of my comment).\n\nThat being said, I'm broke now? I find myself caring less and less about their success or how much work they see done, etc. Why? I can't fight the battle any more. I can't deal with not being allowed to determine my own work because they're not bought into agile and the idea that the engineers get to decide how they're going to do their work. I can't deal with the fact that engineers are literally told we must justify the engineering work we need to do, and then given less than a minute to instill over 15 years of experience and 8 years of education into an explanation for why yes, we really do need to create a microservice to support the ability to migrate across multiple microservices and if we don't there will be things we can't do for you to people who have a questionable idea of what a microservice even is.\n\nessentially, the one thing (my organization at least) hasn't delivered on is trusting the engineer team to do their jobs. instead management and the POs try desperately to control how we do things and what we do, and then when we are forced to do what they want and it doesn't work they just point at us and say \"see, you didn't do your job\". There's no ability to recognize that the decisions they made 3 months ago, that we fought, lead to that outcome and thus no desire to learn from it....so we just blame the engineers then go on with the same thing and get the same outcome.\n\nI just can't do it anymore. I care too much about succeeding in the things I think I can have succeed....so, now I'm trying to learn to just do as I'm told. I'm trying to learn not to care what happens because I can't have a positive impact on it anyway. Going to my boss about this stuff just gets him angry at me, so why try? Why not just do whatever he says. The engineers will just get the blame either way and things won't change either way and I'll get my paycheck either way. Maybe if all we do is say yes, at some point someone will go \"they're doing everything we say exactly how we say it and it's still not working...why isn't it working?\"\n\nThank you for listening to my rant. It's been a long few years.",
+                "points": "10 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "True this is such a bad click-bait to get free karma",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah some people seem to think we should always develop to try to get into the AWWWards or shit like that.\n\nJust like a cook doesn't always need to cook michelin star worthy meals; you can be a cook that cooks spagetti and burgers every day and make a good living.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "fighting stress with free pizza\n\nI'm assuming most people here are software engineers when talking about jobs? Are y'all not getting paid? I see pizza parties as a meme for a small company's accounting department, software engineering is like the career for actual excess.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Nobody in their right mind would work in the software industry without getting paid well. That doesn't imply that the person is ready to do whatever he is being told at any time without any regard to his professional opinion.\n\nTaking a pay cut and making a radical career change is a reasonable step. This may be another profession like teaching, research (for the theoretically inclined) or a better environment in a smaller company. Not a massive portion of developers take it, but enough to demonstrate that something is fundamentally wrong with the software industry.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Low-relevance clickbait title by the author\n\nArticle is really about keeping customers happy/informed via iterative development & delivery.",
+        "points": "31 points",
+        "children": [
+          {
+            "comment": "The title is also phrased so oddly confusing with this double negation going on.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm struggling to promote what I code because I'm coding like 14 hours every day.",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "👀Check out this guy's code👀💪👌\n\n(I got you)",
+            "points": "15 points",
+            "children": [
+              {
+                "comment": "Damn son, where’d you find this??",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It's a sick distro",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "wtf",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If the quality of your systems matches your writing then I fear for your customers",
+        "points": "20 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I disagree.\n\nAnd no, I'm not still a little bitter over that time I wrote a perfect query to solve a difficult problem. Literally one of those rare times you stand back and think \"Holy cow, I actually wrote... that! I must be better than I thought!\" And then two days later they said \"oh, we don't need that anymore\".",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm reminded of a video I saw talking about Ringo Starr, the drummer for The Beatles, and how unfairly maligned they are - there are deeper cuts where they demonstrate more advanced technical proficiency, but it's not what the hit songs called for.",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "I cant find it anymore but I remember an interview where the interviewer was ribbing him as being the most forgettable member of the beatles.\n\nHis answer was 'well i'm still a part of the beatles.'",
+            "points": "9 points",
+            "children": [
+              {
+                "comment": "\"... but you have heard of me.\"",
+                "points": "9 points",
+                "children": [
+                  {
+                    "comment": "Kinda like 'What do you call the student in doctor school that had the worst grades but still passed? A doctor.'",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "It took him longer but he is now Sir Ringo...",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Also of note, an aspect of his drumming that rarely gets noticed is his metronomic constancy. Ringo could (probably still can) stay locked into a groove with almost no drift expect when he meant it.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Ringo was very much a \"serve the song\" drummer. He had the chops and he had excellent time. He just didn't like drum solos or even extended fills.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Weak or strong just feeds egos. I am here for the money.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Yup. I'm not a starving artist laboring for the joy of creation, nor am I a charity. I am a skilled professional who is doing work for compensation.\n\nI don't care how many perks the office has. Pay me, I'll work hard. Pat me on the head and tell me \"good Synth, here's a 3% raise for all your hard work\" and I don't care about those perks, and I don't care about how much I like the people I work with.\n\nI care about my fixed expenses being up 50% since the start of the pandemic. I care about how much stuff I don't do anymore because I have to stick to a budget. Your warm fuzzies and 3% raise won't even allow me to tread water on those fixed expenses.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Fuck the business, you’re an artist!",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "There's no point to being good at something and never being able to put that skill to use though. It would be like having pro baseball skills, and playing tennis instead.\n\nEDIT: Delivering value for end-users should be what you're doing with tech skills.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Success stories have no value in terms of information content. It is in the failure stories that we learn.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"Hey guys, refactoring is eating up our budget too much so we cut it to save time! And to hide the real problems and shroud everything in an illusion of progress we cut down stories into tiny little things with 95% overhead and 5% actual development! It totally makes everyone (!!!) happy - EVERYONE - that's why we wrote a blog post about how good it is to ignore what your devs say and toss their happiness to the garbage!\"",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Technical excellence is what developers are graded on, no? Isn't it the manager's job to provide the customer perspective when the developer is too focused on another thing?\n\nAnother article which provides another data point that leadership is failing to provide the organization proper directionality so that engineers can make appropriate decisions.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "No one dev blog is going to ever solve this because it's a real legitimate trade off where it's impossible to predict the future implications. If I write this faster now and don't plan for x,y,z in advance will we make more money and have a stronger strategic position? It depends on a billion details, how much is having it out now worth, how bad is it in a year if everyone in the company acts this way and now you have a product that you can't iterate on successfully? How likely is that to happen? How costly is just rewriting your product in a year? All of this matters, and people both use this for an excuse to be sloppy, and people use \"doing it right\" as an excuse to agonize over structural decisions that don't matter and something pointless takes 6 months. Both happen constantly.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "A good dev solves the problem at hand while creating minimal negative impact on existing work.\n\nA strong dev facilitates and elevates the rest of their team.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "What does their manager do? Hang out at the roof with their buddies while pretending to be on Slack?",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You assume that all ‘strong developers’ work in a team",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hit 'em with the flex.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've worked at companies where business is so dominant, they start to wonder why the developers are getting slower and slower and decide to further reduce time to fix those dubious \"technical things\", if it wasn't already at 0 to begin with. And then I've worked at other companies where I had the simple freedom to fix the technical things, started getting really productive on delivering the stuff business wants, just to encounter some developer who doesn't care about the business side as much and decided to build his camp on hill \"Code Review\" to show off his never ending skill on nitpicking technical details and re-framing everything as super dramatic, even if it is just opinionated (he viewed it as \"technical excellence\" but was scared of non-technical tasks). Maybe I should change jobs and go into animal care or something rewarding... thanks for reading until here.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes you are.\n\nYou \"lack a sense of urgency\".\n\nYou are being let go.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "If you feel a chronic sense of urgency you should consult a urologist.",
+            "points": "8 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc54ia",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.hellointerview.com/learn/system-design/answer-keys/fb-live-comments?utm_source=reddit&utm_medium=social&utm_campaign=rp",
+    "title": "Meta System Design Interview Question: Design FB Live Comments - Broken Down By Meta Staff Engineer",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc3sjt",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://clickhouse.com/blog/building-hackernews-stackoverflow-chatbot-with-llamaindex-and-clickhouse",
+    "title": "Building a Chatbot for Hacker News and Stack Overflow with LlamaIndex and ClickHouse",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc3myr",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://wherobots.com/raster-data-analysis-spatial-sql-wherobots-apache-sedona/",
+    "title": "Raster Data Analysis With Spatial SQL And Apache Sedona",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I'm curious if folks have use cases in mind for working with large-scale raster data? What sort of examples would you be interested in seeing?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc352c",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://github.com/microsoft/BosqueLanguage",
+    "title": "Is bosque going to become a viable product ?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "A lot of things from Microsoft Research don’t become products. They once wrote an OS entirely in managed code, but few of us will ever see it.",
+        "points": "24 points",
+        "children": [
+          {
+            "comment": "Didn't they write two?\n\nSingularity and another one?",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "FWIW, Bosque has moved here: https://github.com/BosqueLanguage/BosqueCore .",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc32u9",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://xavieraraujo.github.io/ways-of-working/2024/03/10/a-new-approach-to-agile-refinement-sessions.html",
+    "title": "A new approach to Agile refinement sessions",
+    "points": null,
+    "comments": [
+      {
+        "comment": "That’s great it works for your team. Agile is about agility, so this may not work other places and that is ok. Getting stuff done is what makes software great.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Yep, for sure! As all methodologies it can be great in one place and not so great in another 😊",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "We do a similar thing. We have an informal “pre-refinement” step where tickets of various quality are just pulled towards people (sometimes devs/sometimes the PO) who make sure that all info this ticket references js reachable, that the ticket is concise, that it conforms to our somewhat (intentionally vague) format so it reads easy, and that all people who must contribute something to this ticket in the form of questions, have already answered these questions.\n\nDoing that we had a massive increase in work output, better tesability, we spot inconcistensies earlyer. Everyone’s far more happyer with it. Only adds a couple days at most to a single ticket’s time between creation and closed, but pays back for it by having less rework or time wasted in the sprint itsself.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Yep that's what I feel too! The team just operates better! Good stuff 😊",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Nothing wastes more of the team's time than trying to refine tickets that lack details. I worked with various teams and the natural conclusion is always to have a pre-refinement.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah give me more work so I can never write a single line of code. All that is important is that the PO does minimum job",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AGILE = POOP",
+        "points": "-11 points",
+        "children": [
+          {
+            "comment": "company-A/agile != company-B/agile.\n\nSome companies are “agile” while others are really just have the badge for recruitment purposes.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "haven't been in a place that had agile that was good",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "We should have a retro to discuss this. Can I schedule one right in the middle of your afternoon?",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "the only successful projects I was part of were the ones that kept agile at minimum.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Shrug. Agile manifesto agile or RUP-rebranded SAFe corporate bullshit agile? They are not the same...",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Ahah what methodologies do you prefer?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "the one that not promote rituals over work ?\n\nThe one that implies only people with software development experience ?",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "the do some fuckin work methodology",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc30od",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://vladmihalcea.com/postgresql-index-types/",
+    "title": "A Beginner's Guide to PostgreSQL Index Types",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc2wad",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://www.maartenhus.nl/blog/comparing-javascript-frameworks-part-1-templates/",
+    "title": "Comparing JavaScript Frameworks part 1: templates",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc2w1v",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://piotrminkowski.com/2024/03/11/kafka-offset-with-spring-boot/",
+    "title": "Kafka Offset with Spring Boot - Piotr's TechBlog",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc2odc",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://badsoftwareadvice.substack.com/p/how-to-practice-isometric-software",
+    "title": "How to practice isometric software development",
+    "points": null,
+    "comments": [
+      {
+        "comment": "As someone who has been doing isometric software development for years, my advice is to throw your computer out the window and start coding with an abacus. It's how the true masters do it.\n\nAnything worth doing takes time and practice. Just don't forget the coffee and curse words along the way.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://www.youtube.com/watch?v=6hj5z6HlR2Q",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bc1muu",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://newbeelearn.com/blog/how-to-add-search-to-static-site/",
+    "title": "How to add search to a website using flexsearch",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc0i66",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://curiousdrive.com/codingchallenge/fornites-outage-monitor",
+    "title": "Coding Challenge - Fornite's Outage Monitor",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bc0gsm",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://daniele.tech/2024/03/how-i-hacked-a-course-platform-built-with-wordpress/",
+    "title": "How I hacked a course platform built with WordPress [with explanation]",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bbzuxh",
+    "subreddit": "r/programming",
+    "dataType": "link",
+    "dataUrl": "https://ruoyusun.com/2024/01/23/cividle-optimization",
+    "title": "Squeezing Last Bit Of JavaScript Performance For My Automation Game",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This is a TL;DR cause time is precious:\n\nThis post delves into the optimization journey for CivIdle, an automation game that succeeds Industry Idle, focusing on enhancing JavaScript performance. The author explores the transition from using TypeScript/JavaScript to potentially using WebAssembly or C++ for better performance, ultimately sticking with TypeScript for UI and WebGL for rendering due to its efficiency with web platforms. By adopting Pixi.JS for faster WebGL rendering and optimizing code to reduce computation time and resource allocation, significant performance improvements were achieved. Techniques such as object pooling, texture optimization, and code refactoring for efficient memory use were employed. The post highlights challenges and solutions in optimizing game simulation and rendering processes, illustrating the impact of various optimization strategies on game performance.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nClick here for more info, I read all comments",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

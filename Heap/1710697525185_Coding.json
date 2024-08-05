@@ -1,0 +1,20 @@
+[
+  {
+    "id": "t3_1bh2q2s",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://blog.frankel.ch/pitfall-implicit-returns/",
+    "title": "The pitfall of implicit returns",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bh1tzr",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/c-sharp-progarmming/polymorphic-type-support-in-signalr-hubs-c81d129999f2?sk=7ebbb29083761317085d4c4f6b70cd85",
+    "title": "Polymorphic Type Support in SignalR Hubs",
+    "points": null,
+    "comments": []
+  }
+]

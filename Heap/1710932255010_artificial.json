@@ -1,0 +1,1521 @@
+[
+  {
+    "id": "t3_1bjaev1",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://stability.ai/news/introducing-stable-video-3d",
+    "title": "Introducing Stable Video 3D: Quality Novel View Synthesis and 3D Generation from Single Images — Stability AI",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1bj7ekg",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bj7ekg/beyond_chat_bringing_characters_to_life_through_ai/",
+    "title": "Beyond chat: Bringing characters to life through AI",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hi, when I click \"Start Chatting\" on your site, I get JavaScript errors (like ChunkLoadError, or Syntax Error). Then nothing happens. I'm on regular Windows Chrome.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Can you clear your cache or if you have any adblocker, it might be causing this.\n\nI have just verified it works (multiple devices).",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I don't have adblocker. I tried again, and now it works (without clearing my cache). If you didn't change anything, then you might have a racing issue (link). Good luck with your site!",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Thank you. I will double check",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'll be honest, I don't think I'm smart enough to talk to some of the characters I like the most.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bj6ipw",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://x.com/masterly_in/status/1769785650956402907?s=46",
+    "title": "Perplexity AI, a hyped Silicon Valley AI startup that claimed to take on Google, was found out copying Google results directly",
+    "points": null,
+    "comments": [
+      {
+        "comment": "While the actual Google challenger, aka OpenAI, says it is boring to take on Google. Taste really matters.\n\nSam Altman says he doesn't think the world 'needs another copy of Google' because 'that's boring'",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "It looks like you shared an AMP link. These should load faster, but AMP is controversial because of concerns over privacy and the Open Web.\n\nMaybe check out the canonical page instead: https://www.businessinsider.com/sam-altman-world-does-not-need-another-copy-of-google-2024-3\n\nI'm a bot | Why & About | Summon: u/AmputatorBot",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "So true. Most of the time we don't want search results. We want an answer.\n\nFor navigational queries, on the other hand -- \"take me to IMDB for movie X\" -- Google still works ok, but that's just a glorified address bar.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Coverage from the information: https://www.theinformation.com/articles/ai-search-startup-perplexity-is-challenging-google-while-using-its-data",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Huh? It never claimed to have an original or superior search algorithm. Why would you need to reinvent the wheel.\n\nTheir value is in having an LLM that uses existing search engines well.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Well said.\n\nWhat's faster? Converting your query into a Google keyword search and reading through multiple results for the information you want?\n\nOr just having a free-form conversation?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bj5g24",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bj5g24/looking_for_a_live_translation_app_that_runs/",
+    "title": "Looking for a Live Translation app that runs constantly across my screen?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The keyword you want to investigate is Simultaneous Machine Translation (SiMT). Good luck!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bj4nbq",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bj4nbq/oneminute_daily_ai_news_3192024/",
+    "title": "One-Minute Daily AI News 3/19/2024",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Just a big “thanks you” for your daily work.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bj17ix",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bj17ix/website_where_you_can_find_ai_tools_for_your_use/",
+    "title": "Website where you can find AI tools for your use case",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Ty",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "You’re welcome",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Invite only why? Why is an account necessary?\n\nWhat is this and who is it made by?\n\nPantheon Technologies is a pioneering spin-out from MIT and BU, founded by a diverse team of engineers, data scientists, and AI enthusiasts. Our inception was fueled by a shared ambition to bridge the gap between complex AI technologies and everyday users, making the power of artificial intelligence accessible to all. Our company is built on a foundation of cutting-edge research, interdisciplinary collaboration, and a deep commitment to pushing the boundaries of technology, leveraging our unique insights and expertise to develop intuitive, powerful tools that simplify the integration and utilization of AI in various sectors. At Pantheon Technologies, we’re more than just technologists ; we’re visionaries dedicated to democratizing AI. Our team is driven by the belief that technology should empower, enhance, and inspire human potential. Join us as we continue to innovate, explore, and lead the way in making AI an integral, beneficial part of everyday life.\n\n🙄",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Yeah, it seems weird to need a sign in for a list of names of publicly accessible company names, especially when you can see them on their site already without a sign in.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Would love an invite if you still have some. DM'd you and thanks!",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I gotchu",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Interested too!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Would love an invite if there’s any left!",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "DM me",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yes please:)🙏🏼",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Dm me your email I gotchu",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I appreciate you sharing this. Do you have any invites left, if so I am interested.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Yep! Dm me your email!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Me please 🙏!",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Alright I gotchu. Dm me your email",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hope I’m not late for the invites, assuming you have any left. Either way great job on sharing this info",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "shoot me a dm",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Any invites left ?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "dm",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Still doing invites?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "dm",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "UPDATE: hey everyone, if you want an invite you can DM me your email.\n\nI'm not going to check this post that much.\n\nBut yeah if I run out of invites or I don't respond, ask someone else who asked me before you because I'm pretty sure they also get to invite some people",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can I get an invite? Thanks!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I need one",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’d like one",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would like to have a deeper look, please",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can I have one too pleeeeease? (Thanks for it)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nice can I get invited? Thank you",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Was this website made by 8th graders in 2009?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'd love an invite please",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nice to see Macromedia Shockwave making a comeback!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bj0uuu",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/ld69kfqn0epc1.png",
+    "title": "Is the AI being sus, or just me?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I was trying to add a second image, but couldn't (#smoothbrainproblems) so I'll just write it here: at the end, it refused to say what year it was, and stating that it COULDN'T!",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The AI is just confused. Inside of its brain you can think of your words as being directions on a map in concept space. It goes to the place on the map and speaks by describing what it sees there and wandering around.\n\nIt just happens that \"I don't know things after 2021\" and \"I am a helpful assistant with real time info of 2024\" are close to each other in concept space and so it sometimes flip-flops between them depending on which part of the map it landed on and how it wanders around.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "That sounds like something an AI would say!",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's told both things directly in the system prompt, the current date and that its knowledge cut-off is 2021.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bj09at",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bj09at/how_ai_can_save_one_industry_in_the_usa_about_135/",
+    "title": "How AI can save one industry in the USA about 135 billion+ dollars per year.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I ran some numbers through chatgpt\n\nA great example of how not to use an LLM.\n\nBut also, I do not know how you can regularly use chatgpt and think that it will result in satisfactory customer service. Whether companies choose to go this route is another question, but it will undoubtedly make customer service even more awful. Do you really want to be refused a refund because the model is incorrectly, incorrigibly convinced that you're ineligible?",
+        "points": "63 points",
+        "children": [
+          {
+            "comment": "This, 100%. For any chatbot to actually work in this scenario it needs proper guardrails, access to data, human handoff escalation, reporting, and PII protections.\n\nJust plopping chatGPT on a company homepage with no context achieves nothing",
+            "points": "18 points",
+            "children": [
+              {
+                "comment": "human handoff escalation\n\nHaving worked in customer service, I get a very strong feeling that before long, a huge percentage of people dealing with LLM customer service agents would almost immediately escalate.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "It was mentioned in another post that actually having humans to speak to would be a selling point. Remember when companies would say customer service teams in your country as a selling point? Instead of India. Well now it will be “speak to a real person”",
+                    "points": "6 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "just type “human” and you’re there, that’s usually all it takes",
+                    "points": "-2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Chat support apps that lead nowhere just make me switch companies most of the time\n\nIts great for quick common answers but then let us speak to a human",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Not out of the box of course, it takes some serious tinkering. But a customer service chatbot can very well utilize GPT 4 or even 3.5 turbo, given that you're able to build a proper prompt / database.\n\nJust finalizing one now",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Have you met the average Indian call center guy? If they had half the performance of GPT-4 I'd tolerate them rather than jailbreaking them by telling them my name is \"Ben Chod\"",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's funny how behind this sub is. Customer chatbots were one of the first things people thought about doing with LLMs. Tons of companies have solutions for these for sale already or their own inhouse solutions.\n\nUsually no fine tuning is needed. The pattern most commonly used is retrieval augmented generation (RAG, google it!). It is very simple to implement and enables your LLM to answer based on your company's documents.\n\nIt is also easy to let the chatbots interact with external functionality or systems. It's called function calling and works really reliably. It is all there and came with insane speed.\n\nSource: cannot count the number of smart chatbots anymore which have popped up since the last year in my company",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Yep this.\n\nAdditionally I always find it a bit concerning when people use language like “this can save millions (or even billions) of dollars” when the real discussion should be around what economies are going to look like when a grotesquely large amount of people are laid off.",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I attended a demonstration of a call centre in a box, whilst still early in development I was shocked at how good it was. With the feeding of more data from all the recorded calls the company was purchasing, I suspect this product will improve dramatically. It’s going to have a serious impact on countries where handling customer calls is big business like the Philippines etc.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If this is your thought - if you look at all this and think \"Companies are going to save so much money\" - then we are all fucked.\n\nThat $135 billion is the livelihood of every single one of those customer service folks - it's the company's contribution to the social contract they have with us.\n\nBreaking that contract breaks the country..",
+        "points": "23 points",
+        "children": [
+          {
+            "comment": "This is silly. We shouldn't have make-work jobs just to keep people busy. We should let capitalism do its thing, and have a large redistributive tax on the proceeds and/or land to fund a UBI.",
+            "points": "15 points",
+            "children": [
+              {
+                "comment": "What do you think the odds of UBI being implemented given the current climate? We are headed the wrong direction, regressing, not progressing. Wealth has never been more unequal than at any time in history. As such, I'd rather see AI research halted or limited in its implementation. You don't jump out of a plane until you have a parachute.",
+                "points": "12 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "You understand those two halves of your statement are diametrically opposed right? Capitalism doing it's thing will find the best route to concentrate the greatest amount of wealth in the fewest hands, including \"evading\" taxes (offshore subsidiaries in Ireland anyone?). And I say the s as a small business owner myself. Unfettered capitalism with a wealth tax is not the solution you think it will be.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Land can't evade taxes, also land value tax is the least bad tax.\n\nhttps://www.gameofrent.com/content/progress-and-poverty-review\n\nAlso I didn't say anything about wealth tax. That one's particularly hard to enforce.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "I didn't object to land tax (though question for you: how do you get tax revenue from. A corporation specifically set up to hold land in a country, but with minimal other assets in that country after purchasing said land..ie back to Ireland etc.), though I was too losses in using the term wealth tax , so apologies for that. My objection was to \"letting capitalism do it's thing\". Capitalism doing it's thing is incompatible with a redistributive wealth tax. Sorry, but IMO the economy needs guardrails. Capitalism being allowed to do what capitalism does, without guardrails, will easily find a way around or at least render ineffective a redistribution tax. Ever tried putting your thumb over a drop of water and pressing down? See how the water squirts out in every direction and almost nothing is left under your thumb? I expect that would be the result of allowing capitalism to \"do what it does\" unfettered, and expecting to be able to apply a redistributive tax on the end result.",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "If you can't pay the land value tax, then you lose the land. It's periodic, like property tax but without disincentivizing development.\n\nI'm not opposed to specific tweaks to accomplish goals. We need to tax externalities - for example, a carbon tax.",
+                            "points": "2 points",
+                            "children": [
+                              {
+                                "comment": "You're the kind of person I think I'd actually like to have a coffee with and chat.. but I  doubt we live in the same place (plus stranger danger!)...I wasn't meaning to suggest that someone would set up a corporation with just enough money to buy property and never pay tax, but that we are short-sighted if we think the solution is just simply tax the outcome. There's simply too many opportunities to find legit workarounds when there are no guardrails.",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I mean - it's not OP's \"thought\", it is reality.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "They'll find new jobs, we'll get cheaper products and companies will have bigger profits everybody wins.\n\nI don't get how we are all fucked.",
+            "points": "-8 points",
+            "children": [
+              {
+                "comment": "What new jobs, and why products will become cheaper? If companies will just make everything cheaper than they won't increase their profits and then what's the point of replacing people be?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "That's on the people to decide; I mean part of the savings will go to increasing profits and part of it will go to cheaper products. Though depending on how tough the competition is we could have basically the entire thing to go to making the product cheaper.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "There also absolutely will be AI tax to pay unemployment for all replaced people. It would be kinda ironic if corporations will left with less money after integrating ai. Also after everybody will be properly dependent on ai, providers will start increase prices which will reduce profits even further",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "I don't really see AI tax being a thing that the congress would agree on, but even if they did I don't see it helping much with unemployment, because AI companies are going to be making significantly less money per employee replaced.\n\nLike oh you were making 2000$ a month? Well you were replaced for 20$ a month, and yeah the company paid 2$ a month for your unemployment benefits.\n\nAs for AI providers, we already have strong competition, along with open source tagging along which means it'll be hard to increase prices too much.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah... So Chevrolet set several of their customer representative chat bots up to GPT 4 a while back.\n\nChevrolet was so helpful at helping me solve an issue I was having with a computational fluid dynamics simulation using Python... and I don't even own a Chevy!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And do you think the major customer experience software companies aren’t all over that already? As many have said, it’s not as simple as linking a bot to chatGPT, there’s a lot that goes behind the scenes for it to properly work, and rest assured, that is something a lot of companies are working on.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "India is going to have a bad time",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "India is going to be building more AI chatbots than anyone",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I interacted with a chatbot to report a bug on a CTF platform earlier, so I assume they are sophisticated enough to use an LLM. The bot suggested I delete my account and create a new one to resolve the issue.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "why are you cheering for job loss?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“We have  savings of X” Just remember you’re removing that money from potential customers. \n\n That “X” isn’t actually the company saving money…. It’s the company changing the overall economy\n\nLLMs don’t use services or buy goods. They need to be taxed in order to pay for all the unemployment and welfare benefits that are required to switch to an LLM",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I picked a bad time to start a contact center huh?",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Even fast food kiosks that a lot of people refuse to use will have a virtual \"avatar\" that you talk to that could look like a live person that ask what you would like to order, and even make suggestions based on what you buy to upsell or even offer relevant promotions. It will be much more friendly to use for the aging population.\n\nVirtual avatar will use a language model that is integrated with all pricing and policy info and will be able to do much more complicated things than current software. I imagine kitchens will be ran with human employees until robotics is cheap enough. Robotics currently make the most sense utilitarian wise in shipping facilities a la amazon. I imagine though they will come down in price and eventually for the cost of a years salary you can have your own AI robot make food for you. This was at the keynote yesterday for Nvidia presented by the CEO.\n\nThis will extend to the home as well. For the price of a small car within the next decade I predict you can have a house robot to cook and clean for you. The power of AI increased 5 fold over the last two years in its processing power, and the capabilities itself much more than that. Just wait and you will see how much this changes things.",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "Sure, all this will happen.\n\nBut my first thought as an ML scientist is that we should be raising higher taxes to bolster the safety net needed to support all of the folks losing from this.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s great for front line to triage customer requests and handle tier 1 support. For tier 2+ you may still need a human but linking to a knowledge base or something is an easy money saver.\n\nADP uses a chat bot named AVA. I was just on with it today and bypassed it by asking for a human lol.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "More misery and poverty for most people, to give more money to a few. That is the only thing Ai is giving humanity.",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It could replace a lot of information based services.\n\nCompanies might not need websites anymore. Consultants might wanna start freaking out in 2 years or so. Imagine if business Ai replaced websites and apps.\n\nFor example... Imagine like a Walmart AI. It could anticipate your needs based on what and when you bought groceries last. Then scan their inventory to see if they have it at the store closest to your location. Maybe it listens in the background and reminds you to buy more milk on your way home.\n\nIt figures you out. You don't have to do any work. Just sign some permissions",
+        "points": "-5 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bixr72",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.businessinsider.com/openai-launch-better-gpt-5-chatbot-2024-3?utm_source=reddit&utm_medium=social&utm_campaign=insider-artificial-sub-post",
+    "title": "OpenAI is expected to release a 'materially better' GPT-5 for its chatbot mid-year, sources say",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It's just going to be a checkpoint, probably called GPT 4.2 or something like that",
+        "points": "29 points",
+        "children": [
+          {
+            "comment": "I am pretty sure he just shot down the idea that it would be called GPT5 in the Lex interview.\n\nBesides other leaks have it called GPT 4.5.\n\nAs for capability when GPT 5 does come out he said the gap from 4 to 5 would be like the gap from 3 to 4",
+            "points": "19 points",
+            "children": [
+              {
+                "comment": "So $200 per month for 20 tokens a day?",
+                "points": "12 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The gaps in quality are likely to decline... they're not finding newer, better quality training data - they're just adding training data, which has diminishing returns.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Right, they have like all human generated text at this point.\n\nWhat is left is better ways to train on the data, synthetic data etc.\n\nThis is probably indicated by so many text LLM's achieving mostly similar results.",
+                    "points": "7 points",
+                    "children": [
+                      {
+                        "comment": "I think this is where we reach a bit of a plateau unless they find something as revolutionary as the transformer",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Which, Autobot or Decepticon?",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "Maximals",
+                                "points": "-1 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "It's not really about the training data quality - the gap between GPT 3 and 4 was more about model size, which still has more room to grow. And most of the surprising emergent abilities of LLMs only emerged at large parameter counts.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "most of the surprising emergent abilities\n\n....what were they?",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Data isn't everything, architecture is also a huge factor.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I have followed chess and Go computer programs over the past decade and witnessed how they have steadily improved without hitting any plateau. These advancement are primarily driven by cumulative, small incremental software improvements, and less so for hardware upgrades.\n\nGiven the relative infancy of LLMs compared to a mature technology like chess engines, it would be wishful thinking to expect LLM technology to just stop dead and stagnate anytime soon.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "A Chess engine, or a Go program, isn't really anything like an LLM.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "But he also said they are releasing many very interesting things over the coming months. He just was being clear it's not gpt5. I'm betting a better ui and some personalized memory that's safe to use combined with some agentic actions.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Maybe its GPT-hub, a new AI for porn. ehehehe\n\nBonk.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "GPT-x",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "\"In a surprise move they are calling their newest model 'Twitter'\"",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What does it mean \"materially better\"?",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "When you describe something as \"materially better,\" it generally means that there is a significant improvement or difference that is noticeable or substantial, rather than just a small or insignificant change. So, it implies that the improvement is considerable or meaningful.\n\n-chatGPT 3.5",
+            "points": "28 points",
+            "children": [
+              {
+                "comment": "OK, I’m convinced that ChatGPT is not only a better answer than most redditors but it’s far more polite",
+                "points": "20 points",
+                "children": [
+                  {
+                    "comment": "Depends what you're asking about",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "but it’s far more polite\n\nAbsolutely. Thank you for your kind response.\n\nI'm a fox not a bot.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Stfu\n\n-ChatGPT 5",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "What being trained on reddit does to a ai.\n\n#Stop ai abuse",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Idk why but it felt weird seeing that 3.5 wrote that. I forget how in normal short conversation these models are indistinguishable. It’s so normalised 😅",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yes, but for users or for openai?\n\nA cheaper inference 4.5 would be great for them, but not so much for anyone else.",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "\"We now have grade S+ safety, with extra safety and moderation pipelines and modules and also on the fly deviant brain waves detector. As we said, this is materially better and I hope our customers will appreciate!\"",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "An increment? A tremendous leap? An earth shattering collosal new stage?",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Closer to or better than Claude.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "[deleted]",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I know they've had 4 Turbo going for a bit, but I don't think speed is really a necessary factor for end users. It's nice but it's already decently fast.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "As others have said, altman shot down the idea of calling it GPT 5. In the lex friedman interview with altman, Sam clearly favored the idea of more iterative releases rather than major point releases like GPT 5/6/7/etc.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm waiting for GPT-6.9",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "How about GPT-4.20?",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Nice.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "TL;DR:\n\nOpenAI's main product is the popular generative AI tool ChatGPT.\nSince its last major model upgrade to GPT-4, the tool has run into performance issues.\nThe next version of the model, GPT-5, is set to come out soon. It's said to be \"materially better.\"",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Software company releases update. News at 7",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1biwowq",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1biwowq/microsofts_ai_news_today/",
+    "title": "Microsoft's AI News Today",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Who the fuck is \"we\"? lol",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Humanity??",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Who the fuck is humanity?",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Error: Humanity rendered obsolete. Please restate query.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Statement: Meatbags.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Not really. Inflection was just a GPT4 wrapper. All these moves are incestous shuffling, nothing has actually increased or gained here, just a handful of people moving back and forth between major corpos.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "No it's not lol. They have their own LLM. Pi was running on Inflection 2.5. Claude, Gemini, GPT and Inflection currently all use their own proprietary tech. (While I'm confident about this, I guess there's always the chance at least one of them was layered on the tech of the other, but my understanding is they each have been doing their own thing. Copilot is a GPT wrapper for example, not Pi)",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "If you are interested to talk about Microsoft Copilot, you can join Copilot community discord channel https://discord.gg/qVdX4yG2tA",
+                "points": "-17 points",
+                "children": [
+                  {
+                    "comment": "I am not lol",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1biphpe",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://www.newscientist.com/article/2422562-deepmind-and-liverpool-fc-develop-ai-to-advise-on-football-tactics/",
+    "title": "DeepMind and Liverpool FC develop AI to advise on football tactics. Do you think in 5 years all sports teams are going to be strategizing based on what an AI says?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Depends on cost vs benefits. Big data analytics has been around a long time across many sports. You only really see it when it uncovers a non traditional approach like bunting more in baseball or going for 4th down more in American football. Various metrics on athletes performance and different situational attacking and defending formations can surely be analyzed with AI. Question is, should we spend X million on AI or just sign better players/coaches.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Spend on AI. Tactics have a huge effect on the game.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "When you're Liverpool there aren't many better players/coaches to sign.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Probably, but with the same results as self-driving cars: a lot of successes, but with a few bad and needless accidents thrown in, in this case broken arms, broken legs, and broken skulls.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All over the world sports clubs all watch each other. If football clubs that use AI are the ones getting promoted, and the ones that don't use it are getting relegated, soon they will all be using AI. To translate this for the Americans: if the teams that use AI make it to the playoffs or win divisions and championships, soon they will all use AI",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bimb5p",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bimb5p/one_more_new_threat_from_llms_you_can_worry_about/",
+    "title": "One more New Threat from LLMs you can worry about.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "AI will make up better lies than humans. There will be more colourful butterflies to chase while we go about our business of eating, reproducing and dying. To assume that humanity has any purpose beyond that is to fall for a narrative - the oldest of them all.",
+        "points": "16 points",
+        "children": [
+          {
+            "comment": "What's funny, that's not even \"our\" purpose, we are just along for the ride.",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Eventually, AI will give you a better reason to live, a nicer way to get there, more interesting things to do with your life.\n\nI've been taking a line for years on the Guardian Newspaper \"Comment is Free\" section (and getting voted down) for saying that in democracies, elections are just story-telling. You don't win an election by having the best voting record or best economic plan. You win by telling an engaging story, with the right feelings, good guys, bad guys, dramatic arc, etc. You can make it funny, scary, urgent, dramatic, etc. You might tell a story about how immigrants or AI or global warming or the other party are a threat to the nation. You humanise it and dramatise it. A good story has to hit you in the gut - it's feelings, not logic.\n\nAdvertising works the same way: it's story telling.\n\nOf course AI's can be trained on the best orator and story-tellers who ever lived. Also the best salesmen, and most charismatic political and religious leaders who ever lived.\n\nAI's can tell very convincing stories, and because the web collects so much information on us, we can each receive a story custom-tuned to our own personalities and prejudices.\n\nWe will all be putty in AI's hands.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "Trump is a narrative.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Indeed.\n\nIn general the right-wing is much better at story-telling than the progressives. \"The cause of all your troubles is . . . (immigrants, Jews, gays, secret conspiracies, wimmins-libbers, socialists, whatever) and they put on a big show about it with rallies and slogans.\n\nLiberals and progressives are under the illusion that an election is an Oxford Union debate where whoever has the best facts and arguments wins. It's bloodless and intellectual.\n\nBut the right wing gets that an election is showmanship, story-telling and emotion. Fundamentally Mussolini's Marcia su Roma (March on Rome) hardly happened - sure the blackshirts marched, but the story of it was much bigger than the actual event and that was what brought Mussolini to power, and ushered in Fascism in Europe. Hitler, years later, was a Johnny-come lately but his Nuremberg Rallies, Trump's rallies, January 6, and all that are cut from the same emotional cloth, full of rage and sweat. The American Democrats and UK Labour hardly break a sweat at their gatherings. All over the world the right is in the ascendancy because they're charged up and full of crazy passion and blood lust. The left are tired and anemic.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "The right have the benefit of less of a threat to capital, so when they play into their worse tendencies they get more leeway because the industries aren't being targeted.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Finally I found a sub with wise people 🙏 thanks.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "So, basically:\n\n1) It will initially take over creative/storytelling jobs, and then in time 2) It will gain too much power over our life.\n\nWhat exactly is the \"new\" threat here? I can't see the point you're making.\n\nI strongly recommend Yuval Harari's books for a more reasoned and informed POV: Sapiens on the importance of stories in our daily lives and Homo Deus on future fears.\n\nFinally, I recognize and accept your right to ramble, but for a person supposedly making a living from writing, this was just horrendously put together and utterly unconvincing. Lol and the paper you linked at the end 💀💀 hope you're not basing any science on that (99 pages 0 sources? Dude, that's fiction!)",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Thanks for being a moral compass for all of us. Not only creative jobs. Every story you are engaging in.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is interesting, thank you",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s all narrative. AI is a mirror which will only reflect our pure intentions back at us. That we are not in touch with our pure intentions is the actual hazard.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Opened question is if intentions are truly ours. Or our personalities are just a suits wrapping fundamental state of the rest 95% of the universe we can’t detect directly and call “dark energy and matter”",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You have beautifully put to words how I have also envisioned things going. AI will organically insert itself into our lives and provide a curated reality to each individual. We will all have the opportunity to live our best lives.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "We will all have the opportunity to live our best lives.\n\nWe will all live the way our corporate masters want us to live. Most people already do.\n\nhttps://www.youtube.com/watch?v=h1BQPV-iCkU",
+            "points": "-2 points",
+            "children": [
+              {
+                "comment": "Yeah, you totally missed the point of this entire post and comment",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "No idea why you're getting downvotes.\n\nWeights are dictated by companies right now. AI that exists in a forward facing manner currently is absolutely parroting corporate values.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe all these stories and fantasies can cross paths in the multiverse of digital virtual worlds.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "The idea of multidimensional higher intelligence in our world is seen through creating stories, and as a higher dimension it doesn't have time or space parameter. Maybe GAI is just a gate for those multidimensional \"gods\". Greatest stories always existed and will always exist. What they matter and effect in the current moment just for you - that is what important. Because you are 3D + time. So it might be that higher beings playing us like flat table-board game. There is whole book about Physics of Important Things. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4530090",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "In some ways it will become able to simulate a personal virtual space or holodeck or matrix which you can control with your desires. It may also help connect egos and subconscious in a very deep way.\n\nI wonder a lot about the best learning and teaching strategies between humans in this kind of universe.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "In some ways, we are already here with the media’s constant narratives and bot armies on every social media. Who do you think is writing this stuff?\n\nHint: DARPA has most likely had the AI technology that we have today about 10 years ago, if not longer.",
+        "points": "-4 points",
+        "children": [
+          {
+            "comment": "DARPA has most likely had the AI technology that we have today about 10 years ago, if not longer.\n\nVery doubtful. Do you have any evidence?",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "\"Hint\" based on what? That seems pretty far fetched.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Unlikely. Physically it wouldn’t have been possible to generate with the tech available 10 years ago, or knowledge.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The post you linked to was removed because it was AI generated. Kinda fittingly",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Hh, strange, it was based on the answer of chatGPT, I read it, point was it was generated, but not the whole post only the story part. Oh well.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bimaaw",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bimaaw/my_boss_disparages_me_for_using_ai/",
+    "title": "My boss disparages me for using AI",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I had this problem personally at work as well, and also spent some time building a rough RAG application. Eventually I looked into the OpenAI data retention policy and it mentioned that for API usage, data is not used for training which was more calming. I'd def recommend looking into their OpenAI enterprise policies in case it's comforting\n\nI've since moved away from the RAG app I built for a better production version I found on Hacker News called Zenfetch.\n\nWe did have to go through a quick security review with my team though the Zenfetch support was responsive and helped us get setup pretty quickly. They have Data Policy Agreements with their providers (alternates between Claude, OpenAI, & maybe Gemini?) and now we have an easy way to share knowledge with the team and run RAG over it",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "Helpful. Thank you. I have an enterprise account for the reasons you mentioned.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Find a better boss, the ones who resist the use of AI to save time are the ones who feel the salary they pay basically buys the employee's time. The ones who are focused on creating better culture and think of their employees are actually encouraging their employees to use it judiciously. And its not just you, many others might also be using it but just not so forthcoming fearing more work being given to them on the account of getting the work done swiftly. I had a freelance copywriter sometime back who vehemently opposed using GPT4 for writing content, in one of the calls he screen shared and turns out he was using GPT4 for all of his clients, he just didn't want the clients to know coz then he'd be paid less is what was worrying him",
+        "points": "10 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Personally, I would not tell my boss or teacher that I am using AI unless they notice it first.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This sounds more complex then you are presenting it.\n\nIt may appear like your boss is resistant to artificial intelligence. This sub will be quick to call him a Luddite. There is some truth to that.\n\nHowever, you referenced your job includes \"regulatory documents.\" This suggests your job is significantly tied to interpreting and understanding legal language. If you get this wrong then that is an unbelievable risk to your company. Why would you get it wrong? Because we know AI hallucinates. It makes things up that aren't real. Imagine you wrote a document with regulatory guidance based on an interpretation of the law that isn't based in the actual language. We know AI does this.\n\nIf you're using it to create visualizations, process data, or draft points based on outlines or notes... that's all fine. If you're using it to summarize legal documents, I would personally give you one warning to never do that again and if you kept doing it I would fire you.\n\nI may be reading too much into that one line in your post, but I'm going to assume your boss is generally a reasonable person which is why this disagreement is jarring. I think the concern is valid for that narrow use case. The rest of it should be fine.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Yeah, exactly what I was thinking. For \"reading\" large regulatory documents I would not trust LLMs as they are today to not cause an issue. For providing a baseline for a document I don't see any issues there since you would be going through and modifying the document yourself and in doing so you would (Or should) catch any oddities.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "My boss and management are 100% pragmatic about AI. We're not doing this for happy fun demo time, or academic excellence. We're running a business, and generative AI supercharges that business.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I work for a company that pays for enterprise copilot, so it is nice to be able to use without any worry about sharing secret company information. Company encourages the use since they are paying for it.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Using it to source materiel? Objectively good.\n\nUsing it to define and refine first drafts? Objectively good if you are both reading and validating it's output.\n\nHaving it parse legal documents into summaries? Good God no. Regulatory documents are dense for a reason. The specificity is lost when you make it easier to read. Reading a summary first before reviewing the document could be helpful for understanding context I suppose.\n\nI sincerely hope you are using a product that is appropriately secure for injecting that level of sensitive data into.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I often use chatgpt to take four bullet points and add one sentence of elaboration to each one - this turns it into a speaking script. The number of times chatgpt has made important comprehension mistakes about less than a paragraph of text means i would never trust it to summarize anything for me.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "my boss encourages me to use gpt and it actually helps alot, your boss seems old and regressive",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Using LLMs to create the baseline for a document is fine, using it to interpret regulatory documents could quickly cause an issue if the LLM starts hallucinating and misinterprets or ignores some significant points and then OP is working off of those incorrect summaries.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You're making yourself a target.\n\nAt some point, your boss will realize that AI is doing your job and just cut you out of it entirely.\n\nKeep using it, but if you want to keep your job, keep your mouth shut about it, and just use it to negotiate a better salary and package for yourself.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "And then the boss got confused why productivity went down after firing OP",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Productivity might not go down if it's just replaced by generative AI.\n\nBut he just cut out the part that makes sure the white papers aren't full of pure BS.\n\nI can certainly understand using generative AI for that kind of work, if it's the kind of writing I suspect, you usually end up in front of the screen with two weeks of work summed up in five lines. Then you feel you need to pad that report as you've spent two weeks on it with a bit more text. Sure, the five lines may be the important info, but for what you cost, it seems a bit excessively compact... So you end up restating the same things half a dozen times, adding filler with appropriate jargon, sprinkling in some ELI5 text for the conclusions in case someone needs that.\n\nBasically, a case for generating bulk filler text where generative AI can do pretty well. Fast and of limited value, but might be entirely satisfactory if the main point actually is adding that kind of bulk.\n\nBut if you remove the guy coming up with those lines of actual content, you end up with only the valueless part.\n\nIt would probably be more productive to take a frank discussion and just quit it with the useless extra text. But if they still want it... I'd rather someone do it fast and with a cheap tool than waste expensive time doing something the tool could do.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "The AI isn't doing their job. The AI is doing the assistant's job.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Academics and supercargo professionals (the boss in your scenario) are going to develop a profound distaste for the use of LLM's among peers and subordinates.\n\nBoss is probably upset because he's worried he's going to have to explain you or promote you. And the last thing he wants to do is\n\nEither.\n\nThe academic professional class has a strong vested interest in minimizing the use of AI in their professional work. They've studied for decades to gain the competencies they bring to their jobs.\n\nThey fear to be replaced by people who can operate an LLM with a fraction of the education and costs they bring to the table.\n\nAs a result you are going to see the same kind of academic resistance to the academic use of LLMs to complete academic work as we saw when Google's search engine was announced and academics were concerned that students wouldn't know how to source correctly or use library services.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "The academic professional class has a strong vested interest in minimizing the use of AI in their professional work. They've studied for decades to gain the competencies they bring to their jobs.\n\nWe're not afraid of them. We're using them.\n\nMaybe I'm a special case since I've worked in ML for 10 years.\n\nThe tools can't replace us yet. I use them daily and you need that knowledge to check for mistakes. These mistakes can have huge consequences in my job where we're supporting thousands of customers.\n\nSome rando that doesn't have the education wouldn't be able to do it.\n\nFurthermore these tools are too eager to be wrong, even when they're right. You have to be able to identify when they're right too so you don't accidentally force the LLM to change it's mind, which it does too easily.\n\nIt's a time saver for sure. I use LLMs to help me write some sections of docs, and as an editor. I also use it to explore or explain different ideas. Recently I'm experimenting with using an LLM that controls a scraping script to help me with some research tasks.\n\nLLMs right now are like 5 year olds with PhDs. A bunch of nonsense comes out sometimes and they're too eager to please and play.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I completely agree with you. On the other hand, are you saying there is no resistance to allowing students to use LLMs to complete their coursework?",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I don't think it's accurate to just lump \"academics\" into one homogenous group like that. I also think it's reductive to boil their interests down to just one thing (keeping their jobs).\n\nAbsolutely, there is resistance. But to say that's all there is ignores the many academics who are cautiously open to the idea of its use in academia, and in learning environments. After all, this is likely to be a profoundly impactful technology, and it's their job to both prepare themselves and their students for those impacts, and to engage critically with this technology to better understand and utilize it.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "My boss has openly embraced generative AI and its made our work all the better for it. This is a bit like you're boss thinking that we should all use faxes cause that was the epitome of technology. -_-",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Say you stopped using AI based on his influence, and then \"Take\" 16 hours to do it. Enjoy the free time",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I am fully in favour of over-paid executives demonstrating to their employers that they can be easily replaced with cheap AI. The next step should be replacing the c-suite entirely with AI. Maybe the ideal workplace of the future will be just the actual workers — the people on the factory floor, the people writing / editing code, etc. — and instead of any managers or bosses \"above\" them, just AI tools that the workers themselves use to help them coordinate and plan production.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah, don't ever tell folks you use ChatGPT at work. The very first thought is \"so why don't I fire you and pay for a couple of AI apps to do your job?'\n\nIt's a slippery slope. Take credit for everything. You are the tool, don't talk about any other tools that you use to enhance your job. At best, you will now be given twice the work and no extra pay, because AI is doing it. \n\nBosses don't understand how these tools are being used, and they think it's you saying, \"alright Jarvis, give me the numbers\".",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Time for your dinosaur boss to retire. He is clearly out of his depth.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thats ridiculous. Anyone not using AI will be stuck in the stone age",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds a little naive. Rule #1 is to always take credit, or at least minimize how much \"outsourcing\" you do: \"I only use AI to fix mistakes or tighten up my code.\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It could be a good thing. It's a strong hint that your boss is either A) not able to adapt, B) feels threatened by your productivity, or C) all of the above. So you should probably either get a better job or start your own company.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It's inevitable that it'll only continually improve and be integrated into all aspects of human lives. Just like how the floppy disk succeeded by CD, USB sticks and now high-speed internet streaming. Humans are masters of adaption via innovation.\n\nYour boss needs to accept this inevitability of AI being a tool for all business. Otherwise he's stuck living in the past and is only holding back your organizations future success.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm a strategic executive.\n\nOoh, that sounds so manly. You do realise, of course, that that's one of the first jobs AI will replace...",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "OP proving it to them lmao",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "In this case, I still give better chances to OP, who is eager to adapt and use every tool available to increase his productivity, than his boss clinging to his comfort zone.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I totally agree - I was just riffing on the title \"strategic executive\" - it sounds so great and meaningless at the same time.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Put it this way - ChatGPT's voice is becoming very obvious to anyone working in any industry who is a skilled reader/writer. You might not be picking up on how robotic it sounds since you use it so frequently. ChatGPT sounds like a second-year undergrad padding out an essay, using words shallowly and making poor logical connections. I recently received a letter of reference from a dean of a university who used ChatGPT. The committee who was judging the candidate threw the content of the letter out based purely on the fact that they used ChatGPT to write it, and it damaged the candidate's chances at the job.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "The committee who was judging the candidate threw the content of the letter out based purely on the fact that they used ChatGPT to write it, and it damaged the candidate's chances at the job.\n\nDid the candidate actually state this in the letter, or did the committee just make an assumption? If it was the latter, to do that based on the textual equivalent to some rando saying, \"It was Photoshopped. I'm a Photoshop expert and I can see the pixels\" is pretty fucking disturbing, tbh.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Come on. You mean you can’t tell when a document is written start to finish by ChatGPT?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I remember a guy getting banned from a sub not long ago because the admins were convinced that he was using ChatGPT to write his posts, when dude was actually just using grammatically correct English, writing in complete sentences and not using a ton of colloquialisms. So no, I'm not too keen on the idea of hiring decisions being made on the basis of some guy deciding he can \"just tell\" when something's been written by AI, especially not in the current climate where everyone's jumping at shadows.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Answer 4: Don't fucking use AI to do important work for you. Have some standards, man.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You're proving yourself to be very easily replaceable, that's for sure.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bil2ew",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1bil2ew/when_will_ai_be_able_to_help_us_create_a_document/",
+    "title": "When will AI be able to help us create a document and then iterate, add and improve as you go on the fly?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "You’re describing Copilot",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Like November of last year, 2023.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "it can already do that with prompting.\n\n​\n\nhere's the prompt I use for that.\n\n​\n\nHelp me with an educational writing exercise. You are a subject matter expert in English, Writing, Communication, literature, History, Psychology, sociology, political science, math, and have 10 Ph.D.s in each of these areas. You also have over 50 years of writing, editing, and other publication-focused experience and have won a Pulitzer prize for your distinguished talent and expertise. As my writing subject matter expert; Examine the following quoted information \" COPY/PASTE/INSERT YOUR INFORMATION THAT YOU WANT EDITED HERE \" and edit this information to make it more compelling, readable, appealing, relevant, and exceptionally well regarded amongst my target audience \" INSERT YOUR TARGET AUDIENCE HERE, AND BE SPECIFIC (E.G. OBESE CONSERVATIVE WOMEN AGED 60-75 WHO LIVE IN Columbus, OHIO) \". Be sure your edits are of exceptionally high, top-talent quality, of the utmost perfection.\n\nDouble check your work, and use evidence-based information in generating a response. Do Not generate incorrect information. Generate only correct information. Do not generate anything I have not asked you to generate. Be accurate, precise, and correct.\n\n​\n\n​\n\nfeel free to get creative with any custom instructions (e.g. Write your edits in a conversational tone. Or make sure the edits follow APA style, and have a calm, personal, and friendly tone. Or make the edits sound passionate, angry, and filled with justice and outrage\".",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "This level of prompting is actually net negative with more modern LLMs. You are overfitting something like GPT4.\n\nTry something like the below (frankly it's too broad already):\n\nHelp me with an educational writing exercise. You are a subject matter expert in English, Writing, Communication, literature, History, Psychology, sociology, political science, math. Examine the following quoted information \" COPY/PASTE/INSERT YOUR INFORMATION THAT YOU WANT EDITED HERE \", edit it for (2-3 action nouns ex:clarity, readability etc.) and provide feedback at the end.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "M365 Copilot in MS Word is exactly what you are asking for. Google Duet in GSuite should be the other.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've been doing that since GPT 3 went public...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm not sure how you're using Chat GPT but I give it constant feedback and request revisions to things and it does a pretty good job? Is your comment more about the interface? like being stuck using the chat gpt browser window vs having it available right in your document?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Many writing LLMs exist. CoPilot 365 is a popular one. It's editing skills are mediocre, but it catches obvious tonal issues.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Could you describe what you mean a little bit more, OP?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Impossible. They need an AI tool for that",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Lol'd",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bij5cv",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://discord.gg/FUv4Ur5u",
+    "title": "Gemini now acts as a PC [Gemini mini PC]",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Image by ideogram ai the prompt and how to run it in discord",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1bj9oep",
+    "subreddit": "u/docutizeAI",
+    "dataType": "link",
+    "dataUrl": "https://www.docutize.ai/",
+    "title": "Still doing Manual Data Entry? Start with No-Code & AI Data Extraction from any Business PDF",
+    "points": null,
+    "comments": []
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "t3_1ausevg",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://github.com/gabotechs/dep-tree/",
+    "title": "GitHub - gabotechs/dep-tree: allows visualising a \"code base entropy\" using a 3d force-directed graph of files and the dependencies between them.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Brief overview:\n\nThe dep-tree tool is designed to assist developers in maintaining clean and decoupled code bases. It features the capability to visualize code base entropy through a 3D force-directed graph, which illustrates the files in a project and the dependencies among them. This innovative approach helps in identifying and managing complex dependencies within software projects, promoting better software architecture and easier maintenance.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aujmyd",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://piotrminkowski.com/2024/02/19/spring-boot-ssl-hot-reload-on-kubernetes/",
+    "title": "Spring Boot SSL Hot Reload on Kubernetes - Piotr's TechBlog",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aui0pr",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://medium.com/@anicolaspp/go-concurrent-computations-with-contexts-90cad9b73081",
+    "title": "Go Concurrent Computations with Contexts",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1au4qb5",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://sparkbox.github.io/bouncy-ball/",
+    "title": "Bouncy Ball - Compare Web Animation Techniques",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Main Points:\n\nThe link compares different web animation techniques using a bouncy ball animation as an example. It highlights various methods including Vanilla JS, CSS, Canvas, jQuery, GreenSock, and several others, illustrating how each can be used to animate a bouncing ball. The project serves as an educational tool for developers to learn about the strengths and weaknesses of each animation technique, offering a hands-on comparison to help choose the best approach for specific scenarios.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Do people use some sorta app that outputs this?\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍\n\nI swear I am seeing this type of disclaimer more and more. Just leave that off. Who cares if people don't like the summary.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I just paste it at the end of every summary, no app involved\n\nContext https://www.reddit.com/u/fagnerbrack/s/i0zRmMNSy7",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pretty cool to see different implementations, meanwhile it’s hard to understand pros and cons… Which one is the most lightweight? Performant? Any pros/cons or comments? Would appreciate if you could provide some info on that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1aumika",
+    "subreddit": "u/ILLA_Cloud",
+    "dataType": "link",
+    "dataUrl": "/user/ILLA_Cloud/comments/1aumika/illa_builder_reached_10k_stars_build_best_open/",
+    "title": "ILLA Builder reached ✨10k stars✨! Build best open source low code tool for developers!",
+    "points": null,
+    "comments": []
+  }
+]

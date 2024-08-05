@@ -1,0 +1,2834 @@
+[
+  {
+    "id": "t3_1b8nvuz",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://theconversation.com/emotion-tracking-ai-on-the-job-workers-fear-being-watched-and-misunderstood-222592",
+    "title": "Emotion-tracking AI on the job: Workers fear being watched – and misunderstood",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1b8lo9t",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://arstechnica.com/information-technology/2024/03/claude-3-seems-to-detect-when-it-is-being-tested-sparking-ai-buzz-online/",
+    "title": "Anthropic’s Claude 3 causes stir by seeming to realize when it was being tested | The model seemingly demonstrated a type of \"metacognition\" or self-awareness during an evaluation",
+    "points": null,
+    "comments": [
+      {
+        "comment": "the word “seeming” is important there.\n\nthe glorified algorithm did not actually display anything even approaching “metacognition,” unless we are also going to suggest that a rock in my neighbor’s garden is displaying exceptional patience and serenity.",
+        "points": "11 points",
+        "children": [
+          {
+            "comment": "Lol, rocks are patient as fuck",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Given enough time, a rock’s patience will erode.",
+                "points": "",
+                "children": [
+                  {
+                    "comment": "That's a dirty take. I'm astonished.",
+                    "points": "",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It might be called meta-awareness, but it’s definitely anomaly detection.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b8c9lm",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://tcrn.ch/3P8MN7B",
+    "title": "Apple terminates Epic Games developer account calling it a 'threat' to the iOS ecosystem",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1b8clpq",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://9to5google.com/2024/03/06/japan-google-pixel-sales-increase-2023/",
+    "title": "Google Pixel sales increased by 527% in Japan in 2023",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Specifically speaking, the Pixel 7a, released in May 2023, is likely one of the key devices in this spike in popularity as the phone’s release lines up with a sudden jump in market share in Q2 2023. Google has also continued to make Japan a key market for Pixel, with the country being one of the only launch markets for the Pixel Fold. IDC also cites a partnership between Google and Docomo in 2023 as a contributing factor. It also looks as though much of Google’s growth in Japan has come from users opting to purchase a Google Pixel phones over Samsung’s Galaxy devices. Samsung’s shipments dropped by 39%, which seems to show where at least some of Google’s sales are coming from.\n\nSeems like it is because Google is specifically targeting Japan as a market. They even launched the most recent pixel in Japan first, it looks like",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "they have a very aggressive ad campaign here, its everywhere, again and again.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It’s also because anything that has a S.Korean brand will not sell well in Japan",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Had no time to read; did they sell 527 Pixels compared to 1 in 2022?",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Thought the same thing when I saw the title lmao",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "No, that would be an increase by 52600%.\n\nThey only sold 6.27 Pixels in 2023.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b87x8u",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.zdnet.com/article/canonical-turns-20-shaping-the-ubuntu-linux-world/",
+    "title": "Canonical turns 20: Shaping the Ubuntu Linux world",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1b852st",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.msn.com/en-us/news/technology/oregon-is-about-to-sign-or-veto-the-strongest-right-to-repair-law-yet/ar-BB1jkJN6#comments",
+    "title": "Oregon is about to sign — or veto — the strongest right-to-repair law yet",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Companies will find a work around. They always do, and it sucks for the consumer",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“Oh sorry, we’ve discontinued that model and no longer manufacture parts for it, maybe check Amazon or eBay, might find one there with 300% markup. Thanks for buying our crap sucker” click",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is some Outmodes vs. Madame Gasket shit.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "For real!",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hope so. They want over $450 to repair my cracked screen on my 14 pro max.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "People make fun of California prop 65 regarding product cancer awareness. Just wait until you can’t buy a toaster because it’s extra parts inventory hasn’t been certified",
+        "points": "-6 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b84zzs",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://9to5mac.com/2024/03/06/ios-17-4-new-features-release-date/",
+    "title": "Should you update to iOS 17.4? Here's what's new",
+    "points": null,
+    "comments": [
+      {
+        "comment": "A few things, but since none of them impact my life in a positive way I'll skip the risk of new release bugs and just go about my life.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Update to Android",
+        "points": "-19 points",
+        "children": [
+          {
+            "comment": "Why so my phone can crash when I need it the most. Or the apps don’t run smoothly? I’ve tried android several times all with latest phones and it still crashes or freezes.",
+            "points": "-6 points",
+            "children": [
+              {
+                "comment": "Personal taste is what it is. I disagree with the person above you as well, because one isn't necessarily better than the other.\n\nThis is, however, disingenuous. You have to understand yourself that this isn't normal behaviour, or you're lying. I've been reviewing and testing phones for almost 15 years. I've had dozens. Most of them have been Android, with a couple of iPhones in there.\n\nAndroid/it's apps does not \"crash and freeze with the latest phones\". That is either you using really shitty and suspect apps, the cheapest garbage phones or... Well, lies.",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "I have nothing against IPhones, but as a non-american I don't understand the appeal. They are waaay more expensive than a top-notch Xioami phone, for example. Spec for spec i'd always go with Android",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Switched back and forth a lot. You're experiencing user error.\n\nGet good scrub\n\nFuckin iphones are children's toys.",
+                    "points": "-11 points",
+                    "children": [
+                      {
+                        "comment": "iPhone are children’s toys? And you didn’t get one. I gotcha now. Maybe when you grow up you can get your own. Keep your head up little buddy",
+                        "points": "3 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b84yek",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://techcrunch.com/2024/03/06/amazon-teams-with-recycling-robot-firm-to-track-package-waste/",
+    "title": "Amazon teams with recycling robot firm to track package waste",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1b84xy7",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://techcrunch.com/2024/03/06/political-deepfakes-are-spreading-like-wildfire-thanks-to-genai/",
+    "title": "Political deepfakes are spreading like wildfire thanks to GenAI",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Going to be interesting. Usually we just have to deal with the politicians lying and the MSM to take things out of context or adding 'color' to buy clicks. Now we have to deal with user generated nonsense.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Using AI, social media will become saturated with negative/attack-based content to the point where all of it should eventually be ignored & forgotten as just an endless hose of unreliable shitty media.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s not like another company is insuring they don’t get made, this was kinda bound to happen.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s not thanks to GenAI, it’s thanks to idiots.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b84wzf",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://techcrunch.com/2024/03/05/amazons-new-rufus-chatbot-isnt-bad-but-it-isnt-great-either/",
+    "title": "Amazon's new Rufus chatbot isn't bad -- but it isn't great, either",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1b84wcw",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://techcrunch.com/2024/03/05/waymo-launches-driverless-rides-austin/",
+    "title": "Waymo launches driverless rides for employees in Austin",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I don’t know if I’ll ever feel comfortable in a car that is “self driving” in my life.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "I’m sure when horses were going away and cars were coming in, tons of people probably said tbt same thing you’re saying.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "It’s not comparable. The decisions were being made by you and a horse, then just you in the car. Now the car is driven from space. Fuuuuck that.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "We’re family.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I couldn’t care less about a self driving taxi… but that car is sexy as hell and crushes almost all new market cars.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Yeah because it’s a Jaguar. Jags are always sexy as hell",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Thats a Jaguar I-PACE with Waymo sensors.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b84vtc",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://techcrunch.com/2024/03/05/target-to-launch-target-circle-360-next-month-its-prime-competitor/",
+    "title": "Target to launch its own version of Amazon Prime, starting at $49/year",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I'll pay triple if I can search for an item and get zero Chinese fly by night temu shit products like Amazon:\n\n​\n\nSearch For: Dining Room Decorations\n\nResults:\n\nDI-DGRITILY WINE RACKS OF DINING WINES\n\nHALYYTRNOO FLOWERS HOLDERS\n\nBOOPINIGHTYASO PLATES\n\nHABILEEDOO NAPKIN HOLDER US MADE FOR US\n\nSHABALABADOODOO CANDLES FOR DINING",
+        "points": "650 points",
+        "children": [
+          {
+            "comment": "From the creators of Target: where you pay a little bit more to not shop at Walmart, comes Target Prime: where you pay a little bit more to not order from Amazon",
+            "points": "416 points",
+            "children": [
+              {
+                "comment": "Get this guy on the advertising team.",
+                "points": "144 points",
+                "children": [
+                  {
+                    "comment": "Got Apples?",
+                    "points": "14 points",
+                    "children": [
+                      {
+                        "comment": "Hungry For Apples",
+                        "points": "17 points",
+                        "children": [
+                          {
+                            "comment": "snaps Yes!",
+                            "points": "10 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "You guys like apples?",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "What is it with Twos and apples? You're given three kinds of fruit. Mix it up!",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "HOW BOUT DEEZ APPLES",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I mean-Amazon got so bad that I cancelled Prime and Target immediately moved to number 1 for me. So clearly you’re on to something 😂",
+                "points": "27 points",
+                "children": [
+                  {
+                    "comment": "I’m about to cancel prime because my free 2 day shipping is now free prime 5-6 day shipping even on items shipped by Amazon. And it ships the day before, they just wait 3-4 days to ship it.",
+                    "points": "25 points",
+                    "children": [
+                      {
+                        "comment": "This is exactly why I canceled my Prime account. To actually get 2 day shipping, I had to pay an additional fee. Not worth it.",
+                        "points": "8 points",
+                        "children": [
+                          {
+                            "comment": "Amazon really enshittified hard after they made money hand over fist in the pandemic",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Yuuuuup! And I gladly pay extra for better products at Target and I don’t have to see the Area 51 escapees.",
+                    "points": "9 points",
+                    "children": [
+                      {
+                        "comment": "Amazon’s service (both delivery and pick up) was so bad that I opted to do in store pick up from Target. From a high traffic urban Target. Think about that for a second-how bad it had to be. But it wasn’t worth the money anymore.",
+                        "points": "8 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I mean this is it for my town. The Target and Walmart are on the literal same road, less than a mile apart. The Walmart looks like shit, has armed guards 24/7, barricades one of their entrances after 9pm to funnel all potential shoplifters through one set of doors with a guard on each side of the door.\n\nThe Target just got its first unarmed “guard” this year to watch the freshly installed self checkout. Never any foolishness occurring inside, always clean, no clothes all over the aisles or people with no shoes or employees being rude for no reason. I’ll pay the Target Tax",
+                "points": "20 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I’m convinced. Where do I sign up.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "100%. Every single fucking time I shop at Walmart I walk out with a story of some ghetto shit I saw. Every time. Doesn’t even matter the city",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "But then Target is always out of stock of whatever item it is you want",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "If you use their online ordering, they will generally ship any out of stock (non-perishable) item pretty quick. Maybe 3 days instead of Amazon's 2 days for me.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "This actually gave me chills. You put into words a concept that I knew to be true but also didn’t know how to put into words. Well done.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Wow I think you sold me. You got paid to say this, right? Damn well deserving of it.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I mean, I’m sold tbh",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I’m in",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "I second this motion",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Your product names are missing the whole “entire product description stuffed into the name of the product” thing.\n\n“HOMGFUN tablecloth for covering table very good keep surface clean machine washable bright colors multiple colors available good fabric kid safe prevent stains food drink soda clean life home happy”",
+            "points": "55 points",
+            "children": [
+              {
+                "comment": "But why did this come up in my search results for AA batteries?",
+                "points": "12 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Wow you really nailed the naming conventions for those products",
+            "points": "10 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I don’t think you’ve shopped target online recently. It’s mostly temu crap.",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "I get so frustrated between them, Home Depot, Walmart and Michael’s w all the products coming up and none are in store. It’s really the only thing. That makes me go well if I’m ordering I’ll just get it through Amazon. Lots of third party seller grange on all of them",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "At least you can filter results to only include items sold by Target (Walmart does too).",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "And Temu is just rebranded Wish and AliExpress products.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Amazon is good for ordering cables and adapters. Anything else, you order at your own if risk if it’s not a domestic manufacturer.",
+            "points": "37 points",
+            "children": [
+              {
+                "comment": "Yeah, except they let their sellers lie on the specification of the cables. “HDMI 2.1 standard cable” turns out it’s barely meeting the 1.3 standard and can’t support a 1440p display. USB 3.2 gen 2x2 cable, but it can’t support a full 20 gb/s (tested against a cable that actually could meet the standard). I could go on.\n\nBasically even if you get a name brand it’s not uncommon that you get some reseller’s similar-looking cable that’s 2 specifications back and won’t support any of the optional feature sets.",
+                "points": "10 points",
+                "children": [
+                  {
+                    "comment": "Zeskit maya is the hdmi cable I use",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "[deleted]",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "What I buy from Amazon it’s always mainstream brands. Do you find that to work out OK or is it just a ton of counterfeit?",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I have the matching Shabalabadoodoo candlesticks. Heir. loom.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This*1000\n\nAmazon has become the premiere Indian and Chinese knockoff peddler. Not being able to search by Sold by Amazon breaks it for me. We’ve already been shifting our shopping back to Target. This will seal it.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Those plates are awesome fwiw. You do need to wash them in Zyuzziblix soap foaming sizzling soap bubbles for dishes plates glasses dishwasher safe plastic bottle, thoogh.",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "These names are spot on lol 😂",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Oh my gawd yes. It’s gotten so bad it’s making shopping on Amazon a nightmare.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "To be honest some of that shit is pretty good. The fact that brick and mortar stuff doesn’t have ratings and reviews to read is a bigger problem to me.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Well if you don’t have a Blanap brand Asbestos insulated vest why even have prime",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "You probably just stomped a half dozen fake chinese copyrights without even knowing it.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "If those guys were allowed to read the internet they'd be so pissed",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "They’ll just roll their face on the other side of the keyboard instead",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Holy shit, I'm with you. As soon as the Amazon flea market started years ago I cancelled Prime immediately. Haven't looked back, and the few times I've price checked on Amazon I was reminded how far they've fallen on usability.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This made me laugh my ass off 😂",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "After searching open the filters and look at the brands section, i think choosing top brands or premium brands will filter out the off brand crap",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "That won’t protect you from counterfeit name brand stuff. Amazon takes shipments from different suppliers and they go into a pool under the product name. Fake shit and legitimate products in the same bin, it’s a roll of the dice",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "But $8 for a bottle of salad dressing? No thanks, Target.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Target has a problem with third party sellers on their app if I remember correctly. They’re more than likely better products than the cheap bullshit Amazon sells, but I don’t doubt their third party seller system will be pressured by those same sellers that are ruining Amazon too",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The truth is most stuff you buy from target or Walmart or any other major retailers also came from the same manufacturer, just with different quality bar and margin.\n\nYou get what you paid for that’s all",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "POOPLUNCH SAFARI HAT FOURTEEN INCH TALL\n\nDONGPANTS GOGURT SHOOTERS\n\nCLACK-GYANG VENIER MILITARY HAND WARMER MADE USA🇺🇸\n\nJANGPONG BEEF MALLET WHITE 7’ LONG",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "My daughter ordered a “dresser” from Amazon the other day, the company that made it was called SweetCrispy. I made her return it before we even opened the box",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Don’t turn into Walmart letting third party sellers ruin the online shopping experience.",
+        "points": "168 points",
+        "children": [
+          {
+            "comment": "Doesn’t target.com already have third party sellers too?",
+            "points": "47 points",
+            "children": [
+              {
+                "comment": "It used to have them. It still does, but it used to too.",
+                "points": "69 points",
+                "children": [
+                  {
+                    "comment": "Escalator Temporarily Stairs. Sorry for the convenience.",
+                    "points": "14 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Take the upvote and leave immediately!",
+                    "points": "4 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "It does but WAY less than Walmart. And not on grocery items.",
+                "points": "11 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "I remember reading somewhere that Target chooses and invites the 3rd party sellers they approve of, as opposed to blindly accepting all alphabet soup sellers. So I’m holding onto some hope that isn’t another Walmart/Amazon 3rd party wasteland.",
+                "points": "7 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "They do, but not just anyone can signup to sell on Target Online. You basically need an inside invite to sell there or be part of their diversity focus. They are very selective. Walmart and Amazon are only more expensive versions of Temu and SHEIN these days.",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I always go into the filter and choose only Walmart as the retailer. That eliminates the 3rd party sellers.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Please, please don’t tell my wife",
+        "points": "100 points",
+        "children": [
+          {
+            "comment": "Too late",
+            "points": "28 points",
+            "children": [
+              {
+                "comment": "I also told this guy’s wife",
+                "points": "30 points",
+                "children": [
+                  {
+                    "comment": "I told the guy before the wife found out.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Hey I’m your wife now",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Don't sell me Chinese bullshit and I'll subscribe",
+        "points": "83 points",
+        "children": [
+          {
+            "comment": "Lol. Everyone sells Chinese bullshit",
+            "points": "18 points",
+            "children": [
+              {
+                "comment": "I don't care if it's Chinese in origin. Most of us just are sick of the scam sellers with fake names and reviews all selling rebrands of the same exact thing to folks who don't know any better.\n\nIf I wanted to buy shit, I'd go to Temu, but instead it's all over Amazon and everywhere else too.",
+                "points": "22 points",
+                "children": [
+                  {
+                    "comment": "Please don’t go to that insanely intrusive and data-hoarding scam of an app “Temu”",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I don’t even use Amazon for this reason.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "That's why it's an open niche market.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Etsy is pretty good for stuff from local sources",
+                    "points": "-2 points",
+                    "children": [
+                      {
+                        "comment": "Lol, not anymore. Mostly cheap Chinese shit marketed as \"homemade\"",
+                        "points": "5 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "That really depends on what you’re looking for. Most of the time the searches are still littered with drop shippers, unless you’re looking for something hyper specific",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "They missed an opportunity if they don’t name it “bullseye”",
+        "points": "54 points",
+        "children": [
+          {
+            "comment": "Target Circle 360 is the name.",
+            "points": "22 points",
+            "children": [
+              {
+                "comment": "Honestly thought you were making a joke. What a terrible name.",
+                "points": "21 points",
+                "children": [
+                  {
+                    "comment": "It used to be called Shipt. Id say a slight improvement. But we can no longer joke about Shipt-ing pants.",
+                    "points": "7 points",
+                    "children": [
+                      {
+                        "comment": "It’s still called Shipt. Shipt is the actual delivery service that Target Circle 360 will use to actually deliver same day/next day delivery items.",
+                        "points": "5 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "https://youtu.be/2xwUuSM06xQ?si=khIKuZhgijJ0Eqe5",
+                        "points": "3 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I'm gonna make a competitor.\n\nGonna call it:\n\nBox Square Cuboid",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Dunder Mifflinfinity / Entertainment 720 vibes",
+                "points": "23 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "They need to fire whoever named that.\n\nThe name is literally 3 different ways to describe a circle. wtf?",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "why not full circle atleast",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Wasn’t that a character from Daredevil?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "[deleted]",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Bullseye is the name of their mascot dog.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Everybody wants a piece of that juicy cake",
+        "points": "30 points",
+        "children": [
+          {
+            "comment": "Juicy cake? 🤢",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "Tres leches is delicious",
+                "points": "14 points",
+                "children": [
+                  {
+                    "comment": "He need some milk",
+                    "points": "3 points",
+                    "children": [
+                      {
+                        "comment": "Three milks to be specific",
+                        "points": "3 points",
+                        "children": [
+                          {
+                            "comment": "I thought milk could be used in plural form too 🤔",
+                            "points": "1 point",
+                            "children": [
+                              {
+                                "comment": "I believe it changes based on the scenario you use it. Like look at all of that milk could be used as a plural. Or look at all of those milks could also.",
+                                "points": "1 point",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "TRES leches? En esta economia?!?",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Tres leches is probably my favorite cake. I’m on the juicy cake train as well.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Sorry.. I stand corrected. But the first thing came to my mind is juicy steak.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It starts at $49, but if it gets running and stays running with a decent subscription base they’ll jack the price up over time. This has happened to all the other similar online services. Prime isn’t even worth it anymore. It’s not like they offer that shipping window anymore. I don’t live in an area to benefit from the other benefits they’d offer.",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "If we’re lucky, this will bring the price of Prime down; they are sorely lacking in proper competition. But I doubt that we are that lucky.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Prime just prices in shipping to the cost of their products\n\nI bought a food net at DAISO for $1.50. Cost on prime for the same exact thing? $10",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Jesus Christ. All these places want to be memberships.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "says on the website that it will be $99 a year",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "50 until may 18",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "ah, i see. yeah nice",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "also 50 year if you have target credit card",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Additionally, it’s renaming Target RedCard credit and debit cards to Target Circle, which will now give customers an extra 5% off purchases.\n\nBut I thought the red card already gets you 5% off? Or by ‘extra’, do they mean 10% total? Cuz I doubt that.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "In case anyone else was looking for dates: - launches April 7 - promotional price of $49 for a year until May 18 - beyond May 18 price goes up to $99 unless using their Target credit card",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I used to get free two day shipping on anything just for having a target card and now most things require a $35 minimum purchase. Make things worse and then charge you to make it better I guess.",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If they would do free delivery from the local store to my home in a few hours WITHOUT the $35 minimum then I'd be in for this. The bigger problem is that most stuff is NOT available in store and so I'd wait for days for delivery, at which point Amazon and Walmart subscriptions offer more/better perks.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "They’re not gonna deliver a single can of Pringle’s just because you’re high.\n\n$35 minimum makes sense.",
+            "points": "12 points",
+            "children": [
+              {
+                "comment": "If I’m high I’m not doing just a single can of pringles. I’m on their app for 3 stoner hours (10 mins) deciding between two flavors of sparkling water, 5 types of pizza, etc and then somehow spend $100 and forget I also ordered a bunch of other stuff",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "Yeah but like, that's what gopuff is for, right?",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "That's fine, but Amazon does deliver anything so they get my money.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "They just charge 4 times the price for the pringles.\n\nAnd your might end up receiving \"prungles\" instead from a random Chinese drop-shipper.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Like commercials?",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yea but then you’ll have Shipt employees knocking on your door probably expecting a tip",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "This! They’re basically repackaging their Shipt services with the free target circle and charging a premium for it. If you’re expected to tip the in-person deliveries then not that great of a benefit. If I’m not tipping my Amazon delivery person why am I tipping for this",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is only for same-day delivery. They aren't going to use ship for delivery from distribution centers.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cool, now start a streaming service to make it worth it.",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "They might partner with a streaming service to include their add tier with the target subscription. Just like Walmart plus subscription does with paramount plus.",
+            "points": "9 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "No. That's just a way to make it a worse value for everyone that doesn't want whichever video service they include.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "What for?",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I live 5 miles from a Target so this is not for me, it’s far easier for me to same day pickup and do a drive up.\nIf that they don’t have it, there are two other Targets that are about 15 miles from that Target that usually does.\nBut if you don’t have a Target close like that or yours just sucks, I can see how this can be appealing.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "They have a much larger inventory online already.\n\nAlso, 99% of the crap people but on Amazon could easily be bought within 5 miles of where they live.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’ll see what they offer for products but if it’s even half as good as Prime I’ll drop Amazon in a heart beat. Cheaper and it’s not supporting Scamazon.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I only buy from Target because their merchandise is all legit. I hope this doesn't cause their quality to go down",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thank you!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "and then the next year $100",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Just read the article. $49 is an early adopter rate. $99 is the actual price.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "really?!",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'll try it if they suck I'll cancel. Anything is better than Amazon right now",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "All these commenters make me laugh. You dudes think Target isn’t going to allow resellers? Hahaha. Ha. Ha.\n\nIt’s free money for a storefront. Tax the resellers, don’t stock it yourself.\n\nThey’re going to be worse than Amazon out of the gate for scams and counterfeits, because they have no experience stopping it, and a tiny community of users for reviews.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "don’t tell me…they’ll call it Target Bullseye",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "BWAHAHAHAHAHHAHA gdmt",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What are they calling it? Sharpshooter? True Target?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "When you see our prices you'll ship your pants, with us now featuring Target Prime.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "So which streaming subscription will you get free with this membership?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "$50/ year will turn into $150 in 5 years",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "If we’re lucky at this rate",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This isn’t an Onion article?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "$49 a year will last about 1 minute.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m down for that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Will they call it, Targét?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Good news. Get it early while it lasts. They’ll surely succumb to the practices of Amazon.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And here, we, go",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Amazon has 12 million different products. I don't see target coming close. I'm going to pay $50 a year just so I can get detergent delivered.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Are they going to have movies on demand too or just a shopping subscription?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Can’t wait to see what’s on their streaming platform",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If I was a stock trader I would be selling their stock right now. This is a stupid as fuck idea.",
+        "points": "-5 points",
+        "children": [
+          {
+            "comment": "I’m excited for it. Amazons prime membership is more expensive and the perks of the plan have dwindled to mostly junk. I’ll happily dump Amazon for some competition at this point.",
+            "points": "29 points",
+            "children": [
+              {
+                "comment": "Me too! I just canceled Prime last month. The streaming offerings aren’t that interesting to me. Next day shipping usually means two or three days. So much drop shipped junk to wade through. Their music app is just okay and Spotify is better. They’re about to brick all our Echos because people are using as speakers (like their were advertised…)\n\nI am stoked we’re getting options now with Walmart + and now Target!",
+                "points": "10 points",
+                "children": [
+                  {
+                    "comment": "What’s that last part about bricking echos about? I tried googling but no clue wym. I use Alexa to play music in my house is that not gonna work now?",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "This is my first attempt at shortening a link, I hope this works!\n\nhttps://arstechnica.com/gadgets/2023/09/amazon-wants-to-charge-a-subscription-fee-for-alexa-eventually/[article](https://arstechnica.com/gadgets/2023/09/amazon-wants-to-charge-a-subscription-fee-for-alexa-eventually/)",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "Link is broken, try https://arstechnica.com/gadgets/2023/09/amazon-wants-to-charge-a-subscription-fee-for-alexa-eventually/",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "What do you mean Amazon prime membership is expensive? You get multiple services with the same membership. Yes that ads thing in prime videos is a stupid idea",
+                "points": "-8 points",
+                "children": [
+                  {
+                    "comment": "You assume people want all of the garbage \"extras\" that they have made mandatory in order to inflate the price of prime.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Maybe it’s an unpopular opinion but I cancelled my prime because I was sick of never actually getting things delivered when promised then having to spend days fighting with support for the item to maybe show up maybe not. I use Walmart+ now but it’s not living up to my expectations. For people who are fed up with Amazon this is a great and decently cheap alternative, personally I’m very much looking forward to this and invite anyone to chip away at the monopoly it feels like Amazon holds in this area.",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Works for me since I won’t be subsidizing prime video anymore",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Stock is up $15 from yesterday",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Seriously. This is like 3 years too late and serves no purpose.",
+            "points": "14 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "It’s worked for Amazon, Walmart, Costco",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The Stanley cup Target girlies will make sure to sign up for this. Stock might see a quick bump before Target inevitably pulls the plug when they realize they are still 90% brick and mortar and aren’t Amazon.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Its a service they already offered. Back in 2017 target bought Shipt. They are basically just renaming that.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why not just implement dynamic pricing? /s",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This could be nice, if it’s as helpful as Walmart+ has been for me.\n\nHonestly, I’ve considered dropping Amazon Prime and keeping only my Walmart+ because it’s been so convenient.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Do they have a streaming service?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Please god no.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "A friendly reminder that Target is in business of developing surveillance technologies that violate privacy rights and disproportionately target Black communities.\n\nhttps://www.bloomberg.com/news/features/2021-08-25/how-target-tgt-police-surveilled-black-neighbors-in-inner-cities",
+        "points": "-3 points",
+        "children": [
+          {
+            "comment": "Thanks for the info, I’ll get back to ordering from Amazon on my iPhone using Chrome.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "lol for what?\n“free shipping same day on orders over 35$” or free 2 day\n\nwith amazon i get video and music.\n\nI don’t see myself buying this.\n\ny’all enjoy!",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "You can say fuck",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm in",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Streaming tv content, too??!!",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "this is not tech news, but ok",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How ignorantly innovative",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Monkey see monkey do. Walmart just did it and don’t care for it. Keep ur membership to urself",
+        "points": "-9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wouldn't buy things at target if it was free. Target can f off.",
+        "points": "-9 points",
+        "children": [
+          {
+            "comment": "Oh, this is gonna be good. Please enlighten us why…",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b82sn5",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://techcrunch.com/2024/03/05/roku-disables-tvs-and-streaming-devices-until-users-consent-to-forced-arbitration/",
+    "title": "Roku disables TVs and streaming devices until users consent to new terms",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I miss being able to buy dumb TVs.\n\nI don't use any built in OS on any TV cuz they all suck. Just give me a damn tv with plenty of HDMI ports.",
+        "points": "51 points",
+        "children": [
+          {
+            "comment": "Get a hdmi splitter. I also hate smart tvs and I refuse to ever hook it up to my wifi. But I use a 3 way hdmi splitter that has a physical button to switch between three devices. Best investment of my life.",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "What splitter do you recommend? I bought one off of amazon but it’s basically just garbage.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Shop Walmart for the Sceptre brand. Best dumb TVs I’ve ever purchased.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I bought my Roku tv on black Friday, and it was bricked for several hours because I couldn’t activate it on ty Roku servers because the flood of purchases & people trying to activate their TV crashed their network. I literally couldn’t do anything with it until the next day when the server was less trafficked",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Do they even make TVs with more than 4 HDMI ports? And why do they have 2 USBs instead of a 5th HDMI?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Because one USB port is for power (many sticks need extra power), the other USB port is for Ethernet or data storage or service\n\nThough why no TV yet comes with USB-C DP is the bigger question",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I literally stopped myself from buying one of their TVs upon reading this story.",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "Good decision. I am now looking to replace my TV, and I have a Roku. The fact that they pulled this now has me crossing them off the list. It's only downhill from here.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds like it wouldn’t be too difficult to argue that you agreed because you had to not because you agree. Whatever new terms Roku has fuck ‘em.",
+        "points": "16 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hey Siri Insert Michael Jackson popcorn GIF",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "https://media1.giphy.com/media/6pJNYBYSMFod2/giphy.gif?cid=6c09b9526t84lpvkplnzm9n3fxptsnyfarm31r5a3qosfvxp&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Thanks Siri",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Bad news for you, Michael ain't watching shit because he didn't agree to the changes in ToS.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "New terms force you into arbitration and forfeit your right to enter into any class action against them.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "Good luck making that hold up in court",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Seriously, how many people are suing Roku? If this is just about arbitration vs suing? How many of you read the EULA of every device, including your iPhone, isp, etc.",
+        "points": "21 points",
+        "children": [
+          {
+            "comment": "I wasn't going to sue ... until they disabled my tv until I promised not to sue.\n\nNow I want a class action lawsuit to disable their shady bait and switch TOS game.",
+            "points": "29 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "There’s a word for giving no choice but to “agree” with something. Hmm it’s right on the tip of my tongue …",
+        "points": "7 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Factory Reset. Take it offline. Run your apps through another platform (e.g., gaming console, Fire Stick, tethered electronics).",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would really love to live in a world when from a legal standpoint, no matter how long it's been since purchase, you would be entitled to a refund if you were locked out of using your device due to a change made after said purchase.\n\nIt'd be pretty simple too, surely? All the lawmakers need to do is disallow the whole \"We reserve to right to change these terms any time we want\" clause in the ToS that you're forced to agree with to use it in the first place. It's a pretty basic thing in contract law that one party should not be allowed to change the terms of a contract after it has been agreed to, but somehow we as consumers have been allowed to waive that with zero oversight or repercussions for the companies taking advantage of it.",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Isn’t this ransomware?",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Feel free to click agree, that ToS wouldn't hold up for 5 seconds in front of a judge or jury if it came to that. ToS /= Law",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The TVs are a pile of garbage anyway.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Buy a smart tv don’t connect to internet and use a computer with a wireless keyboard and mouse",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I honestly want to replace my living room tv with a projector and screen.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "FYI, easy fix to bypass without agreeing to anything if you have something like Chromecast: block your Roku TV on the router level from accessing the Internet. unplug it for a minute, plug it back in and when it starts up you'll be at the home screen without the forced terms screen and you'll be able to select inputs such as a Chromecast to stream.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "OK, but why exactly are users suing Roku? Has our data been comprised? The devices are only $25 bucks!",
+        "points": "-6 points",
+        "children": [
+          {
+            "comment": "This also includes TV's with built in Roku. Likely suing because when you buy a TV you expect to have a TV, but I like your idea too!",
+            "points": "4 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "So, you really don't OWN anything that works you are just left with a giant paper weight or landfill item when they see fit to change the rules and software and turn it into one and then there is that spyware question and problems where they can map you environment with the screen and listen in of the speakers which acts like microphones since it is the same basic technology not to mention mirroring which gives someone else access to whatever you are watching and then that can be used to extort depending who they sell that information too or try and induce you into some other actions for their benefit.\n\nEvery piece of equipment you buy is now an inroad to profits, extortions and spying for that great good and the social credit scores you have to earn by way of business and government decree?\n\nCommunism at it's best.\n\nSO, nothing NEW just on a much larger scale than before.\n\nN. S",
+        "points": "-20 points",
+        "children": [
+          {
+            "comment": "Dunno man, capitalist company, capitalist enviroment... Capitalist behavior like any smartphone/Alexa/app/browser...",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "r/conspiracy is leaking idiocy again",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b82mmp",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.theregister.com/2024/03/06/apple_dma_geolocation/",
+    "title": "EU users can't update 3rd party iOS apps if abroad too long | Remember how Apple told you security was of paramount concern?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1b7z4ri",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.theregister.com/2024/03/06/fiberoptic_network_moon/",
+    "title": "Boffins propose fiber-optic network for the Moon",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Many Boffins were killed getting us this information.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Those poor Boffins",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The moon will have fiber before I do... great!",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "theres fibre on the moon but its not in my area yet",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Honestly, it probably makes more sense to use satellites at first and then transition to towers once you’ve got the infrastructure to build them. Not really sure you ever need large cable build outs.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wouldn't radio work for communication or am I missing something?\n\nEdit: the cable itself can detect the movement without setting up ground stations, so that is why",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’ve been waiting years to get fiber to my place. While other neighborhoods within walking distance has it. If the moon gets it before me I’ll be fucking pissed lol",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b7xlwu",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.techspot.com/news/102148-russian-authorities-used-facial-recognition-tech-identify-arrest.html",
+    "title": "Russian authorities used facial recognition tech to identify and arrest Navalny funeral attendees | Cameras were installed days before the ceremony",
+    "points": null,
+    "comments": [
+      {
+        "comment": "But he’s gonna be “re-elected”",
+        "points": "200 points",
+        "children": [
+          {
+            "comment": "100% of the vote, believe it or not",
+            "points": "78 points",
+            "children": [
+              {
+                "comment": "112%, just to be safe.",
+                "points": "60 points",
+                "children": [
+                  {
+                    "comment": "He’ll be the only candidate. Safest.",
+                    "points": "20 points",
+                    "children": [
+                      {
+                        "comment": "The ballots will be filled and sent on behalf of the voters, for their convenience. Saferest",
+                        "points": "14 points",
+                        "children": [
+                          {
+                            "comment": "😂😂😂😂😂💀💀💀💀💀",
+                            "points": "3 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "A week before polling starts. Saferestest",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Managed democracy removing the chains of choice.",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Maybe Medvedev will run, just so people think they have a choice.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "Nah heard it was between Vladimir Putin and Pladimir Vutin",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "No, poor Pladimir was KGB’d earlier this year",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "200% mark my words",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Dead soldiers get 100 votes each. Since they’re unable to fill them out themselves Putin is just being a bro and doing it for them.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "All he needs is 11780 votes!",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "With that kinda talk all I can say is Stay away from ALL windows ….",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "102% of the vote with a 2% margin of error.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Hard to feel any sympathy for Navalny, but this says a lot about who Putin is and what life is like in Russia today.\n\nEdit> Why the downvotes?",
+            "points": "-12 points",
+            "children": [
+              {
+                "comment": "I dunno... Maybe because he died a political prisoner at the hands of a brutal dictator? It's hard not to have sympathy for a person who died standing up to oppression.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "That's his only redeeming quality and it's more thanks to circumstances than him. He was an ultra-nationalist, a xenophobic politician. He was kicked out far-right parties, even they were like \"Dude no, you're out of line\".\n\nI'm sad Russia lost his only opposition, but I'm not sad Navalny is dead. Was he in power he'd be just another Putin.",
+                    "points": "-1 points",
+                    "children": [
+                      {
+                        "comment": "So you have no sympathy for a man who died standing up for his beliefs. I don't care if you disagree with his politics or not. He died because he had opposing views. Hard not to feel sorry for him.",
+                        "points": "-1 points",
+                        "children": [
+                          {
+                            "comment": "Not if what he believed in was a slightly different flavor of Putinism. He can get fucked. He was useful to us, because we need someone to oppose Putin, but this doesn't save him from a moral point of view.",
+                            "points": "2 points",
+                            "children": [
+                              {
+                                "comment": "I won’t downvote ya buddy. I hear what you are sayin",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "A lot of his views softened and changed in the last few years, he realized he was wrong. I admire him because he had the balls to go back to Russia knowing he’d eventually be killed.",
+                                "points": "2 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "Agreed. He would not have been popular in the West if elected. But I still feel sympathy for standing up to his beliefs. If you don't, that's cool. But a lot of people do. So we'll leave it at that.",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "If nothing else he was certainly not a coward and I can respect that. Putin has a 100 foot table to keep people away. This guy willingly flew to his death. They are not the same, even if there are similarities",
+                                    "points": "2 points",
+                                    "children": [],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "That’s legit 1984 stuff there.",
+        "points": "100 points",
+        "children": [
+          {
+            "comment": "The US has better tech and it could be implemented here as well. It is not just face recognition. With AI you can identify people by their gait which can narrow the search.",
+            "points": "16 points",
+            "children": [
+              {
+                "comment": "Time for a rewatch of the Ministry of Silly Walks sketch.",
+                "points": "10 points",
+                "children": [
+                  {
+                    "comment": "Pebbles in the shoe, it’s been shown to be effective at stopping gait recognition since you’ll never walk consistently enough to build up a reliable profile",
+                    "points": "11 points",
+                    "children": [
+                      {
+                        "comment": "Full circle luddite tech",
+                        "points": "5 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Slither !",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "That’s gonna be hella uncomfortable",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Next thing you know, any pebbles in any shoe gets you black bagged for “subverting the instruments of peace”.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Private companies already do this:\n\nA parent chaperoning their child’s field trip was kicked out of a theater because they worked for a law firm that was suing them. Neither the parent or that specific location were involved in the lawsuit. But the company had pulled all the firm’s faces from their website and put them in their system.\n\nhttps://www.today.com/today/amp/rcna62657",
+                "points": "6 points",
+                "children": [
+                  {
+                    "comment": "Holy shit that was an uncomfortable read",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "I remember seeing this tech (gait recognition) being talked about on Discovery TV in the late 90’s.\n\nI’m sure it’s even more advanced now.",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "When I was in middle school I wore a Halloween costume that covered me from head to toe and my classmates recognized me by my gait. It made me self-conscious for a long time",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "You would have to have enough data about each individual's gait. It would work best if they are trying to pick out a specific person in a crowd rather than identify everyone in a crowd. Eventually it might work better if someone/some government makes a database of peoples IDs and how they walk.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "That’s a good point. And it makes sense that we would all have unique gaits. As it’s most likely a function of the firing order of walking muscles and the individual strengths of those muscles. If we walked differently we would get tired really quickly as we only train ‘our’ way. There are massage/physical therapy modalities that work with changing the firing order of walking muscles to work with postural dysfunctions like upper and lower crossed syndromes. I wonder how hard it is to memorize different gaits and to pull them off at will.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Ha! Good thing I one wheel, skateboard, heely, hoverboard’everywhere!",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Lol don't get me started. We have tech at work that I can put in your description and it will give me a rough match. Then from there I can track where you went through our entire facility one camera after another. No real effort needed. Something as simple as red shirt blue jeans female. Done.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Time to start sand walking Dune style.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "…..your point? Like way to try to derail the convo.",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "What’s makes you think they don’t already do this?",
+                "points": "-1 points",
+                "children": [
+                  {
+                    "comment": "It would be news if someone was arrested for attending a funeral…",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sure, but have you seen the bread they have!",
+        "points": "125 points",
+        "children": [
+          {
+            "comment": "And the shopping carts. Just like Aldi but so much better.",
+            "points": "67 points",
+            "children": [
+              {
+                "comment": "Having to put in a ruble prevents you from taking it back to your homeless encampment! Who would’ve thought that works??",
+                "points": "33 points",
+                "children": [
+                  {
+                    "comment": "You know that’s not just a Russian thing, right? I’ve literally seen this in Florida.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "It's an Aldi thing.",
+                        "points": "5 points",
+                        "children": [
+                          {
+                            "comment": "Pretty sure the video was Auchan which is like the french version of Aldi",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "Damn you all… came here for Russian oppression info, left laughing and forgetting why I came here.",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Lived most of my life on the west coast. If it hadn’t been for this blogger on instagram who moved to Germany, this would’ve been the first time seeing such carts. Just saying lol",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "And the circuses",
+            "points": "10 points",
+            "children": [
+              {
+                "comment": "And the luxury gulags.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "lol shut up Tucker",
+            "points": "11 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Smells like plastic wrap! I love the smell of PFOAS in the morning.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Everyone that wants peace in Ukraine, this is what you are going to subject the Ukrainian people to!\n\nIf you aren’t willing to live under Putin don’t consign someone else to that fate just to buy yourself a false sense of security!",
+        "points": "73 points",
+        "children": [
+          {
+            "comment": "This right here. Russian apologists that call for Ukraine to surrender under the guise of helping the Ukrainian people avoid the continued horrors of wars fail to note not only the repressive government they’ll be under, banning the Ukrainian language and culture etc, but Ukrainians also likely then be used as cannon fodder for Russia’s subsequent invasion of another country.\n\nWe need to give them everything they need to ensure that doesn’t happen.",
+            "points": "49 points",
+            "children": [
+              {
+                "comment": "Ukrainians also likely then be used as cannon fodder\n\n…Again. Just like in the times of the Soviet Union.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Meanwhile ukranians are banning the language of my ethnic minority, closing our schools and supressing our language… ye they are so much better than Russian… oh wait :D",
+                "points": "-6 points",
+                "children": [
+                  {
+                    "comment": "Can you share some details on this? I’d like to know more.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "2017 Law on Education and the 2019 Language Law, which resulted in the closure of 99 Hungarian minority language schools closed and barred from operating.\n\nhttps://www.europarl.europa.eu/doceo/document/P-9-2023-001080_EN.html",
+                        "points": "-1 points",
+                        "children": [
+                          {
+                            "comment": "You didn’t even read your own source dude, the commission responded to that exact post: https://www.europarl.europa.eu/doceo/document/P-9-2023-001080-ASW_EN.html\n\n“The Commission has no information that recent Ukrainian legislation has led to the closure of 99 Hungarian language schools so far.”",
+                            "points": "7 points",
+                            "children": [
+                              {
+                                "comment": "They literally closed the school in the town my friends grew up in due to the 2019 language law??",
+                                "points": "-4 points",
+                                "children": [
+                                  {
+                                    "comment": "There no evidence Ukrainian law led to that otherwise the commission would happily admit it. It could’ve been budget issues, the building has asbestos, too few kids, without a concrete answer ALL of this is speculation and “trust me bro”.",
+                                    "points": "3 points",
+                                    "children": [
+                                      {
+                                        "comment": "https://telex.hu/english/2023/12/11/law-restoring-hungarian-minoritys-language-rights-adopted-by-ukrainian-parliament\n\nAha so Ukraine changes this law that supposedly has no evidence due to Hungarian and EU pressure a few weeks ago after a decade of oppression, but there is no evidence of it :))",
+                                        "points": "-3 points",
+                                        "children": [
+                                          {
+                                            "comment": "So first you claim Ukraine is hurting Hungarian minorities so you link to a European Commission post that argues the exact opposite claim you are raising. Then, you pivot and claim your local school was closed so this MUST mean Ukraine is attacking your people specifically without evidence. Then, you finally link to a article that shows Ukraine parliament passed a law protecting minority language rights (which the EU commission SAID WAS GOING TO HAPPEN MONTHS AGO)\n\nI seriously have no fucking clue what your argument is since you seem to be answering yourself and not understanding timelines well at all.",
+                                            "points": "5 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I catch your drift. But your wording is a bit off. I want peace in Ukraine and for the Ukrainian people. That doesn’t mean I want Ukraine to surrender to Russia. In an ideal world there is a peace solution where Russia just fucks right off the bat",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Gross",
+        "points": "25 points",
+        "children": [
+          {
+            "comment": "But also not shocking to say the least. This kind of shit is exactly what Russia is known for.",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "There must be an easy way to obscure your face without looking like you are doing so, no?",
+        "points": "17 points",
+        "children": [
+          {
+            "comment": "Nope. It's getting good enough to identify you with your face covered.",
+            "points": "14 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The keyword you’re looking for is “adversarial fashion”\n\nThere are eyeliner/makeup tricks that can mess with the tech.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "A face mask?",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Covering your face doesn't really help. Since the Boston Marathon bombing most large countries have been working on storing all public (and some private.. looking at you Ring) cameras and satellite images. They use it like a DVR when something happens so that they can reverse time and see where you came from to track you down.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Companies like Amazon can identify who you are based on just a few keyboard Strokes",
+            "points": "-7 points",
+            "children": [
+              {
+                "comment": "Can you explain this please",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "Somebody standing behind the guy at the computer yells “ENHANCE!” and then the guy at the computer clacks his keyboard loudly a bunch of times and then a box appears around the persons face, blinks a few times, and zooms in so you can clearly identify them.",
+                    "points": "14 points",
+                    "children": [
+                      {
+                        "comment": "They match up all the articles of clothing, height, build, posture, walking stride etc.",
+                        "points": "-2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "Dude is exaggerating; no way to identify you by typing. However, Amazon and many online companies use your browser cookies (markers that identify what you have looked up, information you have typed, etc.) to create a “profile” of a person under the premise of marketing. With enough information, they can determine what kinds of things you’d most likely enjoy and some do have names and attributes attached to those “profiles”.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "I do want to clarify that sites would not properly function without cookies. At it’s core it’s a really neat and necessary idea (hence the “only keep necessary cookies” action) but the rise of social media and Facebook infiltrating everything kind of bastardized it to the point where personal identifiers are collected rather than settings and habits.",
+                        "points": "5 points",
+                        "children": [
+                          {
+                            "comment": "This. They are all working on sophisticated algorithms that are getting really good at identifying people based on profiled information, but to a point where it takes less and less identifiers to identify you. I had a friend turn down a job because they wanted him to help them figure out how to manipulate people into buying and spending more. It was creepy enough for him to take a significant pay cut to go into education instead.",
+                            "points": "2 points",
+                            "children": [
+                              {
+                                "comment": "My neighbor actually had that job for a while- figure out how to make people spend more in games.",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              },
+                              {
+                                "comment": "Ah yeah!! Community detection is what the use case is called. It’s kind of eerily beautiful how we can make sense of networks of anything based on relationships towards each other. I always joke with my friends “it’s not like they have to hear you through your speaker; you’re predictable enough as it is!”",
+                                "points": "0 points",
+                                "children": [],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Source?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "“Trust me bro”",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Russia is a weird place technology-wise. They have the resources for facial recognition but for some reason have yet to master safety features on windows, especially in tall buildings. This will end in tragedy.",
+        "points": "28 points",
+        "children": [
+          {
+            "comment": "It’s probably bc they don’t give a fuck about the people",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wonder why no one wants to be part of your friendly neighbourhood Russian Mir…",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "A vote for Bone Spurs is a vote for this.",
+        "points": "8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I could have told you that. Saw all those folks standing in line and thought - they’re going to find you and arrest you.",
+        "points": "32 points",
+        "children": [
+          {
+            "comment": "They knew it too. That’s why they were brave.",
+            "points": "30 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Pretty sure everyone who attended that ceremony knew this would happen. They did it anyway because they, like Alexey Navalny, care more about national freedom than personal freedom.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How you can support Russia as an American is beyond me.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Gee who could've ever seen this coming",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Putin. From a mile away.",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Pretty much everybody.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The most 1984 shit. When i read this as a young man i was like “Oh shit, this is a warning, but it will be heeded and I’ll never see this in my lifetime”.\n\nIt’s frightening to see the signals light up on every book with a message or warning I’ve read since i was in high school suddenly glinting in real world events.\n\nIt’s like the background stuff in children of men.\n\nWe need to support Ukraine and build a stronger NATO. This kind of repression is the kind of thing anyone who truly believes in liberty knows that they can’t countenance it’s continued presence in the world without jeopardizing their own.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cheap groceries! So much winning!",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What a high quality, great country you got there Russia.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Such a petty, small man. Real baby dick energy.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Screw putin, murder’n lil twerp",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s amazing how predictive science fiction can be. Think of Ray Bradbury’s 1953 “Fahrenheit 451” with hidden cameras, or Dick Tracy comic strips from the 70s and before with the crime fighting smart watch.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "He’s so scared that little weak man",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“Cough cough” …. Face mask… “cough cough”",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Paging Tucker…this is all you bro",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Voter turnout is too low because we arrested all the voters",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Anyone who goes with a \"nothing to hide\" argument needs to consider this and explain how a future government in any country would not arrest and torture someone worse than death, just because of who they are.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "But Tucker gushes that the church in which the funeral was held is \"so clean\"! (Bill Maher)",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is this what you want you America Yahoos?\n\nOh wait, yes it is.....just like the majority of Russians.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "We use Google mostly now",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Sometimes bing",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "That’s so funny. Everyone was saying that they could attend the funeral without any consequences when normally u get arrested for protesting. I really wanna see 100 years in the future, wonder how this situation and technology turns out..",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Coming soon to the states",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Russian citizens are pathetic for allowing this to happen to their own people. When will they decide enough is enough and rid their country of these oligarchs who only care for themselves?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Remember, the media etc is tightly controlled, there’s a lot to prevent the general populace from revolutionizing the country.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The USA is heading quickly down the same path.. Due to willful ignorance and hatred. Vote BLUE, my fellow AMERICAN PATRIOTS 💙 We have to save us.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Coming to a state near you!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bannon is taking notes",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "that is why FSB and police all wore masks duh…",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That is a nervous and panicked authority, it tells me Russia can be different within.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What did you think k-g_B was doing in the week they held his body?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Such a shame all of those windows were left open.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Unbelievable and disgusting",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Should use the UV LED glasses I guess",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wonder why people didn’t wear masks…?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hikvision?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What a shithole country. Anyone born there should make it their only goal in life to go live literally anywhere else.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "They pretty much have, if they have the skills and education, and money to do so. The only ones left are the oligarchs and the people who aren’t wanted anywhere else because they lack skills in the shortage lists, or they don’t hold a degree high enough. The birthdate in the country hasn’t been enough to sustain a stable population since the turn of the century. It’s literally rotting from the inside out.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Big brother ugh",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well that’s another giant step towards a horrifying human dystopia. Wooooo…",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Putin can (and should) fuck off and die, in either order. I don’t generally wish death on people, but if a person is sufficiently shitty I’ll make an exception.\n\nFreedom for Ukraine.\n\nHopefully after Putin carks it Russia can have a revolution where the current system of government can be replaced with a better one, but I won’t hold my breath. I’ll settle for the total collapse of Russia as a state though.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Holy 💩",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "As if the rest of the world doesn’t also use this tech.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "To be bilked, Russia loves to bilk its citizens.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would imagine many of the attendees knew this could happen; they certainly knew it was dangerous. I want to think there are enough of them to stick together and not be completely put down :(",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Putin is a coward",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah.....it is like ....cool there is a turnout.......but then of course ....dread they must know fear.....will be reprisals against them for doing that.....",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "How pathetically petty. The scared little bitch regime",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What about 3D printed Putin heads on sticks?\n\nGive the new cameras some extra faces to keep track of",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "authorities holding power in a vacuum of natural competition to smooth the cracks wont last.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sheeple",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If only democracies could show this level of foresight in planning good governance…",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This clickbait title, and whole comment section here that clearly didn't read the article... Holy cow",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wow that is so fucked",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This surely won't be used to monitor oligarchs and tighten control.\n\nIt'll make it easier for when China sneaks a loyalist into the Kremlin.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "lol, I still wear a mask out in public everywhere I go. It’s the best way to keep my face out of video surveillance, my chances of catching some kind of germ is nil, I save hundreds of dollars not having to buy and wear makeup and lipstick, and you can’t smell alcohol on my breath when my friends and I are day drinking. Masks are awesome.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Who didn’t see this shit coming a mile away?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Stock in companies supplying replacement windows in tall buildings skyrockets",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Repressive authoritarian regimes do repressive shit",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "“Originally meant to identify and capture criminals, the network is now used to spot protestors.”",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This seems like a good place to put this. Reflectacles. Get them before you can’t. https://www.reflectacles.com/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "And how many people was arrested?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thoughts Tucker?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Well I guess that’s better than jumping out a window to commit suicide of course",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Which is why they allowed the funeral to be so public",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If morale doesn’t improve the beatings will continue",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I wonder if the NSA will install cameras at Assange’s funeral after his mysterious death once he’s extradited to the US…",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That's some 5d chess move",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "More like killary am I right",
+        "points": "-7 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1b7x1yn",
+    "subreddit": "r/technews",
+    "dataType": "link",
+    "dataUrl": "https://www.theverge.com/2024/3/6/24091592/eu-dma-competition-compliance-deadline-big-tech-policy-changes",
+    "title": "The EU’s new competition rules are going live — here’s how tech giants are responding",
+    "points": null,
+    "comments": []
+  }
+]

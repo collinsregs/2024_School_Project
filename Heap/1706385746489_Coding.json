@@ -1,0 +1,29 @@
+[
+  {
+    "id": "t3_1achexr",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://blog.burntsushi.net/transducers/",
+    "title": "Index 1,600,000,000 Keys with Automata and Rust",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1acdcdw",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://youtu.be/Fr9xox_soKQ?si=4H0N_rFKzOVemBKm",
+    "title": "Everything You Need to Know to Start Writing Tests In Go With TDD (For Go Beginners)",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1abror0",
+    "subreddit": "r/coding",
+    "dataType": "link",
+    "dataUrl": "https://github.com/torbenconto/plutus",
+    "title": "A golang stock data library ( my first decent project :) looking for contributors and people to tell me what i'm doing wrong as well )",
+    "points": null,
+    "comments": []
+  }
+]

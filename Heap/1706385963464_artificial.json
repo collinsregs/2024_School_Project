@@ -1,0 +1,947 @@
+[
+  {
+    "id": "t3_1acjhgt",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/4mxajw8gg1fc1.jpeg",
+    "title": "What ai can take a picture of this pottery fragment and make a complete bowl or plate?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1aciik4",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1aciik4/debate_is_ai_companionship_healthy/",
+    "title": "Debate: Is AI companionship healthy?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I’m running my own ai (mysentient.ai) and the feedback is overwhelmingly positive. It even helps people to start socialising irl and a recent study also showed how chatgpt stopped some people from suicide (https://www.nature.com/articles/s44184-023-00047-6)",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Depends on what kind of companionship - If it helps people develop social skills or provides other therapeutic effects that improve one's real relationships, I think it can be really helpful because of accessibility. If it aims to substitute real social relationships like some AI girlfriend boyfriend situation, then I think it's obviously unhealthy for the individual and the society in the long run.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Cons:\n\n- emotional dependency\n\n- social isolation\n\n- sets unrealistic relationship expectations\n\nThe 1st and 3rd are exactly what people get in real life with real life partners, which is probably why many are turning to AI for companionship. In case you didn't know, the feeling of love comes from a set of chemicals that give humans a type of high, and one of those chemicals is dopamine, which is addictive, ergo it causes dependency.\n\nhttps://sitn.hms.harvard.edu/flash/2017/love-actually-science-behind-lust-attraction-companionship/\n\nThe same regions that light up when we’re feeling attraction light up when drug addicts take cocaine and when we binge eat sweets. For example, cocaine maintains dopamine signaling for much longer than usual, leading to a temporary “high.” In a way, attraction is much like an addiction to another human being. Similarly, the same brain regions light up when we become addicted to material goods as when we become emotionally dependent on our partners (Figure 2). And addicts going into withdrawal are not unlike love-struck people craving the company of someone they cannot see.\n\nAs for unrealistic expectations, you must've heard of the near universal desire of women to find their \"knight in shining armor.\" Talk about unrealistic. No wonder the dating pool is drying up fast.\n\nhttps://thoughtcatalog.com/lubomira-kourteva/2020/12/the-unedited-truth-about-falling-for-a-knight-in-shining-armor/\n\nWhile both the knight and damsel phases are needed and purposeful, as we mature into adulthood, such relationship dynamics will never be long-lasting and will eventually, inevitably, fall apart or become toxic.\n\nI'm all for people having all kinds of relationships with machines, if they want. We can learn how to better ourselves that way, understand ourselves better, learn our flaws that keep us from having other people love us, become more mature, learn what attracts us the most, and more.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1acifme",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://venturebeat.com/ai/how-data-engineers-should-prepare-for-an-ai-world/",
+    "title": "How data engineers should prepare for an AI world",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ach2mq",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1ach2mq/help_how_do_i_cancel_my_vertex_ai_subscription/",
+    "title": "Help! How do I cancel my Vertex AI subscription?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ac9q4t",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://retrofuturista.com/google-lumiere/",
+    "title": "Lumiere: Google's Groundbreaking AI Video Model",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Research paper yay where’s the model?",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Will be released in 10 months after google censors it enough.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "I've been using dolphin-mixtral which is uncensored to generate my SD prompts, and now moving up to having it do regional prompter as well. I keep going back and forth between it and chatgpt doing them, and chatgpt censors and copyright neuters everything to such an extent, that the original intent and content of the image often gets destroyed. The usefulness of this stuff keeps going down. Nobody cares about making 5 second videos of a dog walking around for the 5000th time.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lumiere looks super promising. Hope they open it up to the public soon. Still a research project at the moment. I want to try to get early access.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "That looks very cool",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac6bnw",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://theconversation.com/ai-is-supposed-to-make-us-more-efficient-but-it-could-mean-we-waste-more-energy-220990",
+    "title": "AI is supposed to make us more efficient – but it could mean we waste more energy",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Sure, for now we spend a lot of energy on AI. But we are not wasting it. AI can in the future help us solve the climate issues and energy problems. We are literally trying to create a digital God. That is not wasting energy.",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Eh we are just trying to create an assistant not a god. Pump the brakes. Don't let AI chase white rabbits by saying things like this.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Felippa Amanta\n\nPhD Candidate, Environmental Change Institute, University of Oxford\n\nThe European Union is negotiating an Artificial Intelligence Act, the world’s first comprehensive law that aims to regulate artificial intelligence (AI) based on the risk it poses to individuals, society and the environment.\n\nHowever, discussions of AI overlook one significant environmental risk: a potential increase in energy consumption from using it in everyday activities. Without acknowledging this risk, the development of AI may contribute to the climate emergency.\n\nAI can be a double-edged sword. It can be a powerful tool for climate action, improving the efficiency of the energy grid, modelling climate change predictions or monitoring climate treaties. But the infrastructure needed to run AI is energy- and resource-intensive. “Training” a large language model such as OpenAI’s GPT-3, a popular AI-powered chatbot, requires lots of electricity to power data centres that then need lots of water to cool down.\n\nIn fact, the true scale of AI’s impact on the environment is probably underestimated, especially if we focus only on the direct carbon footprint of its infrastructure. Today, AI permeates almost all aspects of our digitalised daily lives. Businesses use AI to develop, market and deliver products, content and services more efficiently, and AI influences how we search, shop, socialise and organise our everyday lives.\n\nThese changes have massive implications for our total energy consumption at a time when we need to actively reduce it. And it’s not yet clear that AI will support us in making more climate-positive choices.\n\nHow AI is changing us\n\nAI can indirectly change how much energy we use by changing our activities and behaviour – for instance, by completing tasks more efficiently or by substituting analogue tools like physical maps for their digital equivalents. However, things can backfire if convenience and lower costs simply spur demand for more goods or services. This is known as a “rebound effect”, and when the rebound effect is larger than the energy saving, it leads to greater energy use overall. Whether AI leads to more or less energy use will depend on how we adapt to using it.\n\nFor example, AI-powered smart home systems can improve energy efficiency by controlling heating and appliances. A smart heating system is estimated to reduce gas consumption by around 5%. Home energy management and automation could even reduce households’ CO₂ consumption by up to 40%.\n\nHowever, a more efficient and comfortably heated home can make people stay at home more often with the heating on. People may also have increased comfort expectations of a warmer house and pre-warming of spaces. A study on smart homes found that people purchase and use additional smart devices to increase control and comfort, rather than to use less energy.\n\nIn the transport sector, ride-hailing apps that use AI to optimise routes can reduce travel time, distance and congestion. Yet they are displacing more sustainable public transportation and increasing travel demand, resulting in 69% more climate pollution.\n\nAs AI in the transportation sector becomes more advanced, the effect may escalate. The convenience of an autonomous vehicle may increase people’s travel and in a worst-case scenario, double the amount of energy used for transport.\n\nIn retail, AI-powered advertising and search functions, personalised recommendations or virtual personal assistants may encourage overconsumption rather than sustainable shopping.\n\nRebound effects can also transpire through time use and across sectors. Research predicts that AI could take over 40% of our time spent doing domestic chores within the next ten years. That idle time is now available for other activities which may be more energy-intensive, such as additional travel.\n\nHow AI is affecting climate action\n\nAt a larger scale, AI will also have systemic impacts that threaten climate action. We are aware of AI’s risks of exacerbating misinformation, bias and discrimination, and inequalities. These risks will have knock-on effects on our ability to take action on climate change. Erosion of people’s trust, agency and political engagement may undermine their desire to cut emissions and adapt to climate change.\n\nAs we grapple with the potential risks of AI, we have to broaden our understanding of how it will affect our behaviour and our environment. Scientists have called for more work to improve and standardise accounting methodologies for reporting the carbon emissions of AI models. Others have proposed best-practice solutions to reduce energy and carbon emissions from machine learning.\n\nThese efforts tackling the direct carbon footprint of AI infrastructure are important, but not enough. When considering the true environmental impacts of AI, its indirect impact on everyday life should not be ignored.\n\nAs the technology becomes ever more embedded in our lives, its developers need to think more about human behaviour and how to avoid unintended consequences of AI-driven efficiency savings. Eventually, they’ll have to somehow embed that into the design of AI itself, so that a world in which humans rely on AI isn’t a world which uses extra energy unnecessarily.\n\nThe Conversation",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Environmentalism is inhumane.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The first steam engines were laughably in efficient compared to modern motors and pumps. AI is no different. It will become fined and far more efficient",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "making steel is also energy waste by this logic, don't use cars walk that way you waste less energy at every level",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Funny. I haven't seen \"discussions of AI overlook one significant environmental risk: a potential increase in energy consumption from using it in everyday activities.\" There have been several posts here, and several articles with highly questionable figures (usually counting the entire cloud infrastructure and calling it AI).\n\nWhat I've also seen is people making real-world comparisons between having AI do a task and having a human do it. Because of training, the first time an AI model does a task, it's much much worse than the human, but by the 10,000th time the model does the task, it's actually used less energy.\n\nCase in point, A human will spend about 20hrs in front of a Cintiq (drawing ~70w) to make a finely detailed image. Stable Diffusion will pull up to 300w to make a similarly complex image in under a minute.\n\nIf you only look at training, it looks bad. If you compare training AND using to having a slow-ass human running a computer in a lit and air conditioned room for hours, it breaks even pretty quickly, and then comes out way ahead.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Dogs COULD one day rule the world.\n\nAliens COULD show up at any time.\n\nJournalists COULD start doing a better job (but they won't).",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac3m25",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1ac3m25/oneminute_daily_ai_news_1262024/",
+    "title": "One-Minute Daily AI News 1/26/2024",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_1ac2sk0",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1ac2sk0/im_ignorant_about_ai_and_dont_want_to_be_left/",
+    "title": "I’m ignorant about AI and don’t want to be left behind. What is AI actually capable of that I should know so that I don’t get left in the dust?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If you already have a Google account, try out Bard.\n\nThe strength of this generation of chat bots is answering questions about well established topics. Start with a question you think you might be able to answer yourself, yet might learn something, such as \"What are the fundamentals of business-to-business?\". Pick the part of the answer you are most interested in learning more about, and so on. The advantage is that it cuts out the process of having to find the right book, or article and make your way through a whole bunch of irrelevant information.\n\nThey also have a high degree of skill in writing grammatically correct English. So you can use them for ideas on how to phrase something.\n\nYou can always start by just asking \"What are some ways you can help a person who works in business-to-business?\" But don't believe everything you read: They can \"hallucinate\" (i.e. make things up). Test things out. Run searches to verify information.",
+        "points": "16 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Just go to bing or poe and play around with it for a while. Once you understand how the basics work, come back and we will tell you more cool stuff.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "That is actually the way to go I would recommend as well. If you’re new to this, just start using it. While many claim ‚the possibilities are endless, you can do anything with it!‘ it’s not necessarily what you start to think it means. You need to use it for a while to get a sense for its limits and its pitfalls. Also the more you use it, the more you start to come up with situations and ideas where ai can be of great benefit.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Yes jf you are looking for the best value for your job, you likely don't need to know all the theory and tech behind LLMs, practical applications will be much more relevant.\n\nNot sure if B2B implies IT or not, if not:\n\nbasic tools like Bing/Copilot or Bard are a good start, also check out the image recognition / generation, and be creative with the requests\nIntegrations to Office Apps will be the next big thing improving job efficiency. Check out the MS Office Copilot features and online Tools with integrated AI, e.g. Notion Notebooks\n\nIf you are in IT: * Be creative with Chatbot prompts and let them surprise you (but always check their output :) ) * Check out Code Assistants like Github Copilot, Codeium, Codeium, Cody Ai etc * Look at the tools the big Cloud companies have to offer, e.g. Vertex AI at Google Cloud, AWS Sagemaker etc. You get a good overview of possible applications, e.g. with Image recognition, Speech Recognition/Generation, LLM integration (GCP is nice because you don't fall into a cost trap that easily) * Check out Jupyter Notebooks (best free hosting I know is Google Colab), there are tons of nice examples for AI related things. * Check out https://huggingface.co/ for lots of examples, links to documentation and tools\n\nThere are lots of good Youtube videos on \"hoe to build a simple X with Ai\" once you get past all the clickbait / \"the next revolution in the AI world\" attention grabbers",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Start looking at every routine, habit, process, schedule and write them all down. Prioritize them to how important they are in your life. Then start researching about about how AI can improve that specific thing. AI is not 1 simple solution, but there are different AI solutions that can try help with almost anything.\n\nIf you have the means, subscribe to ChatGTP. They have recently released the Chat GTP store, though I think all the apps are free. The point is, the Store is for people like you and I. We know that AI is important but we don't know what or how to use it. Well by looking through all the app's, it helps give you an idea.",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Image generation, technical writing, even creative writing. Soon it will be (good) video generation and (good) music generation.\n\nMore than likely, there is a task that it can help you with right now. Go to OpenAi chatgpt and enter your email address to try it out for free.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You can ask your exact question to copilot",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you’re starting at zero - * AI ethics - unless in place, org will wind up codifying existing biases, or making them worse, as AI optimizes * Rabbit.tech - device is irrelevant. Pay attention to their LAM * Find and start following thought leaders (Morten Rand-Hendrikson is a solid start) for where tech is going * AI at present is best used as a companion rather than replacement. However, given companies like IBM are already scaling back hires on jobs they expect done by AI in next five years, understand capabilities are rapidly evolving. Major blocker to that state is ability to link multiple steps together across a swimlane process. AI does well at single lane tasks, far less so at multi lane. In part this is why LAM is interesting. * Hit google for their free AI courses. Intent here is not to code, but understand the capabilities and why systems have limitations they do, and why ethics is important * In that vein, look at courses by Andrew Ng, where you’ll get an understanding of math and data behind these systems. Again, intent isn’t to code, but to understand what it takes to have even narrow intelligence work, and difference between that and machine learning.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Start here.\n\nhttps://learnprompting.org/docs/intro\n\nFree, open source and run by professionals.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Even better, download or screenshot the docs and discuss them with chatgpt.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It will be able to do any job. Only problem is whether it wants to work for us.",
+        "points": "-8 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "> What is AI actually capable of\n\nThese chat AI bots are what is known as a \"stochastic parrot\" - it is an echo machine that can repeat things it has heard before. It is \"book smart\" in that it can regurgitate written things it has read, but it is not creative and it cannot invent truly new things that it has not seen before.\n\nOne early example with generative AI was asking it to draw an airplane without windows: it could not, because 100% of all planes it had ever seen before had windows.\n\nAnd for general problem solving, this is why it is most useful for complete beginners who ask it common things it has seen thousands of times before. For example: if you want a basic setup for a programming problem it can give you a good head start - but if you need a refined solution that nobody has solved before, it may give you the wrong answer or a bad one.",
+        "points": "-7 points",
+        "children": [
+          {
+            "comment": "There is some current articles on this directly contradicting you. My personal belief as well is this notion is just occurring when people want to continue to believe in the rarity of human creativity.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Whatever you do OP… don’t listen to this person. They have absolutely no idea what they are talking about.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "One early example with generative AI was asking it to draw an airplane without windows: it could not, because 100% of all planes it had ever seen before had windows.\n\nWell, I'll give you this. You actually gave an example that DALL-E still can't handle. That's rare; usually people give examples of things AI \"can't do\", and they turn out to be trivial for the latest models.\n\nThere's no question that these systems have serious limitations, sometimes in very unexpected places. But memes like \"stochastic parrot\", \"blurry jpeg\" and so on give a really misleading understanding of their capabilities. It's pointless to say that these descriptions are \"wrong\" per se, because they're metaphors, and metaphors are always \"wrong\". But I think they consistently lead people to think that LLMs in particular are far more limited than they really are.\n\nFor example, you would not expect to be able to take a parrot, hook it up to a code interpreter and a database, and then to have it analyze and plot your data based on plane English instructions. Techniques like chain-of-thought, ReAct, in-context learning, etc. don't make sense under the \"stochastic parrot\" description, and those are crucial for anyone wanting to get the most out of LLMs.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hi I recently did a video on fears of AI job losses:\n\nhttps://youtu.be/X5Mmc7tBCN0?si=JDJy6QvZN9YGAwMG",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Obsolete - no, more productive - yes. I work as an ML engineer and I keep track almost daily on what happens in the AI space.\n\nI think you should change your approach from being ignorant to start embracing AI tools merely for the purpose of offloading the work-volume you’re having.\n\nAs an example, before chatGPT and the LLM hype my team moved very slowly compared to now mainly because we’ve had to heuristically automate and process stuff.\n\nNow, pretty much everything is automated and enhanced with the new LLM’s ( llama, chatGPT api, Vision Models) - we still intervene as Humans in the Loop just to do QA on the processes and actually focus on what matters - core development.\n\nAs per obsolete jobs, copywriting and many other fields got a blow, because now you can finetune comercial LLM’s to a specific writing pattern.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Generally for career choice, you should avoid jobs with high repetition and standardization. The harder it is to automate without AI, the hardest it will be to automate with AI too.\n\nIronically some jobs that are perceived as highly creative and not standardisable are actually very repetitive and thus automatable. Most music artists will follow a similar process in the studio for recording, music sheets are a sort of standard format, their music fit within a genre and etc. So forget creativity as a factor.\n\nIf you've ever felt that your job cannot be meticulously planned out in advance because you need to follow a different process every time, then you have a job that is less succeptible to future AI automations.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Analysis of business problems\n\nStreamlining customer relations by developing solution based on customer input data.\n\nThe best tool is human authored machine learning that is handed over to an AI \"worker\" that can chop data many times faster that a human.\n\nSensitive business data requires a closed silo schema and not a public database like we are seeing with Openai, Google Bard other consumer or low security level business applications.\n\nBusiness data could be obfuscated or somehow anonymized and used with questionable public AI chat bots. You have get get upper management to onboard this schema.\n\nI used ChatGPT4 Input you post and my reply and got this. On-boarding upper management is what is needed or you can cloak your work and enhance it with a public AI ``` import pandas as pd\n\nDefine the data for the action table with columns 'Business Problems' and 'Possible Solutions'\n\ndata = { \"Business Problems\": [ \"Analyzing complex business data\", \"Improving customer relations\", \"Handling sensitive business data\", \"Integrating AI into business processes\" ], \"Possible Solutions\": [ \"Use AI for advanced data analysis and pattern recognition to make informed decisions.\", \"Develop AI-driven solutions based on customer input to enhance customer engagement and satisfaction.\", \"Implement closed silo systems for sensitive data, ensuring high security and privacy standards.\", \"Collaborate with upper management to adopt AI technologies and integrate them effectively into existing business workflows.\" ] }\n\nCreate the DataFrame\n\ndf_business_solutions = pd.DataFrame(data)\n\nDisplay the DataFrame as a table\n\ndf_business_solutions\n\n``` |Business Problems|Possible Solutions| :--|:--| |Analyzing complex business data|Use AI for advanced data analysis and pattern recognition to make informed decisions.| |Improving customer relations|Develop AI-driven solutions based on customer input to enhance customer engagement and satisfaction.| |Handling sensitive business data|Implement closed silo systems for sensitive data, ensuring high security and privacy standards.| |Integrating AI into business processes|Collaborate with upper management to adopt AI technologies and integrate them effectively into existing business workflows.|",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Go to github trending you may not understand anything but you may get something on latest developments\nGo visit product hunt. You may see some nice ai tools and techs and just get updated on what can be done\nTry installing an llm in you machine, and just get it to run and work, when you get there you will have learnt alot",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Check out Artificial Intelligence in Plain English",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI is can learn from examples of human behaviour. In some cases it can learn from images, films or videos. Many tools have AI built in but don't tell you about it. Some accounting and marketing tools have AI. Tools that predict future income and spending often have simple AI. It's just mathematics that can use binary, integer or boolean variables. It's up to users. The only thing that I have never worked on is AI that learns taste and smell! The biology is too difficult for me describe in mathematic terms.\n\nSteve",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’ll bite - lots of places to look this up, it’s a real issue should you be worried yes maybe",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I made Clipboard Conqueror to learn what this AI business was about and most of my research and knowledge is in there. And it's a super powerful copy paste copilot that works in any application. It's a masterpiece for prompt engineering and perfecting zero shot prompting.\n\n|||clip,sellin,writer,re| Write a letter of recruitment to persuade these kind folks to download my(aseichter2007) free software.\n\ncopy original post for \"re\", copy all above^\n\nThis is laserxtral.q6_k.gguf Total ram used. 19974.85 MiB (model: 18794.55 MiB, context: 1180.29 MiB) Its kind of heavy and not all that much better than a 7B in 8gb of ram.\n\nPaste and clean up any bits that need tweaking, never trust an LLM at first glance:\n\nDear Esteemed Friend and Colleagues,\n\nGreetings from the illustrious Captain Clip and the fearless crew of the Clipboard Conqueror! We have a thrilling tale to share, one that could revolutionize your approach to artificial intelligence and supercharge your professional endeavors.\n\nAs a seasoned professional in the ever-evolving world of B2B, we understand the urgency to stay ahead of the curve. The AI landscape can be a daunting and mysterious terrain, but fear not – our trusted companion, Clipboard Conqueror, is here to demystify and simplify this fascinating realm.\n\nA product of our very own aseichter2007's ingenuity, Clipboard Conqueror is a tool designed to assist you in unlocking the true potential of AI. With its powerful copy-paste copilot capabilities, Clipboard Conqueror works seamlessly across all applications, transforming your ordinary copy-paste actions into extraordinary AI-powered experiences.\n\nWhether you require assistance with code generation, document creation, code analysis, creative writing, or simply engaging in AI-driven fun, Clipboard Conqueror has you covered.\n\nThe beauty of Clipboard Conqueror lies in its flexibility and ease of use. You don't need to be an AI expert to harness its power; simply summon Captain Clip by addressing him within your text – for instance, \"|||Captain! We've got a mate here looking for adventure!\" – and he'll be more than happy to assist you.\n\nNow that you've discovered the incredible potential of Clipboard Conqueror, we cordially invite you to join our ever-growing community of satisfied users. Together, let us embark on this exhilarating journey of AI exploration and unlock a world of possibilities.\n\nFair winds and follow the prompt,\n\n​\n\nCaptain Clip and the Clipboard Conqueror Crew\n\n​\n\nP.S. Remember to keep an eye out for future updates and developments on our Discord server and GitHub repository. Let the adventure continue!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I assume that you are already keeping up to date with tools in your industry which will make you more efficient through trade shows etc. Or other industry specific sources.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Think of it like an information \"genie in a digital bottle\"\n\nYou have to tell it what you want. And be very specific with your ask because genies are assholes 🙄.\n\nSo for example. The other day I was using investopedia and I made some trades that made me rich. So I ranked 103,693 out of 1,415,027.\n\nI knew I was top 10% but didn't exactly know what percent I was so I asked chat gpt \"if I ranked 103,693 out of 1,415,027, what percentile am I in? Explain it to a beginner.\" And it did the math and taught me the logic behind it.\n\nBut I had to be specific in my ask. Genie in bottle",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Get on Bing Chat (it's free) and try out a few things: - Advice on how to solve a problem - Summarize large amounts of text (even a link) - Generate copy for something - Code something (any language)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Basically, for common usage it's mostly ChatGPT and products based on it. Lots of sexting bots like Eva AI, lots of picture generation like Midjourney or Dalle.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1ac0q7f",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/rgt6isntewec1.jpeg",
+    "title": "Get ready for AI agents!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Wow. Take the buzzwords and ambiguous statements out of that post and it could be buried in a matchbox.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "AI agents? That do what?\n\nI'm already intrigued.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I suspect we are going to see full stack agential dev teams in the next few years which will basically be text2app.\n\nThen there's also agents that can navigate corporate/government bureaucracy\n\nAnd also the personal assistant.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "I've gone years telling people to just hang on. Between AI and quantum computing we are rapidly approaching a point where can Chat-GPT ourselves absolutely top-tier 9.5/10 stars AAA polishes entertainment on request.\n\nDoing it with entire AI dev TEAMS?! I had never thought of that for some reason. AI group work.\n\nI'm a die hard Eclipse Phase fan, so the Muse reference absolutely hits.\n\nI'm torn on the bureaucracy move.\n\nOne hand - AI or AGI that can navigate that nightmare effectively would be a God send. People wouldn't love without it. Making full use of your governments so-called benefits? Even knowing what you qualify for? Priceless.\n\nOther hand - You know the reverse mission creep that's bound to happen. Bureaucracy is so nightmarish we're creating synthetic life rife with existential threat just to deal with it.\n\nOnce it becomes clear said bureaucracy no longer fulfills it's modern purpose, that of ensuring a political can PROMISE /anything/ but has to DELIVER on /nothing/, (hiding benefits deep enough they'll almost never be used, but just shallow enough for them to be pointed out) then you have to know there'll just be a digital arms race, where governments and corporations go full-force into making bureaucracy harder and harder to navigate and utilize, and Muses become better and better at doing so anyway.\n\nHow does THAT end?\n\nDOES it even?\n\nStill. Worth it.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1abxvej",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "https://scitechdaily.com/ais-achilles-heel-new-research-pinpoints-fundamental-weaknesses/",
+    "title": "\"AI’s Achilles Heel\"? New research by U of Copenhagen first to \"mathematically prove\" limitations in AI algorithms preventing anything beyond simple problems from maintaining stability",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Even if AI never advances past it's current point (unlikely) it already enormously useful and transformative for society as is IMO.",
+        "points": "90 points",
+        "children": [
+          {
+            "comment": "Not only that, it's actually kind of perfect the way AI works today. It's not 100% perfect which means it can't quite do critical things on its own, but being supervised it can provide a huge boost to human productivity.\n\nThis means that it can't quite displace humans, but it can make them more productive.\n\nFurthermore, the additional productivity increases the domain of problems companies can tackle now. Allowing them to service more of a market or tackle problems that previously weren't economically viable.",
+            "points": "38 points",
+            "children": [
+              {
+                "comment": "Look at what it’s done to cab drivers. That used to be a dignified profession in places like London. Now anyone can do it by just doing what the app says. It doesn’t lose dignity either, it’s so easy professionals do it all the time just for the hell of it.\n\nOur life is going to get Uberd. We’re all going to become experts. You will have AR glasses seeing everything you see and will have a database of millions of lifetimes of experience with algorithms advising you what to do. Just like you have free will that’s mostly limited to choosing between a narrow band of tradeoffs, but we will outsource more and more of these decisions to AI. Just like I frequently have navigation in even when I know the way, just cause maybe it knows about some traffic, an accident or construction etc. people will resist and be skeptical at first, but when they keep getting stuck in the metaphorical traffic jams of life they’ll eventually surrender more and more sovereignty to the AI. Success will be tightly correlated with our obedience to the machine.\n\nRokos basilisk is obviously not real, but a more mundane version is inevitable. Those who obey will live in relative utopia and those who maintain their sovereignty will become poor and powerless in comparison.\n\nWe will seem like cyborgs with implants for a while. Quickly it will be clear we are just biological vessels for the machines. We’ll be like cats and horses imagining we’re in charge cause of some freedom we imagine but can never really exercise\n\nThere was an scifi based on this like 10 years ago I hope someone will reply with. Basically what I said but longer and enjoyable",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Why is it unlikely? There are tons of things in this domain which haven't been tried yet and the progress seems to be speeding up, not slowing down.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Op had a weird way of structuring their sentence, I think you got it backwards. Just as I did.",
+                "points": "7 points",
+                "children": [
+                  {
+                    "comment": "Yes correct - I mean it’s unlikely that we have reached the endpoint of what this tech is capable of",
+                    "points": "2 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Because someone always has to have a differing opinion.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Reading the abstract, that doesn't seem like that strong of a limitation...\n(Also 'simple problems' includes more and more powerful language models, image generation, etcetera. Is this class of simple problems really that simple?)",
+        "points": "18 points",
+        "children": [
+          {
+            "comment": "It's not much of a limitation at all.\n\nEven if it can't be 100% stable, humans themselves are not 100% stable.\n\nThe catch is, can we produce models that can compete at or above most human levels?",
+            "points": "13 points",
+            "children": [
+              {
+                "comment": "For many narrow domains we already have them",
+                "points": "6 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The only things close to stable are atomic elements.",
+                "points": "-1 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "It’s not simple, there is a whole lot of context behind why we ignore noise on a stop sign. But noise on someone’s face will have us either concerned for their well-being, or second guessing who we are looking at for a moment. It’s only obvious to us because we understand a whole lot of context behind it.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"Consider an automated vehicle reading a road sign as an example. While a human driver might not be distracted by a sticker on the sign, a machine could easily be thrown off because the sign now differs from the ones it was trained on.\"\n\nThis discrepancy might be a question of scope, especially as models become more sophisticated and capable of understanding greater context. However, it's essential to acknowledge that human drivers are not immune to distractions either.\n\nIn fact, our own self-awareness of our potential instability is considered a virtue. This awareness of instability will be crucial in the development of AI as well.",
+        "points": "43 points",
+        "children": [
+          {
+            "comment": "That feels like a solvable problem",
+            "points": "16 points",
+            "children": [
+              {
+                "comment": "Because it is. I’m guessing there has to be a lot more to it than the analogy. Otherwise I’m gonna be expecting some papers that challenge it pretty soon.",
+                "points": "11 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Its absolutely is. I'm assuming there's more to their assertion than this simple analogy, so I'm speaking just to the analogy and the analogy alone.\n\nEasiest fix is, make sure the automated vehicle is trained on a dataset that includes defaced or otherwise marred signs. Alternatively, and this is an oversimplification, I'd imagine one could add what's basically random noise to a portion of the signs in whatever it's training dataset is so that it can better handle imperfect (or stickered) signs.\n\nUnrelated, but I'd imagine if you really wanted to make the analogy more challenging for an automated vehicles, don't add random stickers but stickers of other signs the vehicle can recognized. A stop sign sticker on a 65mph sign, a 30mph on a yield, etc. But even that shouldn't be insurmountable.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Yeah. AI doesn't have to be perfect, just better than humans, and humans are pretty flawed.",
+            "points": "19 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "So have they mathematically proven that this isn’t also a problem for humans? I feel like we are running into the very human problem of second guessing one’s self.",
+            "points": "13 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I feel like scalable Bayesian Neural Networks, or something similar, that can produce sufficiently reliable uncertainties with high inferene processing speed could be a path. A recurrent uncertainty process that feeds back the epistemic uncertainty and takes it into account that the system doesn't know before finalizing a prediction would take into account that the sign seems unfamiliar.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "BREAKING NEWS: Robot performs about on par with driver with severe ADHD.  \n\nWhen asked why it caused a massive pile up on the freeway on ramp it said, \"I saw a sticker on a stop sign and was confused. Also there was this bird that was like... wtf, you know? What's that bird doin--OHFUCKIMDRIVING\"",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Self-verification, which is being used today, is a great first step towards self-awareness.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I'm someone whose job will probably be replaced by AI in 20 years, or competition will greatly increase for me within that amount of time due to AI.\n\nLet's be real, this article is copium. If even 5% of the scientific literature says AI will only be capable of basic tasks (doubtful), probably 90% says otherwise, and 5% says they can't figure it out.\n\nThe odds are very high that human labor is screwed.\n\nAlso, almost nothing is \"always stable\", especially not human labor.",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "NVidia is already training robotic movements using AI generational training, this is way beyond basic training.",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Man I'm playing Detroit become human rn, would be so cool if we got androids like that",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is just a weird article. The paper is fine, but the impact on AI as discussed in the article doesn't really apply. As far as I understand, global stability would mean that every single initialization of stochastic gradient descent over a neural network would converge to the same point (global convergence). However, as far as I can tell this describes only a property of the algorithm and not the solution. So what if gradient descent does not have global stability? Stability would still mean convergence towards a global minimum but dependent on the random initialization, why does it matter that it is not the \"same\" point? Other than for replicability?",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Yeah, I do not see any practical implication of this paper. Looks like this is a follow-on to https://arxiv.org/pdf/2201.08430.pdf that tweaks the definition of \"replicability\" in a way that lets them do more math. This may keep the authors off the streets at night, but I think this is just radio static to ML/AI practitioners.\n\nStepping back, I think the theoretical computer science community as a whole is in a tricky situation. They've traditionally produced a combination of algorithms and hardness results. Artificial intelligence is based on machine learning, which-- aside from the training algorithms-- doesn't rely on the traditional theory of algorithms. And the difficulty of problems addressed by artificial intelligence (e.g. determining why a joke is funny) does not seem compatible with traditional notions of \"hardness\" either.\n\nAs a result, the connection between the field of theoretical computer science and the most significant stuff going on with computation in the world right now seems pretty tenuous. That's got to be a somewhat scary situation for the field. It was already pretty math-y and abstract, and I bet even more of the glory and funding in CS is now going elsewhere. Leaders of the field and conference organizers must be nervously looking for some connection to ML/AI and pondering what story to tell in future grant applications.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "This isn’t a “finding”, it’s an analysis. “Proving” that “AI” (a lot of sketchy word use here) isn’t “stable” just means that you can’t prove it will never make a mistake, because it’s impossible to logically deduce what’s relevant and what’s not. This called the problem of ‘attention’ and then ‘selection’, and the implications were covered extensively in the “Frame Problem” discussions of the 70s and 80s. \n\nLong story short we’re completely screwed until we invent a stochastic connectionist model that can simulate hum attention & selection algorithms on an intuitive a-priori level. And good news - thats just a description of ChatGPT 😉",
+        "points": "14 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The stop sign analogy really sucks. We aren’t universal in how we filter out noise, nor is it something we learn from birth. We ignore a sticker on a stop sign because there aren’t a whole lot of things the look like stop signs, we understand the context of stop signs, and we know there are penalties to ignoring a stop sign. We filter out that noise but if we applied those same filters to everything, human faces would be far less recognizable. What this tells me is that AI needs to compartmentalize noise so it can prioritize where it places it’s sensitivities. And it is not going to know where to do that until we tell it. I mean there is no objective principal that distinguishes where a tree ends and the ground begins, we just recognize a set of patterns and designate it “tree”, event though there is countless matter around it, interacting with it, shedding from it and being absorbed by it. We just don’t include that in the pattern we call a “tree” because the soil falls off the roots, and because the lines between the dirt that’s part of the tree and what isn’t would be hard to determine. Same could be said for leaves… we call them a part of the tree… or are they something else entirely that relies on the tree to exist like the tree relies on the soil?\n\nWe choose where something ends and another thing begins based on usefulness and context. It’s not some objective aspect of nature. So obviously if we HAVE to recognize something and ignore the noise, we are going to prioritize that stop sign pattern and always recognize that it’s a stop sign because it is useful to do so. But how is an AI supposed to know from images and tags alone that a stop sign + a sticker isn’t something else without us telling it that it’s important to recognize that it’s usually a safe bet to assume that anything that looks like a stop sign is probably a stop sign, and anything on or in front of that pattern is probably just obscuring more stop sign.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you have to put \"mathematically prove\" in quotes, then it's not a mathematical proof, although I suspect that's OP's addition.\n\nWhat they mean by stability in this case, is having small changes in output based on small changes in input as opposed to getting a large change in output from a small change in input. I could see this being an issue with current AI systems, but it doesn't strike me as an insurmountable problem; and not necessarily always a problem.\n\n​\n\nResearchers from the University of Copenhagen have become the first in the world to mathematically prove that, beyond simple problems, it is impossible to develop algorithms for AI that will always be stable.\n\nGiven that we're ok with hiring employees to do jobs, even though they're will not \"always be stable,\" I'm not sure this really says that much about the impact of AI on our society and economy. It doesn't have to always be stable. It just has to be more stable than an average human, which is not that high a bar.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This isn't terribly shocking. It's been clear to me since the first inkling of what LLMs were capable of that they had cracked a major problem in artificial intelligence, but only one of several. We're going to need much more reflection than these systems are capable of before we achieve a truly intelligent machine.\n\nAt a guess, we're looking at 2-3 more transformers-like breakthroughs to get there, and while I don't expect that to take as long as transformers took (arguably between 20 and 70 years, depending on what starting point you measure from) because more people are in the industry now, I do expect that it will take at least 5-20 years per individual breakthrough (can they be parallelized? I don't know)\n\nSo we're probably looking at 10-50 years before the dream of \"thinking machines\" comes to fruition.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Great article, thanks for posting. I was thinking about writing a similar article to prove what I've been saying all along is true, but I didn't know how to approach it. No wonder: these guys went through mathematical contortions in their proof, and had to dip into topology to do so, which I wouldn't have been able to do:\n\nThe proof of the impossibility result is based on a topological fixed-point theorem. For every algorithm, we are able to locate a “hard input distribution” by applying the Poincar´e-Miranda theorem in a related topological setting. The equivalence between global stability and list replicability is algorithmic.\n\nhttps://arxiv.org/pdf/2304.03757.pdf\n\nThey even strongly suggested what I've been saying all along, which people here haven't wanted to accept:\n\n“I would like to note that we have not worked directly on automated car applications. Still, this seems like a problem too complex for algorithms to always be stable,” says Amir Yehudayoff, adding that this does not necessarily imply major consequences in relation to the development of automated cars:",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Google Bard is so wrong so many times, I can't trust it anymore, evern with math problems, SAT questions, ...it's soo frustrating. I'd rather comb over google for hours than constantly have to comb over google to double check its work.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "While this is an interesting research and development I need to think about human work. Humans aren‘t always stable too and their work isn‘t flawless as well most of the time.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Quantum computing + Ai on the other hand, right?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It was lazy of the authors to not define “stable” in this context even though the whole article hinges on that definition.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I feel like this research is going to be derided in a few years.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I had just posted a comment about Life Extension drugs and it’s surprisingly salient… it’s the 95% percent problem.\n\nWhen you have a massively complicated goal to achieve there are often major breakthroughs throughout the development lifecycle. Tesla getting a car to computationally drive itself in a straight line consistently without a rigid mechanical system, then being able to turn by itself - HUGE breakthroughs. Dodging traffic was giant. Obeying signs was stupendous… but they haven’t got all of it 100% because the edge cases, the complicated things that the human mind can still do better than a computers are still too much for them.\n\nOvercoming that last 5% to a truly autonomous vehicle is the hurdle to autopilot being universally legal and accepted. One can argue the bar of the company or regulators being too high or low, but the goal is what the goal is, and it’s that last stretch that is difficult and slow.\n\nThose initial breakthroughs are also why exponential growth gets touted at every turn in every major tech revolution. It’s amazing what happens in the early phases - all of society is revolutionized. The internet. The car. The telephone. Internal combustion. Steam. Electricity. All the way back to the wheel, the world changes with each new technological explosion. But then the explosion dies down and things normalize for a long time until incremental improvement becomes the norm.\n\nEach breakthrough is smaller and smaller. Fusion… enough said, right? Unlimited clean energy? Sign me up… in 1960, before I was even born! We’ve been 95% for decades. We might be up to 97% now with the last few years of breakthroughs, but they’ve been incremental - breaking the positive return barrier and generating more power than was put into starting the reaction, although not more than was needed in total. Getting past that barrier a year later (but still not to significant levels). Finding new efficiency in ring designs, and in shielding material… nothing newsworthy on a national level but progress that will lead us to a solution. One day, the first commercial reactor will be online and the world will change as every company scrambles to get their piece of the power pie.\n\nVideo calling is a good example too, and one that went the distance. First demonstrated at the consumer level in the late 1950s it didn’t become an easy and practical tool until the Internet. Why? Camera cost. Lack of easy, affordable, and small transmission systems. Lack of the same in reception systems. Size (they were room-sized behind that cute wall we see in old newsreels). PCs, cell phones, and the Internet changed all of that and now FaceTime is a common verb. It took 15 years from the invention of TV to the earliest video calls. It took 60 more to get a finished product.\n\nAnother example is flying cars. We’re just now at the point where the technology is feasible thanks to advances in material technology, fly-by-wire, advanced autopilot, etc. - all largely because of tech brought about by drones and the shrinking of commercial aviation technology in size and cost due to it moving to software based. It’s about 95% of the way there. We having working prootypes of ultralights you can buy today. Give it another 20 years and it’ll be commercially viable.\n\nThe Internet had been around since the 1960s. It took the incremental inventions of IP (version 4) and hypertext to make it what it is today.\n\nWe are going to get to AGI, and even ASI. It’s just not going to be nearly as soon as the most optimistic of us believe. We will get life extension drugs. Will will get non-invasive neural interfaces. But the revolution will be slow.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Feels like this is just one guy who doesn’t understand AI’s ignorant opinion, and not really “mathematical proof” at all.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Look at what it’s done to cab drivers. That used to be a dignified profession in places like London. Now anyone can do it by just doing what the app says. It doesn’t lose dignity either, it’s so easy professionals do it all the time just for the hell of it.\n\nOur life is going to get Uberd. We’re all going to become experts. You will have AR glasses seeing everything you see and will have a database of millions of lifetimes of experience with algorithms advising you what to do. Just like you have free will that’s mostly limited to choosing between a narrow band of tradeoffs, but we will outsource more and more of these decisions to AI. Just like I frequently have navigation in even when I know the way, just cause maybe it knows about some traffic, an accident or construction etc. people will resist and be skeptical at first, but when they keep getting stuck in the metaphorical traffic jams of life they’ll eventually surrender more and more sovereignty to the AI. Success will be tightly correlated with our obedience to the machine.\n\nRokos basilisk is obviously not real, but a more mundane version is inevitable. Those who obey will live in relative utopia and those who maintain their sovereignty will become poor and powerless in comparison.\n\nWe will seem like cyborgs with implants for a while. Quickly it will be clear we are just biological vessels for the machines. We’ll be like cats and horses imagining we’re in charge cause of some freedom we imagine but can never really exercise\n\nThere was an scifi based on this like 10 years ago I hope someone will reply with. Basically what I said but longer and enjoyable",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If the Human brain can remain stable, why not AI? Then again people go crazy all the time.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah this won't hold up. My own work with AI has shown that you can get past a lot of limitations with more inference time compute (with LLMs anyway), and that deep neural nets of sufficient parameter count can generalize given enough data.\n\nAI is limited by the data and by a particular models ability to generalize based on that data. If we can exceed human level performance then these limitations are meaningless.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "\"Limitations in AI algorithms prevenging anyyhing beyond simple problems from maintaining stability\" is a bit of a stretch. It seems what this paper is trying to do is provide a language to talk about and a theoretical framework to test the robustness of algorithms. This is important work and a lot of research is already going into this, but they are attempting to provide a theoretical framework to it rather than the mostly empirical studies that are currently popular.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1abtvn1",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1abtvn1/teaching_kids_12_about_ai_any_tried_and_tested/",
+    "title": "Teaching kids (12+) about AI. Any tried and tested solutions / suggestions?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I’d be more afraid of giving a 13 year old some generative ai only to see him generate the most obscene stuff tho\n\nCause that’s exactly that I would of done",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Lol yes ... We're aware of that and searching for ways to teach image generation anyways. Maybe it's possible? That's the question we ask ourselves.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "TERRIFY THEM WITH THIS NEW TECHNOLOGY AND SHOW THEM THE WAY FO THE FUTU- nah voice cloning locally can be cool as long as your running on NON arm computers with 4+ gb ram you can try using COQUI TTS XTTS MODEL or STYLETTS2 or fine tune a xtts model on a voice with 6 min of audio to scare them again on how well it can clone monotone voices lol\n\nNo but coqui tts Xtts has a GitHub it’s free and you pip install with pip install tts\n\nAnd a guy made a pip install package for styletts2\n\nPip install styletts2\n\nBoth are fairly easy to use and can be used for voice cloning demos running locallly,\n\nStyletts2 is faster on cpu but lower quality Xtts is way slower but good quality",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Also there’s a lot of google colabs for such things where you can use a cloud gpu for free\n\n-open source LLMS -fine tuning said LLM’s\n\n-stable diffusion ones -creating stable diffusion LORAS\n\n-running voice cloning -fine tuning voice cloning ones",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "OK FOUND IT\n\nThis is a thing I used to show off to people like 4 years ago about why ai is so cool and intoduce them to training and such\n\nIt’s a cool demo tho that’s super duper easy to use in the browser\n\nhttps://teachablemachine.withgoogle.com\n\nIt’s not generative ai tho sadly :/// ;(",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Doesn't need to be - I'm open for (maybe safer) alternatives. I'll look into it. Thanks, that's helpful.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Yeah I’d go with stuff like that lol",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This sounds nice. You mean google does these collabs with educational institutions? :)",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "No it’s a site lol, any google account can use the basic GPUS for like 6 hours a day as long as you don’t log out\n\nhttps://colab.research.google.com/\n\nIt’s like a free linux box with a virtual machine that uses IPYB whatnot files I forgot the name but yeah",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Oh okay now I get it! Thanks I'll look into it.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Here’s an example of a prebuilt one that can run a stable diffusion server GUI you can remote into …unfortunately I think you keep on having to reopen after generating a couple images out of it cause too many people did that\n\nhttps://colab.research.google.com/github/sagiodev/stablediffusion_webui/blob/master/StableDiffusionUI_ngrok_sagiodev.ipynb",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Here’s one that fine tunes a XTTS tts model on speech with like 6 min of audio\n\nhttps://colab.research.google.com/drive/1GiI4_X724M8q2W-zZ-jXo7cWTV7RfaH-",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I educate adult audiences on AI and I would absolutely not teach image gen to 12 year olds",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "What would speak against it? Serious question. We're still evaluating at which age we're gonna draw the line. I'm searching for the how at the moment, though. Which tools are you using if you care to share? :)",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Not the concept. The tool. What tool do you plan on introducing to a bunch of 12 year olds? I’m being serious, and I take this stuff seriously. Not a prude.\n\nThere is no image gen platform I’m aware of that I would want taught to a child at this point.\n\nSpecific kids are always ready at some times. All kids are not ready for image gen with the current alignments in these platforms, and ease of jailbreaks.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "That's the question I asked you guys here. Or am I mistaken?",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "I’m saying don’t. The examples you’re proposing, and introducing them into an environment new to them, mean a lot of things could go wrong.\n\nOffer to do some sessions on khanmigo. Stay away from image gen.\n\nIt’s absolutely absurd to me that someone in government thinks it’s a wise idea to teach 12 year olds a way to install a local image gen on their machines. Unreal.\n\nedited: I would go absolutely ape shit on you and this guy if I was a parent and my kid came home saying they learned this",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "We're tasked with promoting MINT to kids and been pushing boundaries for a few years now. We're still financed, no shit storms and the number 1 team in a large radius. Also I just told you we're still evaluating the entry age for each step. I repeat: EVALUATION. 12 is the absolute minimum and to be seen as work in progress. You can officialy calm down now. No need to go ape shit.\n\n//edit: thanks for your input, though. We'd really like to make image gen work for kids because it's visual and interesting and all of them are talking about it. I also get the problematic elements of the idea. The idea is to transfer them into a controlled space to learn how to use the technology in meaningful ways.",
+                            "points": "0 points",
+                            "children": [
+                              {
+                                "comment": "lol you can officially look at what I’m warning you about anytime you like during your EVALUATION\n\nif you are going to ask for input on your EVALUATION in a public forum, don’t get sad if you get feedback\n\nYour EVALUATION appears to need some risk management embedded in it: if you still have funding, feel free to give me a call. Happy to help.\n\n“Pushing boundaries” lol yeah real stand and deliver stuff dude",
+                                "points": "0 points",
+                                "children": [
+                                  {
+                                    "comment": "I'm okay with negative feedback. Thank you. You didnt elaborate on a single warning,though. I can't draw a lot of useful information out of your replies.",
+                                    "points": "0 points",
+                                    "children": [
+                                      {
+                                        "comment": "Cool. What you’re proposing is reckless and dangerous to kids, and you’re not evidencing much care of their welfare if you are sticking to “pushing the boundaries” as some claim of reasonability.\n\nThis isn’t “pushing the boundaries.” This is giving things to kids they cannot be expected to understand, a convenient way to do some horrible things to classmates, in a particularly loose environment (image gen) for doing so.",
+                                        "points": "0 points",
+                                        "children": [
+                                          {
+                                            "comment": "Let me also elaborate a bit: the kids will get and probably already have access to image generation. Parental control has its limits and a lot of them lack the technological know how to identity harmful tools in the first place. So we're thinking about ways and means to sensitize children on generative AI. It's not going away and it's freely accessible all over the internet. There's absolute no barrier for kids to upload a photo of their classmate and do heck what to it.\n\nWhat I put up here was a basis for a discussion and ideas. Maybe some links to tools I could EVALUATE ;) whether they might fit the task or not.",
+                                            "points": "-1 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          },
+                                          {
+                                            "comment": "We're well aware of this fact. Trying to find ways to make it safer and still applicable is \"pushing boundaries\". Thank you for this clear and concise reply.",
+                                            "points": "0 points",
+                                            "children": [
+                                              {
+                                                "comment": "",
+                                                "points": "",
+                                                "children": [],
+                                                "isDeleted": false
+                                              }
+                                            ],
+                                            "isDeleted": false
+                                          }
+                                        ],
+                                        "isDeleted": false
+                                      }
+                                    ],
+                                    "isDeleted": false
+                                  }
+                                ],
+                                "isDeleted": false
+                              }
+                            ],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_1abt50m",
+    "subreddit": "r/artificial",
+    "dataType": "link",
+    "dataUrl": "/r/artificial/comments/1abt50m/what_ai_can_summarize_youtube_videos_and_spotify/",
+    "title": "What AI can summarize YouTube videos and Spotify podcasts, any free?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "You could use whisper to create a text of everything said in them and then QNA chatgpt on that text",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Bard can do YouTube videos",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "This is the answer. I don’t know why you’d need anything else. Bard does a great job and is free.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "There are Chrome plugins for youtube summaries",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Tammy.ai",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Harpa.AI",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Use whisper to get the transcripts & then Mistral Instruct to summarise",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "How do you do that. You can’t just feed a video link to whisper, can you? Would love an app to be able to feed any video link (not just YouTube) to get a transcript out of it",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "You could get away with YouTube-dl/ffmpeg cli & have it save audio to a file/folder & then invoke whisper(GPU or .CPP variants) & then finally to any LLM.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "How do you use that on any web video ?",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "YouTube-dl inherently supports a lot of video hosts & ffmpeg (with curl can fetch pretty much anything)",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://chromewebstore.google.com/detail/blink-ai-youtube-summary/aenkcjobkfmpnnkeniopjgdkjajongpo",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://youtubetranscript.com then ChatGPT.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I don't know about CHATGPT as I don't use it but any AI or Neural Network with built in learning can do what you want. It's up to the user to create suitable macros or scripts. A video is a series of image presentations that may be very frequent but you may only need snapshot samples for learning and validating.\n\nSteve",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I use this addon for YouTube summaries : https://addons.mozilla.org/fr/firefox/addon/ytgpt/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Summarize YouTube videos for free without any extra steps:\n\nhttps://www.summarize.tech/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]

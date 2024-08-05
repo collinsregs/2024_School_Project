@@ -1,0 +1,3008 @@
+[
+  {
+    "id": "t3_19avheb",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19avheb/what_does_a_full_endtoend_web_development_project/",
+    "title": "What does a full end-to-end web development project look like in 2024?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19aukvb",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aukvb/help_with_google_cloud_service_authentication/",
+    "title": "Help with Google Cloud service authentication",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19au5ef",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19au5ef/photo_editing_and_credit_payments_mvp_is_there_an/",
+    "title": "Photo editing and credit payments MVP - is there an existing framework I can use for this?",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19atu2m",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19atu2m/javascript_remove_event_listener_with_parameter/",
+    "title": "JavaScript remove event listener with parameter",
+    "points": null,
+    "comments": [
+      {
+        "comment": "You need to pass the name of the event and the actual listener:\n\nfunction answerListener(event) { // highlight wrong answer only }\nanswerOne.addEventListener('click', answerListener);\n\n\nLater on:\n\nanswerOne.removeEventListener('click', answerListener);",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why not put the inputs and \"submit\" button in a form, then do an onsubmit event? On the submit event check if the answer is correct, and if it is not execute the necessary code to display the \"incorrect\" message and so forth.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ask6g",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ask6g/i_made_a_website_to_track_workouts/",
+    "title": "I made a website to track workouts!",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It just directs to a login page. No way to see anything.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "You can click on \"sign in as a demo user\"",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I logged in, added some workouts.\n\nSelecting an exercise is kinda annoying.. I have to figure out what icon does what.. for the most part I can tell but some people might not.\nThis should be mobile first to start, having a table I have to side scroll is kind of annoying. I won’t bring my laptop to a gym.\nI have no option to add sets, just reps so I have to repeat the add exercise option 3-5 times.\nI can’t seem to add my own exercise, only choose from a predefined list\nAdding a note is nice.\nCharts are nice (though they have info I didn’t add and not the info I did)\nI cannot delete my account\n\nI made a workout tracker like a year or so ago (just for myself). Take a look if you want to see how I implemented some of the same things you did. I have mostly the same features. Mine is more of a “give you a blank slate” type of app.\n\nhttps://ifyouaintshakingyouaintbaking.vercel.app",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Hey! Thanks for the detailed feedback, I really appreciate it. I agree that it should've been mobile first, I messed up making it desktop first.\n\nI couldn't figure out any other way to make the table better for mobile except for adding scroll to the overflow.\n\nThe charts are populated with demo data by default and there's a button to toggle it between the demo data and your own data.\n\nI will implement the other suggestions.",
+            "points": "-1 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "that url is crazy",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "lol, I overheard some kid at the gym say it so had to use it.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Very cool. Mobile UI needs a little bit of work. I recently started messing around with some web dev and want to build something similar",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19arygo",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19arygo/can_i_switch_qr_code_host/",
+    "title": "Can I Switch QR code host?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The QR code just stores data. If that data is the URL of the website you used, then yeah, you'll either need to pay them, or make a new one.\n\nIt's always better to have the QR code represent the URL that you control, versus some redirect service.",
+        "points": "28 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "is something like a QR code host really necessary? QR codes are URLs to the host and then get redirected..? why not use one of the following free options?\n\none-time QR code generation: https://www.qrcode-monkey.com\n\nbuild on demand (javascript): https://davidshimjs.github.io/qrcodejs/\n\nbuild on demand (react): https://github.com/rosskhanas/react-qr-code",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Those are static QR codes, he’s probably paying for dynamic one so it can be changed on the fly without reprinting flyers. Can be solved by just getting a free Bitly short link or similar and using a free QR service though.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds like a Dynamic QR Code, so essentially a redirect which is why they are able to tell you it’s expired and try to charge. It is always associated with a main URL (from the application you are using I expect) but then redirects to a second (yours) which can be changed as many times as they want. You’ll probably have to pay I’m afraid!",
+        "points": "3 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "cross-posting my reply on /r/web https://www.reddit.com/r/web/comments/19aryvb/can_i_switch_qr_code_host/kimz0hk/\n\nCan you share the QR code image and/or what it links to? Or a link to the service you used?",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The domain is the issue?\n\nI generally hate short URL services, but they could have come in handy here... you plop in a URL and get a shortened URL... and if they allow editing, you could change the URL it redirects to without affecting the shortened URL and QR code. Of course, it's too late for that now.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "The host made the QR code expire, now they are saying that I have to pay their annual fee. Unfortunately I’m just now finding out a lot of ppl are In the same boat.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Name and shame",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "A qr code is just some text, like www.example.com\n\nThis can't expire. Did you create a qr code which links to a site which then redirects? If so, the redirect site can define the terms. Just create a qr code with the actual link as a text.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Typically an online QR code generator will have the QR code point to their own service, which then redirects to the domain the user has. Therefore, if he doesn’t pay then the link will stop working.",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "The host doesn't have anything to do with the QR code itself. There's no such thing as \"expiring\". It's an encoded set of data on a physical medium.\n\nEither they're lying to you, or you're misunderstanding something or omitting important details.",
+                "points": "-4 points",
+                "children": [
+                  {
+                    "comment": "go back to your original comment, what if the host is running a short url service with all QR codes redirected through their url? pretty easy to invalidate or \"expire\" the QR, no?",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "That's the URL, not the QR code. And that's what I was kinda explicitly asking about in the first comment.",
+                        "points": "0 points",
+                        "children": [
+                          {
+                            "comment": "You are being pedantic.\n\nThe QR code is the URL. They are just different methods of displaying the same thing. Neither the text representation or the QR code representation of the URL \"expire\".\n\nObviously in this situation the forwarding service is what is expiring/being charged for.",
+                            "points": "",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I mean, you don't need a service to generate a QR code. Do you mean the URL shortening service?\n\nIf you're just encoding your own hostname directly in the QR code then it doesn't matter.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you control the URL in the code, at least on Ubuntu Linux, you can install \"qrencode\" and use it to encode stuff.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I don’t know how to do that :(",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I guess the QR code is a redirecting link that they control. So if they customer has it printed on cards or his car, they are \"blackmailing\" him...",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is a lame decision by that service. Sounds like you opted for vendor lock-in when you could have just generated a QR code to your own short URLs / static site",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "First, we need to clarify that QR codes can't \"expire\" itself. Also, there's no cost to use qr codes, you don't need to pay anyone. It's just a text encoded in a bar code format.\n\nWhat happened was probably you used some qr code generator service, right?\n\nInstead of putting your link in the qr code, they added a link to a redirect service that they control. Acting like a middleman.\n\nSince you already printed the qr code, you can't change the url anymore. So you have 3 options:\n\nPrint new flyers.\nPrint new qr codes and glue it over the old one.\nPay their ~ransom~ fee.\n\nPs: before printing the qr code, scan it with your phone and see if the link that appears is the same link that you want to add to the qr code. If it's not, don't print it because this problem might happen again.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19arwxp",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19arwxp/dmarc_processing_and_actions/",
+    "title": "Dmarc processing and actions",
+    "points": null,
+    "comments": [
+      {
+        "comment": "All DMARC analytic solutions are listed here: https://dmarcvendors.com\n\nThere's several self-hosted solutions, and many free-tiers for the SaaS providers.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aqxrw",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aqxrw/need_some_advice/",
+    "title": "Need Some Advice",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Consider using WordPress to achieve the desired outcome. However, using standard HTML, CSS, and JavaScript for a site with multiple pages and a little functionality can be challenging. A built-in tool can assist with the bourdon, but it may require additional effort for non-experienced individuals. No idea about static generators. It's only an overview; you may always do whatever feels most comfortable. Programming has always been this way.",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aq89c",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aq89c/redirect_to_homepage/",
+    "title": "Redirect to homepage",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Since no one has commented yet, allow me to be the first, I guess... :D\n\nA couple of things come to mind:\n\nDo you have an .htaccess file with any Redirect directives in it?\nor with an ErrorDocument directive?\nDid you make any DNS changes whatsoever recently? I don't think this is directly related, but we're trying to rule things out first...\nMake sure your browser caching is disabled, just to be sure.\nTry using another browser to test the same url/path, to rule this out\nTry using anothe set of DNS servers for your computer (ie: change them to use 8.8.8.8 instead of your ISP's)\n\nNow, after ruling out all of these items, check the Network tab in your browser Dev Tools, and see what the Payload is, and the Response. The Response will have a status code, and the response data.\n\nTake things step by step. Let us know how it goes.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aq0xd",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aq0xd/seeking_suggestions_on_how_to_go_about_creating_a/",
+    "title": "Seeking suggestions on how to go about creating a customer portal that allows customers to view payment history and balances.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Take a look at these:\n\nhttps://developer.mozilla.org/en-US/\nhttps://web.dev/\nhttps://github.com/matheusfelipeog/beautiful-docs\nhttps://stripe.com/docs/api\nYouTube: Full Stack Web Development Tutorial Course",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aq018",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aq018/render_large_scale_architectural_project_in_the/",
+    "title": "Render large scale architectural project in the browser",
+    "points": null,
+    "comments": [
+      {
+        "comment": "yeah, webGL can render 3d files\n\ntakes awhile to load though, its a browser after all\n\nthis'll give you an idea from one of the libraries that sits atop webGL about whats possible\n\nhttps://threejs.org/examples/",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19app4y",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19app4y/get_array_element_from_big_array/",
+    "title": "Get array element from big array",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The array is already in memory",
+        "points": "29 points",
+        "children": [
+          {
+            "comment": "and I think array index lookups are basically free",
+            "points": "3 points",
+            "children": [
+              {
+                "comment": "Yup. Constant time lookup O(1).",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "no but like \"in-memory\" u nam sayin",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "JS automatically allocates memory when a object is created. Whenever you create a var/object/array, it is in memory.\n\nIf you're dealing with lots of data you can offload it to something like indexedDB which lets you write large amounts of structured data to disk rather than memory, and has an SQL-like syntax for setting/getting data. For me if it's >2MB of data I start thinking about more robust solutions than just chucking everything in to const myArray = [];",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "Excellent suggestion about indexedDB.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Big array\n\n3000 elements\n\nWhat?",
+        "points": "12 points",
+        "children": [
+          {
+            "comment": "He forgot to mention each element is a 20MB buffer",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "The array is just a list of 3000 pointers to your buffers. The array isn't what's large. The buffers are.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Oh",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Once a variable assignment is executed in the interpreter, it stays fully in memory until cleaned up. You can optimize memory by assigning smaller arrays, work with querying libraries to parse and organize big data files, query from a database, etc... but you can't load array elements in and out of memory without having to load them back in again from somewhere.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Even though this is web development I'd still recommend learning the basics about memory allocation, the stack, heap, etc. Not in a condescending manor, it's just really useful to know.\n\nAll array elements are loaded into memory when the array is filled. If you know that you have 3000 elements to load but you typically only need a small portion at any given time you can look into methods of breaking that array into smaller pieces. Like pagination but I believe the technical term would be more like sharding. It really depends on your requirements.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Arrays are in memory to begin with. They're \"filled\" (not disallowing empty slots though).\n\nIf you want something that's \"lazy\", you'd want an Iterator or Generator instead, and may be particularly interested in the Iterator helpers proposal.\n\nHowever, for both of those, they're \"consume once.\" In checking if they contain an item, you'd have to \"consume\" them, at least up to that point. No reset or go back methods (not to be confused with NodeIterator, which doesn't actually implement the Iterator protocol).\n\nBut, for your example, if you're wanting the performance benefit and specifically decreased memory, you could have something like the following '\n\nconst nums = Iterator.range(0, Infinity) .map(n => toNumberWord(n));\n\nAs far as getting a subset from an Iterator, you could use the take() and drop() methods.\n\nThat wouldn't all be in memory at once, and the map callback would be \"lazy\" as well, called for each iteration individually as-needed instead of up-front all at once. Same would go for a filter(), etc.\n\nBut, again, these are consumed when used. If you did:\n\nnums.find(num => num.length > 6)\n\nThat would advance the iterator and you can't go back to the beginning.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "As others have said, an Array is by definition an object that is allocated in memory.\n\nBut maybe your question is not so much about saving memory, but how to access data only when its needed ?\n\nAn Array doesn't have to be filled with data initially, for instance the following:\n\nconst myArr = new Array(3000);\n\ndeclares an Array myArr that has 3000 slots. The memory allocated is for the Array object only and its \"slots\". However, all of its slots are empty and consume no additional memory for content (as in JS this is dynamically allocated for non-typed Arrays). You can assign a value like so:\n\nmyArr[147] = \"content\";\n\nNow 2999 slots are empty while the slot at index 147 now contains value \"content\". This value is a String type and allocates memory (in JS Strings are always unique instances and cannot be referenced, even when the content is the same as in another String variable).\n\nYou can write your program in such a way that you only populate values as you need them. Then in your example slots 0 to 146 remain empty, while you only add a value at 147.\n\nBUT\n\nAt this point you can wonder whether an Array is the right data type for your purpose. Basically, if you need a list of items to be available instantly, an Array is a good choice (a Map can be equally useful). If you only need to show one item at a time and you can afford to fetch this data asynchronously (for instance from a server), maybe you only need to have a single variable for your \"item\" data. Then again, if you expect to user to go back and forth between items, you might want to store the previously fetched data in the Array to prevent making another request to your server. Depending on the size of the Array and the size of the content, memory allocation may not be an issue at all.\n\nSo maybe its good to know what data this Array stores and what your use case is =)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "you can also use a different structure that is not fully loaded to do the job. For example, an array of objects, each object being a \"page\", containing an smaller array, info like is it is loaded, start index and size. arr[0] -> { page[0..100], start: 0, size: 100 } arr[1] -> { page[0..100], start: 100, size: 100 }\n\nThen you need to optimize the loading, where you get data from a server into your structure, you could load just the parts you need right away. You could implement loading on demand and even reusing the arrays, to hold just the pages which are frequently used.\n\nOther methods would be to use streams or interators (not all languages support them for objects you create).",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Array lookup is constant time",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ap8xe",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ap8xe/manage_all_your_laravel_projects_in_one_place/",
+    "title": "Manage all your Laravel projects in one place, boosting productivity and collaboration.",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ap5gy",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ap5gy/how_to_implement_location_services/",
+    "title": "How to implement location services",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Never actually done something like this, but played with google maps few times. You’d want to use their google maps API - that is if you specifically want to use google maps, AFAIK open street map is has a totally free tier, but you can’t get rid of the watermark in the bottom corner. Anyways both work really the same in many cases.\n\nGoogle maps platform\n\nOpen street map\n\nWhen it comes to implementing your idea, it would probably come down to opening a modal with a map of your choice, setting approximate location on click, fetching its longitude and latitude and imputing it to the form you want your user to fill and giving them ability to correct it or partially filling (maybe just country and city, maybe country, city and street - up to you) but that’s the general idea\n\nEdit: Forgot you mentioned firebase - in that case I’d recommend going for google, you may even stay on a free tier depending on the traffic since I think it’s free until you hit 10k. Maybe it’s a bit of a vendor lock, but it was never an issue for me on smaller projects.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I just got chatgpt to build my usecase with google maps api and it took like 5 min to get a working example - would recommend",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The address validation API is what you are looking for: https://developers.google.com/maps/documentation/address-validation/overview",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Kinda both google maps and validation i think, since from what I understand validation is only for, well, validating and address without and ability to choose an address on a map",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ap1d5",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ap1d5/expired_domains/",
+    "title": "expired domains",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19aok22",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aok22/nested_fetch_calls_and_return_ressend/",
+    "title": "Nested fetch calls and return res.send",
+    "points": null,
+    "comments": [
+      {
+        "comment": "you need to return the response of the nested fetch, not the fetch itself.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "From what I've seen, this is how they do it.\n\nhttps://gomakethings.com/how-to-use-the-fetch-method-to-make-multiple-api-calls-with-vanilla-javascript/\n\nhttps://stackoverflow.com/questions/40981040/using-a-fetch-inside-another-fetch-in-javascript\n\nAnd the nested fetch is the part that works. It's the return res.send that doesn't exit the Promise and continues on to the following .then statements.\n\n[edited] I guess technically the return fetch statement doesn't exit the parent promise either.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "also the hell with these nestations, use async/await that'll make your life a lot a lot easier",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "add .catch ?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This diff removes the unnecessary else block, as returning from the true branch will naturally skip the subsequent code, and adds a catch block for error handling.\n\n fetch(merchantAPI, options)\n    .then(response => response.json())\n    .then(data => {\n        if(data.isSettled) {\n+            return fetch(merchantAPIAgain, options)\n+                .then(response => response.json())\n+                .then(data => res.send('Transaction has been processed'));\n-        } else {\n-            // Add to cron job\n-            return res.send('Transaction will process within 24 hours');\n        }\n+        // No need for an else block here, as it will return and terminate the chain\n+        // if the condition is true.\n+        // Add to cron job if the condition is false.\n+        // return res.send('Transaction will process within 24 hours');\n+    })\n+    .catch(error => {\n+        // Handle errors here\n+        console.error('Error:', error);\n+        return res.status(500).send('Internal Server Error');\n    });",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ao038",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ao038/building_a_realtime_texttospeech_as_gpt_response/",
+    "title": "Building a Real-Time Text-to-Speech as GPT response streams in (just like mobile chatgpt app)",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Here's my very basic text-to-speech javascript function:\n\n/**\n * Text-to-Speech with switching.\n * @param string text - The text to be converted to speech.\n * @returns void\n */\nfunction _tts(text) {\n  const synth = window.speechSynthesis;\n  if (synth.speaking)\n    synth.cancel();\n  synth.speak(new SpeechSynthesisUtterance(text));\n}\n\n\nAt the moment, I use it by adding event handlers for navigation targets, events like open/close modals, or other status messages.\n\nHere's an example of it in action:\n\n/**\n * Listens for the '?' key press and opens the keyboard shortcuts help modal dialog.\n * @param KeyboardEvent e - The keyboard event object when '?' key is pressed.\n * @returns void\n */\ndocument.addEventListener('keydown', (e) => {\n  if (e.key === '?' || (e.altKey && e.key === '/') && !modal_active) {\n    _om('modal_help');\n    if (audio_feedback == 'all')\n      _tts('Keyboard Shortcuts');\n  }\n});\n\n\nIn this specific example, when the '?' key is pressed, I want to show the Keyboard help modal window. It checks also if audio feedback is enabled for this event, which in turns calls _tts() if desired verbosity is 'all'. (I have three levels of audio feedback, 'none', 'base', and 'all').\n\nPlease note, text-to-speech will not fire until the user interacts with the webpage. It used to but that got deprecated a little while ago. I am using it for things that the user would either click, or use their keyboard for, like navigation or help, or various other commands.\n\nI imagine you could use something similar, by firing _tts('text here') when some API is used, or some other action or event happens... I also use it for status messages when updating the server dynamically. I tend to think of it like another message target in addition to updating a <div> on the page. Just, it plays audio to the same effect.\n\nDoes this help?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Thank you! That makes sense; however I was looking more into using more advanced TTS models (not browser builtin TTS) like elevenlabs or openai",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19anybt",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://labs.pineview.io/using-openai-platform-to-analyse-automated-test-failures/",
+    "title": "Using the OpenAI platform to analyse automated test failures",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Summary to save a click:\n\nThe article outlines the development of a Nightwatch.js plugin that sends test failures and errors to a service integrated with OpenAI's platform for analysis and actionable feedback. Nightwatch.js, a Node.js-based open-source library, facilitates automated and end-to-end testing for websites and web applications. The tutorial describes building an express.js API service to interact with OpenAI and creating a Nightwatch.js plugin for sending test data to this service. The final step involves combining the plugin and service in a test project to analyze various simulated errors, emphasizing that this is an experimental setup primarily for demonstration purposes.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ansnp",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ansnp/how_do_i_host_a_nodejs_app_on_my_linux_pc_on_a/",
+    "title": "How do I host a nodejs app on my linux pc on a custom domain?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Easiest option I see for exposing your local http server to web is to use ngrok or cloudflare tunnel. Not sure about the custom domain , they give your their own public address.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I tried cloudflare tunnel, its amazing! Thank you!",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Check out https://free-for.dev/#/?id=dbaas.\n\nTop of my mind, if you can convert the separate nodejs code into server side code in a meta framework like NextJS or Sveltekit, you can host both frontend and backend for free on netlify or vercel.\n\nSince both nextjs and sveltekit have node backend , it shouldn’t take much time to port over. Let me know if you want any help, I’ll be happy to point you in the right direction.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ank9t",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ank9t/what_are_some_things_that_are_legally_required_to/",
+    "title": "What are some things that are legally required to be in line with the law, if I'm building a (monetized) web app?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Just off the top of my head:\n\nCookie consent banners (even if your market is in the US)\nSecurity protocols to be followed when storing personal or financial data in a database (just don't, just let Stripe or some other service handle the latter)\nAccessibility compliance, ADA, WCAG\nLegal disclaimers for your marketing text, mostly to avoid getting sued for false advertisement",
+        "points": "73 points",
+        "children": [
+          {
+            "comment": "NAL but the accessibility compliance thing, while a great idea to include it, i dont think you would be in any legal trouble if you didnt?",
+            "points": "16 points",
+            "children": [
+              {
+                "comment": "Pretty sure I just read here last week about some scummy individual and her lawyer looking up local businesses with very basic websites (think mom-and-pop shop budgets) and suing them, claiming they cannot access the website, then settling for a huge check later on.",
+                "points": "8 points",
+                "children": [
+                  {
+                    "comment": "I believe that according to federal rules there is not such thing as \"website ADA compliant\" as there isn't really anything that nails that down to a specific list.\n\nI also believe that most businesses just have to add that they are \"striving to meet WCAG Level A\" or whatever verbiage in their terms / privacy policy whatever page.\n\nBut scum bags gonna scum bag and try to sue the small guys wherever they can.",
+                    "points": "14 points",
+                    "children": [
+                      {
+                        "comment": "Very actual disabled people have had to sue companies because very basic functionality (paying utility bills, etc) wasn't built in an accessible manner.",
+                        "points": "",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "While most ADA-related lawsuits are filed against government agencies and are the impetus for 18F, there was a marked increase of (in)accessibility lawsuits against \"regular\" businesses in the last year. Please pardon the Forbes link.",
+                "points": "5 points",
+                "children": [
+                  {
+                    "comment": "TIL thanks",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Not yet, but there are some discussions in the EU about enforceable accessibility requirements.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Cookie consent banners have to do with third party cookies, right?\n\nWhat if one eschews third party cookies?",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Cookie consent is only required if you are using cookies for tracking or you are loading third party trackers. If you're not placing cookies that can be used for tracking it's not required.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "In my previous career I was a commercial attorney. Apart from GDPR and other privacy matters I'm not concerned with accidentally infringing on the law. It's true that lack of knowledge of the law is not a defense. But at the same time, no one is seeking legal action against me and my app with 17 customers.\n\nDon't be an asshole. Don't be a thief. Apply common sense. You'll be fine.\n\n​\n\nObligatory \"This is not legal advise \"\n\nWith that said, noting that a user did indeed agree to my TOS or Privacy Policy makes a lot of inherent sense and seems trivial to implement",
+        "points": "53 points",
+        "children": [
+          {
+            "comment": "Don't be an asshole. Don't be a thief. Apply common sense. You'll be fine.\n\nAnd, importantly, if someone does reach out to you about something legal-related, talk to a lawyer and deal with it.",
+            "points": "23 points",
+            "children": [
+              {
+                "comment": "Yes. Very important point.",
+                "points": "5 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you're storing PII -- Personally Identifiable Information -- you should absolutely keep GDPR regulations in mind from the design stages. When you start collecting PII From your customers, you really should keep data integrity, security, right to deletion, and so on, in mind for your app. This isn't just a regulation, it's best practice for you and your customers.\n\nWith GDPR, there's a principle of accountability from the platform owner. You have to be upfront about your terms, you have to allow your users to consent, and then you should offer a way for your users to remove consent later on... Consent shouldn't last in perpetuity.\n\nStarting out, if you're collecting PII and storing it in a database, especially an app that accepts payments, it should be trivial to also store consent agreements. If you can store an input field with a name and address, you can store a consent agreement. It's also good for you to cover your ass, someone says they didn't consent to X, and you have an audit trail of, well, yes, you did, and I presented X to you honestly and clearly without confusion.\n\nIf you don't have named users, individual users, profiles, etc, then you probably don't need a mechanism for storing consent, and even the idea of storing consent would almost force you into keeping some PII for audit. Like, if you outsource your payments to a third party payment platform, and outsource all of your user data to another platform, the consent agreements from those platforms should be adequate as long as they are GDPR compliant.\n\nI'm not a lawyer, this isn't legal advice, I've brought small non-European clients into GDPR compliance. I could have some details wrong and will be happy to be informed & corrected.",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "Out of curiosity, is \"right to deletion\" met if you anonymize the data but preserve the account history?\n\nEg remove all PII so what remains is like \"Customer 123 had this activity\" but there's no way to know the name of Customer 123.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "I’d think so, because that’s what Facebook does. If you remove the account, the messages you’ve sent may remain, but all identifiable information will be removed (or so they say).\n\nPersonally I hate that policy as a customer and I don’t sign up to sites anymore unless I can remove all traces of my activity. As a dev, I’ll definitely let people decide what to do with their own data.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "There's a lot of nuance to \"Right to deletion\" (and it's frequently misunderstood by individuals who think it's a blanket right to delete everything you've put on a platform, it isn't, and many things are not covered) but in general, companies/platforms can have an interest in preserving customer data even if it's personally identifiable. For instance, if a customer has a warranty for one of your products, say a 7 year warranty on a fridge, you have a compelling interest in preserving that customer's information even if it's personally identifiable. The language of GDPR mentions, \"overriding legitimate grounds,\" and even keeping modest customer receipts might be \"overriding legitimate grounds.\"\n\nSImilar to what u/-tinysnowpenguin brought up, sometimes users will interpret right to deletion/right to erasure as covering any sorts of content they've contributed to a platform. For the most part, right to deletion/erasure, \"right to be forgotten,\" etc, does not cover that or extend to that. It can from some platforms, they might do it just for their own sake, but the law doesn't compel it usually. For instance, if you've created a username on a web forum, wrote 1000 posts, and some of those posts might have personally identifiable information in them (say like you were talking with another user and mentioned where you worked, what your job is, and how old you were, or maybe they posted your first name, things that could be used to identify you), the platforms don't necessarily have to respect a request for that to be deleted, especially if they have an interest in preserving it. There are also cases where platforms might have a direct interest in preserving PII to protect them from litigation or in a legal issue, say if a user harassed another user and did so using video or pictures of themselves that could be identifiable, the platform has an interest to preserve those. It also doesn't have to be for a legal reason or some violation.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "What laws? American? European GDPR?",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "European",
+            "points": "5 points",
+            "children": [
+              {
+                "comment": "You’ll definitely want to follow GDPR.",
+                "points": "16 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you want to deal with actual bank card information you need to be PCI compliant, this is a huge pain. Which is why most places will use a third party provider (see stripe)\n\nFor personal information you should store consent, you also need to appoint someone as a data registrar. Their job is to ensure compliance.\n\nIf you are selling you also need to keep an eye on Tax rules, it's slightly easier if you are all in Europe but can get complex if your start selling internationally (you may want to look at Shopify or something which can possibly handle a lot of this)\n\nAnd you need to keep your accounts and tax up to date and compliant as you would as any other company (get an accountant)\n\nGood luck.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "I got point 1 covered I suppose, since I'm using stripe. Does stripe take care of the tax rules thing you mention?\n\nGood point about the consent, so you mean something like \"I agree that my personal info (email, date of birth) gets stored in database\"?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I don't think strpe will sort out the tax. That will depend on what your tax rate is. Are you a product or service? Shipping can be a different rate to the product too. You'll need to register as a company and do accounts etc so you send the correct amounts of tax ( I suggest finding an accountant)\n\nShopify might do. I've not used it enough to be sure.\n\nWhile I'm remembering things, I think you also need a modern slavery statement.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "The product is a service, so no shipping and all that.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The legal requirements depend on what jurisdictions you are operating in.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Is there a way for a user to use your app without agreeing to the TOS? If not, I don't see the point in storing anything in db.\n\nI know this doesn't answer your question specifically. But a law like that would make little sense.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "Is there a way for a user to use your app without agreeing to the TOS?\n\nNope. I had the same remark in myself; why store TOS agreement time if they can't sign up without agreeing.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Only reason is if you want to let users re-agree when you make changes to the TOS.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "I see, yeah that makes sense.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Since a lot of answers opened my eyes, does anyone know how and where to report bad use of PII? Where I am working the user passport pictures are shared as candy between members of the organization for debugging purposes.\n\nThis would be for Europe.\n\n/e Country",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you monetize you need serious legal advice.\n\nReddit may just give you some ideas but every country/state has its own regulations.\n\nPay a lawyer to do the job for you.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19anbk2",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19anbk2/where_to_host_svg_files_simple/",
+    "title": "where to host svg files? simple",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19anagq",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19anagq/host_tech_says_this_is_not_malware_but_the_hosts/",
+    "title": "Host tech says this is not malware but the host's scanner says it is. Is it?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "These rules alone don't do those things, but the code in index.php might.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19alvw9",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19alvw9/dealing_with_whitespace_in_text_areas_with_a/",
+    "title": "Dealing with whitespace in text areas with a minimum character count",
+    "points": null,
+    "comments": [
+      {
+        "comment": "If the user confuses white space for characters then what can you really do? lol. Just have the message explain that white spaces don't count as characters.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "the user may think: \"I did. I entered 10 spaces\"\n\nI doubt anyone is going to think that. Trailing white spaces are almost always the result of errors (auto complete, paste with whitespace, etc). In the few cases where they are not, they are because people are trying to be clever, in which case they won't think 'I did. I entered 10 spaces' but 'Ah, shame. this didn't work.'\n\nAlternatively, you could always trim whitespace on keyup / change / etc:\n\ntext.addEventListener(\"keyup\", (event) => { event.target.value = event.target.value.trim(); });\n\n(Obviously you'll want to do deal with edge cases etc, but in principle)",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "exactly.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "youre thinking way too hard about it.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah you’re overthinking. A space doesn’t count as a character in most peoples mind. Just trim.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It really depends on what you’re working with. If you can write custom validation functions then you can trim the white space in there.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Copy the string to a var, then do a regex replace: /[^\\w\\d]+/ replacing those with nothing. In JS it could look like:\n\nyour_text_duplicate.replace(/[^w\\d]+/i, '')\n\n\nand then look at the size of the resulting string. This would also eliminate the char count for all punctuation. So \"foo..............\" would be 3 characters instead of > 10.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You could account for that by modifying user input on the text area to let the users know it gets stripped, and/or show an additional error message for when something does get stripped.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19alqys",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://imgsrc.io/tools/open-graph-debugger",
+    "title": "Open Graph Debugger - A tool to preview how social platform render links",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19akstj",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19akstj/is_this_course_still_relevant/",
+    "title": "Is this course still relevant?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I took a look at the description and its MERN stack. Its not the craze now but it still quite powerful. Presumably many companies adopted this stack a while back so it might help get a job if you’re looking for one. If you just want to learn web dev, take something new because I’d say things are much more fun now than before.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I mean react and node are widely used right now, but what would you recommend i start with?",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "I used to do a lot of NextJS with scss but now I’m working with Sveltekit. It’s very simple to understand and learn. Their docs are very helpful and interactive so definitely check it out.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19akq7g",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19akq7g/how_can_i_learn_using_existing_things_instead_of/",
+    "title": "How can I learn using existing things instead of trying to build everything from scratch ?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "There are UI frameworks like Bootstrap, Chakra, NextUI, ShadCN, Skeleton that work with different JS frameworks. There is obviously TailwindCSS and other headless UIs that work with that. In terms of built frameworks, you can access pre-made components on a lot of places on github.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you dont want to code out a simple site then I would use something like Wordpress.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think it just comes with time/experience. When you run into a new problem search around for solutions and try them out, per your example search for something like “simple static site generator”. Eventually you’ll have a mental toolbox of what saves you time/effort/money and what’s easier to just DIY.\n\nFor your example, I personally would use Astro.js, because it’s in my toolbox as the simplest way to build a static site while still allowing full customization.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Projects like what you've mentioned that have a small budget and need a simple solution, just use WordPress. A handful or people will talk smack about it, but it's just another tool in the box. WordPress can be as simple or complicated as you want it to be and it's super easy to develop a custom theme or plugin or two if you need.\n\nI've been developing themes and plugins on WordPress for over a decade, and it's often preferred by clients because it's something they've already had exposure to. More than half the web runs on it at this point.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "you cannot write a simple website? if you can, what is the problem with writing them? i don't understand what do you mean by \"things\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "per your example: that's what squarespace/webflow is for. Maybe a little longer to build something like that in a drag-n-drop than code, but it's doing right by the client. at the end of the day they have something that's easy for them to maintain.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For simple projects like that you usually go with a backend as a service platform like firebase or supabase",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You may want to check out topics on https://codepen.io for inspiration.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Tbh I would just start a nextjs project with tailwind, build the different components needed for the site, build the different pages and then create a static build to host on any server.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have the same project as you described. On the front i have decided to use react and backend, laravel. I dont have to create API because I am using inertiajs that acts like a glue between laravel and react. Basically an admin dashboard using shadcn components and puplic pages as the store showcase.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ak2nu",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://socket.dev/blog/cyber-insurance-premiums-expected-to-increase-in-2024",
+    "title": "Cyber Insurance Premiums Expected to Increase in 2024, Ransomware Cited as Top",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ailro",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ailro/thinking_of_a_career_change_what_should_i_do/",
+    "title": "Thinking of a career change - what should I do?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "That feeling that I equate to a runners high, is not a constant thing in any industry. It's the peak, the plateau, the codegasm. A plumber feels the same thing when he turns the water back on. My bet is, you would switch careers and find that out pretty quickly.\n\nStick with dev. At least this way, a shower when you immediately walk back in the door from work doesn't need to be the first thing you do.\n\nIf you really want more job-related adrenaline, just moonlight doing some DevOps work. Nothing gets the blood pumping like a 3am alert from AWS that half your infrastructure just went down.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "Hmm, I get where you're coming from but I often feel like i'd be much better elsewhere than being an average dev...",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "It sounds like you just need more fulfilling dev work. Happiest I ever was is when I was working on drones that ended up helping to save endangered spider monkeys.\n\nIt's not always the actual development that can give you that excitement, it's the problem you are solving.\n\nYou should find a company that is doing something inspiring, fun, creative, innovative, or just trying to make the world a better place in a manner you find appealing, and then apply to that company. My one buddy works on robots that clean the oceans. I bet that is fulfilling and will trigger your codegasm on a regular..",
+                "points": "4 points",
+                "children": [
+                  {
+                    "comment": "Point taken :)",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The career you are looking for is that of a Solution Architect. While you won't be coding actively as much, you will be tasked to provide best solution to a problem with all the best practices you have acquired with your expertise and experience. You will be looking at the bigger picture of maintaining a code base to the industry standards.\n\nGive it a try, I think you will be put on the front lines to tackle any problems the client is facing.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Interesting, I thought it was more networking / cloud based but happy to be wrong!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Product manager",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Solution architect",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Plumber or Solar systems installer. Both make BANK.",
+        "points": "-4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What you describe matches my experience as engineer. But if you are looking for a role that is a guaranteed to be a little more dynamic:\n\nDeveloper Advocate\nSolutions Architect\nconsulting\n\nAnother thing to consider is that you can scratch that itch outside of work by helping people in your community and joining new communities that can benefit from your skills.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You might want to look into development classes/training. I looked at CourseCareers (https://coursecareers.com/a/6cfa3764) and they seem like a great way to gain foundational knowledge and develop skillsets for lots of tech jobs. They have classes for frontend/backend development, as well as IT (which I think would suit you well since you're building a \"toolbox\"). I thought the tech sales course looked pretty good, too - finding solutions for customers is right up your alley. It sounds like you aren't quite sure which path to go down, but the introductions to their courses are free, and they even give a breakdown of what career paths could look like based on the skills you develop. Maybe look into it? I hope this helps!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ai5me",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://claritydev.net/blog/build-dynamic-forms-react-hook-form",
+    "title": "Build Dynamic Forms with React Hook Form",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19ai1ko",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ai1ko/easy_to_use_foss_mitm_proxy_forwarderproxyio/",
+    "title": "Easy to use FOSS MITM proxy (forwarder-proxy.io)",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19agphj",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/0c81thv1qddc1.png",
+    "title": "Why does Ubuntu font from Google Fonts looks so ugly on Chromium browsers? Firefox looks fine.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hinting: https://fonts.google.com/knowledge/glossary/hinting\n\nFirefox might be ignoring the font's hinting and just rendering it normally. They also use different vector to raster implementations",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "So can I do anything about it, other than completely changing font?",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Change the font. No hack or tweak is going to get it the way you want it.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Just wonder why fonts on Zeplin render correctly hmm",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "Cause zeplin either direct renders via cpu to your display buffer... or it upscales the text and has its own anti-aliasing methods.\n\nEither way you are not going to get it the same everywhere. So just pick a font that vibes with you.",
+                        "points": "1 point",
+                        "children": [
+                          {
+                            "comment": "Nah, I think it displays some kind of canvas instead of pure html. Anyway, thanks!",
+                            "points": "1 point",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "looks like an anti aliasing issue. only way to fix that is to contribute to the chrome v8 engine 😅",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ag9g6",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ag9g6/newbie_building_a_microsaas_from_scratch_so/",
+    "title": "Newbie building a Micro-SaaS from scratch so others can learn.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This first one is about choosing the tech stack, and the idea and setting up very basic UI with Tailwind.\n\nI'm connecting the backend soon and if this is relevant to you LMK and I'll share with you the progress 🙏",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ag89p",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ag89p/give_me_something_to_build/",
+    "title": "Give me something to build",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Creativity is a big part of being a web developer. Think outside the box and/or make something that can be genuinely useful for yourself and/or at least one person.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sounds like you're working in retail infra. How about a staffing system. shift scheduling, time clock, time off request/approval system, sms notifications etc. Could even go with an AI angle and have an AI analyze staff scheduling availability/preferences to make a preliminary schedule.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ag29h",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ag29h/cloned_site_in_ploiio_but_dns_records_still/",
+    "title": "Cloned site in ploi.io but DNS records still resolving to original",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Hey!\n\nI believe you popped this question in our support discord, and I noticed a community member helped you, is that correct?\n\nPlease let me know!",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Yes, that's right! I got it sorted thanks to the help from the member on discord. Thanks!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ag133",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/2vrarsj5iddc1.png",
+    "title": "Honestly one of my favourite operators",
+    "points": null,
+    "comments": [
+      {
+        "comment": "I love it, I just used it five minutes ago.",
+        "points": "77 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "javascript val1 != null\n\nis the same as\n\njavascript val1 !== null && val1 !== undefined\n\n(feel free to correct me)",
+        "points": "42 points",
+        "children": [
+          {
+            "comment": "That is correct",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "And what about !val1?",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Wouldn’t that catch if val is 0 or false as well?",
+                "points": "37 points",
+                "children": [
+                  {
+                    "comment": "Yeah, that will catch anything falsy, which is a shocking amount of things.",
+                    "points": "14 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              },
+              {
+                "comment": "Nah mate, that will return true for 0 causing bugs",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "\"val1 != null\" is like \"!val1\" and takes all falsy values into account, not only null and undefined",
+            "points": "-6 points",
+            "children": [
+              {
+                "comment": "It does not. \"==\" and \"!=\" do not compare falsyness and truthyness, but value. null and undefined are considered to have the same value, but not the same value as other falsy values like 0, [], {}, NaN, \"\", etc.\n\nhttps://builtin.com/software-engineering-perspectives/javascript-null-check",
+                "points": "3 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "That’s not correct. != would allow for empty array.",
+            "points": "-3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Ahem. \n\n typeof val1 !== \"undefined\"\n\nBack in the day there was a risk undefined could be overwritten. I think that’s been fixed these days? But old habits die hard.",
+        "points": "19 points",
+        "children": [
+          {
+            "comment": "That's the reason void 0 is often used as an alias for undefined. The void operator ensures that undefined is returned whatever expression is passed to it.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "The real reason to day is a bit different. void 0 is 6 characters while undefined is 9 characters, so there's decent wins for your minifier.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "This was changed way back in ES5 and strict mode. If you \"use strict\" or use any ES6 features that imply strict mode (which is most of them), this will never be an issue.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why not did it previously like:\n\n``` const val1 = null; const val2 = 100;\n\nconsole.log(val1 ? val1 : val2)\n\n// -> 100 ```\n\nOr\n\n``` const val1 = null; const val2 = 100;\n\nconsole.log(val1 || val2)\n\n// -> 100 ```\n\nAnd why previously strict type check for nullish / undefined values and not val1 == null in this case?\n\nFor everyone who wants to learn more about it: * https://stackoverflow.com/questions/61480993/when-should-i-use-nullish-coalescing-vs-logical-or",
+        "points": "68 points",
+        "children": [
+          {
+            "comment": "I believe using ?? only checks for null/undefined whereas using a ternary or || checks for a truthy value\n\nconst val1 = 0; const val2 = 100;\nconsole.log(val1 ? val1 : val2) // returns 100\nconsole.log(val1 || val2) // returns 100\nconsole.log(cal1 ?? val2) // returns 0",
+            "points": "129 points",
+            "children": [
+              {
+                "comment": "Yep. For another easy example that shows the benefit, imagine the findIndex() method for an array.\n\nIf you use findIndex and it's the first element in the array, the findIndex method will return a value of 0 - which is falsy in JS.\n\nUsing the || operator for that could be confusing, and give you an inconsistent logical bug that makes you think that you aren't finding an element. But using the ?? operator would still return a 0.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Basically Boolean Operands (if, &&, ||) deal with whether or not a value is true or false. Not strictly with whether or not a value is undefined/null or not.\n\nYou could have actually done it as ``` const val1 = null; const val2 = 100;\n\nconsole.log(val1 || val2)\n\n// -> 100 ```\n\nand it would work.\n\nBut if you did ``` const val1 = 0; const val2 = 100;\n\nconsole.log(val1 || val2)\n\n// -> 100 ```\n\nRather than it giving you val1, it would give you val2 as 0 is considered a false value. There are cases in which you want to check whether or not a value exists or is defined, but at the same time still consider 0 to be a legitimate value.",
+            "points": "46 points",
+            "children": [
+              {
+                "comment": "The fact that javascript has that obtuse conditional logic to begin with is infuriating.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "When working with numbers, where you want to treat 0 as a valid value, sure. But most of the time it's more useful than not, and the option of strict vs non-strict equality is right there if you want it, so why's it infuriating?\n\nIt's not even really obtuse. Sure there are edge cases where things can get weird, but in ten years I can't remember a time where anyone I've worked with has run into a real problem due to non-strict typing in JS, and I work with a ton of JR devs. Only in contrived examples of how \"JS is bad\" do you often see this stuff.\n\nIn comparison, you have things in other languages that are a struggle any time they're used or (unlike js type coercion) aren't even well-documented. (Looking at you, C# async handles)",
+                    "points": "11 points",
+                    "children": [
+                      {
+                        "comment": "Honestly it's no use spending your time and energy writing long and thought out responses to people who probably don't want to listen anyway. Let them say their \"js is obtuse\", \"php is a crime against humanity\", \"Rust is a gift from god\" etc. while you continue actually getting things done.",
+                        "points": "2 points",
+                        "children": [
+                          {
+                            "comment": "Right, those attitudes keep our salaries higher.",
+                            "points": "2 points",
+                            "children": [],
+                            "isDeleted": false
+                          },
+                          {
+                            "comment": "It can be obtuse and also literally the only way to do things on the web, they aren't mutually exclusive",
+                            "points": "0 points",
+                            "children": [],
+                            "isDeleted": false
+                          }
+                        ],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "I think the problem is more that in js null and undefined are different.",
+                    "points": "1 point",
+                    "children": [
+                      {
+                        "comment": "No, it makes sense and useful distinction.",
+                        "points": "-1 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  },
+                  {
+                    "comment": "You can also convert it to string beforehand, if 0, and it would also work as “0” is true but the int 0 is not lol",
+                    "points": "-1 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "0 is a falsy value, which in a lot of cases produces undesirable behavior if it’s actually treated as false.\n\nFor example, if I want to display a count, or maybe a dash or N/A if the value isn’t present, I can’t just do\n\nreturn count || “N/A”\n\nSame idea with false and empty string values. There are a lot of scenarios where you may want to indicate an explicitly set value versus one that is just missing.",
+            "points": "7 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "in case you want to log val1 in case it's 0, an empty string, or even false. it's even more useful in case of deeply nested values. you can just do the optional chaining plus this bad boy.",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "what color theme are you using?",
+        "points": "9 points",
+        "children": [
+          {
+            "comment": "I don't think that's a colorscheme, but from this website: https://ray.so/",
+            "points": "",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "this also in PHP",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "But PHP is dead, so who cares.\n\n \n\n<?\necho '/s';\n?>",
+            "points": "21 points",
+            "children": [
+              {
+                "comment": "Well the code snippet with the short php tags no longer works in modern php since php7 i think. So that version of php you wrote is actually dead.\n\n(Although there may be a setting in php.ini to allow short tags)",
+                "points": "3 points",
+                "children": [
+                  {
+                    "comment": "It's just a setting on/off. I use it all the time.",
+                    "points": "3 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Since 2015 I think",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "https://stitcher.io/blog/shorthand-comparisons-in-php",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I use it a lot in PHP instead of using isset",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I use this in our codebase a reasonable amount, makes it a lot less verbose, also I'm a lazy fuck.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wait till you discover the ?= operator",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Did not know this! thanks for sharing, the ternary gets out of hand sometimes",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "i never think to use it and do the old way i should search and replace on my codebase one day",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Works for assignments too.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Contrived example use case:\n\nlet displayName = customer.preferredName ?? customer.givenName;",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You can replace\n\nval1 !== null && val1 !== undefined\n\n\nwith\n\nval1 != null",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "In case anybody's wondering why this would have the intended effect, other issues notwithstanding... undefined means that variable is undeclared. A variable cannot have a value, null or otherwise, unless it has been declared.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "That's not entirely correct. In JavaScript you can have declared variable or property that have declared value of undefined.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Why javascript introduced a second \"nil\" object is a mystery that i'll never understand tbh. In modern times languages like rust are showing us that having null be a thing in your language at all might be a mistake. Let alone 2 different kinds of \"nullish\" things.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Probably to differentiate between intentionally empty reference and actually undefined one, since early JS was all about throwing as few errors as possible.",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s also a nice pattern of throwing exceptions.\n\nconst foo = bar ?? throw Error(“bar is undefined”)",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "in ts or swift you can you const foo = bar!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "One thing to remember with it is that it won’t coalesce an empty string. only coalesces nullish values like undefined and null. I’ve made this mistake myself using it but as long as you remember that it’s great. I guess technically it’s part of the name so it should be obvious. Lol",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "i mean the syntax is neat, but i still just end up doing val1 || val2 most of the time. i guess this is better for optional booleans though, since it doesn't use the fallback value when the value is set to false like doing an OR operator would.",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This works especially well with optional chaining: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Thanks for sharing. It returns a if it’s falsely, not just undefined or null. A great short video explaining this: https://youtu.be/G15X7gYi-X0?si=mwdVQTADXkjO4bJt",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "ain’t this same as console.log(val1 || val2) ?",
+        "points": "-2 points",
+        "children": [
+          {
+            "comment": "nope, || will return b if a isnt truthy which includes a=0. ?? Is only for null values",
+            "points": "6 points",
+            "children": [
+              {
+                "comment": "NaN ?? 1; // NaN\n\nGross.",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Thought this was kinda weird too until I considered that the same outcome happens with Infinity. Guess they just aren’t considered nullish",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "If you want to compare falsify not false you can also do this\n\nconst a  \"\";\nconst b = undefinded; console.log(a || b);\n\n\nAlso others;\nfunc && func() or func?.(); array && array[i] or array?.[i];\n\nIf you are sure array or obj exists and if you want to assert if it doesn't exist; (for ts)\n\nobj!.func() or array![0] or array[0]! or more ugly array![0]!",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This has been in C# for about 15 years.",
+        "points": "-1 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Zoomers invented double pipe ||\n\nI know about that it will work wrong with false. In my time it wasn’t a problem.",
+        "points": "-2 points",
+        "children": [
+          {
+            "comment": "What",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "You haven’t heard about ‘||’, right?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "Yes, logical OR. What does that have to do with zoomers?",
+                    "points": "1 point",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Syntactic sugar is nice and all but can be hard to read. I like how Resharper expanded/shortened syntax. It let you think through the problem, write it out verbose , then it’d automatically shrink it down. Or the opposite of someone used hieroglyphs and your scroll over to see what they were trying to do. I try to avoid writing code that turns into regex.\n\nYou can bend over backwards describing null and undefined being necessary but it is fundamentally a mistake or oversight in Javacript. First you shouldn’t use exceptions to define your control flow. Second no other type safe language uses it. While Js is dynamic you also can’t manage memory so who cares if the variable is initialized or not?\n\nIn short I’ve never seen a need or good use case to rely on null or undefined so this is a patch over a poor implementation by a very old language designed in a week.",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Rust equivalent :\n.unwrap_or(…)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "It’s very popular in Swift and used all the time in production.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What color theme is this?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My favorite is the ?: operator which is pretty similar since null typically evaluates to false. The difference between the ?: and the ?? operator is that the ?: operator returns the first operand if it is \"truthy\" and, if not, returns the second.\n\nBut the real reason I love it is that it's the \"Elvis Operator\" because it looks kinda like Elvis Presley.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "NaN ?? 1; // NaN\n\nGross.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Javascript is truly the language of \"she swallowed the spider to catch the fly\"",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lobotomized owls were kinda fun.\n\nStill rely on the UFO operator on a weekly basis.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Did people not know about this? I've been using it for at least close to couple years",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What is this app?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "The screencap? It could be taken with Shottr on the Mac, or could also be https://carbon.now.sh",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Twig, too: {{ val1 ?: val2 }}",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "My favourite one is the spaceship operator :)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "i'm a newbie\n\ncan't we just write !val1 ?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I love ??, but man does it create a mess with Code Coverage Unit Test reports\n\nDepending on the values, it creates like 8 conditions that would need to be covered for 100 coverage",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I have mixed feelings right now, but will probably like them in the future.\n\nI work in a codebase where other engineers use them a lot and I think, sometimes, we are reducing the number of characters in code to the point where the abstraction can be hard to understand due to information density. There's a reason people like longer-but-aptly-named variables instead of 'a', 'b', etc etc.\n\n​\n\nI'm positive once I work with them more I will feel better about it. Even if my personal style will probably stay just a liiiiittle more verbose for the sake of, what I consider, clarity and breathing room.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Sometimes I use ~~+  in integer arithmetic because it never errors out",
+        "points": "",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19af42j",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19af42j/why_vuejs_for_file_explorer/",
+    "title": "Why VueJs for file explorer",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19aen6o",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://i.redd.it/vw1iyfmp0ddc1.png",
+    "title": "I am graduating this year, and I am currently working on some projects while updating some older ones, I am also getting ready to apply for jobs, this is the first version of my resume, can I please get some feedback?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Read this Reddit post and use their resume template",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "thank you so much\n\nEdit: Hi, I read through that post, thank you very much again for recommending it.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Nice looking layout!\n\nWhile the \"skills\" section looks nice, it takes up a lot of space.\nI'd rather see a a little more more detail on each project.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "That's true, I am looking at some other layouts right now, thanks for the reply.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "The skills section is basically a keyword dump for resume scripts, which can be important when you’re dumping applications everywhere to keep you from getting filtered out. Anymore, you’re better off just making the resume more pages. Most people have moved past the 1-2 page rule. Most applications I get these days are 4-5 pages for senior roles and 2-3 for juniors.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Take a look at Harvards resume examples. Too much going on here.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "Thanks for the advice, I will look into it. But just for future sake can you specify the things that stuck out to you as unnecessary or too much?\n\nI showed this resume to my college professor and they said that It doesn't have enough info, like where is your school grades and stuff. and they also told me to make it look prettier. And flat-out rejected it.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Harvard resume template mate, it matches all the requirements that your professor had said earlier and it is also pleasing to the eyes in a sense of formality and professional.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "For your experience and projects its all so vague it doesnt tell me really what you are capable of doing. I should be able to read those sections and know exactly what you did without have to also read your skills section. Sure I can look at your github but as a hiring manager your resume is what should tell me all this Im not going to waste time tracking down your projects to see what it is you did exactly.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "OPs resume is as simple as it gets. Harvard's resume example has much more going on.  \n\nCan you name 1 specific thing that you find unnecessary?",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "companies love to hear about how you solved problems that were unexpected or unplanned during development.\n\nalso write about the pitfalls encountered and how you would avoid them in later projects\n\nfor example i faced an issue in a school system where multiple enrollments where stored on a singular invoice, I've learned that having each enrollment on a separate invoice is best practice and simplifies payment and due amount calculations",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Lots of basic 'tutorial' apps, but I also had that in college to be fair",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aekev",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aekev/can_a_website_understand_if_the_browsertab_is/",
+    "title": "Can a website understand if the browser/tab is minimized?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Yep.\n\nhttps://developer.mozilla.org/en-US/docs/Web/API/Page\\_Visibility\\_API",
+        "points": "32 points",
+        "children": [
+          {
+            "comment": "perfect answer, thanks!",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API",
+            "points": "-5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aeala",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aeala/google_ads_crawler_giving_errror_301_redirect/",
+    "title": "Google ads crawler giving errror 301 redirect when i try to submit website URL",
+    "points": null,
+    "comments": [
+      {
+        "comment": "website : amc - int (dot) us\n\nTried the folllowing combinations while submiting URL: (non-www to www, with \"/\" to without \"/\",http:// to https://)",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ad7hw",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://www.zachleat.com/web/a-taxonomy-of-web-component-types/",
+    "title": "An Attempted Taxonomy of Web Components",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Here's a hint to decide on reading the post or not:\n\nThis post explores the evolving landscape of web components, focusing on zero-dependency components that do not rely on external libraries. The author categorizes web components into HTML and JavaScript types, highlighting their use cases, benefits, and limitations. HTML Web Components are described as the core use case, enhancing interactivity while prioritizing progressive enhancement, with examples and technical details of various components. JavaScript Web Components are acknowledged as less ideal but useful in certain contexts. The post delves into technical aspects like CSS injection and Shadow DOM nuances, emphasizing the need for a balanced approach in web component development. The author concludes by advocating for the versatility and longevity of web components in diverse environments, encouraging experimentation with the technology.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ad2jt",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ad2jt/please_give_honest_feedback_if_the_software_im/",
+    "title": "Please give honest feedback if the software I'm building is solving a really burning problem or it's just a good to have product.",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Might be useful in orgs where folks writing the business requirements are far from developers implementing the requirements.\n\nThat said, in a typical start up setup (1-2 week sprints, stand up every morning, pull requests auto-attached to tickets), I feel like you'd only need this if there was a significant breakdown in communications.\n\nI would get a working prototype going, very basic, then try to get it in front of some product managers and developers. Once the shock and awe wears off, you should get some actionable feedback.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "If it surfaced insights to help focus and guide refinement and estimation, that would be a godsend.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Thanks for your feedback. I'd request you to explain your answer little more like what types of feature you are expecting. It'd be really helpful for me.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Time estimates. What's left to do on all the tickets. Estimation for launch.\n\nAlthough it could be seriously abused by PMs to work SWEs to death.",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "micro management hell",
+        "points": "4 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Don’t ask us, ask the companies",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Probably be better if it looked at historical work and built estimates from that rather than live work, the measurement becoming the target thing applies here and it would encourage people to try to progress the score with the bot rather than work on the problem.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19abt6r",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19abt6r/what_is_considered_simple_normal_and_advanced/",
+    "title": "What is considered simple, normal and advanced websites?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "The simplest websites are those that only need html and css, and no JavaScript. These are websites where the user doesn't really do much except look at them. Think personal websites, portfolios, small business' websites. Something you could make with wix.\n\nMore difficult would be something that does require JavaScript, the easiest example I can think of being the quintessential todo list app. These are usually written using a JavaScript framework like React or Vue. The more functionality it has, the more complicated the website is. For example, a todo list app that allows users to create an account, save their todos online, edit and delete them, and search for other people's todos would be much more advanced than the basic todo list app. These websites may require a simple backend to store information. Also in this category (but on the easier side) would be websites that use a CMS to manage content.\n\nThe most advanced websites are complex software where the website itself is the product. For example, e-commerce sites like Amazon, social media sites, or software-as-a-service (SaaS). These usually require whole teams of developers.\n\nThis is all just my subjective opinion, but I hope this helped!",
+        "points": "17 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "simple and advanced websites in terms of HTML and CSS\n\nPeople are going to misread your question and tell you that anything javascript-y is advanced.\n\n​\n\nSimple website (in terms of html and css):\n\nEverything is a <div>, you don't have much custom css, you're using a pre-built UI-kit or css framework (bootstrap, bulma, materialUI, etc). Ironically this is the bucket most \"advanced\" webapps are in because a lot of react devs like js and don't like html or css.\n\n​\n\nNormal website (in terms of html and css):\n\nAlmost everything is a <div> (but one person on the team has started learning semantic html, so you'll see the occasional <section> or <time>), you have a little more custom css because you've realized bootstrap isn't exactly what you want, there are a LOT of 3rd-party dependencies as the devs try to \"npm i\" their way out of design and dev problems .\n\n​\n\nAdvanced website (in terms of html and css):\n\nThe right element gets used for the right purpose (semantic html). You have properly built forms with pattern validation and autocomplete. Modern css gets consistently applied across the board: custom props, modern layout (grid/flex), transitions/animations, etc. The native stack is privileged over 3rd-party deps, but there are probably a few carefully vetted deps to meet specific functionality requirements.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why do you ask the question? Do you have a goal in mind or do you want to know where we think you are standing?\n\nI think your question is not the question.. maybe i am wrong?\n\nEdit: If you made a Website that is public accessible you can check it with https://pagespeed.web.dev/ to see what the robot says and optimize.\n\nIf you have a developer path in mind you can take a look at https://roadmap.sh to see what there is to learn.\n\nIf you want to learn basics like JavaScript, PHP, HTML, CSS i think a udemy.com course is a good place to start!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19ab8xc",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19ab8xc/solution_for_computing_equity_portfolio_using/",
+    "title": "Solution for computing equity portfolio using transactions",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Verus.io one of its many features is a multi-chain & multi-currency L0/1 blockchain protocol.",
+        "points": "-1 points",
+        "children": [
+          {
+            "comment": "I'm looking for a provider that support traditional equities (share market). While crypto would be a nice to have, traditional equities are necessary.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aaf5l",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aaf5l/how_to_reviewing_code_myself/",
+    "title": "How to reviewing code myself",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Leave it for a bit, do something else, and come back to review it. That way its not fresh in your memory and it should give a different look on it.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Use a static analysis tool.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "As the only real developer for an Onlineshop in a company, I am also looking for methods to be sure to use best practices in my code.\n\nThe main tool I use for that is a linter - in my case codesniffer (for php). But there are linters for many languages.\n\nIn general, a linter shows your possible bugs and other stuff in your IDE or in a terminal.\n\nI am mainly developing modules for magento2 and magento2 has its own coding standard, that can be imported to codesniffer. So codesniffer (or in my case an vscode extension) shows me errors or warns, if something is not best practice or if a class is deprecated etc.\n\nHere is a short video about linters in general:\nhttps://www.youtube.com/watch?v=HDQXWr5TOnI",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You shouldn't; you should have someone else review it for you: 1. Bias: When you review your own code, you may unconsciously overlook mistakes or areas for improvement because you are already familiar with the logic and reasoning behind it. This bias can lead to missed issues. 2. Limited Perspective: Code review benefits from diverse perspectives. Another developer may bring a fresh set of eyes and different experiences to the review, which can uncover issues you might not have considered. 3. Confirmation Bias: There's a tendency to see what you expect to see. When you review your own code, you might subconsciously validate your assumptions, making it more difficult to spot errors or inefficiencies. 4. Time Constraints: Code review can be time-consuming, and when you review your own code, you might be tempted to rush through it, missing important issues in the process. 5. Complexity: Complex code can be challenging to review objectively, especially if you've spent a lot of time working on it. It's easy to miss subtle bugs or improvements that someone else might spot. 6. Communication: Code reviews are also an opportunity for knowledge sharing and collaboration within a team. Reviewing your own code deprives others of this chance to understand and learn from your work. 7. Quality Assurance: Code reviews are an integral part of quality assurance. They help maintain code quality and identify potential issues before they become major problems. Self-review may not be as effective in achieving this goal.\n\nTo mitigate these issues, it's generally a good practice to have peer code reviews where other members of your team review your code, and you review theirs. This promotes collaboration, helps catch errors early, and ultimately leads to higher-quality code.\n\nedit: fix markdown formatting",
+        "points": "6 points",
+        "children": [
+          {
+            "comment": "These are all really excellent points. But the OP is specifically talking about personal projects, where - presumably - they simply don't have peers that could review for them.\n\nI think in these single person projects, code reviews are always a bit tricky. Not sure what the best answer is: reviewing your own code sucks for all the reasons that /u/nurdism points out ...",
+            "points": "5 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Check yout sonarqube / sonarlint and the https://sonarcloud.io tools, it gives you a lot of information on your code quality.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "They also have a free VSCode extension that is phenomenal! https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "The most honest code review is opening it 6 months later to add something.",
+        "points": "1 point",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "For personal/solo projects, follow similar processes that you would in a professional team setting. For example: create branches, submit PRs, require PRs pass certain automated checks before they can be merged.\n\nAfter you create the PR, do a quick once over to see if anything stands out (comment on those things like you would if it were a teammates PR). Then go make coffee or take a walk around the block and review the PR again with a bit fresher eyes. If you have the ability to work on something else and let the PR sit a day before your second review, even better!\n\nUltimately though, static analysis tools / linters will be your most effective ally. For JavaScript, it’s things like eslint, prettier, and typescript (even if it’s just type checking in JS via jsdoc). For PHP, it’s PHP-CS-Fixer and PHPstan (Laravel has additional tools). Regardless of language, make sure to use SonarLint!\n\nAnd if you want to be on the cutting edge, there are a handful of decent AI code review tools available.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Imagine someone else is reviewing your code, and you're stepping them through it. What questions would they ask? Where might they have concerns? Explain it to yourself like you have never seen the code or the requirements. Does it all make sense? Are there cases you hadn't considered?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aacl0",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19aacl0/whats_the_name_of_website_for_sharing_project/",
+    "title": "Whats the name of website for sharing project templates?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Vite?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "not vite, It's website similar to docker hub where there's lot of templates to choose from and then you can run cli tool clitool nameoftemplate and it creates it",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "found it: https://yeoman.io/",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Looks interesting, never heard of it before",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "seems like it's something older, maybe one of these tools mentioned here are more relevant: https://www.reddit.com/r/node/comments/16m7rrr/whats_up_with_yeoman/",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19aa3iz",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://github.com/henriqueinonhe/promises-training",
+    "title": "JavaScript Promises Training",
+    "points": null,
+    "comments": [
+      {
+        "comment": "This is a TL;DR:\n\nPractice working with promises through a curated collection of interactive challenges. This repository provides a platform to refine your skills, complete with automated tests to to give you instant feedback and validate your progress.\n\nIf you don't like the summary, just downvote and I'll try to delete the comment eventually 👍",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19a9p10",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a9p10/why_mousemove_triggers_first_than_mousedown/",
+    "title": "Why mousemove triggers first than mousedown?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "No idea. But as far as I know, you should be using pointerdown/pointermove if you want to support touch devices also.",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "i didnt know about those events. will check",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "I only learned about them a few weeks ago and I've been a frontend dev for 7 years! Haha.",
+                "points": "1 point",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19a9lt4",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a9lt4/should_i_study_front_end_development/",
+    "title": "Should I study front end development?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Try everything and stick with what you like",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "That’s a good answer",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Jack of all trades master of none",
+        "points": "2 points",
+        "children": [
+          {
+            "comment": "Generalist vs. specialist. They both needed. But I guess separation of duties requires large corporations to hire more specialists than startups.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Both these comments give me a good perspective tho cuz I forsure wasn’t thinking about it like that so thx for that, have you seen any noticeable differences in success between the two from ur own experiences by any chance ?",
+                "points": "0 points",
+                "children": [
+                  {
+                    "comment": "My observation from outside is as the size grows, companies seek separate developers for frontend and backend instead of full stack devs. Dedicated UI, UX, designers different than graphic designers. DevOps roles emerge to construct the bridge between Ops and Devs. Testers, product/project managers etc. You can see the job postings on LinkedIn, compare startups and corporates.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Okay this is some really good info to keep in mind regarding the routes I wanna go, thank you again for ur time!",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Are great up and coming for the future is PBaaS public blockchain as a service",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I’ll be sure to look into it thanks!",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "You might want to look into an online course, like those found on CourseCareers (https://coursecareers.com/a/6cfa3764) and they seem like a great way to gain foundational knowledge and develop skillsets for programming. They have a course for front end development, and you should be able to jump right into a career after just a few months depending on how fast you complete the course. Check it out. Hope this helps!",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I thought about the more specific online courses and such but I also just wanted 2 be able to get that fafsa 🙌 and also it just seemed like the best way to be able to try out multiple different programming aspects at once",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "The CourseCareers classes definitely cover fundamentals and lots of different parts. It's supposed to be able to take you from \"Zero to Hero\" in just a few short months. Plus, with college, you'll probably still have to pay even if you receive some aid, and it could take years just to get a degree for these jobs that you could get now with certifications. Consider how much better off you would be in 4 years having worked for 3.5, gotten raises and experience, vs having gone to college and gotten debt and then starting in the same job position.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "I agree, I think it is much more beneficial to be working for 3.5 years rather than studying for 4, the issue is I most definently would have done that if I really knew what route I wanted to take in computers, so if anything I’ll ride this semester out feel the different things out then go into a specific course once I’m more familiar with everything, thank you again for your help!\n\n(P.s. i was able to get the federal Pell grant, and CCPG which waived my enrollment fees so from my knowledge I don’t have to spend anything more except for some cheap textbooks and some small programs and such)",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "If you're already enrolled, then I wouldn't pull out and waste that investment for this semester. But, the courses in that link are free to try the intros, and they walk you through what your career path could look like. I would get on it and look through them, might give you an idea of where to start. Good luck!",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Given that this r/webdev I'm gonna go with the simple answer and stick with the course and learn html. If this were a different subreddit, I might give you a different answer, but does anyone here not know html? (I got no idea why these other posters are going off on tangents. Crack probably)",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "😂 valid answer",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’m a front end hobbyist and don’t even know what SaaS is but from my experience there are enough tutorials/courses/docs online to learn from and it’s not that hard. I would choose one of the other ones, personally.",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "That’s kinda how I thought about it 2 , in no way down playing it but I felt as if I’d be able to pick it up much quicker and easier in the future if I had to really use it, rather than the other options, but that’s just from what I slightly know nd I also don’t have enough experience in any of them to really know hence why I’m here but thank u",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Surfing sucks, don’t try it\n\nLess sarcastic answer: learning web development pairs well with graphic design. There’s a bit of overlap and the skills are complementary.\n\nYou’re asking a web dev sub if you should do web dev, so it seems like you want to do web dev. Go for it!",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I heard that as well which is why I wanted to get into both of them (also wanted to maybe have it in case I want to mess with animation or video games)",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Hah dear god I know way too much about either of those industries to ever want to be involved in them, but if it’s your true passion, don’t let anyone stop you!",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "😂😂 thank you, well at least I know it isn’t all sunshine and flowers there, let’s just hope I don’t end up at mappa or something 😂",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Maybe",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "I’ll be sure to keep that in mind thank you for your in depth analysis 💯🙌",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19a8xgb",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a8xgb/backend_dev_here_pretending_to_be_frontendwhats/",
+    "title": "Backend dev here pretending to be frontend…what’s the best way to approach text animations?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "https://codepen.io/danaugrs/pen/YzyJmxq",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "Here I am working out a more expensive JS solution. My bad habit is not thinking CSS can do things",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "My first thought was GSAP but thats a heavy handed approach for this.",
+                "points": "2 points",
+                "children": [
+                  {
+                    "comment": "Yep... same here. 20 years in the game? And you?",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "Bout the same. I'm at 19 now that I actually think about it.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Playing with this has been really helpful. There was a nice amount of problem solving to do once I started adding a longer list of words.\n\nThank you so much.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "No prob!",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "Mmmm! That’s a good one.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Not my code, but I knew there’d be something on google that can explain it easily.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Ah, that’s very helpful to see how you laid it out. Very clean. I need to familiarize myself with a lot more when it comes to CSS animation.",
+                    "points": "0 points",
+                    "children": [],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "until a word is clicked\n\nthis is a nice solution, but when I test it in codepen with links in the <span>s, the link destinations get confused. I think it's because they're overlaying one another.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "https://wordpress.org/plugins/animate-it/",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "Thanks! I checked this one out, but it hasn’t been updated in nearly a year so wasn’t sure if it was abandoned.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "with a UI Developer.\n\n:D",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19a86iq",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a86iq/how_can_i_add_a_exit_button_that_works_on_canva/",
+    "title": "How can I add a exit button that works on canva?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "",
+        "points": "",
+        "children": [
+          {
+            "comment": "That only works if the site was opened by a script",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": true
+      }
+    ]
+  },
+  {
+    "id": "t3_19a6lbb",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a6lbb/devreport_chrome_extension/",
+    "title": "DevReport - Chrome Extension",
+    "points": null,
+    "comments": [
+      {
+        "comment": "You re-implemented the network tab? Why?",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "No. I implemented code that listens to the network. Requests are saved, easy to view and share.\n\nIt also helps to extract information for those who do not have technical knowledge.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Name 5 people \"without technical knowledge\" that is going to install a 3rd party plugin to view network requests on a random website. Rather than use the tools available in every browser.",
+                "points": "1 point",
+                "children": [
+                  {
+                    "comment": "Friend, I work in contact with customers and it is common for them to be unable to identify a request that is causing a bug, much less open a console.\n\nOnce the extension is published, just click install from the WebStore and save. With the final report, you already have all requests with responses and status codes.\n\nFrom experience: it's not the same thing.",
+                    "points": "0 points",
+                    "children": [
+                      {
+                        "comment": "It's the same with QA testers",
+                        "points": "0 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Why is it not yet in the Chrome Web Store?",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I applied today, it is under evaluation.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19a6d7h",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a6d7h/been_applying_for_frontend_developer_roles_with/",
+    "title": "Been applying for Front-end developer roles with no luck. Could someone help review my resume please",
+    "points": null,
+    "comments": [
+      {
+        "comment": "It’s a tough time right now in tech, keep applying.\n\nOverall looks fine, the biggest thing I see is just lack of time in any of your roles.",
+        "points": "56 points",
+        "children": [
+          {
+            "comment": "Most of the contract gigs are only for 6 to 12 months. That's why I've started looking for a full-time position to have stability.",
+            "points": "8 points",
+            "children": [
+              {
+                "comment": "It's silly, but maybe try putting the \"contractor\" bit on the right side to make it more clear why the stay is so short. A hiring manager glossing through 100+ resumes might just see the dates and skip you in favor of other candidates without that issue.\n\nSomething like this on the right side, and remove \"Contractor\" from the left side:\n\n(Contract) Sep 2021 - Jan 2022",
+                "points": "18 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "If this is the case, answer the question before it gets asked - put (6 Month Contract) , (12 Month Contract) etc",
+                "points": "4 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "The resume looks pretty good, actually. You've got a junior amount of experience but the tasks you're describing sound more mid.\n\nWhat sort of companies you looking at? Cause you seem like a problem solver type? Able to deal with a variety of tasks? I'd include places that do client work. So media/advertising agencies, digital agencies.\n\nHave a look at the big global media agency groups. Ones like Interpublic, Havas, WPP, Omnicron, etc. They generally have dozens to hundreds of smaller agencies under them. Sometimes these agencies are grouped into little \"villages' of companies in one building. You'll find these agencies and villages of agencies globally, often in 100+ countries for the group. Whatever big city you are in or near probably has some.",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Yeah makes sense",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              },
+              {
+                "comment": "Where are you finding contract gigs?",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Yeah as these other posts are eluding to, just keep trying. There’s been a lot of tech layoffs lately so I’m sure a lot of employers are being frugal.",
+        "points": "13 points",
+        "children": [
+          {
+            "comment": "Yes, in 2021 I remember recruiters spamming me in Linkedin with requirements but now I'm chasing behind them",
+            "points": "6 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Header/Contact Info:\n\nInclude the title of the role you are applying for. For example, \"Jim Halpert, React Developer\" or \"Pam Beesly, Full-Stack Developer\".\n\nInclude a GitHub link if possible. It's also preferable if you mention or link to any applications you have worked on which people can look up. It's understandable though if you can't do this, since many people work on internal tools or B2B products which aren't public.\n\nSkills:\n\nMany of the things listed in your Skills section aren't mentioned in your work history. Search for each skill and, if possible, try to at least mention it in the history. Things like TypeScript, Testing/Jest/Cypress, AWS, Docker should be included if possible.\n\nWork History\n\nSome of the work history reads like you're trying to fit a bunch of generic tech sounding words in. I've never worked anywhere that uses a word filter, and even if people are using a filter they aren't looking for generic words like \"utilize\" or \"tools\"; they are looking for specific things like \"performance\", \"react\", or \"typescript\".\n\nTry to be brief and easy to read. You shouldn't have any trouble getting work history smaller, because people with 20 years of experience still fit it all on one page. Looking at resumes in my inbox right now I see a 6 year role summarized as 3 sentences that fit comfortably on 2 lines. More recent work or more position-specific work merits more details, but all of your work is so recent that you don't need to worry about that yet.\n\nFor example, when you say:\n\nResolved Memory Leakage Issues in Next.js Application for Enhanced Stability. Identified and addressed memory leakage issues within the Next.js application through detailed debugging and analysis. Utilized tools and built-in Next.js profiling to pinpoint memory hotspots and implemented best practices, resulting in a more stable and resource-efficient application.\n\nSome things that stand out:\n\nResolved Memory Leakage Issues... - weird capitalization, and this part isn't needed since it's explained right afterwards. Just remove it.\nmemory leakage issues - leakage sounds weird and all memory leaks worth mentioning are issues. Remove issues and just say \"memory leaks\". Specify if they were front-end or back-end, data issues or rendering issues, as this highlights something about your skill set.\nUtilized tools - \"Utilized tools\" is unnecessarily wordy. It works to sound smart in high-school essays, but the working world is about brevity, and of course you used tools. Stick with \"use\" instead of \"utilize\" everywhere in your CV and say what tools you used.\n\nYou could say:\n\nIdentified memory leaks in the client-side JavaScript using performance analysis and profiling tools, and refactored for a more resource-efficient and stable application.\n\nIn 5 years when this experience becomes older or less relevant this could be even shorter, so the whole 2-year contract could fit on a few lines:\n\nIdentified and addressed memory leaks in the client-side JavaScript.\n\nI'd be happy to take a look at any changes you have. I've been on many hiring teams for positions from Junior to Technical Lead, and used to coach people on their CVs.",
+        "points": "7 points",
+        "children": [
+          {
+            "comment": "I just started another job search and found this post very helpful, thank you.",
+            "points": "2 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I've been applying for one year, 1000 applications, degree in CS before the pandemic started with three years of experience. It's going to take a while....",
+        "points": "9 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The fonts are a bit small. I’d try to make it easier to digest visually.",
+        "points": "3 points",
+        "children": [
+          {
+            "comment": "Tried to squeeze in all the points into a single page, so shrinking the font was the only way. I'll try to increase it. Thanks for the feedback",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Put the less important information on the 2nd page. Skills and experience on page 1, work history on page 2. Highlight top prev employer on page one.",
+                "points": "-11 points",
+                "children": [
+                  {
+                    "comment": "Absolutely do not use 2 pages.",
+                    "points": "9 points",
+                    "children": [
+                      {
+                        "comment": "There is absolutely nothing wrong with using 2 pages. You won't get marked down for it, but you might if they struggle to read what you wrote since you crammed everything in too tight.",
+                        "points": "2 points",
+                        "children": [],
+                        "isDeleted": false
+                      },
+                      {
+                        "comment": "Why exactly? A skilled dev should have at least two pages of data to display if not more.\n\nI can’t think of a single time where I submitted anything less than that. Even as an intern.",
+                        "points": "1 point",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I can't even see the texts easily",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’ve been applying for the past nine months with no success, shit is rough as fuck now.",
+        "points": "8 points",
+        "children": [
+          {
+            "comment": "I know how it feels 😮‍💨",
+            "points": "3 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "One thing I'll note, as one of my exes used to be a professional resume writer for people and literally helped edit about 1700 resumes per year for the 7 years I knew her: One of the big things that people reviewing applications hate to see is blank space on resumes.\n\nYou have a lot of dangling words that are on their own line. (under your first job listed, \"organization\" in the first bullet point and \"their issues\" in the third; two similar bulletpoints under Company B. Two more under start up.\n\nEdit those bullet points to remove a word or two so those one- and two-words don't sit on their own line.\n\nSame with the list of technologies at the top, although not as bad -- in this case, you probably want to see if you can think of more than you know to fill it out more.",
+        "points": "10 points",
+        "children": [
+          {
+            "comment": "in this case, you probably want to see if you can think of more than you know to fill it out more.\n\nNo. As someone that has to read through resumes and interview potential hires, do not lie about what you know. We will find out and it will negatively impact the decision to hire you during the interview.",
+            "points": "2 points",
+            "children": [
+              {
+                "comment": "Oh, I by no means thought to make it up. But anything that you legitimately know. When I was looking for a job and had to put a resume together nearly from scratch after not looking for 10 years, it took me a bit of time to really think out all of the technologies that I knew that were relevant. (To also be clear, I'm not saying to put every rinky dink npm package, either.)",
+                "points": "2 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "I think it a good approach to treat your resume like a website/portfolio you would show to a potential employee. A couple of notes:\n\nTo little hierarchy. I don’t know were to start reading when I see your resume. What the most important part?\n\nWay too much text. Or at least it feels like it. Maybe because you have to little visual hierarchy, or maybe just to much text? Either way, I didn’t even bother to start reading anything because I can see I have too put a lot of time into reading to complete.\n\nnot built for scimming(?). Like a feed on Facebook, employees won’t use more than a few seconds to look through your resume. It should contain bullet points, short big texts, bolded headers. Again, like a website.\n\nyou need to stand out from those 70 others resumes the employee looks at that day. Maybe give your resume some colors? Nothing crazy, but just to spice it up and make you stand out.\n\nLook at your resume as I were a website. And employee might think that if you can’t design a resume, you can’t design a website.\n\nKeep up the good work!😊",
+        "points": "5 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Skills list at the top is too long. If you see a job you are interested in, customize the resume to highlight the value you added in each past role as it pertains to the role you are applying for. Tighten the skills list to what’s relevant to the role.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "What I always appreciated as a technical hiring manager is if candidates put a simple comma-separated list of skills they used, for each job. This allows me to see what skills the person has at a glance (and also see how much they used that skill), before bothering to read the actual descriptions for each job.",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I would find a better way to phrase this. \"Resolved a critical\nissue of mixed-up articles between CompanyX and CompanyA,\"\n\nAlso where it mentions \"Resolved memory leakage issues\" just say \"Resolved Memory Leaks\".\n\nStyle wise, this is an ideal resume for a dev. One column, likely easily read by whatever AI scanner ahead of time - I would probably have someone look this over for verbiage and ways you can better emphasize certain points.\n\nWhen I read things like \"Issue of Mixed-Up articles\" or \"memory leakage issues\" I immediately lose interest in a candidate because if that is as far as they can articulate a serious issue verbiage wise, then I'm likely not going to feel comfortable if I need to put them in front of a group of multi-millionaire stakeholders to explain that same issue. I'm also likely thinking at that point, \"Is their code overwritten like this descriptive sentence they wrote\".\n\nTry to use the most effective, and simple industry standard descriptive words you can when stating an issue to a client, or on a resume. Good luck!",
+        "points": "2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Hard to give you honest advice if we don’t know where you’re applying from. Many foreigners here complain about applying to American companies from India or Europe, however, none of their complaints really apply to someone from Cali applying for a job in Cali.",
+        "points": "5 points",
+        "children": [
+          {
+            "comment": "I'm in the US, but I'm from India. Though I'm open to relocation, some employers are not willing to bear the visa transfer.",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "From India but in the US and still need a visa? SeeImsaying? No disrespect to your ethnicity, but people like yourself have been polluting Reddit w these silly questions for a while now. I always assumed those questions came from guys w legal status in the US.\n\nAt least now we can talk openly.\n\nYou’ll almost never get a job w/o legal status in the West. It’s not that there isn’t work, or, my favorite “times are hard right now.” It’s like, no, times aren’t hard, demand is always 20-30% higher than supply in tech. No such thing as hard times. Employers simply aren’t looking at you, bc they don’t have to. They’d rather take someone w a green card and 20yrs of residence in the US, like myself, for eg.\n\nMy brotherly advice to you would be to stop stressing about this. Unless you’re legally authorized to work in the US, and you speak good English, employers will not want to deal w you.",
+                "points": "-9 points",
+                "children": [
+                  {
+                    "comment": "Hold your horses man, I'm currently sponsored by an employer to be legally working here in US. Since most of the contracting jobs recently are expecting senior level experience, I'm finding it hard to get a gig and trying my best to apply for Full-time in the mean time.\n\nThe problem here is if I have to switch employer, the new employer has to bear my visa transfer",
+                    "points": "11 points",
+                    "children": [
+                      {
+                        "comment": "But the fact that you need a visa means you don’t have full legal status in the US, bc such a status implies the ability to work w/o restrictions. You follow? So, your concerns don’t apply to an overwhelming majority of people. You’re just confusing and blackpilling a random dude from Texas who’s trying to become a web dev.\n\nIn every country employers always look at natives and unrestricted legal residents first. As a STEM guy, you’re way too smart to not be able to deduce this on your own.",
+                        "points": "-4 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          },
+          {
+            "comment": "I'm from Cali applying to Cali",
+            "points": "1 point",
+            "children": [
+              {
+                "comment": "Okay,if you claim to know your sht, recruiters are hitting you up once every two weeks on Linkedin. Otherwise you’re larping. It’s that simple.",
+                "points": "-7 points",
+                "children": [
+                  {
+                    "comment": "They do contact me\n\nMainly Java / .net core engineer or hybrid location\n\nMy focus is node.js and web apps. The ones that do reach out ask for my resume, and I usually never hear back. But I also just got a new job as a manager recently, so I'm not as worried about the search now.",
+                    "points": "2 points",
+                    "children": [
+                      {
+                        "comment": "Then adapt.\n\nEvery man and his dog knows nodejs thanks to 99.9% of tutorials on youtube are MERN stack bs, maybe a few extra points if you use SQL instead of MongoDB but I'm sure recruiters are fed up of seeing 'MERN' on everyone's resume / portfolio.",
+                        "points": "-2 points",
+                        "children": [],
+                        "isDeleted": false
+                      }
+                    ],
+                    "isDeleted": false
+                  }
+                ],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Some numbers would be nice, regarding your bullet points. Increased performance by x% or something like that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Justified text would rule you out of our screening",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I’ll say I personally got much more results when I added a bit of color to my resume to help it stand out from the bunch of black and white plain text + template based ones.\n\nNot a ton of color, but colored headings and a mild blue background sidebar did a ton to make it pop",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Holy hell... The amount of you who don't know how to write a resume is astounding.\n\nYour resume has no quantifiable results. Cool you used a framework but by how much did it help the company.\n\nBusinesses aren't looking for junior devs who are just code junkies, they are looking for devs who are bringing value to the table. Your resume doesn't show that because there are a million other people who have the same experience.\n\nI have over 20 years of fullstack development and your resume screams to me you don't know more than how someone else thinks you should do something, it's unoriginal, boring and shows no merit.",
+        "points": "-6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Wrong subreddit…",
+        "points": "-2 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "[deleted]",
+        "points": "1 point",
+        "children": [
+          {
+            "comment": "A resume of this format is most likely to tossed. Take a look a the EngineeringResume wiki",
+            "points": "1 point",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "What about the ATS(Applicant Trackimg System) aspect? His Resume/CV looks like it is made for ATS, which is perfect. Yours is good when you have to be in an interview or submit it to someone digitally who'll definitely look at manually with human eyes.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "This is bad for resume parsers",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "I used to be a graphic designer. That CV you linked is bad. Nobody needs a photo of you. Your CV might be printed off and put in a stack with 200 others, so avoid large blocks of colour (since it's not unlikely it will just be seen in B&W anyway). The expertise section has tons of vertical spacing just to make sure the lines are aligned, but it ends up looking weird. Not to mention if it's put through a resumé parser it's never going to give a clean output.\n\nThe best resumé/CV from a designer standpoint is either entirely, or almost entirely black and white. It has a clean layout that allows your information room to breathe and doesn't feel claustrophobic. It uses at most two fonts that pair well together. It has good hierarchy and reads in a logical order. That's literally all you need.",
+            "points": "0 points",
+            "children": [
+              {
+                "comment": "Fair enough, I’ve deleted it because what I was trying to say wasn’t well said. I personally think something more than a text wall with bullet points will get you through the door for an interview. It has worked in my experience.",
+                "points": "0 points",
+                "children": [],
+                "isDeleted": false
+              }
+            ],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Seems fine, probably could simplify but that’s just nit picking. At first glance it would be a thumbs up from me and then I’d probably want to see a sample of a project and know how much you contributed. All depends on the company type though as I’ve always worked for small teams at startups.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "The only thing missing that I see is team experience. When I’ve hired people it comes down to experience with the companies specific stack and experience working with other people.\n\nI’d fake it if you had to and fudge the dates a little. No need to put the month on anything but your most recent role.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Resume is fine, what's your cover letter look like?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "CV looks fine to me, are you showing work/code examples as well?",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "One tip I can say is you should customise your resume for every application you want to take seriously and dress your experience specifically for the spec. Don't lie but if the job needs WebRTC and you did 2 months with WebRTC a couple of years back, put that in the intro and put it prominently in the description of the role where you did that.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "There’s lots of over qualified people applying for jobs, there were lots of layoffs leading up to Christmas.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Try searching “Digital Marketing” in cities around you. I found more luck searching Careers pages than I did on LinkedIn or Indeed. Most offer remote work as well.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "I had good luck adding a second page to my resume that had some project screen shots and went into their tech stacks in a little more depth. Hyperlinked from first page of course.\n\nResume was able to stand alone as just the first page, but offered a little more meat for those interested. I'd want to chloroform myself if I had to read tech resumes all day. Try to find the best balance of being parser friendly and not sounding like the robot doing the parsing.\n\nImplemented this, executed that...just kill me. (This isn't a knock on your writing. 99% I see read this way.) Sneak past the robot guards while sounding like a real competent human that a person would enjoy working with is the holy grail goal.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Looking good so far. I would say any bullets under your present job should be present tense “Resolve xyz…” instead of “Resolved xyz…”. As some others have said, I would reduce the content down on each of the bullet points as well to a sentence, maybe two.\n\nA resume should provide a high level view of your skills and experience and the interview will allow you to expound upon those skills further.\n\nKeep up the good work!",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "This is a good resume and should land a junior position imo. Only thing it maybe has too much text, and should have dates like others suggested. Probably you need to brush up on the cover letter? I think a good cover letter is more important so they see you actually put effort when applying",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You need to demonstrate what impact each of your contributions has had with numbers.\n\nResolved x issue impacting x number of users reducing average search time by x%.\n\nYou should consider applying for PR status in Canada via Express Entry . It's the equivalent of the US greencard, and you can apply for citizenship as soon as 2 years of being in the country. It can take decades to achieve this in the USA.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "Your resume is actually significantly better than what a lot of devs post on here. Just keep looking unfortunately.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You say you are a front end developer, your CV should reflect that. Too much bland text. Add highlights, also give it some style, Icons, Headings..",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19a4js9",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a4js9/v_school_in_salt_lake_city_ut/",
+    "title": "V School in Salt Lake City, UT",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19a4g8j",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a4g8j/best_place_to_get_cn_comhk_hk/",
+    "title": "Best place to get (.cn, .com.hk, .hk)",
+    "points": null,
+    "comments": []
+  },
+  {
+    "id": "t3_19a42i9",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "/r/webdev/comments/19a42i9/is_localstorage_troublesome_for_my_app/",
+    "title": "Is localstorage troublesome for my app?",
+    "points": null,
+    "comments": [
+      {
+        "comment": "General advice I can give is: Build the product then optimize. Just grab the data from the database.\n\nIf you start hitting limits then that’s a good problem to have and you can optimize to your users behavior. Right now it sounds like you’re assuming specific behavior that your solution is created for but you don’t have enough data to go off of at the moment.",
+        "points": "6 points",
+        "children": [],
+        "isDeleted": false
+      },
+      {
+        "comment": "You could implement a caching layer with something like Redis. You’d need somewhere to host it and some backend API to be responsible for querying it, but it’s simple to use and works well for caching purposes.",
+        "points": "0 points",
+        "children": [
+          {
+            "comment": "I think in this case, using localstorage with timestamps on both localstorage as well as Supabase would be easier to use than Redis perhaps. Because like you have said, I need to deploy it and have a backend somewhere as well.",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      }
+    ]
+  },
+  {
+    "id": "t3_19a3ax0",
+    "subreddit": "r/webdev",
+    "dataType": "link",
+    "dataUrl": "https://nextjs.org/blog/next-14-1",
+    "title": "Next.js 14.1",
+    "points": null,
+    "comments": [
+      {
+        "comment": "Custom cache backend 🙏🙏🙏🙏 thank you!",
+        "points": "4 points",
+        "children": [
+          {
+            "comment": "Yeah, I'm not even a Nextjs fan, but this is awesome.",
+            "points": "-2 points",
+            "children": [],
+            "isDeleted": false
+          },
+          {
+            "comment": "Genuinely never thought this would happen, we had to run a custom server just to get page caching in Redis",
+            "points": "0 points",
+            "children": [],
+            "isDeleted": false
+          }
+        ],
+        "isDeleted": false
+      },
+      {
+        "comment": "Better error logs are always welcome. Hope turbopack becomes default sooner.",
+        "points": "0 points",
+        "children": [],
+        "isDeleted": false
+      }
+    ]
+  }
+]
